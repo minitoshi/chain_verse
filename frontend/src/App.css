@@ -1,121 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+:root {
+  --black: #0a0a0a;
+  --dark-grey: #1a1a1a;
+  --white: #ffffff;
+  --off-white: #f5f5f5;
+  --orange: #ff6b35;
+  --orange-glow: rgba(255, 107, 53, 0.3);
+  --orange-light: #ff8555;
+}
+
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  background: #0a0a0a;
-  color: #e0e0e0;
-  line-height: 1.6;
+  font-family: 'Crimson Text', Georgia, serif;
+  background: var(--black);
+  color: var(--white);
+  line-height: 1.8;
+  overflow-x: hidden;
+}
+
+/* Animated background with musical notes */
+body::before {
+  content: '♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 3rem;
+  color: rgba(255, 107, 53, 0.03);
+  pointer-events: none;
+  z-index: 0;
+  letter-spacing: 4rem;
+  line-height: 6rem;
+  animation: float 60s linear infinite;
+}
+
+@keyframes float {
+  from { transform: translateY(0); }
+  to { transform: translateY(-100%); }
 }
 
 .app {
-  max-width: 900px;
+  max-width: 1000px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 3rem 2rem;
   min-height: 100vh;
+  position: relative;
+  z-index: 1;
 }
 
+/* Header with elegant typography */
 header {
   text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
   padding-bottom: 2rem;
-  border-bottom: 2px solid #333;
+  border-bottom: 3px double var(--orange);
+  position: relative;
 }
 
+header::before,
+header::after {
+  content: '✦';
+  position: absolute;
+  bottom: -12px;
+  color: var(--orange);
+  font-size: 1.5rem;
+}
+
+header::before { left: 50%; transform: translateX(-60px); }
+header::after { right: 50%; transform: translateX(60px); }
+
 header h1 {
-  font-size: 3rem;
+  font-family: 'Playfair Display', serif;
+  font-size: 4rem;
+  font-weight: 900;
   margin-bottom: 0.5rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, var(--white) 0%, var(--orange) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  letter-spacing: 2px;
+  text-shadow: 0 0 40px var(--orange-glow);
 }
 
 .subtitle {
-  color: #888;
-  font-size: 1.1rem;
+  font-family: 'Crimson Text', serif;
+  font-style: italic;
+  color: var(--off-white);
+  font-size: 1.3rem;
+  letter-spacing: 3px;
+  opacity: 0.9;
 }
 
+/* Navigation with musical theme */
 nav {
   display: flex;
-  gap: 1rem;
-  margin-bottom: 2rem;
+  gap: 1.5rem;
+  margin-bottom: 3rem;
   justify-content: center;
 }
 
 nav button {
-  background: #1a1a1a;
-  border: 2px solid #333;
-  color: #e0e0e0;
-  padding: 0.75rem 2rem;
-  font-size: 1rem;
+  background: transparent;
+  border: 2px solid rgba(255, 107, 53, 0.3);
+  color: var(--off-white);
+  padding: 1rem 3rem;
+  font-size: 1.1rem;
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
   cursor: pointer;
-  border-radius: 8px;
-  transition: all 0.3s;
+  border-radius: 0;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+  letter-spacing: 2px;
+}
+
+nav button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: var(--orange);
+  transition: left 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: -1;
+}
+
+nav button:hover::before {
+  left: 0;
 }
 
 nav button:hover {
-  border-color: #667eea;
-  background: #222;
+  border-color: var(--orange);
+  color: var(--white);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px var(--orange-glow);
 }
 
 nav button.active {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  border-color: #667eea;
-  color: white;
+  background: var(--orange);
+  border-color: var(--orange);
+  color: var(--white);
+  box-shadow: 0 0 30px var(--orange-glow);
 }
 
+nav button.active::before {
+  left: 0;
+}
+
+/* Loading state */
 .loading {
   text-align: center;
-  font-size: 1.5rem;
-  margin-top: 4rem;
-  color: #888;
+  font-size: 2rem;
+  margin-top: 6rem;
+  color: var(--orange);
+  font-family: 'Playfair Display', serif;
+  animation: pulse 2s ease-in-out infinite;
 }
 
+@keyframes pulse {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
+
+/* Error banner */
 .error-banner {
-  background: rgba(239, 68, 68, 0.1);
-  border: 2px solid #ef4444;
-  color: #fca5a5;
-  padding: 1rem;
-  border-radius: 8px;
+  background: rgba(255, 107, 53, 0.1);
+  border: 2px solid var(--orange);
+  border-left: 6px solid var(--orange);
+  color: var(--orange-light);
+  padding: 1.5rem;
+  border-radius: 4px;
   margin-bottom: 2rem;
   text-align: center;
-  font-weight: 500;
+  font-weight: 600;
+  font-size: 1.1rem;
 }
 
 /* Today View */
 .today-view {
-  background: #1a1a1a;
-  padding: 2rem;
-  border-radius: 12px;
-  border: 1px solid #333;
+  background: var(--dark-grey);
+  padding: 3rem;
+  border: 2px solid rgba(255, 107, 53, 0.2);
+  position: relative;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+.today-view::before {
+  content: '♫';
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 3rem;
+  color: rgba(255, 107, 53, 0.1);
 }
 
 .date-header h2 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
-  color: #fff;
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: var(--orange);
+  font-weight: 700;
+  letter-spacing: 1px;
 }
 
+/* Progress bar with orange theme */
 .progress-container {
   position: relative;
-  background: #0a0a0a;
-  height: 40px;
-  border-radius: 20px;
+  background: var(--black);
+  height: 50px;
   overflow: hidden;
-  margin-bottom: 2rem;
-  border: 1px solid #333;
+  margin-bottom: 3rem;
+  border: 2px solid rgba(255, 107, 53, 0.3);
 }
 
 .progress-bar {
   height: 100%;
-  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
-  transition: width 0.5s ease;
+  background: linear-gradient(90deg, var(--orange) 0%, var(--orange-light) 100%);
+  transition: width 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 0 20px var(--orange-glow);
+  position: relative;
+  overflow: hidden;
+}
+
+.progress-bar::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+  animation: shimmer 2s infinite;
+}
+
+@keyframes shimmer {
+  to { left: 100%; }
 }
 
 .progress-text {
@@ -123,136 +251,264 @@ nav button.active {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #fff;
-  font-weight: bold;
+  color: var(--white);
+  font-weight: 700;
+  font-size: 1.1rem;
   z-index: 1;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+  letter-spacing: 1px;
 }
 
+/* Poem in progress state */
 .in-progress {
   text-align: center;
-  padding: 3rem 2rem;
-  background: #0a0a0a;
-  border-radius: 8px;
+  padding: 4rem 2rem;
+  background: rgba(255, 107, 53, 0.03);
+  border: 2px dashed rgba(255, 107, 53, 0.3);
   margin-bottom: 2rem;
 }
 
 .in-progress p {
-  font-size: 1.2rem;
-  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  font-family: 'Playfair Display', serif;
+  color: var(--orange);
 }
 
 .waiting-text {
-  color: #888;
-  font-size: 1rem !important;
+  color: var(--off-white);
+  font-size: 1.1rem !important;
+  font-style: italic;
+  opacity: 0.8;
 }
 
+/* Poem container - paper-like */
 .poem-container {
-  background: #0a0a0a;
-  padding: 2rem;
-  border-radius: 8px;
-  margin-bottom: 2rem;
-  border: 1px solid #333;
+  background: linear-gradient(to bottom, #1a1a1a 0%, #0f0f0f 100%);
+  padding: 3rem;
+  margin-bottom: 3rem;
+  border: 1px solid rgba(255, 107, 53, 0.2);
+  box-shadow:
+    0 10px 40px rgba(0, 0, 0, 0.5),
+    inset 0 0 60px rgba(255, 107, 53, 0.03);
+  position: relative;
+}
+
+.poem-container::before {
+  content: '"';
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  font-size: 6rem;
+  color: rgba(255, 107, 53, 0.1);
+  font-family: Georgia, serif;
+  line-height: 1;
 }
 
 .poem {
   white-space: pre-wrap;
-  font-size: 1.1rem;
-  line-height: 1.8;
-  color: #e0e0e0;
-  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.25rem;
+  line-height: 2.2;
+  color: var(--off-white);
+  font-family: 'Crimson Text', Georgia, serif;
+  text-align: justify;
+  letter-spacing: 0.5px;
 }
 
+/* Keywords section */
 .keywords-section {
-  margin-top: 2rem;
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid rgba(255, 107, 53, 0.2);
 }
 
 .keywords-section h3 {
-  font-size: 1.2rem;
-  margin-bottom: 1rem;
-  color: #fff;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: var(--orange);
+  font-weight: 600;
+  letter-spacing: 1px;
 }
 
 .keywords {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.75rem;
+  gap: 1rem;
 }
 
 .keyword {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 0.5rem 1rem;
-  border-radius: 20px;
-  font-size: 0.9rem;
-  font-weight: 500;
+  background: var(--orange);
+  color: var(--white);
+  padding: 0.7rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
   cursor: help;
-  transition: transform 0.2s;
+  transition: all 0.3s ease;
+  font-family: 'Playfair Display', serif;
+  letter-spacing: 1px;
+  border: 2px solid var(--orange);
+  position: relative;
+  overflow: hidden;
+}
+
+.keyword::before {
+  content: '♪';
+  position: absolute;
+  top: 50%;
+  left: -20px;
+  transform: translateY(-50%);
+  font-size: 1.5rem;
+  opacity: 0;
+  transition: all 0.3s ease;
 }
 
 .keyword:hover {
-  transform: translateY(-2px);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px var(--orange-glow);
+  background: transparent;
+  color: var(--orange);
+}
+
+.keyword:hover::before {
+  left: 5px;
+  opacity: 0.3;
 }
 
 /* Archive View */
 .archive-view {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 3rem;
 }
 
 .archive-view .empty {
   text-align: center;
-  font-size: 1.2rem;
-  color: #888;
-  padding: 4rem 2rem;
+  font-size: 1.5rem;
+  color: var(--off-white);
+  padding: 6rem 2rem;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  opacity: 0.7;
 }
 
+/* Poem cards in archive */
 .poem-card {
-  background: #1a1a1a;
-  padding: 2rem;
-  border-radius: 12px;
-  border: 1px solid #333;
-  transition: all 0.3s;
+  background: linear-gradient(135deg, #1a1a1a 0%, #0f0f0f 100%);
+  padding: 3rem;
+  border: 2px solid rgba(255, 107, 53, 0.2);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.poem-card::before {
+  content: '♫';
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 4rem;
+  color: rgba(255, 107, 53, 0.05);
+  transition: all 0.4s ease;
+}
+
+.poem-card:hover::before {
+  transform: rotate(15deg) scale(1.2);
+  color: rgba(255, 107, 53, 0.1);
 }
 
 .poem-card:hover {
-  border-color: #667eea;
-  transform: translateY(-4px);
-  box-shadow: 0 8px 16px rgba(102, 126, 234, 0.2);
+  border-color: var(--orange);
+  transform: translateY(-8px);
+  box-shadow:
+    0 20px 60px rgba(0, 0, 0, 0.8),
+    0 0 40px var(--orange-glow);
 }
 
 .poem-date {
-  font-size: 0.9rem;
-  color: #888;
-  margin-bottom: 1rem;
-  font-weight: 600;
+  font-size: 1rem;
+  color: var(--orange);
+  margin-bottom: 1.5rem;
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 3px;
+  font-family: 'Playfair Display', serif;
 }
 
 .poem-content {
   white-space: pre-wrap;
-  font-size: 1rem;
-  line-height: 1.8;
-  color: #e0e0e0;
-  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.15rem;
+  line-height: 2;
+  color: var(--off-white);
+  font-family: 'Crimson Text', Georgia, serif;
+  text-align: justify;
+  letter-spacing: 0.3px;
 }
 
+/* Responsive design */
 @media (max-width: 768px) {
   .app {
-    padding: 1rem;
+    padding: 2rem 1rem;
   }
 
   header h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+    letter-spacing: 2px;
   }
 
   nav {
     flex-direction: column;
   }
 
+  nav button {
+    padding: 1rem 2rem;
+  }
+
   .today-view,
   .poem-card {
-    padding: 1.5rem;
+    padding: 2rem;
   }
+
+  .poem,
+  .poem-content {
+    font-size: 1.1rem;
+    line-height: 1.9;
+  }
+
+  .keywords {
+    justify-content: center;
+  }
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background: var(--orange);
+  color: var(--white);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--black);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--orange);
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--orange-light);
 }

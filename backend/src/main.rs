@@ -27,6 +27,12 @@ async fn main() -> Result<()> {
         .unwrap_or_else(|_| "90".to_string())
         .parse()
         .unwrap_or(90);
+    let database_url = std::env::var("DATABASE_URL")
+        .unwrap_or_else(|_| "sqlite:chain_verse.db".to_string());
+    let port: u16 = std::env::var("PORT")
+        .unwrap_or_else(|_| "3000".to_string())
+        .parse()
+        .unwrap_or(3000);
 
     // Load word dictionary
     println!("📚 Loading word dictionary...");
@@ -35,7 +41,7 @@ async fn main() -> Result<()> {
 
     // Initialize database
     println!("💾 Initializing database...");
-    let db = Database::new("sqlite:chain_verse.db").await?;
+    let db = Database::new(&database_url).await?;
     println!("   Database ready\n");
 
     // Create keyword collector
@@ -60,8 +66,8 @@ async fn main() -> Result<()> {
         "api" => {
             // Run API server only
             println!("🌐 Starting API server...\n");
-            let db = Database::new("sqlite:chain_verse.db").await?;
-            api::serve(db, 3000).await?;
+            let db = Database::new(&database_url).await?;
+            api::serve(db, port).await?;
         }
         "full" => {
             // Run both collector and API server
@@ -75,9 +81,9 @@ async fn main() -> Result<()> {
             });
 
             // Run API server in foreground
-            let db = Database::new("sqlite:chain_verse.db").await?;
+            let db = Database::new(&database_url).await?;
             let api_handle = tokio::spawn(async move {
-                if let Err(e) = api::serve(db, 3000).await {
+                if let Err(e) = api::serve(db, port).await {
                     eprintln!("API error: {}", e);
                 }
             });
