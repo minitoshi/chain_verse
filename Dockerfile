@@ -1,5 +1,5 @@
 # Build stage
-FROM rust:nightly as builder
+FROM rust:1.82-bookworm as builder
 
 WORKDIR /app
 
@@ -8,6 +8,9 @@ COPY backend/Cargo.toml backend/Cargo.lock ./
 
 # Create a dummy main.rs to build dependencies
 RUN mkdir src && echo "fn main() {}" > src/main.rs
+
+# Verify we're using nightly and show cargo version
+RUN rustc --version && cargo --version
 
 # Build dependencies (cached layer)
 RUN cargo build --release
