@@ -16,6 +16,8 @@ A blockchain poetry generator that creates daily poems from Solana blockchain da
 3. **Poem Generation**: When enough keywords are collected, an AI (via OpenRouter) generates a 20-30 line poem
 4. **Archive**: All poems are stored with their source blockchain data for verification
 
+     <img width="1972" height="2414" alt="frontend" src="https://github.com/user-attachments/assets/04badf08-eafb-4d86-85a4-0e4273b1a7ed" />
+
 ## Project Structure
 
 ```
