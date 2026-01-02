@@ -1,11 +1,10 @@
 use axum::{
     extract::{Path, State},
     http::StatusCode,
-    response::IntoResponse,
     routing::get,
     Json, Router,
 };
-use serde::{Deserialize, Serialize};
+use serde::Serialize;
 use std::sync::Arc;
 use tower_http::cors::{Any, CorsLayer};
 
@@ -40,12 +39,22 @@ pub fn create_router(db: Database) -> Router {
         .allow_headers(Any);
 
     Router::new()
+        .route("/health", get(health_check))
         .route("/api/poems", get(get_all_poems))
         .route("/api/poems/today", get(get_today))
         .route("/api/poems/{date}", get(get_poem_by_date))
         .route("/api/keywords/today", get(get_today_keywords))
         .with_state(state)
         .layer(cors)
+}
+
+/// GET /health - Health check endpoint
+async fn health_check() -> Json<serde_json::Value> {
+    Json(serde_json::json!({
+        "status": "ok",
+        "service": "chain_verse",
+        "timestamp": chrono::Utc::now().to_rfc3339()
+    }))
 }
 
 /// GET /api/poems - Get all poems

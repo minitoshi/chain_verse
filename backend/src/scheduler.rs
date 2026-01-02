@@ -1,5 +1,4 @@
 use anyhow::Result;
-use chrono::Utc;
 use std::time::Duration;
 use tokio::time;
 
@@ -65,17 +64,33 @@ impl KeywordCollector {
     async fn collect_keyword(&self) -> Result<()> {
         println!("🔗 Fetching latest block from Solana...");
 
-        let block = self.solana_client.get_latest_block().await?;
+        // Fetch block with retry
+        let block = match self.solana_client.get_latest_block().await {
+            Ok(b) => b,
+            Err(e) => {
+                eprintln!("❌ Failed to fetch block from Solana: {}", e);
+                eprintln!("   Will retry on next interval");
+                anyhow::bail!("Solana RPC error: {}", e);
+            }
+        };
+
+        // Derive keyword (this should not fail unless word dictionary is corrupted)
         let keyword = self.derivation.derive_keyword(&block)?;
 
         println!("   Derived keyword: \"{}\" from slot {}", keyword.word, keyword.slot);
 
-        // Store in database
-        self.database.insert_keyword(&keyword).await?;
-
-        println!("   ✅ Keyword stored\n");
-
-        Ok(())
+        // Store in database with error handling
+        match self.database.insert_keyword(&keyword).await {
+            Ok(_) => {
+                println!("   ✅ Keyword stored\n");
+                Ok(())
+            }
+            Err(e) => {
+                eprintln!("❌ Failed to store keyword in database: {}", e);
+                eprintln!("   Keyword: {} (slot: {})", keyword.word, keyword.slot);
+                anyhow::bail!("Database error: {}", e);
+            }
+        }
     }
 
     /// Check if we should generate today's poem and do it if needed

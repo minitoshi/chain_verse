@@ -7,21 +7,36 @@ function App() {
   const [todayData, setTodayData] = useState(null)
   const [allPoems, setAllPoems] = useState([])
   const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
   const [view, setView] = useState('today') // 'today' or 'archive'
 
   useEffect(() => {
+    // Initial fetch
     fetchToday()
     fetchAllPoems()
+
+    // Poll for updates every 30 seconds
+    const interval = setInterval(() => {
+      fetchToday()
+      fetchAllPoems()
+    }, 30000) // 30 seconds
+
+    return () => clearInterval(interval)
   }, [])
 
   const fetchToday = async () => {
     try {
       const res = await fetch(`${API_URL}/poems/today`)
+      if (!res.ok) {
+        throw new Error(`HTTP error! status: ${res.status}`)
+      }
       const data = await res.json()
       setTodayData(data)
+      setError(null)
       setLoading(false)
     } catch (err) {
       console.error('Error fetching today:', err)
+      setError(`Failed to load today's data: ${err.message}`)
       setLoading(false)
     }
   }
@@ -29,10 +44,15 @@ function App() {
   const fetchAllPoems = async () => {
     try {
       const res = await fetch(`${API_URL}/poems`)
+      if (!res.ok) {
+        throw new Error(`HTTP error! status: ${res.status}`)
+      }
       const data = await res.json()
       setAllPoems(data)
+      setError(null)
     } catch (err) {
       console.error('Error fetching poems:', err)
+      setError(`Failed to load archive: ${err.message}`)
     }
   }
 
@@ -46,6 +66,12 @@ function App() {
         <h1>🔗 Chain Verse</h1>
         <p className="subtitle">Blockchain Poetry from Solana</p>
       </header>
+
+      {error && (
+        <div className="error-banner">
+          ⚠️ {error}
+        </div>
+      )}
 
       <nav>
         <button

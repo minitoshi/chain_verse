@@ -40,8 +40,36 @@ impl PoemGenerator {
         }
     }
 
-    /// Generate a poem from a list of keywords
+    /// Generate a poem from a list of keywords with retry logic
     pub async fn generate_poem(&self, keywords: &[String]) -> Result<String> {
+        self.generate_poem_with_retry(keywords, 3).await
+    }
+
+    /// Generate a poem with configurable retry attempts
+    async fn generate_poem_with_retry(&self, keywords: &[String], max_retries: u32) -> Result<String> {
+        let mut last_error = None;
+
+        for attempt in 0..max_retries {
+            if attempt > 0 {
+                let delay_secs = 2u64.pow(attempt); // Exponential backoff: 2, 4, 8 seconds
+                println!("⏳ Retry attempt {} after {} seconds...", attempt + 1, delay_secs);
+                tokio::time::sleep(tokio::time::Duration::from_secs(delay_secs)).await;
+            }
+
+            match self.try_generate_poem(keywords).await {
+                Ok(poem) => return Ok(poem),
+                Err(e) => {
+                    println!("⚠️  Attempt {} failed: {}", attempt + 1, e);
+                    last_error = Some(e);
+                }
+            }
+        }
+
+        Err(last_error.unwrap_or_else(|| anyhow::anyhow!("Failed after {} attempts", max_retries)))
+    }
+
+    /// Single attempt to generate a poem
+    async fn try_generate_poem(&self, keywords: &[String]) -> Result<String> {
         let prompt = self.create_prompt(keywords);
 
         let request = OpenRouterRequest {
