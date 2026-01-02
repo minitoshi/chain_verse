@@ -9,7 +9,7 @@ COPY backend/Cargo.toml backend/Cargo.lock ./
 # Create a dummy main.rs to build dependencies
 RUN mkdir src && echo "fn main() {}" > src/main.rs
 
-# Verify we're using nightly and show cargo version
+# Verify Rust version and show cargo details
 RUN rustc --version && cargo --version
 
 # Build dependencies (cached layer)
