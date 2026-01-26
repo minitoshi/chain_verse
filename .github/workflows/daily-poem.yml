@@ -1,0 +1,49 @@
+name: Daily Poem Generator
+
+on:
+  # Run every day at 9:00 AM UTC
+  schedule:
+    - cron: '0 9 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-poem:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install twitter-api-v2
+        working-directory: scripts
+
+      - name: Generate daily poem
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_MODEL: ${{ secrets.OPENROUTER_MODEL }}
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+          WEBSITE_URL: ${{ secrets.WEBSITE_URL }}
+        run: node daily-poem.js
+        working-directory: scripts
+
+      - name: Commit and push poem data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add frontend/public/data/
+          git diff --staged --quiet || git commit -m "Daily poem: $(date +%Y-%m-%d)"
+          git push

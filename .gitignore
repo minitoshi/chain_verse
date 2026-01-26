@@ -1,0 +1,47 @@
+# Rust
+backend/target/
+backend/*.db
+backend/*.db-shm
+backend/*.db-wal
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Database (don't commit your poems database)
+*.db
+*.sqlite
+*.sqlite3
+
+# Scripts dependencies
+scripts/node_modules/
+
+# Temporary
+tmp/
+.tmp/
+
+# Playwright MCP
+.playwright-mcp/
+
+# Claude
+.claude/

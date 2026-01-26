@@ -1,0 +1,33 @@
+# Git
+.git
+.gitignore
+
+# Rust build artifacts
+backend/target/
+backend/debug/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Environment files
+.env
+.env.local
+
+# Frontend
+frontend/
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docs
+README.md
+LICENSE

@@ -1,0 +1,26 @@
+[package]
+name = "chain_verse"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.12", features = ["json"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+sqlx = { version = "0.8", features = ["runtime-tokio-rustls", "sqlite"] }
+sha2 = "0.10"
+chrono = "0.4"
+anyhow = "1.0"
+axum = "0.8"
+tower-http = { version = "0.6", features = ["cors"] }
+dotenvy = "0.15"
+
+# Solana SDK for proper blockchain integration
+solana-client = "2.1"
+solana-sdk = "2.1"
+solana-transaction-status = "2.1"
+
+# Pin base64ct to avoid edition2024 requirement
+[dependencies.base64ct]
+version = "=1.6.0"

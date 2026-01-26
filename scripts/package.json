@@ -1,0 +1,12 @@
+{
+  "name": "chain-verse-scripts",
+  "version": "1.0.0",
+  "description": "Daily poem generator for Chain Verse",
+  "type": "commonjs",
+  "scripts": {
+    "generate": "node daily-poem.js"
+  },
+  "dependencies": {
+    "twitter-api-v2": "^1.17.0"
+  }
+}
