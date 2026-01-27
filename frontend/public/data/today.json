@@ -1,83 +1,83 @@
 {
   "date": "2026-01-27",
   "poem": {
-    "content": "The sheriff sleeps, while dawn begins to spread,\nA frost of pixels on the nascent wave.\nThe size and shape of fortunes lie ahead,\nA dynamic market, fortunes to engrave.\n\nSome seek the wealth, a glittering, high desire,\nOthers, a valid claim, a just reward.\nBut fate can differ, burning like a fire,\nAnd crush the dream, upon its ledger broad.\n\nThe feature blooms, a vibrant digital flower,\nInviting all to join the grand display.\nA mutual dance, where power meets its hour,\nBefore the code decides another way.\n\nA mix of hope and fear, a chilling trace,\nThrough veins of light, a silent algorithm's pace.\nThe sheriff wakes, his judgment to impart,\nTo mend the broken, reunite the heart.\nNow wave good bye, to wealth beyond compare.\nThe frost descends, this burden we will bare.",
-    "generatedAt": "2026-01-27T21:51:48.148Z"
+    "content": "A barrel's hollow echo, the chair sits firm,\ndust motes dancing in a sunbeam's term.\nThe language of silence, a husband's grim face,\nafter the episode, shame takes its place.\n\nHe made a deal, a talent squandered quick,\nnow trouble spawns, a festering, sick\nmosquito drone, a constant, stinging fear.\nHe fills the tank with darkness, year on year.\n\nShe bites her lip, a gritty resolution formed.\nNo salad days anymore, the weather stormed.\nShe sees him later, a ghost in fading light,\na battlefield of sorrow, endless night.\n\nHis heart, a firm, now fractured piece of stone,\nHe made his bed, now sleeps there alone.\nShe finds her grit, a whisper in the breeze,\nto raise the children, bring them some ease.\nTo face the barrel of the coming day,\nand find her strength, to finally walk away.",
+    "generatedAt": "2026-01-27T22:08:10.134Z"
   },
   "keywords": [
     {
-      "word": "sheriff",
-      "slot": 396349515,
+      "word": "barrel",
+      "slot": 396351959,
       "source": "blockhash"
     },
     {
-      "word": "differ",
-      "slot": 396349515,
+      "word": "chair",
+      "slot": 396351959,
       "source": "previousBlockhash"
     },
     {
-      "word": "wealth",
-      "slot": 396349515,
+      "word": "firm",
+      "slot": 396351959,
       "source": "transaction"
     },
     {
-      "word": "valid",
-      "slot": 396331515,
+      "word": "language",
+      "slot": 396333959,
       "source": "blockhash"
     },
     {
-      "word": "frost",
-      "slot": 396331515,
+      "word": "grit",
+      "slot": 396333959,
       "source": "previousBlockhash"
     },
     {
-      "word": "spread",
-      "slot": 396331515,
+      "word": "mosquito",
+      "slot": 396333959,
       "source": "transaction"
     },
     {
-      "word": "wave",
-      "slot": 396313515,
+      "word": "episode",
+      "slot": 396315959,
       "source": "blockhash"
     },
     {
-      "word": "dynamic",
-      "slot": 396313515,
+      "word": "trouble",
+      "slot": 396315959,
       "source": "previousBlockhash"
     },
     {
-      "word": "crush",
-      "slot": 396313515,
+      "word": "spawn",
+      "slot": 396315959,
       "source": "transaction"
     },
     {
-      "word": "feature",
-      "slot": 396295515,
+      "word": "husband",
+      "slot": 396297959,
       "source": "blockhash"
     },
     {
-      "word": "mix",
-      "slot": 396295515,
+      "word": "tank",
+      "slot": 396297959,
       "source": "previousBlockhash"
     },
     {
-      "word": "dawn",
-      "slot": 396295515,
+      "word": "later",
+      "slot": 396297959,
       "source": "transaction"
     },
     {
-      "word": "size",
-      "slot": 396277515,
+      "word": "salad",
+      "slot": 396279959,
       "source": "blockhash"
     },
     {
-      "word": "invite",
-      "slot": 396277515,
+      "word": "deal",
+      "slot": 396279959,
       "source": "previousBlockhash"
     },
     {
-      "word": "mutual",
-      "slot": 396277515,
+      "word": "talent",
+      "slot": 396279959,
       "source": "transaction"
     }
   ],
