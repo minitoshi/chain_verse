@@ -1,58 +1,88 @@
 {
   "date": "2026-01-27",
   "poem": {
-    "content": "A brass sun bleeds into the bay,\nanother margin thinning, day by day.\nWelcome, the panther whispers, sleek and low,\nto the concrete jungle where anxieties grow.\n\nI play the game, each coin a loaded dice,\nthe news a constant, humming, hollow vice.\nTo improve the odds, a frantic, fevered plea,\nbut still, the sadness clings so close to me.\n\nThe panther watches with indifferent eyes,\nas hope's frail ember flickers, then it dies.\nA brassy taste, a bitter residue,\nthe ocean sighs, it knows what's true.\n\nWelcome, again, to the echoing despair,\na web of shadows, tangling in your hair.\nMargin calls and broken promises gleam,\na waking nightmare, a forgotten dream.\n\nImprove yourself, the phantom voices cry,\nbut panic rises, blotting out the sky.\nThe panther purrs, \"Embrace the coming gloom,\"\nanother brass-tinged sunset seals your doom.",
-    "generatedAt": "2026-01-27T09:20:31.896Z"
+    "content": "The sheriff sleeps, while dawn begins to spread,\nA frost of pixels on the nascent wave.\nThe size and shape of fortunes lie ahead,\nA dynamic market, fortunes to engrave.\n\nSome seek the wealth, a glittering, high desire,\nOthers, a valid claim, a just reward.\nBut fate can differ, burning like a fire,\nAnd crush the dream, upon its ledger broad.\n\nThe feature blooms, a vibrant digital flower,\nInviting all to join the grand display.\nA mutual dance, where power meets its hour,\nBefore the code decides another way.\n\nA mix of hope and fear, a chilling trace,\nThrough veins of light, a silent algorithm's pace.\nThe sheriff wakes, his judgment to impart,\nTo mend the broken, reunite the heart.\nNow wave good bye, to wealth beyond compare.\nThe frost descends, this burden we will bare.",
+    "generatedAt": "2026-01-27T21:51:48.148Z"
   },
   "keywords": [
     {
-      "word": "margin",
-      "slot": 396237297,
+      "word": "sheriff",
+      "slot": 396349515,
       "source": "blockhash"
     },
     {
-      "word": "welcome",
-      "slot": 396237297,
+      "word": "differ",
+      "slot": 396349515,
       "source": "previousBlockhash"
     },
     {
-      "word": "anxiety",
-      "slot": 396237297,
+      "word": "wealth",
+      "slot": 396349515,
       "source": "transaction"
     },
     {
-      "word": "improve",
-      "slot": 396219297,
+      "word": "valid",
+      "slot": 396331515,
       "source": "blockhash"
     },
     {
-      "word": "news",
-      "slot": 396219297,
+      "word": "frost",
+      "slot": 396331515,
       "source": "previousBlockhash"
     },
     {
-      "word": "panther",
-      "slot": 396219297,
+      "word": "spread",
+      "slot": 396331515,
       "source": "transaction"
     },
     {
-      "word": "game",
-      "slot": 396201297,
+      "word": "wave",
+      "slot": 396313515,
       "source": "blockhash"
     },
     {
-      "word": "sadness",
-      "slot": 396201297,
+      "word": "dynamic",
+      "slot": 396313515,
       "source": "previousBlockhash"
     },
     {
-      "word": "brass",
-      "slot": 396201297,
+      "word": "crush",
+      "slot": 396313515,
+      "source": "transaction"
+    },
+    {
+      "word": "feature",
+      "slot": 396295515,
+      "source": "blockhash"
+    },
+    {
+      "word": "mix",
+      "slot": 396295515,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "dawn",
+      "slot": 396295515,
+      "source": "transaction"
+    },
+    {
+      "word": "size",
+      "slot": 396277515,
+      "source": "blockhash"
+    },
+    {
+      "word": "invite",
+      "slot": 396277515,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "mutual",
+      "slot": 396277515,
       "source": "transaction"
     }
   ],
   "tweetId": null,
   "poemReady": true,
-  "keywordsCollected": 9,
+  "keywordsCollected": 15,
   "keywordsNeeded": 8
 }
