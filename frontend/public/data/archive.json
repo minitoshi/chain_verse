@@ -1,5 +1,63 @@
 [
   {
+    "date": "2026-01-27",
+    "poem": {
+      "content": "A brass sun bleeds into the bay,\nanother margin thinning, day by day.\nWelcome, the panther whispers, sleek and low,\nto the concrete jungle where anxieties grow.\n\nI play the game, each coin a loaded dice,\nthe news a constant, humming, hollow vice.\nTo improve the odds, a frantic, fevered plea,\nbut still, the sadness clings so close to me.\n\nThe panther watches with indifferent eyes,\nas hope's frail ember flickers, then it dies.\nA brassy taste, a bitter residue,\nthe ocean sighs, it knows what's true.\n\nWelcome, again, to the echoing despair,\na web of shadows, tangling in your hair.\nMargin calls and broken promises gleam,\na waking nightmare, a forgotten dream.\n\nImprove yourself, the phantom voices cry,\nbut panic rises, blotting out the sky.\nThe panther purrs, \"Embrace the coming gloom,\"\nanother brass-tinged sunset seals your doom.",
+      "generatedAt": "2026-01-27T09:20:31.896Z"
+    },
+    "keywords": [
+      {
+        "word": "margin",
+        "slot": 396237297,
+        "source": "blockhash"
+      },
+      {
+        "word": "welcome",
+        "slot": 396237297,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "anxiety",
+        "slot": 396237297,
+        "source": "transaction"
+      },
+      {
+        "word": "improve",
+        "slot": 396219297,
+        "source": "blockhash"
+      },
+      {
+        "word": "news",
+        "slot": 396219297,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "panther",
+        "slot": 396219297,
+        "source": "transaction"
+      },
+      {
+        "word": "game",
+        "slot": 396201297,
+        "source": "blockhash"
+      },
+      {
+        "word": "sadness",
+        "slot": 396201297,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "brass",
+        "slot": 396201297,
+        "source": "transaction"
+      }
+    ],
+    "tweetId": null,
+    "poemReady": true,
+    "keywordsCollected": 9,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-01-26",
     "poem": {
       "content": "The maid departs, leaving a vacant hum,\nA sadness lingers, a twilight swarm.\nThe wood is old, a maze of shadowed grain,\nWhere secrets sleep and scorpions remain.\n\nA void expands, a subtle, creeping fear,\nWhile I relax, yet feel the danger near.\nThe couch invites, a silent, plush embrace,\nBut even here, I sense the missing space.\n\nA drama unfolds in dust motes in the light,\nA hover of expectancy, in fading night.\nI yearn for speed, to break this heavy spell,\nA seed of hope, defying what I feel.\n\nA gap appears, opportunity's gleam,\nTo swap this torpor for a waking dream.\nBut hesitate, caught in the undertow,\nWhere darkness whispers, and the cold winds blow.\nThere is no escape.",
