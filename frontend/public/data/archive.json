@@ -2,87 +2,87 @@
   {
     "date": "2026-01-28",
     "poem": {
-      "content": "The earth exhales, a silver, shadowed yard,\nwhere risk takes root, a feral, hungry thing,\nan animal instinct, biting, sharp and hard.\n\nWe begin here, with nothing left to lend,\nexcept a sketch of galaxies we’ve known,\na private orbit, spinning without end.\n\nMy duty calls, a whisper in the breeze,\nto label hopes with names that cannot stay,\nand load the heart with silent ecstasies.\n\nI watch the cosmos punch through night's dark veil,\nuntil a yearning rises, deep and vast,\na lonely comet on a frozen trail.\n\nNo grand escape, no starburst bright and bold,\njust whispered promises, fragile and unseen,\na story quietly, carefully told.\n\nAnd though the silver fades to dusty gray,\nthough earth remembers moments left unspun,\nI still recall the promise of that day.",
-      "generatedAt": "2026-01-28T10:50:16.622Z"
+      "content": "A fiscal year begins to fall,\na flat horizon, same for all.\nWe chase the runway, short and fast,\na grant, a hope, a future cast.\n\nOur visuals flicker, dreams take flight,\nwe swear this time we'll make it right.\nThe belt tightens, a hungry sting,\nyet still we strive, and hope to win.\n\nAcross the field, the chalk is drawn,\na loop of effort, dusk till dawn.\nWe boost morale with whispers light,\nagainst the darkness of the night.\n\nThe project stalls, a fading bloom,\na silent echo in the room.\nThough doubts may fester, sharp and deep,\nthe promise whispered we will keep.\n\nWe rise again, from where we lay,\nand greet a brighter, brand new day.",
+      "generatedAt": "2026-01-28T13:22:37.012Z"
     },
     "keywords": [
       {
-        "word": "risk",
-        "slot": 396466141,
+        "word": "visual",
+        "slot": 396489040,
         "source": "blockhash"
       },
       {
-        "word": "animal",
-        "slot": 396466141,
+        "word": "grant",
+        "slot": 396489040,
         "source": "previousBlockhash"
       },
       {
-        "word": "earth",
-        "slot": 396466141,
+        "word": "sting",
+        "slot": 396489040,
         "source": "transaction"
       },
       {
-        "word": "begin",
-        "slot": 396448141,
+        "word": "win",
+        "slot": 396471040,
         "source": "blockhash"
       },
       {
-        "word": "orbit",
-        "slot": 396448141,
+        "word": "fall",
+        "slot": 396471040,
         "source": "previousBlockhash"
       },
       {
-        "word": "private",
-        "slot": 396448141,
+        "word": "field",
+        "slot": 396471040,
         "source": "transaction"
       },
       {
-        "word": "punch",
-        "slot": 396430141,
+        "word": "flat",
+        "slot": 396453040,
         "source": "blockhash"
       },
       {
-        "word": "label",
-        "slot": 396430141,
+        "word": "fiscal",
+        "slot": 396453040,
         "source": "previousBlockhash"
       },
       {
-        "word": "yard",
-        "slot": 396430141,
+        "word": "runway",
+        "slot": 396453040,
         "source": "transaction"
       },
       {
-        "word": "lend",
-        "slot": 396412141,
+        "word": "swear",
+        "slot": 396435040,
         "source": "blockhash"
       },
       {
-        "word": "silver",
-        "slot": 396412141,
+        "word": "belt",
+        "slot": 396435040,
         "source": "previousBlockhash"
       },
       {
-        "word": "load",
-        "slot": 396412141,
+        "word": "boost",
+        "slot": 396435040,
         "source": "transaction"
       },
       {
-        "word": "galaxy",
-        "slot": 396394141,
+        "word": "chalk",
+        "slot": 396417040,
         "source": "blockhash"
       },
       {
-        "word": "duty",
-        "slot": 396394141,
+        "word": "loop",
+        "slot": 396417040,
         "source": "previousBlockhash"
       },
       {
-        "word": "sketch",
-        "slot": 396394141,
+        "word": "same",
+        "slot": 396417040,
         "source": "transaction"
       }
     ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdi42pjcni2u",
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdiel3zxee2n",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
