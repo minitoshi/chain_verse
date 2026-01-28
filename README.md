@@ -8,7 +8,7 @@ A blockchain poetry generator that creates daily poems from Solana blockchain da
 - Keywords come from the **BIP-39 wordlist** (2,048 words used in cryptocurrency seed phrases)
 - An AI generates a poem using these blockchain-derived keywords
 - The poem is automatically posted to Bluesky as a thread with an image
-- Each day's poem is unique and verifiable through blockchain data
+- Keywords are verifiable - anyone can derive the same words from the blockchain data
 
 ## How It Works
 
@@ -125,9 +125,9 @@ Word index: 1847
 Keyword: "voyage"
 ```
 
-## Verification
+## Keyword Verification
 
-Anyone can verify a poem's keywords:
+Anyone can verify that the keywords came from real blockchain data:
 1. Get the block hash for a given slot from Solana
 2. SHA-256 hash it
 3. Take first 8 bytes as little-endian uint64
