@@ -297,7 +297,38 @@ Write the poem now:`;
 }
 
 /**
- * Post to Bluesky
+ * Split poem into chunks that fit Bluesky's 300 char limit
+ */
+function splitPoemIntoChunks(poem, maxChars = 290) {
+  const lines = poem.split('\n');
+  const chunks = [];
+  let currentChunk = [];
+  let currentLength = 0;
+
+  for (const line of lines) {
+    const lineLength = line.length + 1; // +1 for newline
+
+    if (currentLength + lineLength > maxChars && currentChunk.length > 0) {
+      // Save current chunk and start new one
+      chunks.push(currentChunk.join('\n'));
+      currentChunk = [line];
+      currentLength = line.length;
+    } else {
+      currentChunk.push(line);
+      currentLength += lineLength;
+    }
+  }
+
+  // Don't forget the last chunk
+  if (currentChunk.length > 0) {
+    chunks.push(currentChunk.join('\n'));
+  }
+
+  return chunks;
+}
+
+/**
+ * Post to Bluesky as a thread
  */
 async function postToBluesky(poem, keywords) {
   console.log('Posting to Bluesky...');
@@ -323,29 +354,68 @@ async function postToBluesky(poem, keywords) {
       password: appPassword
     });
 
-    // Bluesky has 300 char limit per post, so we'll create a thread
     const websiteUrl = process.env.WEBSITE_URL || '';
-    const poemLines = poem.split('\n').filter(line => line.trim());
 
-    // First post: intro + first few lines
-    const introLines = poemLines.slice(0, 4).join('\n');
-    let firstPost = `${introLines}\n\n🔗 From today's Solana blocks`;
-    if (websiteUrl) {
-      firstPost += `\n${websiteUrl}`;
+    // Split poem into chunks for thread
+    const chunks = splitPoemIntoChunks(poem);
+    console.log(`  Splitting poem into ${chunks.length} posts...`);
+
+    let rootUri = null;
+    let rootCid = null;
+    let parentUri = null;
+    let parentCid = null;
+
+    for (let i = 0; i < chunks.length; i++) {
+      let text = chunks[i];
+
+      // Add thread indicator to first post
+      if (i === 0 && chunks.length > 1) {
+        text = `${text}\n\n🧵 1/${chunks.length}`;
+      } else if (chunks.length > 1) {
+        text = `${text}\n\n${i + 1}/${chunks.length}`;
+      }
+
+      // Add footer to last post
+      if (i === chunks.length - 1) {
+        text = `${text}\n\n🔗 From today's Solana blocks`;
+        if (websiteUrl) {
+          text += `\n${websiteUrl}`;
+        }
+      }
+
+      // Build post record
+      const postRecord = {
+        text,
+        createdAt: new Date().toISOString()
+      };
+
+      // Add reply reference for thread continuation
+      if (parentUri && parentCid) {
+        postRecord.reply = {
+          root: { uri: rootUri, cid: rootCid },
+          parent: { uri: parentUri, cid: parentCid }
+        };
+      }
+
+      const result = await agent.post(postRecord);
+      console.log(`  Posted ${i + 1}/${chunks.length}: ${result.uri}`);
+
+      // Store references for threading
+      if (i === 0) {
+        rootUri = result.uri;
+        rootCid = result.cid;
+      }
+      parentUri = result.uri;
+      parentCid = result.cid;
+
+      // Small delay between posts
+      if (i < chunks.length - 1) {
+        await new Promise(resolve => setTimeout(resolve, 500));
+      }
     }
 
-    // Ensure first post fits in 300 chars
-    if (firstPost.length > 300) {
-      firstPost = firstPost.substring(0, 297) + '...';
-    }
-
-    const result = await agent.post({
-      text: firstPost,
-      createdAt: new Date().toISOString()
-    });
-
-    console.log(`  Posted! URI: ${result.uri}\n`);
-    return result.uri;
+    console.log(`  Thread complete!\n`);
+    return rootUri;
   } catch (error) {
     console.log(`  Bluesky error: ${error.message}\n`);
     return null;
