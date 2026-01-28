@@ -15,6 +15,10 @@ const crypto = require('crypto');
 const fs = require('fs');
 const path = require('path');
 
+// Poem images configuration
+const POEM_IMAGES_DIR = path.join(__dirname, '..', 'poem-images');
+const LAST_USED_IMAGE_FILE = path.join(POEM_IMAGES_DIR, '.last-used');
+
 // Configuration
 const SOLANA_RPC_URL = 'https://api.mainnet-beta.solana.com';
 const OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions';
@@ -30,6 +34,48 @@ const FALLBACK_MODELS = [
   'mistralai/mistral-7b-instruct:free',
   'qwen/qwen-2.5-7b-instruct:free'
 ];
+
+/**
+ * Get a random image from poem-images folder, avoiding the last used one
+ */
+function getRandomImage() {
+  if (!fs.existsSync(POEM_IMAGES_DIR)) {
+    console.log('  No poem-images directory found');
+    return null;
+  }
+
+  // Get all image files
+  const imageExtensions = ['.png', '.jpg', '.jpeg', '.gif', '.webp'];
+  const allImages = fs.readdirSync(POEM_IMAGES_DIR)
+    .filter(file => imageExtensions.includes(path.extname(file).toLowerCase()));
+
+  if (allImages.length === 0) {
+    console.log('  No images found in poem-images/');
+    return null;
+  }
+
+  // Read last used image
+  let lastUsed = null;
+  if (fs.existsSync(LAST_USED_IMAGE_FILE)) {
+    lastUsed = fs.readFileSync(LAST_USED_IMAGE_FILE, 'utf-8').trim();
+  }
+
+  // Filter out last used (unless it's the only image)
+  let availableImages = allImages.filter(img => img !== lastUsed);
+  if (availableImages.length === 0) {
+    availableImages = allImages; // Only one image, use it anyway
+  }
+
+  // Pick random image
+  const randomIndex = Math.floor(Math.random() * availableImages.length);
+  const selectedImage = availableImages[randomIndex];
+
+  // Save as last used
+  fs.writeFileSync(LAST_USED_IMAGE_FILE, selectedImage);
+
+  console.log(`  Selected image: ${selectedImage}`);
+  return path.join(POEM_IMAGES_DIR, selectedImage);
+}
 
 // Load word dictionary (BIP-39 wordlist - 2048 words)
 const wordsPath = path.join(__dirname, '..', 'backend', 'words.json');
@@ -328,6 +374,31 @@ function splitPoemIntoChunks(poem, maxChars = 290) {
 }
 
 /**
+ * Upload image to Bluesky and return blob reference
+ */
+async function uploadImageToBluesky(agent, imagePath) {
+  if (!imagePath || !fs.existsSync(imagePath)) {
+    return null;
+  }
+
+  const imageData = fs.readFileSync(imagePath);
+  const ext = path.extname(imagePath).toLowerCase();
+
+  // Determine MIME type
+  const mimeTypes = {
+    '.png': 'image/png',
+    '.jpg': 'image/jpeg',
+    '.jpeg': 'image/jpeg',
+    '.gif': 'image/gif',
+    '.webp': 'image/webp'
+  };
+  const mimeType = mimeTypes[ext] || 'image/png';
+
+  const response = await agent.uploadBlob(imageData, { encoding: mimeType });
+  return response.data.blob;
+}
+
+/**
  * Post to Bluesky as a thread
  */
 async function postToBluesky(poem, keywords) {
@@ -355,6 +426,18 @@ async function postToBluesky(poem, keywords) {
     });
 
     const websiteUrl = process.env.WEBSITE_URL || '';
+
+    // Get random image for the first post
+    console.log('  Selecting image for post...');
+    const imagePath = getRandomImage();
+    let imageBlob = null;
+    if (imagePath) {
+      console.log('  Uploading image to Bluesky...');
+      imageBlob = await uploadImageToBluesky(agent, imagePath);
+      if (imageBlob) {
+        console.log('  Image uploaded successfully');
+      }
+    }
 
     // Split poem into chunks for thread
     const chunks = splitPoemIntoChunks(poem);
@@ -388,6 +471,17 @@ async function postToBluesky(poem, keywords) {
         text,
         createdAt: new Date().toISOString()
       };
+
+      // Add image embed to first post only
+      if (i === 0 && imageBlob) {
+        postRecord.embed = {
+          $type: 'app.bsky.embed.images',
+          images: [{
+            alt: 'Chain Verse - Daily poem inspired by Solana blockchain',
+            image: imageBlob
+          }]
+        };
+      }
 
       // Add reply reference for thread continuation
       if (parentUri && parentCid) {

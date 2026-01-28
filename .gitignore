@@ -45,3 +45,6 @@ tmp/
 
 # Claude
 .claude/
+
+# Poem images tracking
+poem-images/.last-used
