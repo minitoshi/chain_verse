@@ -1,87 +1,87 @@
 {
   "date": "2026-01-28",
   "poem": {
-    "content": "A swamp mist clung, a digital screen\nFlickered tales, where fortunes convene.\nThe palace whispers, a gossip's art,\nTo assist the hopeful, tear them apart.\n\nWith engines humming, a wage is paid,\nFor bridges built, and futures made.\nEach rib a vault, where secrets reside,\nA hip sway dance, where truths confide.\n\nI feel the pull, the current's sway,\nTo engage the tide, come what may.\nA parent's gaze, both stern and kind,\nA forgotten salute left behind.\n\nThe breath catches, a sudden gasp,\nAs dreams ascend, held in a clasp.\nFrom sunlit dawn to shadows deep,\nThe coded promises we keep.\n\nA whispered trust, a final plea,\nReflected back for all to see.",
-    "generatedAt": "2026-01-28T10:01:46.105Z"
+    "content": "The earth exhales, a silver, shadowed yard,\nwhere risk takes root, a feral, hungry thing,\nan animal instinct, biting, sharp and hard.\n\nWe begin here, with nothing left to lend,\nexcept a sketch of galaxies we’ve known,\na private orbit, spinning without end.\n\nMy duty calls, a whisper in the breeze,\nto label hopes with names that cannot stay,\nand load the heart with silent ecstasies.\n\nI watch the cosmos punch through night's dark veil,\nuntil a yearning rises, deep and vast,\na lonely comet on a frozen trail.\n\nNo grand escape, no starburst bright and bold,\njust whispered promises, fragile and unseen,\na story quietly, carefully told.\n\nAnd though the silver fades to dusty gray,\nthough earth remembers moments left unspun,\nI still recall the promise of that day.",
+    "generatedAt": "2026-01-28T10:50:16.622Z"
   },
   "keywords": [
     {
-      "word": "screen",
-      "slot": 396458842,
+      "word": "risk",
+      "slot": 396466141,
       "source": "blockhash"
     },
     {
-      "word": "gossip",
-      "slot": 396458842,
+      "word": "animal",
+      "slot": 396466141,
       "source": "previousBlockhash"
     },
     {
-      "word": "assist",
-      "slot": 396458842,
+      "word": "earth",
+      "slot": 396466141,
       "source": "transaction"
     },
     {
-      "word": "hip",
-      "slot": 396440842,
+      "word": "begin",
+      "slot": 396448141,
       "source": "blockhash"
     },
     {
-      "word": "engage",
-      "slot": 396440842,
+      "word": "orbit",
+      "slot": 396448141,
       "source": "previousBlockhash"
     },
     {
-      "word": "bridge",
-      "slot": 396440842,
+      "word": "private",
+      "slot": 396448141,
       "source": "transaction"
     },
     {
-      "word": "engine",
-      "slot": 396422842,
+      "word": "punch",
+      "slot": 396430141,
       "source": "blockhash"
     },
     {
-      "word": "feel",
-      "slot": 396422842,
+      "word": "label",
+      "slot": 396430141,
       "source": "previousBlockhash"
     },
     {
-      "word": "salute",
-      "slot": 396422842,
+      "word": "yard",
+      "slot": 396430141,
       "source": "transaction"
     },
     {
-      "word": "wage",
-      "slot": 396404842,
+      "word": "lend",
+      "slot": 396412141,
       "source": "blockhash"
     },
     {
-      "word": "palace",
-      "slot": 396404842,
+      "word": "silver",
+      "slot": 396412141,
       "source": "previousBlockhash"
     },
     {
-      "word": "swamp",
-      "slot": 396404842,
+      "word": "load",
+      "slot": 396412141,
       "source": "transaction"
     },
     {
-      "word": "rib",
-      "slot": 396386842,
+      "word": "galaxy",
+      "slot": 396394141,
       "source": "blockhash"
     },
     {
-      "word": "gasp",
-      "slot": 396386842,
+      "word": "duty",
+      "slot": 396394141,
       "source": "previousBlockhash"
     },
     {
-      "word": "parent",
-      "slot": 396386842,
+      "word": "sketch",
+      "slot": 396394141,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdhzdywmua22",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdi42pjcni2u",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
