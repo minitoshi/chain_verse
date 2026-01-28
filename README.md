@@ -1,173 +1,150 @@
 # Chain Verse
 
-A blockchain poetry generator that creates daily poems from Solana blockchain data.
+A blockchain poetry generator that creates daily poems from Solana blockchain data and posts them to Bluesky.
 
 ## Concept
 
-- Every ~90 minutes, a keyword is derived from Solana blockchain data
-- Throughout the day, 15-20 keywords are collected
-- An AI generates a poem using these keywords
+- Every day, keywords are derived from Solana blockchain data
+- Keywords come from the **BIP-39 wordlist** (2,048 words used in cryptocurrency seed phrases)
+- An AI generates a poem using these blockchain-derived keywords
+- The poem is automatically posted to Bluesky as a thread with an image
 - Each day's poem is unique and verifiable through blockchain data
 
 ## How It Works
 
-1. **Blockchain Derivation**: Fetches Solana blocks and deterministically maps block hashes to words from a curated dictionary of 1,290 poetic words
-2. **Keyword Collection**: A scheduler runs every 90 minutes to collect one keyword
-3. **Poem Generation**: When enough keywords are collected, an AI (via OpenRouter) generates a 20-30 line poem
-4. **Archive**: All poems are stored with their source blockchain data for verification
+1. **Blockchain Data**: Fetches 12 Solana blocks spread across the past 24 hours
+2. **BIP-39 Derivation**: Block hashes are SHA-256 hashed and mapped to words from the BIP-39 wordlist (the same 2,048 words used for cryptocurrency wallet seed phrases)
+3. **Keyword Extraction**: Multiple entropy sources per block (blockhash, previousBlockhash, transaction signatures) yield 15-16 unique keywords
+4. **Poem Generation**: An AI (via OpenRouter) generates a 20-30 line poem incorporating the keywords
+5. **Bluesky Posting**: The poem is split into a thread (to fit 300-char limit) and posted with a random image
+6. **Archival**: Poem data is saved for the static website
+
+## Why BIP-39?
+
+The [BIP-39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) contains 2,048 carefully selected English words used for generating cryptocurrency wallet seed phrases. These words are:
+
+- **Unambiguous**: No similar-looking words (e.g., no "man" and "men")
+- **Common**: Recognizable everyday English words
+- **Diverse**: Covers nouns, verbs, adjectives across many themes
+- **Poetic potential**: Words like "voyage", "crystal", "thunder", "whisper"
+
+By deriving keywords from this list using blockchain entropy, each poem is cryptographically tied to real Solana blockchain state.
+
+## Automation
+
+The entire process runs automatically via **GitHub Actions**:
+
+- **Schedule**: Runs daily at 12:00 UTC
+- **Manual trigger**: Can also be triggered manually from GitHub Actions
+- **Zero maintenance**: Once set up, poems are generated and posted automatically
 
 ## Project Structure
 
 ```
 chain_verse/
-├── backend/          # Rust backend - keyword derivation & poem generation
-│   ├── src/
-│   │   ├── main.rs           # Entry point with multiple run modes
-│   │   ├── blockchain.rs     # Solana RPC client
-│   │   ├── derivation.rs     # Hash → word mapping
-│   │   ├── words.rs          # Word dictionary (1,290 words)
-│   │   ├── database.rs       # SQLite storage
-│   │   ├── scheduler.rs      # Keyword collector
-│   │   ├── poem_generator.rs # OpenRouter AI integration
-│   │   └── api.rs            # REST API server
-│   ├── words.json            # Curated word dictionary
-│   └── Cargo.toml
-├── frontend/         # React frontend - display poems and archive
-│   ├── src/
-│   │   ├── App.jsx          # Main app with "Today" and "Archive" views
-│   │   └── App.css          # Styling
+├── scripts/              # Daily poem generation
+│   ├── daily-poem.js     # Main script - fetches blocks, generates poem, posts to Bluesky
 │   └── package.json
+├── poem-images/          # Images for Bluesky posts (randomly selected each day)
+├── backend/              # Rust backend (for local development/API)
+│   ├── src/
+│   └── words.json        # BIP-39 wordlist (2,048 words)
+├── frontend/             # React frontend - display poems and archive
+│   ├── src/
+│   └── public/data/      # Generated poem data (today.json, archive.json)
+├── .github/workflows/    # GitHub Actions automation
+│   └── daily-poem.yml
 └── README.md
 ```
 
 ## Tech Stack
 
-- **Backend**: Rust (async/await with Tokio)
-- **Frontend**: React + Vite
-- **Database**: SQLite
-- **Poem Generation**: OpenRouter API (moonshotai/kimi-k2:free)
+- **Daily Script**: Node.js
+- **Poem Generation**: OpenRouter API (with fallback models)
+- **Social Posting**: Bluesky (AT Protocol)
 - **Blockchain**: Solana mainnet (public RPC)
-- **API**: Axum web framework with CORS
+- **Automation**: GitHub Actions
+- **Frontend**: React + Vite (static site)
 
-## Setup & Running
+## Setup
 
 ### Prerequisites
-- Rust
-- Node.js
-- OpenRouter API key (get one free at https://openrouter.ai)
 
-### Environment Setup
+- Node.js 18+
+- GitHub repository with Actions enabled
+- OpenRouter API key
+- Bluesky account with app password
 
-**IMPORTANT:** Create a `.env` file in the `backend/` directory:
+### GitHub Secrets
+
+Add these secrets to your repository (Settings > Secrets > Actions):
+
+```
+OPENROUTER_API_KEY=your_openrouter_api_key
+BLUESKY_HANDLE=your.handle.bsky.social
+BLUESKY_APP_PASSWORD=your_app_password
+WEBSITE_URL=https://your-website.com (optional)
+```
+
+### Local Development
 
 ```bash
-cd backend
-cp .env.example .env
-# Edit .env and add your OpenRouter API key
+# Install dependencies
+cd scripts
+npm install
+
+# Run locally (requires .env file with secrets)
+node daily-poem.js
 ```
 
-Your `.env` file should look like:
+### Adding Images
+
+Add images to the `poem-images/` folder:
+- Supported formats: `.png`, `.jpg`, `.jpeg`, `.gif`, `.webp`
+- A random image is selected each day (different from the previous day)
+- Images are attached to the first post of the Bluesky thread
+
+## Bluesky Output
+
+Each day's poem is posted as a thread:
+- **First post**: Opening lines + image + thread indicator
+- **Middle posts**: Continuation of the poem
+- **Last post**: Closing lines + link to website
+
+## Derivation Example
+
 ```
-OPENROUTER_API_KEY=your_api_key_here
-OPENROUTER_MODEL=moonshotai/kimi-k2:free
-KEYWORD_INTERVAL_MINUTES=90
-```
-
-### Backend
-
-The backend has multiple run modes:
-
-```bash
-cd backend
-
-# Test mode - collect one keyword and exit
-cargo run
-
-# API server only
-cargo run -- api
-
-# Keyword collector daemon only (runs every 90 minutes)
-cargo run -- daemon
-
-# Full system - both collector and API server
-cargo run -- full
-```
-
-**Recommended for development:**
-```bash
-# Terminal 1: Run API server
-cd backend
-cargo run -- api
-
-# Terminal 2: Test keyword collection
-cd backend
-cargo run  # Runs once for testing
+Block hash: 5xYz...abc
+    ↓ SHA-256
+Hash bytes: [142, 67, ...]
+    ↓ First 8 bytes as uint64
+Seed: 9847362510283
+    ↓ mod 2048
+Word index: 1847
+    ↓ BIP-39 lookup
+Keyword: "voyage"
 ```
 
-### Frontend
+## Verification
 
-```bash
-cd frontend
-npm install  # Already done ✅
-npm run dev  # Starts on http://localhost:5173
-```
+Anyone can verify a poem's keywords:
+1. Get the block hash for a given slot from Solana
+2. SHA-256 hash it
+3. Take first 8 bytes as little-endian uint64
+4. Modulo 2048 gives the BIP-39 word index
 
-## API Endpoints
+## API Endpoints (Local Backend)
 
-- `GET /api/poems/today` - Today's poem status (in-progress or complete)
+- `GET /api/poems/today` - Today's poem status
 - `GET /api/poems` - All poems (latest first)
-- `GET /api/poems/{date}` - Specific poem by date (YYYY-MM-DD)
+- `GET /api/poems/{date}` - Specific poem by date
 - `GET /api/keywords/today` - Keywords collected today
 
-## Current Status
+## Links
 
-✅ **Complete!** All core features implemented:
-- ✅ Blockchain keyword derivation
-- ✅ SQLite database storage
-- ✅ Poem generation with OpenRouter
-- ✅ 90-minute keyword collector
-- ✅ REST API server
-- ✅ React frontend with Today/Archive views
-
-## What's Working
-
-**Backend:**
-- Deriving words from Solana blockchain ✅
-- Storing keywords in database ✅
-- Poem generation via OpenRouter ✅ (rate limits may apply on free tier)
-- Keyword collector scheduler ✅
-- REST API serving poems and keywords ✅
-
-**Frontend:**
-- "Today" view showing in-progress poems ✅
-- Progress bar showing keyword collection ✅
-- Keywords displayed with blockchain slot info ✅
-- "Archive" view for past poems ✅
-- Clean, dark-themed UI ✅
-
-## Database
-
-SQLite database (`chain_verse.db`) contains:
-- **keywords** table: word, slot, blockhash, block_time, word_index
-- **poems** table: date, title, content, keyword_ids
-
-## Next Steps (Future Enhancements)
-
-- Better error handling for rate-limited API calls
-- Retry logic for poem generation
-- Custom UI design (current UI is functional but basic)
-- Deployment configuration
-- Analytics/stats page
-- Social sharing features
-- On-chain poem storage (optional)
-
-## Notes
-
-- Free OpenRouter models may have rate limits; wait and retry if needed
-- Keyword collection requires the daemon to be running
-- Each day needs 15+ keywords before a poem is generated
-- All blockchain data is verifiable and deterministic
+- **Bluesky**: [@chainverse.bsky.social](https://bsky.app/profile/chainverse.bsky.social)
+- **Website**: Coming soon
 
 ---
 
-**Chain Verse** - Where blockchain meets poetry 🔗✨
+**Chain Verse** - Where blockchain meets poetry
