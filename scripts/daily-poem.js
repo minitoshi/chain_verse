@@ -7,7 +7,7 @@
  * 1. Fetch multiple Solana blocks from the past 24 hours
  * 2. Derive keywords from block data (same logic as Rust backend)
  * 3. Generate a poem using OpenRouter AI
- * 4. Post to Twitter
+ * 4. Post to Bluesky
  * 5. Save poem data for the static website
  */
 
@@ -297,50 +297,57 @@ Write the poem now:`;
 }
 
 /**
- * Post to Twitter
+ * Post to Bluesky
  */
-async function postToTwitter(poem, keywords) {
-  console.log('Posting to Twitter...');
+async function postToBluesky(poem, keywords) {
+  console.log('Posting to Bluesky...');
 
-  const apiKey = process.env.TWITTER_API_KEY;
-  const apiSecret = process.env.TWITTER_API_SECRET;
-  const accessToken = process.env.TWITTER_ACCESS_TOKEN;
-  const accessSecret = process.env.TWITTER_ACCESS_SECRET;
+  const handle = process.env.BLUESKY_HANDLE;
+  const appPassword = process.env.BLUESKY_APP_PASSWORD;
 
-  if (!apiKey || !apiSecret || !accessToken || !accessSecret) {
-    console.log('  Twitter credentials not set, skipping...\n');
+  if (!handle || !appPassword) {
+    console.log('  Bluesky credentials not set, skipping...\n');
     return null;
   }
 
-  // Twitter has 280 char limit, so we'll post a summary + link
-  const keywordPreview = keywords.slice(0, 5).map(k => k.word).join(', ');
-  const poemPreview = poem.split('\n').slice(0, 3).join('\n');
+  const { BskyAgent } = await import('@atproto/api');
 
-  // Get first ~200 chars of poem for tweet
-  let tweetText = poemPreview;
-  if (tweetText.length > 250) {
-    tweetText = tweetText.substring(0, 247) + '...';
-  }
-
-  const websiteUrl = process.env.WEBSITE_URL || '';
-  const tweet = `${tweetText}\n\n🔗 From today's Solana blocks\n${websiteUrl}`.trim();
-
-  // Using Twitter API v2
-  const { TwitterApi } = await import('twitter-api-v2');
-
-  const client = new TwitterApi({
-    appKey: apiKey,
-    appSecret: apiSecret,
-    accessToken: accessToken,
-    accessSecret: accessSecret
+  const agent = new BskyAgent({
+    service: 'https://bsky.social'
   });
 
   try {
-    const result = await client.v2.tweet(tweet);
-    console.log(`  Posted! Tweet ID: ${result.data.id}\n`);
-    return result.data.id;
+    // Login to Bluesky
+    await agent.login({
+      identifier: handle,
+      password: appPassword
+    });
+
+    // Bluesky has 300 char limit per post, so we'll create a thread
+    const websiteUrl = process.env.WEBSITE_URL || '';
+    const poemLines = poem.split('\n').filter(line => line.trim());
+
+    // First post: intro + first few lines
+    const introLines = poemLines.slice(0, 4).join('\n');
+    let firstPost = `${introLines}\n\n🔗 From today's Solana blocks`;
+    if (websiteUrl) {
+      firstPost += `\n${websiteUrl}`;
+    }
+
+    // Ensure first post fits in 300 chars
+    if (firstPost.length > 300) {
+      firstPost = firstPost.substring(0, 297) + '...';
+    }
+
+    const result = await agent.post({
+      text: firstPost,
+      createdAt: new Date().toISOString()
+    });
+
+    console.log(`  Posted! URI: ${result.uri}\n`);
+    return result.uri;
   } catch (error) {
-    console.log(`  Twitter error: ${error.message}\n`);
+    console.log(`  Bluesky error: ${error.message}\n`);
     return null;
   }
 }
@@ -348,7 +355,7 @@ async function postToTwitter(poem, keywords) {
 /**
  * Save poem data for the static website
  */
-function savePoemData(poem, keywords, tweetId) {
+function savePoemData(poem, keywords, postUri) {
   console.log('Saving poem data...');
 
   const today = new Date().toISOString().split('T')[0];
@@ -371,7 +378,7 @@ function savePoemData(poem, keywords, tweetId) {
       slot: k.slot,
       source: k.source
     })),
-    tweetId,
+    blueskyUri: postUri,
     poemReady: true,
     keywordsCollected: keywords.length,
     keywordsNeeded: 8
@@ -436,11 +443,11 @@ async function main() {
     console.log(poem);
     console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
 
-    // 4. Post to Twitter
-    const tweetId = await postToTwitter(poem, keywords);
+    // 4. Post to Bluesky
+    const postUri = await postToBluesky(poem, keywords);
 
     // 5. Save data
-    savePoemData(poem, keywords, tweetId);
+    savePoemData(poem, keywords, postUri);
 
     console.log('✅ Daily poem generation complete!');
 

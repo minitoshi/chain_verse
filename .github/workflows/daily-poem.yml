@@ -25,17 +25,15 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: npm install twitter-api-v2
+        run: npm install @atproto/api
         working-directory: scripts
 
       - name: Generate daily poem
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           OPENROUTER_MODEL: ${{ secrets.OPENROUTER_MODEL }}
-          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
-          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
           WEBSITE_URL: ${{ secrets.WEBSITE_URL }}
         run: node daily-poem.js
         working-directory: scripts
