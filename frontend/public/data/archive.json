@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-01-28",
+    "poem": {
+      "content": "In hidden October's fading gleam,\nA scout with laptop, lived a waking dream.\n\nHe sought a bargain, a digital prize,\nIgnoring the forest’s eerie cries.\n\nA monster vague, with claw and tooth,\nStirred from slumber, seeking proof.\n\nOf liberty lost, in lines of code,\nWhere human laughter seldom flowed.\n\nHe heard a noise, a rustle near,\nThe frantic stomp of frightened deer.\n\nA quote resurfaced, etched in mind,\n\"Beware the things you leave behind.\"\n\nThe bar was low, the challenge high,\nA proud defiance in his eye.\n\nThe beast's approach, a chilling dread,\nThoughts spinning wildly through his head.\n\nHe closed his laptop, fate aligned,\nWith nature's power, raw, undefined.\nNo room for bargains, cheap or deep,\nBefore this monstrous, lurking creep.\nIt filled the forest a vague degree\nWhere even liberty struggled to flee.",
+      "generatedAt": "2026-01-28T09:21:58.058Z"
+    },
+    "keywords": [
+      {
+        "word": "scout",
+        "slot": 396452828,
+        "source": "blockhash"
+      },
+      {
+        "word": "hidden",
+        "slot": 396452828,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "october",
+        "slot": 396452828,
+        "source": "transaction"
+      },
+      {
+        "word": "quote",
+        "slot": 396434828,
+        "source": "blockhash"
+      },
+      {
+        "word": "deer",
+        "slot": 396434828,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "laugh",
+        "slot": 396434828,
+        "source": "transaction"
+      },
+      {
+        "word": "claw",
+        "slot": 396416828,
+        "source": "blockhash"
+      },
+      {
+        "word": "noise",
+        "slot": 396416828,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "laptop",
+        "slot": 396416828,
+        "source": "transaction"
+      },
+      {
+        "word": "bargain",
+        "slot": 396398828,
+        "source": "blockhash"
+      },
+      {
+        "word": "monster",
+        "slot": 396398828,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "vague",
+        "slot": 396398828,
+        "source": "transaction"
+      },
+      {
+        "word": "liberty",
+        "slot": 396380828,
+        "source": "blockhash"
+      },
+      {
+        "word": "bar",
+        "slot": 396380828,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "proud",
+        "slot": 396380828,
+        "source": "transaction"
+      }
+    ],
+    "tweetId": null,
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-01-27",
     "poem": {
       "content": "A barrel's hollow echo, the chair sits firm,\ndust motes dancing in a sunbeam's term.\nThe language of silence, a husband's grim face,\nafter the episode, shame takes its place.\n\nHe made a deal, a talent squandered quick,\nnow trouble spawns, a festering, sick\nmosquito drone, a constant, stinging fear.\nHe fills the tank with darkness, year on year.\n\nShe bites her lip, a gritty resolution formed.\nNo salad days anymore, the weather stormed.\nShe sees him later, a ghost in fading light,\na battlefield of sorrow, endless night.\n\nHis heart, a firm, now fractured piece of stone,\nHe made his bed, now sleeps there alone.\nShe finds her grit, a whisper in the breeze,\nto raise the children, bring them some ease.\nTo face the barrel of the coming day,\nand find her strength, to finally walk away.",
