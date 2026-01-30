@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-01-30",
+    "poem": {
+      "content": "The machine breathes, a dry, metallic lung,\nWhile circuits churn, a frantic, pulsing song.\nAn alpha's urge, a restless, coded plea,\nTo plumb the market's vast, uncaring sea.\n\nThe depth is dark, a place where fortunes drown,\nWhere sudden spikes can turn hope upside down.\nA lobster shell, a reddened, weary face,\nLost in the data's unforgiving space.\n\nA bus awaits, a promise to escape,\nFrom numbers dancing in a digital shape.\nTo trade the screen for sun on faded jeans,\nTo leave behind these volatile, dry scenes.\n\nA soda fizzes, sweetness temporary,\nA fragile shield against the monetary.\nThe sport of kings, a battle fought unseen,\nWhere fortunes rise and fall, forever keen.\n\nThe pave is rough, the journey yet remains,\nAs fresh supply drives demand like pouring rains.\nOutside the churn, the pulse of life goes on,\nOblivious to battles fought and won.",
+      "generatedAt": "2026-01-30T09:26:47.046Z"
+    },
+    "keywords": [
+      {
+        "word": "machine",
+        "slot": 396885221,
+        "source": "blockhash"
+      },
+      {
+        "word": "dry",
+        "slot": 396885221,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "alpha",
+        "slot": 396885221,
+        "source": "transaction"
+      },
+      {
+        "word": "urge",
+        "slot": 396867221,
+        "source": "blockhash"
+      },
+      {
+        "word": "depth",
+        "slot": 396867221,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "jeans",
+        "slot": 396867221,
+        "source": "transaction"
+      },
+      {
+        "word": "bus",
+        "slot": 396849221,
+        "source": "blockhash"
+      },
+      {
+        "word": "sport",
+        "slot": 396849221,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "demand",
+        "slot": 396849221,
+        "source": "transaction"
+      },
+      {
+        "word": "pave",
+        "slot": 396831221,
+        "source": "blockhash"
+      },
+      {
+        "word": "churn",
+        "slot": 396831221,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "spike",
+        "slot": 396831221,
+        "source": "transaction"
+      },
+      {
+        "word": "pulse",
+        "slot": 396813221,
+        "source": "blockhash"
+      },
+      {
+        "word": "lobster",
+        "slot": 396813221,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "soda",
+        "slot": 396813221,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdmyda6xum2z",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-01-29",
     "poem": {
       "content": "A deer steps from the forest's edge,\nordinary, yet holds a coded legend.\nIn its eyes, a power sleeps,\na hint of what the wilderness keeps.\n\nThe race of time has scarred the land,\na memory of empires, clutch in hand,\nthat sought to destroy nature's reign,\nleaving only ghosts and spectral rain.\n\nA large garment of ancient green,\nonce blessed by spirits, now unseen.\nThe innocent earth remembers all,\nthe rise, the fall, the echoing call.\n\nThough ambition's fire burned so bright,\nand darkness threatened endless night,\nNature perseveres, include the breeze,\nwhispering secrets through the trees,\na new dawn promised if one sees.",
