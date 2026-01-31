@@ -1,87 +1,87 @@
 {
-  "date": "2026-01-30",
+  "date": "2026-01-31",
   "poem": {
-    "content": "The machine breathes, a dry, metallic lung,\nWhile circuits churn, a frantic, pulsing song.\nAn alpha's urge, a restless, coded plea,\nTo plumb the market's vast, uncaring sea.\n\nThe depth is dark, a place where fortunes drown,\nWhere sudden spikes can turn hope upside down.\nA lobster shell, a reddened, weary face,\nLost in the data's unforgiving space.\n\nA bus awaits, a promise to escape,\nFrom numbers dancing in a digital shape.\nTo trade the screen for sun on faded jeans,\nTo leave behind these volatile, dry scenes.\n\nA soda fizzes, sweetness temporary,\nA fragile shield against the monetary.\nThe sport of kings, a battle fought unseen,\nWhere fortunes rise and fall, forever keen.\n\nThe pave is rough, the journey yet remains,\nAs fresh supply drives demand like pouring rains.\nOutside the churn, the pulse of life goes on,\nOblivious to battles fought and won.",
-    "generatedAt": "2026-01-30T09:26:47.046Z"
+    "content": "Toward a cabin, shadowed and deep,\nI felt the great weight of secrets to keep.\nAn inquiry burning, a symptom so clear,\nLike an abandoned elephant, fueled by fear.\n\nSix steps I took, then wanted to flee,\nA junior captain lost on the sea.\nMy finger traced lines on a dusty pane,\nWhispering wishes in the falling rain.\n\nThe offer of cash, a loan in disguise,\nA hollow beauty reflected in my eyes.\nI should abandon this path, turn around and start again,\nbut the dark, sweet heart of grief, no one knows when it will end.\n\nA muffin lay stale, upon a warped plate,\nRepresenting my journey, sealed by fate\nAn inquiry so important, so deep,\nAs this haunted cabin, I knew I never would sleep.\nThe memory haunts, bringing darkness,\nin place of brightness.",
+    "generatedAt": "2026-01-31T09:15:42.792Z"
   },
   "keywords": [
     {
-      "word": "machine",
-      "slot": 396885221,
+      "word": "toward",
+      "slot": 397100730,
       "source": "blockhash"
     },
     {
-      "word": "dry",
-      "slot": 396885221,
+      "word": "cabin",
+      "slot": 397100730,
       "source": "previousBlockhash"
     },
     {
-      "word": "alpha",
-      "slot": 396885221,
+      "word": "inquiry",
+      "slot": 397100730,
       "source": "transaction"
     },
     {
-      "word": "urge",
-      "slot": 396867221,
+      "word": "elephant",
+      "slot": 397082730,
       "source": "blockhash"
     },
     {
-      "word": "depth",
-      "slot": 396867221,
+      "word": "cash",
+      "slot": 397082730,
       "source": "previousBlockhash"
     },
     {
-      "word": "jeans",
-      "slot": 396867221,
+      "word": "junior",
+      "slot": 397082730,
       "source": "transaction"
     },
     {
-      "word": "bus",
-      "slot": 396849221,
+      "word": "beauty",
+      "slot": 397064730,
       "source": "blockhash"
     },
     {
-      "word": "sport",
-      "slot": 396849221,
+      "word": "great",
+      "slot": 397064730,
       "source": "previousBlockhash"
     },
     {
-      "word": "demand",
-      "slot": 396849221,
+      "word": "symptom",
+      "slot": 397064730,
       "source": "transaction"
     },
     {
-      "word": "pave",
-      "slot": 396831221,
+      "word": "six",
+      "slot": 397046730,
       "source": "blockhash"
     },
     {
-      "word": "churn",
-      "slot": 396831221,
+      "word": "captain",
+      "slot": 397046730,
       "source": "previousBlockhash"
     },
     {
-      "word": "spike",
-      "slot": 396831221,
+      "word": "abandon",
+      "slot": 397046730,
       "source": "transaction"
     },
     {
-      "word": "pulse",
-      "slot": 396813221,
+      "word": "loan",
+      "slot": 397028730,
       "source": "blockhash"
     },
     {
-      "word": "lobster",
-      "slot": 396813221,
+      "word": "finger",
+      "slot": 397028730,
       "source": "previousBlockhash"
     },
     {
-      "word": "soda",
-      "slot": 396813221,
+      "word": "muffin",
+      "slot": 397028730,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdmyda6xum2z",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdpi6elkie2u",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
