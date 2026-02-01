@@ -1,87 +1,87 @@
 {
-  "date": "2026-01-31",
+  "date": "2026-02-01",
   "poem": {
-    "content": "Toward a cabin, shadowed and deep,\nI felt the great weight of secrets to keep.\nAn inquiry burning, a symptom so clear,\nLike an abandoned elephant, fueled by fear.\n\nSix steps I took, then wanted to flee,\nA junior captain lost on the sea.\nMy finger traced lines on a dusty pane,\nWhispering wishes in the falling rain.\n\nThe offer of cash, a loan in disguise,\nA hollow beauty reflected in my eyes.\nI should abandon this path, turn around and start again,\nbut the dark, sweet heart of grief, no one knows when it will end.\n\nA muffin lay stale, upon a warped plate,\nRepresenting my journey, sealed by fate\nAn inquiry so important, so deep,\nAs this haunted cabin, I knew I never would sleep.\nThe memory haunts, bringing darkness,\nin place of brightness.",
-    "generatedAt": "2026-01-31T09:15:42.792Z"
+    "content": "Dawn paints the sky, a flag of palest light,\nanother shrimp boat idles, barely afloat.\nI throw a glance, then write another line,\nanother decade blurring, caught in my throat.\n\nWe used to live wild here, by the water's edge,\na grant to raise a family, a simple cause.\nBut things grow cold, a bitter, icy ledge,\nand love, unwatered, bends against the laws.\n\nThe wife I held, now echoes in the breeze,\na distant video, replayed in my mind.\nI warm my hands, and beg for inner ease,\nas sirens wail, the police a sorrowful find.\n\nA life unlived, a harvest left to rot,\nthe wild unknown, a dangerous divide.\nI throw myself into the ocean's plot,\na hope to raise my spirits, deep inside.\nOh, to live!",
+    "generatedAt": "2026-02-01T09:18:20.460Z"
   },
   "keywords": [
     {
-      "word": "toward",
-      "slot": 397100730,
+      "word": "throw",
+      "slot": 397318701,
       "source": "blockhash"
     },
     {
-      "word": "cabin",
-      "slot": 397100730,
+      "word": "shrimp",
+      "slot": 397318701,
       "source": "previousBlockhash"
     },
     {
-      "word": "inquiry",
-      "slot": 397100730,
+      "word": "decade",
+      "slot": 397318701,
       "source": "transaction"
     },
     {
-      "word": "elephant",
-      "slot": 397082730,
+      "word": "live",
+      "slot": 397300701,
       "source": "blockhash"
     },
     {
-      "word": "cash",
-      "slot": 397082730,
+      "word": "warm",
+      "slot": 397300701,
       "source": "previousBlockhash"
     },
     {
-      "word": "junior",
-      "slot": 397082730,
+      "word": "flag",
+      "slot": 397300701,
       "source": "transaction"
     },
     {
-      "word": "beauty",
-      "slot": 397064730,
+      "word": "write",
+      "slot": 397282701,
       "source": "blockhash"
     },
     {
-      "word": "great",
-      "slot": 397064730,
+      "word": "video",
+      "slot": 397282701,
       "source": "previousBlockhash"
     },
     {
-      "word": "symptom",
-      "slot": 397064730,
+      "word": "wild",
+      "slot": 397282701,
       "source": "transaction"
     },
     {
-      "word": "six",
-      "slot": 397046730,
+      "word": "raise",
+      "slot": 397264701,
       "source": "blockhash"
     },
     {
-      "word": "captain",
-      "slot": 397046730,
+      "word": "police",
+      "slot": 397264701,
       "source": "previousBlockhash"
     },
     {
-      "word": "abandon",
-      "slot": 397046730,
+      "word": "cause",
+      "slot": 397264701,
       "source": "transaction"
     },
     {
-      "word": "loan",
-      "slot": 397028730,
+      "word": "wife",
+      "slot": 397246701,
       "source": "blockhash"
     },
     {
-      "word": "finger",
-      "slot": 397028730,
+      "word": "grant",
+      "slot": 397246701,
       "source": "previousBlockhash"
     },
     {
-      "word": "muffin",
-      "slot": 397028730,
+      "word": "dawn",
+      "slot": 397246701,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdpi6elkie2u",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdryryasp52z",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8

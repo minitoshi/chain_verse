@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-01",
+    "poem": {
+      "content": "Dawn paints the sky, a flag of palest light,\nanother shrimp boat idles, barely afloat.\nI throw a glance, then write another line,\nanother decade blurring, caught in my throat.\n\nWe used to live wild here, by the water's edge,\na grant to raise a family, a simple cause.\nBut things grow cold, a bitter, icy ledge,\nand love, unwatered, bends against the laws.\n\nThe wife I held, now echoes in the breeze,\na distant video, replayed in my mind.\nI warm my hands, and beg for inner ease,\nas sirens wail, the police a sorrowful find.\n\nA life unlived, a harvest left to rot,\nthe wild unknown, a dangerous divide.\nI throw myself into the ocean's plot,\na hope to raise my spirits, deep inside.\nOh, to live!",
+      "generatedAt": "2026-02-01T09:18:20.460Z"
+    },
+    "keywords": [
+      {
+        "word": "throw",
+        "slot": 397318701,
+        "source": "blockhash"
+      },
+      {
+        "word": "shrimp",
+        "slot": 397318701,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "decade",
+        "slot": 397318701,
+        "source": "transaction"
+      },
+      {
+        "word": "live",
+        "slot": 397300701,
+        "source": "blockhash"
+      },
+      {
+        "word": "warm",
+        "slot": 397300701,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "flag",
+        "slot": 397300701,
+        "source": "transaction"
+      },
+      {
+        "word": "write",
+        "slot": 397282701,
+        "source": "blockhash"
+      },
+      {
+        "word": "video",
+        "slot": 397282701,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wild",
+        "slot": 397282701,
+        "source": "transaction"
+      },
+      {
+        "word": "raise",
+        "slot": 397264701,
+        "source": "blockhash"
+      },
+      {
+        "word": "police",
+        "slot": 397264701,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cause",
+        "slot": 397264701,
+        "source": "transaction"
+      },
+      {
+        "word": "wife",
+        "slot": 397246701,
+        "source": "blockhash"
+      },
+      {
+        "word": "grant",
+        "slot": 397246701,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dawn",
+        "slot": 397246701,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdryryasp52z",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-01-31",
     "poem": {
       "content": "Toward a cabin, shadowed and deep,\nI felt the great weight of secrets to keep.\nAn inquiry burning, a symptom so clear,\nLike an abandoned elephant, fueled by fear.\n\nSix steps I took, then wanted to flee,\nA junior captain lost on the sea.\nMy finger traced lines on a dusty pane,\nWhispering wishes in the falling rain.\n\nThe offer of cash, a loan in disguise,\nA hollow beauty reflected in my eyes.\nI should abandon this path, turn around and start again,\nbut the dark, sweet heart of grief, no one knows when it will end.\n\nA muffin lay stale, upon a warped plate,\nRepresenting my journey, sealed by fate\nAn inquiry so important, so deep,\nAs this haunted cabin, I knew I never would sleep.\nThe memory haunts, bringing darkness,\nin place of brightness.",
