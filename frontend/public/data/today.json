@@ -1,87 +1,87 @@
 {
-  "date": "2026-02-01",
+  "date": "2026-02-03",
   "poem": {
-    "content": "Dawn paints the sky, a flag of palest light,\nanother shrimp boat idles, barely afloat.\nI throw a glance, then write another line,\nanother decade blurring, caught in my throat.\n\nWe used to live wild here, by the water's edge,\na grant to raise a family, a simple cause.\nBut things grow cold, a bitter, icy ledge,\nand love, unwatered, bends against the laws.\n\nThe wife I held, now echoes in the breeze,\na distant video, replayed in my mind.\nI warm my hands, and beg for inner ease,\nas sirens wail, the police a sorrowful find.\n\nA life unlived, a harvest left to rot,\nthe wild unknown, a dangerous divide.\nI throw myself into the ocean's plot,\na hope to raise my spirits, deep inside.\nOh, to live!",
-    "generatedAt": "2026-02-01T09:18:20.460Z"
+    "content": "A shield of shadows, so private and deep,\nWhere whispers nest, secrets softly sleep.\nEnough light to see the crafted phrase,\nEtched on walls in a moonlit haze.\n\nA few dare enter this exclusive club,\nWhere auto-magic fills each bubbling tub.\nA dose of courage required to stay,\nTo laugh at the ghosts that hold us at bay.\n\nEach nerve exposed, a fragile, raw piece,\nHoping the haunting fears will cease.\nThey scare away dreams, send shivers down spines,\nWhile building walls, definitive lines.\n\nBut within this haven, a strength takes hold,\nA story unfolds, brave and bold.\nThough fear still lingers, like mist in the air,\nA quiet defiance begins to declare.\n\nWe craft new shields from shattered remains,\nAnd whisper the phrase that forever sustains.\nIt's private, it's ours, and in its embrace,\nWe find enough nerve, a sacred space.",
+    "generatedAt": "2026-02-03T09:27:18.258Z"
   },
   "keywords": [
     {
-      "word": "throw",
-      "slot": 397318701,
+      "word": "shield",
+      "slot": 397756094,
       "source": "blockhash"
     },
     {
-      "word": "shrimp",
-      "slot": 397318701,
+      "word": "private",
+      "slot": 397756094,
       "source": "previousBlockhash"
     },
     {
-      "word": "decade",
-      "slot": 397318701,
+      "word": "enough",
+      "slot": 397756094,
       "source": "transaction"
     },
     {
-      "word": "live",
-      "slot": 397300701,
+      "word": "few",
+      "slot": 397738094,
       "source": "blockhash"
     },
     {
-      "word": "warm",
-      "slot": 397300701,
+      "word": "club",
+      "slot": 397738094,
       "source": "previousBlockhash"
     },
     {
-      "word": "flag",
-      "slot": 397300701,
+      "word": "phrase",
+      "slot": 397738094,
       "source": "transaction"
     },
     {
-      "word": "write",
-      "slot": 397282701,
+      "word": "craft",
+      "slot": 397720094,
       "source": "blockhash"
     },
     {
-      "word": "video",
-      "slot": 397282701,
+      "word": "auto",
+      "slot": 397720094,
       "source": "previousBlockhash"
     },
     {
-      "word": "wild",
-      "slot": 397282701,
+      "word": "piece",
+      "slot": 397720094,
       "source": "transaction"
     },
     {
-      "word": "raise",
-      "slot": 397264701,
+      "word": "nest",
+      "slot": 397702094,
       "source": "blockhash"
     },
     {
-      "word": "police",
-      "slot": 397264701,
+      "word": "laugh",
+      "slot": 397702094,
       "source": "previousBlockhash"
     },
     {
-      "word": "cause",
-      "slot": 397264701,
+      "word": "dose",
+      "slot": 397702094,
       "source": "transaction"
     },
     {
-      "word": "wife",
-      "slot": 397246701,
+      "word": "scare",
+      "slot": 397684094,
       "source": "blockhash"
     },
     {
-      "word": "grant",
-      "slot": 397246701,
+      "word": "require",
+      "slot": 397684094,
       "source": "previousBlockhash"
     },
     {
-      "word": "dawn",
-      "slot": 397246701,
+      "word": "nerve",
+      "slot": 397684094,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdryryasp52z",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdx27u5nqu2n",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
