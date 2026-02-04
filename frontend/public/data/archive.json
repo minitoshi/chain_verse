@@ -1,5 +1,78 @@
 [
   {
+    "date": "2026-02-04",
+    "poem": {
+      "content": "A silken method, slow unfurling,\nLike a banner in the dawn's first light.\nVault of secrets, subtly swirling,\nWhere shadows dance and day takes flight.\n\nStay awhile, and watch it grow,\nThis fragile thing, this tender need.\nBehave as if the seeds you sow\nWill blossom into something freed.\n\nExercise the will that sleeps,\nBecome the leopard in the night.\nLift the heart from caverns deeps,\nAwaken bone with burning might.\n\nThe silken banner waves and sighs,\nA leopard's bone, displayed with pride.\nWe stay and watch the morning rise,\nWith method, secrets deep inside.\n\nThe vault protects, the shadows flee,\nAs fragile hopes begin to gleam.\nStay strong, dear heart, and you will see,\nA vibrant, waking, living dream.",
+      "generatedAt": "2026-02-04T09:31:03.245Z"
+    },
+    "keywords": [
+      {
+        "word": "method",
+        "slot": 397975099,
+        "source": "blockhash"
+      },
+      {
+        "word": "banner",
+        "slot": 397975099,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "silk",
+        "slot": 397975099,
+        "source": "transaction"
+      },
+      {
+        "word": "stay",
+        "slot": 397957099,
+        "source": "blockhash"
+      },
+      {
+        "word": "vault",
+        "slot": 397957099,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "behave",
+        "slot": 397957099,
+        "source": "transaction"
+      },
+      {
+        "word": "grow",
+        "slot": 397939099,
+        "source": "blockhash"
+      },
+      {
+        "word": "exercise",
+        "slot": 397939099,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "become",
+        "slot": 397939099,
+        "source": "transaction"
+      },
+      {
+        "word": "lift",
+        "slot": 397921099,
+        "source": "blockhash"
+      },
+      {
+        "word": "bone",
+        "slot": 397921099,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "leopard",
+        "slot": 397921099,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdzkvhia7s2h",
+    "poemReady": true,
+    "keywordsCollected": 12,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-03",
     "poem": {
       "content": "A shield of shadows, so private and deep,\nWhere whispers nest, secrets softly sleep.\nEnough light to see the crafted phrase,\nEtched on walls in a moonlit haze.\n\nA few dare enter this exclusive club,\nWhere auto-magic fills each bubbling tub.\nA dose of courage required to stay,\nTo laugh at the ghosts that hold us at bay.\n\nEach nerve exposed, a fragile, raw piece,\nHoping the haunting fears will cease.\nThey scare away dreams, send shivers down spines,\nWhile building walls, definitive lines.\n\nBut within this haven, a strength takes hold,\nA story unfolds, brave and bold.\nThough fear still lingers, like mist in the air,\nA quiet defiance begins to declare.\n\nWe craft new shields from shattered remains,\nAnd whisper the phrase that forever sustains.\nIt's private, it's ours, and in its embrace,\nWe find enough nerve, a sacred space.",
