@@ -1,73 +1,88 @@
 {
-  "date": "2026-02-04",
+  "date": "2026-02-05",
   "poem": {
-    "content": "A silken method, slow unfurling,\nLike a banner in the dawn's first light.\nVault of secrets, subtly swirling,\nWhere shadows dance and day takes flight.\n\nStay awhile, and watch it grow,\nThis fragile thing, this tender need.\nBehave as if the seeds you sow\nWill blossom into something freed.\n\nExercise the will that sleeps,\nBecome the leopard in the night.\nLift the heart from caverns deeps,\nAwaken bone with burning might.\n\nThe silken banner waves and sighs,\nA leopard's bone, displayed with pride.\nWe stay and watch the morning rise,\nWith method, secrets deep inside.\n\nThe vault protects, the shadows flee,\nAs fragile hopes begin to gleam.\nStay strong, dear heart, and you will see,\nA vibrant, waking, living dream.",
-    "generatedAt": "2026-02-04T09:31:03.245Z"
+    "content": "The spider spun a romance, fine and thin,\nacross the dusty van window, grimed with coast.\nHe wasn't aware the journey starts within,\na beauty born where dreams are almost lost.\n\nAn indoor life, a test of will and grace,\nto truly see the opera in the rain.\nAnd I approve this quiet, cluttered space,\nthough sunlight struggles through the window pane.\n\nA gap appears, a sudden, shining gleam,\nthe chimney breathes a sigh of weary days.\nWe drove along the memories, a stream,\nthat catches fire in the fading haze.\n\nThe van, a haven on the lonely edge,\nwhere life unfolds, a story left untold.\nA weathered map upon the window ledge,\na tale of silver where there once was gold.\n\nAnd though our path is neither clear nor grand,\nthis fragile, fleeting moment understands.",
+    "generatedAt": "2026-02-05T09:31:51.204Z"
   },
   "keywords": [
     {
-      "word": "method",
-      "slot": 397975099,
+      "word": "across",
+      "slot": 398194699,
       "source": "blockhash"
     },
     {
-      "word": "banner",
-      "slot": 397975099,
+      "word": "romance",
+      "slot": 398194699,
       "source": "previousBlockhash"
     },
     {
-      "word": "silk",
-      "slot": 397975099,
+      "word": "aware",
+      "slot": 398194699,
       "source": "transaction"
     },
     {
-      "word": "stay",
-      "slot": 397957099,
+      "word": "indoor",
+      "slot": 398176699,
       "source": "blockhash"
     },
     {
-      "word": "vault",
-      "slot": 397957099,
+      "word": "coast",
+      "slot": 398176699,
       "source": "previousBlockhash"
     },
     {
-      "word": "behave",
-      "slot": 397957099,
+      "word": "van",
+      "slot": 398176699,
       "source": "transaction"
     },
     {
-      "word": "grow",
-      "slot": 397939099,
+      "word": "truly",
+      "slot": 398158699,
       "source": "blockhash"
     },
     {
-      "word": "exercise",
-      "slot": 397939099,
+      "word": "chimney",
+      "slot": 398158699,
       "source": "previousBlockhash"
     },
     {
-      "word": "become",
-      "slot": 397939099,
+      "word": "approve",
+      "slot": 398158699,
       "source": "transaction"
     },
     {
-      "word": "lift",
-      "slot": 397921099,
+      "word": "spider",
+      "slot": 398140699,
       "source": "blockhash"
     },
     {
-      "word": "bone",
-      "slot": 397921099,
+      "word": "beauty",
+      "slot": 398140699,
       "source": "previousBlockhash"
     },
     {
-      "word": "leopard",
-      "slot": 397921099,
+      "word": "test",
+      "slot": 398140699,
+      "source": "transaction"
+    },
+    {
+      "word": "gap",
+      "slot": 398122699,
+      "source": "blockhash"
+    },
+    {
+      "word": "opera",
+      "slot": 398122699,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "edge",
+      "slot": 398122699,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdzkvhia7s2h",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3me43ftgmgn2e",
   "poemReady": true,
-  "keywordsCollected": 12,
+  "keywordsCollected": 15,
   "keywordsNeeded": 8
 }
