@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-06",
+    "poem": {
+      "content": "A comic book of days, a life in every segment,\nThe space between heartbeats, a pregnant, silent hum.\nWe live a painted state, a canvas oil slicked and grim,\nEach gesture, a chosen style, a shattered atom come undone.\n\nThe entry to forever, guarded by a painted liar,\nHis words like weighted march, a crushing, heavy ball.\nThe author of my sorrow, writes a fate I can't deny,\nLeaving me to listen, as the empty echoes call.\n\nBeneath the surface gleam, a deeper darkness waits,\nImprisoned in this type of story, sealed in frozen time.\nI search for a release, for solace through the gates,\nBut the liar's clever script, becomes tragically sublime.\n\nThe painted ball of promise, turns to crashing, cold despair,\nAnother comic segment folds, in March's frigid care.\nThe story ends abruptly, a silent, stifled breath,\nA frozen, hollow lie, a poet’s lonely death.",
+      "generatedAt": "2026-02-06T09:30:58.329Z"
+    },
+    "keywords": [
+      {
+        "word": "comic",
+        "slot": 398415028,
+        "source": "blockhash"
+      },
+      {
+        "word": "segment",
+        "slot": 398415028,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "between",
+        "slot": 398415028,
+        "source": "transaction"
+      },
+      {
+        "word": "live",
+        "slot": 398397028,
+        "source": "blockhash"
+      },
+      {
+        "word": "state",
+        "slot": 398397028,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "oil",
+        "slot": 398397028,
+        "source": "transaction"
+      },
+      {
+        "word": "style",
+        "slot": 398379028,
+        "source": "blockhash"
+      },
+      {
+        "word": "atom",
+        "slot": 398379028,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "liar",
+        "slot": 398379028,
+        "source": "transaction"
+      },
+      {
+        "word": "entry",
+        "slot": 398361028,
+        "source": "blockhash"
+      },
+      {
+        "word": "ball",
+        "slot": 398361028,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "author",
+        "slot": 398361028,
+        "source": "transaction"
+      },
+      {
+        "word": "crush",
+        "slot": 398343028,
+        "source": "blockhash"
+      },
+      {
+        "word": "march",
+        "slot": 398343028,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "type",
+        "slot": 398343028,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3me6lt6325e2z",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-05",
     "poem": {
       "content": "The spider spun a romance, fine and thin,\nacross the dusty van window, grimed with coast.\nHe wasn't aware the journey starts within,\na beauty born where dreams are almost lost.\n\nAn indoor life, a test of will and grace,\nto truly see the opera in the rain.\nAnd I approve this quiet, cluttered space,\nthough sunlight struggles through the window pane.\n\nA gap appears, a sudden, shining gleam,\nthe chimney breathes a sigh of weary days.\nWe drove along the memories, a stream,\nthat catches fire in the fading haze.\n\nThe van, a haven on the lonely edge,\nwhere life unfolds, a story left untold.\nA weathered map upon the window ledge,\na tale of silver where there once was gold.\n\nAnd though our path is neither clear nor grand,\nthis fragile, fleeting moment understands.",
