@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-07",
+    "poem": {
+      "content": "The midnight air, a notable chill,\nindoor, the tobacco smoke did fill.\nA master's gaze, a hired hand's plight,\ndevote to labor, day and night.\n\nAn ankle throbbing, weary from the field,\nwhere golden grain, the land did yield.\nA whale of burden, on his weary back,\nanother harvest, on this dusty track.\n\nHe felt no blame for dreams that would not bloom,\njust silent ache within a shadowed room.\nA roast upon the fire, a hollow feast,\nwhile fortune favored, the powerful beast.\n\nA tooth that ached with every weary chew,\nhis meager purse, could barely see him through.\nHe watched the embers, settle in their bed,\nhis soul like embers, nearly cold and dead.\n\nYet in the darkness, stars began to gleam,\nand whispered hope within a broken dream.",
+      "generatedAt": "2026-02-07T09:18:32.845Z"
+    },
+    "keywords": [
+      {
+        "word": "blame",
+        "slot": 398633321,
+        "source": "blockhash"
+      },
+      {
+        "word": "tobacco",
+        "slot": 398633321,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "ankle",
+        "slot": 398633321,
+        "source": "transaction"
+      },
+      {
+        "word": "master",
+        "slot": 398615321,
+        "source": "blockhash"
+      },
+      {
+        "word": "notable",
+        "slot": 398615321,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hire",
+        "slot": 398615321,
+        "source": "transaction"
+      },
+      {
+        "word": "grain",
+        "slot": 398597321,
+        "source": "blockhash"
+      },
+      {
+        "word": "whale",
+        "slot": 398597321,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tooth",
+        "slot": 398597321,
+        "source": "transaction"
+      },
+      {
+        "word": "devote",
+        "slot": 398579321,
+        "source": "blockhash"
+      },
+      {
+        "word": "midnight",
+        "slot": 398579321,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "gaze",
+        "slot": 398579321,
+        "source": "transaction"
+      },
+      {
+        "word": "indoor",
+        "slot": 398561321,
+        "source": "blockhash"
+      },
+      {
+        "word": "roast",
+        "slot": 398561321,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "purse",
+        "slot": 398561321,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3meb3lvdk7p23",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-06",
     "poem": {
       "content": "A comic book of days, a life in every segment,\nThe space between heartbeats, a pregnant, silent hum.\nWe live a painted state, a canvas oil slicked and grim,\nEach gesture, a chosen style, a shattered atom come undone.\n\nThe entry to forever, guarded by a painted liar,\nHis words like weighted march, a crushing, heavy ball.\nThe author of my sorrow, writes a fate I can't deny,\nLeaving me to listen, as the empty echoes call.\n\nBeneath the surface gleam, a deeper darkness waits,\nImprisoned in this type of story, sealed in frozen time.\nI search for a release, for solace through the gates,\nBut the liar's clever script, becomes tragically sublime.\n\nThe painted ball of promise, turns to crashing, cold despair,\nAnother comic segment folds, in March's frigid care.\nThe story ends abruptly, a silent, stifled breath,\nA frozen, hollow lie, a poet’s lonely death.",
