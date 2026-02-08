@@ -1,87 +1,87 @@
 {
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "poem": {
-    "content": "The midnight air, a notable chill,\nindoor, the tobacco smoke did fill.\nA master's gaze, a hired hand's plight,\ndevote to labor, day and night.\n\nAn ankle throbbing, weary from the field,\nwhere golden grain, the land did yield.\nA whale of burden, on his weary back,\nanother harvest, on this dusty track.\n\nHe felt no blame for dreams that would not bloom,\njust silent ache within a shadowed room.\nA roast upon the fire, a hollow feast,\nwhile fortune favored, the powerful beast.\n\nA tooth that ached with every weary chew,\nhis meager purse, could barely see him through.\nHe watched the embers, settle in their bed,\nhis soul like embers, nearly cold and dead.\n\nYet in the darkness, stars began to gleam,\nand whispered hope within a broken dream.",
-    "generatedAt": "2026-02-07T09:18:32.845Z"
+    "content": "Today, the sun, a glare of sunny might,\nFelt heavy, a powder dust that choked the light.\nThe frog, so young, upon a buffalo's back,\nFaced winds of worry, a relentless attack.\n\nA struggle unfolds, a story half told,\nOf fortunes lost, and dreams grown cold.\nWe speak of success, a promised land,\nYet find ourselves sinking in shifting sand.\n\nThe numbers dance, a confusing array,\n\"Are these correct?\" some voices say.\nA funny feeling, a knot in the chest,\nAs doubts arise, putting hope to the test.\n\nThe air hangs clean, yet tainted with fear,\nWill future fortunes be so near?\nIs everything okay? we ask the sky,\nAs Solana’s pulse beats ever nigh.\nWe tell ourselves, tomorrow will be bright\nAnd let the sunny days guide us out of the night.",
+    "generatedAt": "2026-02-08T09:18:52.275Z"
   },
   "keywords": [
     {
-      "word": "blame",
-      "slot": 398633321,
+      "word": "today",
+      "slot": 398853806,
       "source": "blockhash"
     },
     {
-      "word": "tobacco",
-      "slot": 398633321,
+      "word": "success",
+      "slot": 398853806,
       "source": "previousBlockhash"
     },
     {
-      "word": "ankle",
-      "slot": 398633321,
+      "word": "worry",
+      "slot": 398853806,
       "source": "transaction"
     },
     {
-      "word": "master",
-      "slot": 398615321,
+      "word": "speak",
+      "slot": 398835806,
       "source": "blockhash"
     },
     {
-      "word": "notable",
-      "slot": 398615321,
+      "word": "powder",
+      "slot": 398835806,
       "source": "previousBlockhash"
     },
     {
-      "word": "hire",
-      "slot": 398615321,
+      "word": "sunny",
+      "slot": 398835806,
       "source": "transaction"
     },
     {
-      "word": "grain",
-      "slot": 398597321,
+      "word": "correct",
+      "slot": 398817806,
       "source": "blockhash"
     },
     {
-      "word": "whale",
-      "slot": 398597321,
+      "word": "funny",
+      "slot": 398817806,
       "source": "previousBlockhash"
     },
     {
-      "word": "tooth",
-      "slot": 398597321,
+      "word": "frog",
+      "slot": 398817806,
       "source": "transaction"
     },
     {
-      "word": "devote",
-      "slot": 398579321,
+      "word": "okay",
+      "slot": 398799806,
       "source": "blockhash"
     },
     {
-      "word": "midnight",
-      "slot": 398579321,
+      "word": "buffalo",
+      "slot": 398799806,
       "source": "previousBlockhash"
     },
     {
-      "word": "gaze",
-      "slot": 398579321,
+      "word": "clean",
+      "slot": 398799806,
       "source": "transaction"
     },
     {
-      "word": "indoor",
-      "slot": 398561321,
+      "word": "struggle",
+      "slot": 398781806,
       "source": "blockhash"
     },
     {
-      "word": "roast",
-      "slot": 398561321,
+      "word": "young",
+      "slot": 398781806,
       "source": "previousBlockhash"
     },
     {
-      "word": "purse",
-      "slot": 398561321,
+      "word": "glare",
+      "slot": 398781806,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3meb3lvdk7p23",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3medm3eyyi62e",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
