@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-09",
+    "poem": {
+      "content": "The salt wind, a long, slow cycle turning,\nWhispers of a water grave, forever churning.\nHe stood upon the stage, naive and slight,\nUnaware the coming storm, the fading light.\n\nA fault in the plan, a trick concealed,\nHis awesome dreams about to be repealed.\nThe foam-flecked waves, a cold assault,\nA blade of darkness, cutting to the fault.\n\nHis jacket, a thin shield against the spray,\nCould not deflect what came that day.\nThe faculty observed, with eyes so cold,\nAs destiny's grim story did unfold.\n\nEach scan of the horizon, a futile plea,\nFor rescue from this watery decree.\nThe long, slow cycle now complete,\nIn the foam's embrace, a bitter, salty treat.\n\nHe fought the rising water with all his might,\nBut the salty spray washed away his sight.\nThe sea, a cruel stage, a timeless plight.\nLeaving but foam upon the eternal night.",
+      "generatedAt": "2026-02-09T09:45:11.850Z"
+    },
+    "keywords": [
+      {
+        "word": "long",
+        "slot": 399078279,
+        "source": "blockhash"
+      },
+      {
+        "word": "cycle",
+        "slot": 399078279,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "naive",
+        "slot": 399078279,
+        "source": "transaction"
+      },
+      {
+        "word": "trick",
+        "slot": 399060279,
+        "source": "blockhash"
+      },
+      {
+        "word": "awesome",
+        "slot": 399060279,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "faculty",
+        "slot": 399060279,
+        "source": "transaction"
+      },
+      {
+        "word": "slight",
+        "slot": 399042279,
+        "source": "blockhash"
+      },
+      {
+        "word": "fault",
+        "slot": 399042279,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "blade",
+        "slot": 399042279,
+        "source": "transaction"
+      },
+      {
+        "word": "foam",
+        "slot": 399024279,
+        "source": "blockhash"
+      },
+      {
+        "word": "jacket",
+        "slot": 399024279,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "assault",
+        "slot": 399024279,
+        "source": "transaction"
+      },
+      {
+        "word": "stage",
+        "slot": 399006279,
+        "source": "blockhash"
+      },
+      {
+        "word": "water",
+        "slot": 399006279,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "scan",
+        "slot": 399006279,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3meg5zeovlg2l",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-08",
     "poem": {
       "content": "Today, the sun, a glare of sunny might,\nFelt heavy, a powder dust that choked the light.\nThe frog, so young, upon a buffalo's back,\nFaced winds of worry, a relentless attack.\n\nA struggle unfolds, a story half told,\nOf fortunes lost, and dreams grown cold.\nWe speak of success, a promised land,\nYet find ourselves sinking in shifting sand.\n\nThe numbers dance, a confusing array,\n\"Are these correct?\" some voices say.\nA funny feeling, a knot in the chest,\nAs doubts arise, putting hope to the test.\n\nThe air hangs clean, yet tainted with fear,\nWill future fortunes be so near?\nIs everything okay? we ask the sky,\nAs Solana’s pulse beats ever nigh.\nWe tell ourselves, tomorrow will be bright\nAnd let the sunny days guide us out of the night.",
