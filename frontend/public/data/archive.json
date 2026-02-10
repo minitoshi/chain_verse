@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-10",
+    "poem": {
+      "content": "A fragile idea, sketched in crystal dust,\nA miracle whispered, born of electric trust.\nThe senior coder, a legend in his time,\nWielded power like a sword, in paradigm.\n\nHe watched the monitor, a glassy, knowing stare,\nHis scissors danced; he clipped the tangled snare.\nA shuffle of the code, a subtle, silent plea,\nFor useful grace, for digital decree.\n\nThe sound of progress, a low and steady hum,\nNo empty clap, but victories to come.\nHe saw the pixels bloom, a vibrant, living thing,\nA digital aurora, on emergent wing.\n\nThe sword of doubt, he banished with a glance,\nAnd coded on, a mesmerizing trance.\nThe crystal shimmer, held the future near,\nBanishing all shadow, conquering all fear.\nA useful legacy, forever to transcend,\nA legend’s work, that knows no final end.\nElectric heart, still softly giving ground.",
+      "generatedAt": "2026-02-10T09:45:58.443Z"
+    },
+    "keywords": [
+      {
+        "word": "idea",
+        "slot": 399298184,
+        "source": "blockhash"
+      },
+      {
+        "word": "miracle",
+        "slot": 399298184,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "senior",
+        "slot": 399298184,
+        "source": "transaction"
+      },
+      {
+        "word": "legend",
+        "slot": 399280184,
+        "source": "blockhash"
+      },
+      {
+        "word": "scissors",
+        "slot": 399280184,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "monitor",
+        "slot": 399280184,
+        "source": "transaction"
+      },
+      {
+        "word": "clap",
+        "slot": 399262184,
+        "source": "blockhash"
+      },
+      {
+        "word": "sound",
+        "slot": 399262184,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "useful",
+        "slot": 399262184,
+        "source": "transaction"
+      },
+      {
+        "word": "power",
+        "slot": 399244184,
+        "source": "blockhash"
+      },
+      {
+        "word": "sword",
+        "slot": 399244184,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "shuffle",
+        "slot": 399244184,
+        "source": "transaction"
+      },
+      {
+        "word": "sketch",
+        "slot": 399226184,
+        "source": "blockhash"
+      },
+      {
+        "word": "crystal",
+        "slot": 399226184,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "electric",
+        "slot": 399226184,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3meiojojxec2o",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-09",
     "poem": {
       "content": "The salt wind, a long, slow cycle turning,\nWhispers of a water grave, forever churning.\nHe stood upon the stage, naive and slight,\nUnaware the coming storm, the fading light.\n\nA fault in the plan, a trick concealed,\nHis awesome dreams about to be repealed.\nThe foam-flecked waves, a cold assault,\nA blade of darkness, cutting to the fault.\n\nHis jacket, a thin shield against the spray,\nCould not deflect what came that day.\nThe faculty observed, with eyes so cold,\nAs destiny's grim story did unfold.\n\nEach scan of the horizon, a futile plea,\nFor rescue from this watery decree.\nThe long, slow cycle now complete,\nIn the foam's embrace, a bitter, salty treat.\n\nHe fought the rising water with all his might,\nBut the salty spray washed away his sight.\nThe sea, a cruel stage, a timeless plight.\nLeaving but foam upon the eternal night.",
