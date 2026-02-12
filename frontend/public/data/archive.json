@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-12",
+    "poem": {
+      "content": "The gospel whispered, a brittle doll's confession,\ninside a chipped teacup, humor gone dry.\nOxygen, a thief, stealing youth's procession.\nWe work to find it back, beneath a grieving sky.\n\nA leopard spots its prey, a heart’s soft crumble,\nthe deputy sighs, another accident's grim find.\nGarlic cloves hang, warding as shadows tumble,\na slow exchange, a life left behind.\n\nThe wheel turns onward, relentless and absurd,\ngrinding time to dust, where promises decay.\nA broken kitten mewls, a whispered, unheard word,\nas hope itself begins to fray.\n\nWe search the wreckage, for what we can reclaim,\nbeyond the broken bones, the twisted steel and wire.\nIs there some other purpose, a different kind of aim,\nor simply ashes fueling a burning fire?",
+      "generatedAt": "2026-02-12T09:34:58.972Z"
+    },
+    "keywords": [
+      {
+        "word": "oxygen",
+        "slot": 399736673,
+        "source": "blockhash"
+      },
+      {
+        "word": "find",
+        "slot": 399736673,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "gospel",
+        "slot": 399736673,
+        "source": "transaction"
+      },
+      {
+        "word": "doll",
+        "slot": 399718673,
+        "source": "blockhash"
+      },
+      {
+        "word": "crumble",
+        "slot": 399718673,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wheel",
+        "slot": 399718673,
+        "source": "transaction"
+      },
+      {
+        "word": "leopard",
+        "slot": 399700673,
+        "source": "blockhash"
+      },
+      {
+        "word": "humor",
+        "slot": 399700673,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "accident",
+        "slot": 399700673,
+        "source": "transaction"
+      },
+      {
+        "word": "inside",
+        "slot": 399682673,
+        "source": "blockhash"
+      },
+      {
+        "word": "deputy",
+        "slot": 399682673,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "work",
+        "slot": 399682673,
+        "source": "transaction"
+      },
+      {
+        "word": "exchange",
+        "slot": 399664673,
+        "source": "blockhash"
+      },
+      {
+        "word": "garlic",
+        "slot": 399664673,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "kitten",
+        "slot": 399664673,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3menotv2hhu2q",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-11",
     "poem": {
       "content": "The kingdom sleeps, a walnut shell so deep,\nWhere cabbage dreams stain gardens green and low.\nAn alien light, a violet, cold steep,\nCasts down a moral glare, a spectral glow.\n\nBuffalo roam, in fields of phantom rye,\nTheir heavy steps, a rhythm in the haze.\nThe parrot squawks, a question to the sky:\nWill cinnamon’s promise light these days?\n\nRemain, it whispers, to the earth so brown,\nRemain, as seasons turn, and shadows creep.\nBiology unfolds, then shuts back down,\nLike secrets buried, promises to keep.\n\nThe future beckons, always just ahead,\nA winding path through mists we cannot see.\nThis soapy world, lies softly on its bed,\nSo soon forgotten, just a memory.\n\nThe glare softens, soon the violet fades,\nThe alien gone, as needed, as it came,\nLeaving only cinnamon scented cascades,\nAnd whispers of a yet unknown fame.",
