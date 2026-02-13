@@ -1,87 +1,87 @@
 {
-  "date": "2026-02-12",
+  "date": "2026-02-13",
   "poem": {
-    "content": "The gospel whispered, a brittle doll's confession,\ninside a chipped teacup, humor gone dry.\nOxygen, a thief, stealing youth's procession.\nWe work to find it back, beneath a grieving sky.\n\nA leopard spots its prey, a heart’s soft crumble,\nthe deputy sighs, another accident's grim find.\nGarlic cloves hang, warding as shadows tumble,\na slow exchange, a life left behind.\n\nThe wheel turns onward, relentless and absurd,\ngrinding time to dust, where promises decay.\nA broken kitten mewls, a whispered, unheard word,\nas hope itself begins to fray.\n\nWe search the wreckage, for what we can reclaim,\nbeyond the broken bones, the twisted steel and wire.\nIs there some other purpose, a different kind of aim,\nor simply ashes fueling a burning fire?",
-    "generatedAt": "2026-02-12T09:34:58.972Z"
+    "content": "In any street, the wheat leans low,\nUrge of hunger, a silent plea.\nAn elephant's shadow, a comic show,\nHiding the maple, the old oak tree.\n\nThe tool of hope, rusted and worn,\nLies in the middle, where poverty sleeps.\nA silly dream, a life forlorn,\nWhile the awesome sun, its promise keeps.\n\nErupting forth like ancient fire,\nA join of hands, a strength untold.\nThough fields are bare, and dreams suspire,\nA story whispers, brave and bold.\n\nNo silver spoon, no gilded throne,\nBut in the dust, a spirit bright.\nSeeds of kindness, bravely sown,\nPushing back the endless night.\n\nA simple wish, a fervent prayer,\nTo rise above, escape the snare.\nThe wheat will grow, beyond despair.",
+    "generatedAt": "2026-02-13T09:31:15.286Z"
   },
   "keywords": [
     {
-      "word": "oxygen",
-      "slot": 399736673,
+      "word": "wheat",
+      "slot": 399957385,
       "source": "blockhash"
     },
     {
-      "word": "find",
-      "slot": 399736673,
+      "word": "urge",
+      "slot": 399957385,
       "source": "previousBlockhash"
     },
     {
-      "word": "gospel",
-      "slot": 399736673,
+      "word": "elephant",
+      "slot": 399957385,
       "source": "transaction"
     },
     {
-      "word": "doll",
-      "slot": 399718673,
+      "word": "street",
+      "slot": 399939385,
       "source": "blockhash"
     },
     {
-      "word": "crumble",
-      "slot": 399718673,
+      "word": "tool",
+      "slot": 399939385,
       "source": "previousBlockhash"
     },
     {
-      "word": "wheel",
-      "slot": 399718673,
+      "word": "oak",
+      "slot": 399939385,
       "source": "transaction"
     },
     {
-      "word": "leopard",
-      "slot": 399700673,
+      "word": "maple",
+      "slot": 399921385,
       "source": "blockhash"
     },
     {
-      "word": "humor",
-      "slot": 399700673,
+      "word": "any",
+      "slot": 399921385,
       "source": "previousBlockhash"
     },
     {
-      "word": "accident",
-      "slot": 399700673,
+      "word": "erupt",
+      "slot": 399921385,
       "source": "transaction"
     },
     {
-      "word": "inside",
-      "slot": 399682673,
+      "word": "join",
+      "slot": 399903385,
       "source": "blockhash"
     },
     {
-      "word": "deputy",
-      "slot": 399682673,
+      "word": "awesome",
+      "slot": 399903385,
       "source": "previousBlockhash"
     },
     {
-      "word": "work",
-      "slot": 399682673,
+      "word": "middle",
+      "slot": 399903385,
       "source": "transaction"
     },
     {
-      "word": "exchange",
-      "slot": 399664673,
+      "word": "silly",
+      "slot": 399885385,
       "source": "blockhash"
     },
     {
-      "word": "garlic",
-      "slot": 399664673,
+      "word": "poverty",
+      "slot": 399885385,
       "source": "previousBlockhash"
     },
     {
-      "word": "kitten",
-      "slot": 399664673,
+      "word": "comic",
+      "slot": 399885385,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3menotv2hhu2q",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3meq7456xqm2q",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
