@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-14",
+    "poem": {
+      "content": "An eyebrow arches, a velvet curtain falls,\non a life lived mostly indoor, these days.\nThe laptop glows, a million silent walls,\nreflecting back my own bewildered gaze.\n\nI swing between belief and stark despair,\na pendulum in this digital prison.\nPlease, tell me there’s a breath of open air,\na reason for this constant, cold decision\n\nto stay inside, reporting lines of code,\nthat flicker, dance, and frequently display,\nan 'error' message on the screen, bestowed\nupon me like a modern, weary lei.\n\nThe shop is closed, the salad sits untouched,\na range of feelings I can't well define.\nMy interest wanes, my spirit feels so clutched,\nthis card I hold, it feels so little mine.\n\nThis swing, this prison, what will it release?\nA million hopes, or just a quiet defeat?\nPlease, let me find a moment's inner peace,\nbefore my modern, velvet dreams retreat.",
+      "generatedAt": "2026-02-14T09:18:04.491Z"
+    },
+    "keywords": [
+      {
+        "word": "eyebrow",
+        "slot": 400176533,
+        "source": "blockhash"
+      },
+      {
+        "word": "prison",
+        "slot": 400176533,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "swing",
+        "slot": 400176533,
+        "source": "transaction"
+      },
+      {
+        "word": "please",
+        "slot": 400158533,
+        "source": "blockhash"
+      },
+      {
+        "word": "shop",
+        "slot": 400158533,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "indoor",
+        "slot": 400158533,
+        "source": "transaction"
+      },
+      {
+        "word": "salad",
+        "slot": 400140533,
+        "source": "blockhash"
+      },
+      {
+        "word": "report",
+        "slot": 400140533,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "range",
+        "slot": 400140533,
+        "source": "transaction"
+      },
+      {
+        "word": "error",
+        "slot": 400122533,
+        "source": "blockhash"
+      },
+      {
+        "word": "million",
+        "slot": 400122533,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "velvet",
+        "slot": 400122533,
+        "source": "transaction"
+      },
+      {
+        "word": "interest",
+        "slot": 400104533,
+        "source": "blockhash"
+      },
+      {
+        "word": "laptop",
+        "slot": 400104533,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "card",
+        "slot": 400104533,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mesothmnrg2j",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-13",
     "poem": {
       "content": "In any street, the wheat leans low,\nUrge of hunger, a silent plea.\nAn elephant's shadow, a comic show,\nHiding the maple, the old oak tree.\n\nThe tool of hope, rusted and worn,\nLies in the middle, where poverty sleeps.\nA silly dream, a life forlorn,\nWhile the awesome sun, its promise keeps.\n\nErupting forth like ancient fire,\nA join of hands, a strength untold.\nThough fields are bare, and dreams suspire,\nA story whispers, brave and bold.\n\nNo silver spoon, no gilded throne,\nBut in the dust, a spirit bright.\nSeeds of kindness, bravely sown,\nPushing back the endless night.\n\nA simple wish, a fervent prayer,\nTo rise above, escape the snare.\nThe wheat will grow, beyond despair.",
