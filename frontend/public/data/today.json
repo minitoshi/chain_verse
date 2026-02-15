@@ -1,87 +1,87 @@
 {
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "poem": {
-    "content": "An eyebrow arches, a velvet curtain falls,\non a life lived mostly indoor, these days.\nThe laptop glows, a million silent walls,\nreflecting back my own bewildered gaze.\n\nI swing between belief and stark despair,\na pendulum in this digital prison.\nPlease, tell me there’s a breath of open air,\na reason for this constant, cold decision\n\nto stay inside, reporting lines of code,\nthat flicker, dance, and frequently display,\nan 'error' message on the screen, bestowed\nupon me like a modern, weary lei.\n\nThe shop is closed, the salad sits untouched,\na range of feelings I can't well define.\nMy interest wanes, my spirit feels so clutched,\nthis card I hold, it feels so little mine.\n\nThis swing, this prison, what will it release?\nA million hopes, or just a quiet defeat?\nPlease, let me find a moment's inner peace,\nbefore my modern, velvet dreams retreat.",
-    "generatedAt": "2026-02-14T09:18:04.491Z"
+    "content": "We embody secrets, etched in fading light,\nAn artefact unearthed, in pale moonlight.\nRemember the apple, falling from its height,\nA sudden accident, stealing summer's might.\n\nThe exhaust fumes rise, a ghostly, greyish fan,\nAs fortune's cart begins its destined scan,\nHoping to rally forces, where hope began,\nBefore the crumbling lock, betrays the plan.\n\nA sweet, deceptive pudding, hides the bitter pill,\nA detail overlooked, upon the lonely hill.\nThe ancient order starts to weaken and to still,\nTo topple down to nothing, against our will.\n\nWe leave behind the remnants of the fray,\nWhere shadows lengthen, at the close of day.\nLet whispers carry stories far away,\nUntil the echoes softly fade and play.",
+    "generatedAt": "2026-02-15T09:18:42.097Z"
   },
   "keywords": [
     {
-      "word": "eyebrow",
-      "slot": 400176533,
+      "word": "embody",
+      "slot": 400398044,
       "source": "blockhash"
     },
     {
-      "word": "prison",
-      "slot": 400176533,
+      "word": "detail",
+      "slot": 400398044,
       "source": "previousBlockhash"
     },
     {
-      "word": "swing",
-      "slot": 400176533,
+      "word": "topple",
+      "slot": 400398044,
       "source": "transaction"
     },
     {
-      "word": "please",
-      "slot": 400158533,
+      "word": "rally",
+      "slot": 400380044,
       "source": "blockhash"
     },
     {
-      "word": "shop",
-      "slot": 400158533,
+      "word": "leave",
+      "slot": 400380044,
       "source": "previousBlockhash"
     },
     {
-      "word": "indoor",
-      "slot": 400158533,
+      "word": "fan",
+      "slot": 400380044,
       "source": "transaction"
     },
     {
-      "word": "salad",
-      "slot": 400140533,
+      "word": "height",
+      "slot": 400362044,
       "source": "blockhash"
     },
     {
-      "word": "report",
-      "slot": 400140533,
+      "word": "artefact",
+      "slot": 400362044,
       "source": "previousBlockhash"
     },
     {
-      "word": "range",
-      "slot": 400140533,
+      "word": "pudding",
+      "slot": 400362044,
       "source": "transaction"
     },
     {
-      "word": "error",
-      "slot": 400122533,
+      "word": "accident",
+      "slot": 400344044,
       "source": "blockhash"
     },
     {
-      "word": "million",
-      "slot": 400122533,
+      "word": "lock",
+      "slot": 400344044,
       "source": "previousBlockhash"
     },
     {
-      "word": "velvet",
-      "slot": 400122533,
+      "word": "remember",
+      "slot": 400344044,
       "source": "transaction"
     },
     {
-      "word": "interest",
-      "slot": 400104533,
+      "word": "apple",
+      "slot": 400326044,
       "source": "blockhash"
     },
     {
-      "word": "laptop",
-      "slot": 400104533,
+      "word": "exhaust",
+      "slot": 400326044,
       "source": "previousBlockhash"
     },
     {
-      "word": "card",
-      "slot": 400104533,
+      "word": "cart",
+      "slot": 400326044,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mesothmnrg2j",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mev7djtaph2e",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
