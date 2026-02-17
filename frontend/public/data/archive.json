@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-17",
+    "poem": {
+      "content": "The cabin whispers, damp and old,\nA place where weary stories fold.\nRetire here, by the crystal lake,\nWatch sunlight new awaken break.\n\nWelcome, traveler, jump the gate,\nLeave behind the sting of fate.\nThe valve within, release the strain,\nRebuild your heart, begin again.\n\nNo glory sought, no bitter need,\nJust ethics planted, like a seed.\nA brush of wind across the face,\nFind comfort in this quiet place.\n\nCoffee steams, a fragrant art,\nA solace to a weary heart.\nFruit hangs heavy, ripe and sweet,\nA style of living, incomplete?\n\nThe damp earth sighs, a gentle plea,\nFor understanding, wild and free.\nThis lake-glass holds a truth unseen,\nA vibrant, tranquil, hopeful sheen.",
+      "generatedAt": "2026-02-17T09:35:19.101Z"
+    },
+    "keywords": [
+      {
+        "word": "glory",
+        "slot": 400842532,
+        "source": "blockhash"
+      },
+      {
+        "word": "coffee",
+        "slot": 400842532,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "welcome",
+        "slot": 400842532,
+        "source": "transaction"
+      },
+      {
+        "word": "brush",
+        "slot": 400824532,
+        "source": "blockhash"
+      },
+      {
+        "word": "valve",
+        "slot": 400824532,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "lake",
+        "slot": 400824532,
+        "source": "transaction"
+      },
+      {
+        "word": "jump",
+        "slot": 400806532,
+        "source": "blockhash"
+      },
+      {
+        "word": "style",
+        "slot": 400806532,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cabin",
+        "slot": 400806532,
+        "source": "transaction"
+      },
+      {
+        "word": "rebuild",
+        "slot": 400788532,
+        "source": "blockhash"
+      },
+      {
+        "word": "fruit",
+        "slot": 400788532,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "damp",
+        "slot": 400788532,
+        "source": "transaction"
+      },
+      {
+        "word": "retire",
+        "slot": 400770532,
+        "source": "blockhash"
+      },
+      {
+        "word": "crystal",
+        "slot": 400770532,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "ethics",
+        "slot": 400770532,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mf2b73now724",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-16",
     "poem": {
       "content": "The alley scene, a blur of neon hiss,\nA junior coder, face aglow, a kiss\nof moonlight on his weary brow. He’d sought\nto clarify a bug, a battle fraught\n\nwith crazy logic. Version nine crashed hard,\na pigeon cooed, a feathered, jaded guard.\nThe buzz of servers, a relentless drone,\nas gas leaked hope, and left him quite alone.\n\nHe watched the city lights begin to flee,\nas dreams depart, and lose futurity.\nA segment lost, unfindable, it seems,\nwhile pizza grew cold, alongside shattered dreams.\n\nHe'd conduct research till the morning light,\nif only to resolve this digital blight.\nA surprise waits, a flicker in the code,\na whispered clue, a path begins to erode\n\nthe wall of doubt. Perhaps, he thought, and smiled,\nhe'd solve this yet, though crouched, and quite beguiled.\nA sudden clarity, a final grace,\na solution found, in this forgotten place.",
