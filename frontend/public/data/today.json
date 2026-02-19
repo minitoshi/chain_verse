@@ -1,88 +1,83 @@
 {
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "poem": {
-    "content": "A lonely thunder cracked the dawn,\nAn orphan wind across the lawn.\nThe pilot, weary, watched it crawl,\nA ripple shaking one and all.\n\nUnhappy whispers in the air,\nA list of sorrows, hard to bear.\nThe smart system saw it plain,\nEarth's fragile sorrow, etched in rain.\n\nA wolf's lament, a mournful cry,\nBeneath a pistol, in the sky.\nAn insect crawled upon the stone,\nIts tiny world, utterly alone.\n\nPush the feelings down and deep,\nWhere secrets slumber, secrets sleep.\nA catalog of broken dreams,\nOf shattered hopes and icy streams.\n\nNo settling, just a restless surge,\nA constant pull, a hidden urge.\nTo fly beyond, to break the mold,\nA story yet to be unrolled.",
-    "generatedAt": "2026-02-18T09:33:36.541Z"
+    "content": "In February's pale and fading light,\nA mystery unfolds, a diamond's gleam.\nThe genuine heart hidden from public sight,\nLike a wolf in sheep's clothing, a twisted dream.\n\nI arrive at a cabin, weathered and gray,\nWhere uncle used to wrestle with the past.\nEach item whispering of yesterday,\nA legacy of shadows, fading fast.\n\nMimic the old ways, the stories told,\nPraise the forgotten gods in rustling trees.\nA secret buried, brave and bold,\nCarried on the wind, a mournful breeze.\n\nBut shadows lengthen, secrets hide,\nA wolf's keen senses, sharp and deep,\nWhere truth and lies, forever ride,\nAs what seemed genuine, now feigns to sleep.\nA twist awaits, a hidden sting,\nThis uncle's world, an unfinished thing.",
+    "generatedAt": "2026-02-19T09:32:28.895Z"
   },
   "keywords": [
     {
-      "word": "thunder",
-      "slot": 401061915,
+      "word": "twist",
+      "slot": 401281797,
       "source": "blockhash"
     },
     {
-      "word": "pilot",
-      "slot": 401061915,
+      "word": "diamond",
+      "slot": 401281797,
       "source": "previousBlockhash"
+    },
+    {
+      "word": "item",
+      "slot": 401281797,
+      "source": "transaction"
+    },
+    {
+      "word": "arrive",
+      "slot": 401263797,
+      "source": "blockhash"
+    },
+    {
+      "word": "genuine",
+      "slot": 401263797,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "mystery",
+      "slot": 401263797,
+      "source": "transaction"
+    },
+    {
+      "word": "public",
+      "slot": 401245797,
+      "source": "blockhash"
     },
     {
       "word": "wolf",
-      "slot": 401061915,
-      "source": "transaction"
-    },
-    {
-      "word": "catalog",
-      "slot": 401043915,
-      "source": "blockhash"
-    },
-    {
-      "word": "unhappy",
-      "slot": 401043915,
+      "slot": 401245797,
       "source": "previousBlockhash"
     },
     {
-      "word": "push",
-      "slot": 401043915,
+      "word": "uncle",
+      "slot": 401245797,
       "source": "transaction"
     },
     {
-      "word": "list",
-      "slot": 401025915,
+      "word": "praise",
+      "slot": 401227797,
       "source": "blockhash"
     },
     {
-      "word": "smart",
-      "slot": 401025915,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "pistol",
-      "slot": 401025915,
+      "word": "february",
+      "slot": 401227797,
       "source": "transaction"
     },
     {
-      "word": "ripple",
-      "slot": 401007915,
+      "word": "mimic",
+      "slot": 401209797,
       "source": "blockhash"
     },
     {
-      "word": "earth",
-      "slot": 401007915,
+      "word": "wrestle",
+      "slot": 401209797,
       "source": "previousBlockhash"
     },
     {
-      "word": "system",
-      "slot": 401007915,
-      "source": "transaction"
-    },
-    {
-      "word": "orphan",
-      "slot": 400989915,
-      "source": "blockhash"
-    },
-    {
-      "word": "insect",
-      "slot": 400989915,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "settle",
-      "slot": 400989915,
+      "word": "cabin",
+      "slot": 401209797,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mf4rkwv3ow2q",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mf7bxubbmk2b",
   "poemReady": true,
-  "keywordsCollected": 15,
+  "keywordsCollected": 14,
   "keywordsNeeded": 8
 }
