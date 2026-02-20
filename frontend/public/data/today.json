@@ -1,83 +1,88 @@
 {
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "poem": {
-    "content": "In February's pale and fading light,\nA mystery unfolds, a diamond's gleam.\nThe genuine heart hidden from public sight,\nLike a wolf in sheep's clothing, a twisted dream.\n\nI arrive at a cabin, weathered and gray,\nWhere uncle used to wrestle with the past.\nEach item whispering of yesterday,\nA legacy of shadows, fading fast.\n\nMimic the old ways, the stories told,\nPraise the forgotten gods in rustling trees.\nA secret buried, brave and bold,\nCarried on the wind, a mournful breeze.\n\nBut shadows lengthen, secrets hide,\nA wolf's keen senses, sharp and deep,\nWhere truth and lies, forever ride,\nAs what seemed genuine, now feigns to sleep.\nA twist awaits, a hidden sting,\nThis uncle's world, an unfinished thing.",
-    "generatedAt": "2026-02-19T09:32:28.895Z"
+    "content": "The silver coyote, silent on the cliff,\nwatches the bright sun retire, a promise kept.\nNo aunt's frail hand to guide, no border known,\njust endless blue where sea and heavens atone.\n\nMarch whispers secrets on the salty breeze,\na flower trembles, yearning for the trees.\nRelax, it sighs, as waves begin to slide,\ndown sandy slopes where dreams can gently hide.\n\nThe claw of worry, once so sharp and deep,\nbegins to loosen, lets the spirit sleep.\nA distant gate creaks open, an invite,\nto point the compass towards the fading light.\n\nNo frantic rush, no desperate, hurried plea,\njust peace that settles, washes over me.\nThe coyote howls, a mournful, lonely strain,\nthen silence settles, easing all the pain.\nUpon the cliff so very high,\nbelow which the bright stars gently sigh.",
+    "generatedAt": "2026-02-20T09:28:56.920Z"
   },
   "keywords": [
     {
-      "word": "twist",
-      "slot": 401281797,
+      "word": "bright",
+      "slot": 401500739,
       "source": "blockhash"
     },
     {
-      "word": "diamond",
-      "slot": 401281797,
+      "word": "border",
+      "slot": 401500739,
       "source": "previousBlockhash"
     },
     {
-      "word": "item",
-      "slot": 401281797,
+      "word": "slide",
+      "slot": 401500739,
       "source": "transaction"
     },
     {
-      "word": "arrive",
-      "slot": 401263797,
+      "word": "claw",
+      "slot": 401482739,
       "source": "blockhash"
     },
     {
-      "word": "genuine",
-      "slot": 401263797,
+      "word": "aunt",
+      "slot": 401482739,
       "source": "previousBlockhash"
     },
     {
-      "word": "mystery",
-      "slot": 401263797,
+      "word": "march",
+      "slot": 401482739,
       "source": "transaction"
     },
     {
-      "word": "public",
-      "slot": 401245797,
+      "word": "flower",
+      "slot": 401464739,
       "source": "blockhash"
     },
     {
-      "word": "wolf",
-      "slot": 401245797,
+      "word": "point",
+      "slot": 401464739,
       "source": "previousBlockhash"
     },
     {
-      "word": "uncle",
-      "slot": 401245797,
+      "word": "relax",
+      "slot": 401464739,
       "source": "transaction"
     },
     {
-      "word": "praise",
-      "slot": 401227797,
+      "word": "silent",
+      "slot": 401446739,
       "source": "blockhash"
     },
     {
-      "word": "february",
-      "slot": 401227797,
-      "source": "transaction"
-    },
-    {
-      "word": "mimic",
-      "slot": 401209797,
-      "source": "blockhash"
-    },
-    {
-      "word": "wrestle",
-      "slot": 401209797,
+      "word": "gate",
+      "slot": 401446739,
       "source": "previousBlockhash"
     },
     {
-      "word": "cabin",
-      "slot": 401209797,
+      "word": "cliff",
+      "slot": 401446739,
+      "source": "transaction"
+    },
+    {
+      "word": "retire",
+      "slot": 401428739,
+      "source": "blockhash"
+    },
+    {
+      "word": "silver",
+      "slot": 401428739,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "coyote",
+      "slot": 401428739,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mf7bxubbmk2b",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mfbsahks572c",
   "poemReady": true,
-  "keywordsCollected": 14,
+  "keywordsCollected": 15,
   "keywordsNeeded": 8
 }
