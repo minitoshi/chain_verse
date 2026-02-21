@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-21",
+    "poem": {
+      "content": "The author, ill with doubt, made a choice,\nA lottery of fate, voice given voice.\nCould he cancel the echoes, the haunting refrain?\nOr track the lost steps through sun and through rain?\n\nA minimum offering, a cabbage heart bared,\nTo a glue-bound world, unprepared, un-cared.\nHe'd guess at the future, a flickering screen,\nA video of hope, a vibrant, false sheen.\n\nTo inform the unknowable, endorse the unseen,\nTo confirm a belief where none had once been.\nThe track led him onward, a winding, dark road,\nWhere faith was a burden, existence bestowed.\n\nHe hoped for a glimpse, a celestial sign,\nBeyond the pale cabbage, the digital line.\nThe glue held him fast, to fortune or ill,\nAgainst his own nature, against his own will.",
+      "generatedAt": "2026-02-21T09:17:22.692Z"
+    },
+    "keywords": [
+      {
+        "word": "author",
+        "slot": 401718775,
+        "source": "blockhash"
+      },
+      {
+        "word": "ill",
+        "slot": 401718775,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "choice",
+        "slot": 401718775,
+        "source": "transaction"
+      },
+      {
+        "word": "cancel",
+        "slot": 401700775,
+        "source": "blockhash"
+      },
+      {
+        "word": "track",
+        "slot": 401700775,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "guess",
+        "slot": 401700775,
+        "source": "transaction"
+      },
+      {
+        "word": "hope",
+        "slot": 401682775,
+        "source": "blockhash"
+      },
+      {
+        "word": "video",
+        "slot": 401682775,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cabbage",
+        "slot": 401682775,
+        "source": "transaction"
+      },
+      {
+        "word": "glue",
+        "slot": 401664775,
+        "source": "blockhash"
+      },
+      {
+        "word": "inform",
+        "slot": 401664775,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "confirm",
+        "slot": 401664775,
+        "source": "transaction"
+      },
+      {
+        "word": "minimum",
+        "slot": 401646775,
+        "source": "blockhash"
+      },
+      {
+        "word": "endorse",
+        "slot": 401646775,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "lottery",
+        "slot": 401646775,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mfec2oxi3d2s",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-20",
     "poem": {
       "content": "The silver coyote, silent on the cliff,\nwatches the bright sun retire, a promise kept.\nNo aunt's frail hand to guide, no border known,\njust endless blue where sea and heavens atone.\n\nMarch whispers secrets on the salty breeze,\na flower trembles, yearning for the trees.\nRelax, it sighs, as waves begin to slide,\ndown sandy slopes where dreams can gently hide.\n\nThe claw of worry, once so sharp and deep,\nbegins to loosen, lets the spirit sleep.\nA distant gate creaks open, an invite,\nto point the compass towards the fading light.\n\nNo frantic rush, no desperate, hurried plea,\njust peace that settles, washes over me.\nThe coyote howls, a mournful, lonely strain,\nthen silence settles, easing all the pain.\nUpon the cliff so very high,\nbelow which the bright stars gently sigh.",
