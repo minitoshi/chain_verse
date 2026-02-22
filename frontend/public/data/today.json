@@ -1,87 +1,87 @@
 {
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "poem": {
-    "content": "The author, ill with doubt, made a choice,\nA lottery of fate, voice given voice.\nCould he cancel the echoes, the haunting refrain?\nOr track the lost steps through sun and through rain?\n\nA minimum offering, a cabbage heart bared,\nTo a glue-bound world, unprepared, un-cared.\nHe'd guess at the future, a flickering screen,\nA video of hope, a vibrant, false sheen.\n\nTo inform the unknowable, endorse the unseen,\nTo confirm a belief where none had once been.\nThe track led him onward, a winding, dark road,\nWhere faith was a burden, existence bestowed.\n\nHe hoped for a glimpse, a celestial sign,\nBeyond the pale cabbage, the digital line.\nThe glue held him fast, to fortune or ill,\nAgainst his own nature, against his own will.",
-    "generatedAt": "2026-02-21T09:17:22.692Z"
+    "content": "The robot, hungry, held a noodle thin,\nIts gaze, a solar flare behind the screen.\nA panda sighed, a brown volcano's crest,\nA silent promise, put to life's hard test.\n\nThe range stretched far, a canvas deep and wide,\nWhere various creatures sought a place to hide.\nA fallen mushroom, plump beneath the tree,\nAn earthy offering, wild and strangely free.\n\nThe robot knew one thing, a burning need,\nTo fix the broken circuits; plant the seed\nOf something new, a purpose to be found,\nBeyond the circuits, on solid ground.\n\nHe looked forward, with a hopeful, coded sigh,\nThe molten brown reflecting in his eye.\nNo longer hiding, where long shadows creep,\nNo longing gaze, where secrets lie so deep.\n\nThe panda watched, from slopes of jade and grey;\nThe future waits, unfolding day by day.\nThe past forgotten, what's behind is gone,\nA brand new dawn, where purpose now is born.",
+    "generatedAt": "2026-02-22T09:18:03.769Z"
   },
   "keywords": [
     {
-      "word": "author",
-      "slot": 401718775,
+      "word": "fix",
+      "slot": 401938774,
       "source": "blockhash"
     },
     {
-      "word": "ill",
-      "slot": 401718775,
+      "word": "mushroom",
+      "slot": 401938774,
       "source": "previousBlockhash"
     },
     {
-      "word": "choice",
-      "slot": 401718775,
+      "word": "volcano",
+      "slot": 401938774,
       "source": "transaction"
     },
     {
-      "word": "cancel",
-      "slot": 401700775,
+      "word": "brown",
+      "slot": 401920774,
       "source": "blockhash"
     },
     {
-      "word": "track",
-      "slot": 401700775,
+      "word": "noodle",
+      "slot": 401920774,
       "source": "previousBlockhash"
     },
     {
-      "word": "guess",
-      "slot": 401700775,
+      "word": "hungry",
+      "slot": 401920774,
       "source": "transaction"
     },
     {
-      "word": "hope",
-      "slot": 401682775,
+      "word": "robot",
+      "slot": 401902774,
       "source": "blockhash"
     },
     {
-      "word": "video",
-      "slot": 401682775,
+      "word": "range",
+      "slot": 401902774,
       "source": "previousBlockhash"
     },
     {
-      "word": "cabbage",
-      "slot": 401682775,
+      "word": "need",
+      "slot": 401902774,
       "source": "transaction"
     },
     {
-      "word": "glue",
-      "slot": 401664775,
+      "word": "panda",
+      "slot": 401884774,
       "source": "blockhash"
     },
     {
-      "word": "inform",
-      "slot": 401664775,
+      "word": "solar",
+      "slot": 401884774,
       "source": "previousBlockhash"
     },
     {
-      "word": "confirm",
-      "slot": 401664775,
+      "word": "behind",
+      "slot": 401884774,
       "source": "transaction"
     },
     {
-      "word": "minimum",
-      "slot": 401646775,
+      "word": "various",
+      "slot": 401866774,
       "source": "blockhash"
     },
     {
-      "word": "endorse",
-      "slot": 401646775,
+      "word": "gaze",
+      "slot": 401866774,
       "source": "previousBlockhash"
     },
     {
-      "word": "lottery",
-      "slot": 401646775,
+      "word": "forward",
+      "slot": 401866774,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mfec2oxi3d2s",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mfgsksd2tn2w",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
