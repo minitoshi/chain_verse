@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-24",
+    "poem": {
+      "content": "The wind, a coyote's lonely cry,\nupon the mountain, etched so high.\nI push against the icy air,\na viable escape, beyond compare.\n\nMy skis carve lines, a mesh of white,\nwhile shadows lengthen in the fading light.\nA distant antenna, stark and cold,\na story whispered, yet untold.\n\nThe actual danger, starts to bite,\nthe tiger in my soul takes flight.\nA reckless hip, a sudden fall,\nI pray for rescue, hear the call.\n\nA good samaritan, through snow appears,\nerasing doubt, dispelling fears.\nHis weathered face, a living tool,\nto mend the spirit, break the cruel\n\ntattoo of the past, to start anew,\nand inspire hope, fresh and true.\nHe lifts me gently, from the snow,\nviable again, lets courage grow.",
+      "generatedAt": "2026-02-24T09:38:26.092Z"
+    },
+    "keywords": [
+      {
+        "word": "push",
+        "slot": 402380634,
+        "source": "blockhash"
+      },
+      {
+        "word": "ski",
+        "slot": 402380634,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hip",
+        "slot": 402380634,
+        "source": "transaction"
+      },
+      {
+        "word": "rescue",
+        "slot": 402362634,
+        "source": "blockhash"
+      },
+      {
+        "word": "antenna",
+        "slot": 402362634,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tiger",
+        "slot": 402362634,
+        "source": "transaction"
+      },
+      {
+        "word": "inspire",
+        "slot": 402344634,
+        "source": "blockhash"
+      },
+      {
+        "word": "tattoo",
+        "slot": 402344634,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "viable",
+        "slot": 402344634,
+        "source": "transaction"
+      },
+      {
+        "word": "upon",
+        "slot": 402326634,
+        "source": "blockhash"
+      },
+      {
+        "word": "actual",
+        "slot": 402326634,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "coyote",
+        "slot": 402326634,
+        "source": "transaction"
+      },
+      {
+        "word": "mesh",
+        "slot": 402308634,
+        "source": "blockhash"
+      },
+      {
+        "word": "good",
+        "slot": 402308634,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tool",
+        "slot": 402308634,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mflun47ws52w",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-23",
     "poem": {
       "content": "A ranch stood silent, swallowed by the heat,\nWhere once a book lay open, poetry incomplete.\nNow, only smoke, a serpent in the sky,\nAnd a panic building, asking why, oh why?\n\nA crucial error, etched within the code,\nA turtle stalled, beneath a heavy load.\nWe found a sample, tarnished, green, and cold,\nA story whispered, never to be told.\n\nEager eyes, so keen to understand,\nThis digital landscape, shifting in the sand.\nEither soar like rockets, burning ever bright,\nOr fumble blindly, lost within the night.\n\nWe climb the frame of what we thought we knew,\nSeeking answers, honest, strong, and true.\nA single spot, a flicker in the haze,\nA memory returns of sun-filled days.\n\nWe planned a visit, someday, long ago,\nBefore the fire, before the undertow.\nNow only echoes, where the data streams,\nShattered fragments of departed dreams.",
