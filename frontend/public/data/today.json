@@ -1,88 +1,83 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "poem": {
-    "content": "The wind, a coyote's lonely cry,\nupon the mountain, etched so high.\nI push against the icy air,\na viable escape, beyond compare.\n\nMy skis carve lines, a mesh of white,\nwhile shadows lengthen in the fading light.\nA distant antenna, stark and cold,\na story whispered, yet untold.\n\nThe actual danger, starts to bite,\nthe tiger in my soul takes flight.\nA reckless hip, a sudden fall,\nI pray for rescue, hear the call.\n\nA good samaritan, through snow appears,\nerasing doubt, dispelling fears.\nHis weathered face, a living tool,\nto mend the spirit, break the cruel\n\ntattoo of the past, to start anew,\nand inspire hope, fresh and true.\nHe lifts me gently, from the snow,\nviable again, lets courage grow.",
-    "generatedAt": "2026-02-24T09:38:26.092Z"
+    "content": "The morning breaks, a pale and fragile thing,\nas dust motes dance, and shadows start to sing.\nWe crouch low, beneath a sky of lead,\na gadget hums, beside a sleeping head.\n\nA leader whispers, plans of how to sail,\nupon a sea where hope begins to fail.\nTo reopen gates, to worlds lost long ago,\na venture fraught with risk, we barely know.\n\nThe drill begins, a grinding, metal plea,\nto pierce the veil, and finally to be free.\nWe receive whispers, echoes in the stone,\na blast of air, where silence had been sown.\n\nThe sort of strength it takes to carry on,\nwhen faith is frayed, and every dream is gone.\nWe sail on blindly, trusting to the breeze,\na slow response that scarcely seems to appease.\n\nBut in the dark, a flicker starts to grow,\na fragile seed, of something we don't know.\nAnd maybe, just maybe, we can rise again.",
+    "generatedAt": "2026-02-25T09:39:59.463Z"
   },
   "keywords": [
     {
-      "word": "push",
-      "slot": 402380634,
+      "word": "reopen",
+      "slot": 402598992,
       "source": "blockhash"
     },
     {
-      "word": "ski",
-      "slot": 402380634,
+      "word": "receive",
+      "slot": 402598992,
       "source": "previousBlockhash"
     },
     {
-      "word": "hip",
-      "slot": 402380634,
+      "word": "sort",
+      "slot": 402598992,
       "source": "transaction"
     },
     {
-      "word": "rescue",
-      "slot": 402362634,
+      "word": "crouch",
+      "slot": 402580992,
       "source": "blockhash"
     },
     {
-      "word": "antenna",
-      "slot": 402362634,
+      "word": "drill",
+      "slot": 402580992,
       "source": "previousBlockhash"
     },
     {
-      "word": "tiger",
-      "slot": 402362634,
+      "word": "leader",
+      "slot": 402580992,
       "source": "transaction"
     },
     {
-      "word": "inspire",
-      "slot": 402344634,
+      "word": "blast",
+      "slot": 402562992,
       "source": "blockhash"
     },
     {
-      "word": "tattoo",
-      "slot": 402344634,
+      "word": "faith",
+      "slot": 402562992,
       "source": "previousBlockhash"
     },
     {
-      "word": "viable",
-      "slot": 402344634,
+      "word": "risk",
+      "slot": 402544992,
+      "source": "blockhash"
+    },
+    {
+      "word": "morning",
+      "slot": 402544992,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "gadget",
+      "slot": 402544992,
       "source": "transaction"
     },
     {
-      "word": "upon",
-      "slot": 402326634,
+      "word": "venture",
+      "slot": 402526992,
       "source": "blockhash"
     },
     {
-      "word": "actual",
-      "slot": 402326634,
+      "word": "response",
+      "slot": 402526992,
       "source": "previousBlockhash"
     },
     {
-      "word": "coyote",
-      "slot": 402326634,
-      "source": "transaction"
-    },
-    {
-      "word": "mesh",
-      "slot": 402308634,
-      "source": "blockhash"
-    },
-    {
-      "word": "good",
-      "slot": 402308634,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "tool",
-      "slot": 402308634,
+      "word": "sail",
+      "slot": 402526992,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mflun47ws52w",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mfof6s3amc2v",
   "poemReady": true,
-  "keywordsCollected": 15,
+  "keywordsCollected": 14,
   "keywordsNeeded": 8
 }
