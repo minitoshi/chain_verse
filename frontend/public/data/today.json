@@ -1,83 +1,88 @@
 {
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "poem": {
-    "content": "The morning breaks, a pale and fragile thing,\nas dust motes dance, and shadows start to sing.\nWe crouch low, beneath a sky of lead,\na gadget hums, beside a sleeping head.\n\nA leader whispers, plans of how to sail,\nupon a sea where hope begins to fail.\nTo reopen gates, to worlds lost long ago,\na venture fraught with risk, we barely know.\n\nThe drill begins, a grinding, metal plea,\nto pierce the veil, and finally to be free.\nWe receive whispers, echoes in the stone,\na blast of air, where silence had been sown.\n\nThe sort of strength it takes to carry on,\nwhen faith is frayed, and every dream is gone.\nWe sail on blindly, trusting to the breeze,\na slow response that scarcely seems to appease.\n\nBut in the dark, a flicker starts to grow,\na fragile seed, of something we don't know.\nAnd maybe, just maybe, we can rise again.",
-    "generatedAt": "2026-02-25T09:39:59.463Z"
+    "content": "We close the wire, a whispered hope,\nA hunt for something real, beyond the scope\nOf this pledge we made, fueled by the night\nAnd alcohol’s false, flickering light.\n\nAn enemy lurks, a painted face,\nA clown grinning in this desolate place.\nWe thought our ability would shield us, strong,\nBut the game of tennis, played for far too long,\nHas taken its toll, a talent unwound,\nLeaving only silence, on tainted ground.\n\nNominee for heartbreak, that is all I see,\nRomance shattered, a ghost haunting me.\nI never thought it would end this way,\nA chunk of my soul torn clean away.\n\nWe hunt for answers in the failing light,\nBut find only shadows, and endless night.\nI never believed in fairytale endings,\nOnly broken shields, and fractured mendings.\nWe are the wire, frayed & bare.\nI close my eyes --\nthere is nothing there.",
+    "generatedAt": "2026-02-26T09:35:32.850Z"
   },
   "keywords": [
     {
-      "word": "reopen",
-      "slot": 402598992,
+      "word": "close",
+      "slot": 402816305,
       "source": "blockhash"
     },
     {
-      "word": "receive",
-      "slot": 402598992,
+      "word": "wire",
+      "slot": 402816305,
       "source": "previousBlockhash"
     },
     {
-      "word": "sort",
-      "slot": 402598992,
+      "word": "hunt",
+      "slot": 402816305,
       "source": "transaction"
     },
     {
-      "word": "crouch",
-      "slot": 402580992,
+      "word": "pledge",
+      "slot": 402798305,
       "source": "blockhash"
     },
     {
-      "word": "drill",
-      "slot": 402580992,
+      "word": "alcohol",
+      "slot": 402798305,
       "source": "previousBlockhash"
     },
     {
-      "word": "leader",
-      "slot": 402580992,
+      "word": "ability",
+      "slot": 402798305,
       "source": "transaction"
     },
     {
-      "word": "blast",
-      "slot": 402562992,
+      "word": "never",
+      "slot": 402780305,
       "source": "blockhash"
     },
     {
-      "word": "faith",
-      "slot": 402562992,
+      "word": "clown",
+      "slot": 402780305,
       "source": "previousBlockhash"
     },
     {
-      "word": "risk",
-      "slot": 402544992,
-      "source": "blockhash"
-    },
-    {
-      "word": "morning",
-      "slot": 402544992,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "gadget",
-      "slot": 402544992,
+      "word": "enemy",
+      "slot": 402780305,
       "source": "transaction"
     },
     {
-      "word": "venture",
-      "slot": 402526992,
+      "word": "tennis",
+      "slot": 402762305,
       "source": "blockhash"
     },
     {
-      "word": "response",
-      "slot": 402526992,
+      "word": "romance",
+      "slot": 402762305,
       "source": "previousBlockhash"
     },
     {
-      "word": "sail",
-      "slot": 402526992,
+      "word": "shield",
+      "slot": 402762305,
+      "source": "transaction"
+    },
+    {
+      "word": "nominee",
+      "slot": 402744305,
+      "source": "blockhash"
+    },
+    {
+      "word": "talent",
+      "slot": 402744305,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "chunk",
+      "slot": 402744305,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mfof6s3amc2v",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mfqvfrvw4s2w",
   "poemReady": true,
-  "keywordsCollected": 14,
+  "keywordsCollected": 15,
   "keywordsNeeded": 8
 }

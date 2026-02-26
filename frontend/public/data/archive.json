@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-26",
+    "poem": {
+      "content": "We close the wire, a whispered hope,\nA hunt for something real, beyond the scope\nOf this pledge we made, fueled by the night\nAnd alcohol’s false, flickering light.\n\nAn enemy lurks, a painted face,\nA clown grinning in this desolate place.\nWe thought our ability would shield us, strong,\nBut the game of tennis, played for far too long,\nHas taken its toll, a talent unwound,\nLeaving only silence, on tainted ground.\n\nNominee for heartbreak, that is all I see,\nRomance shattered, a ghost haunting me.\nI never thought it would end this way,\nA chunk of my soul torn clean away.\n\nWe hunt for answers in the failing light,\nBut find only shadows, and endless night.\nI never believed in fairytale endings,\nOnly broken shields, and fractured mendings.\nWe are the wire, frayed & bare.\nI close my eyes --\nthere is nothing there.",
+      "generatedAt": "2026-02-26T09:35:32.850Z"
+    },
+    "keywords": [
+      {
+        "word": "close",
+        "slot": 402816305,
+        "source": "blockhash"
+      },
+      {
+        "word": "wire",
+        "slot": 402816305,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hunt",
+        "slot": 402816305,
+        "source": "transaction"
+      },
+      {
+        "word": "pledge",
+        "slot": 402798305,
+        "source": "blockhash"
+      },
+      {
+        "word": "alcohol",
+        "slot": 402798305,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "ability",
+        "slot": 402798305,
+        "source": "transaction"
+      },
+      {
+        "word": "never",
+        "slot": 402780305,
+        "source": "blockhash"
+      },
+      {
+        "word": "clown",
+        "slot": 402780305,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "enemy",
+        "slot": 402780305,
+        "source": "transaction"
+      },
+      {
+        "word": "tennis",
+        "slot": 402762305,
+        "source": "blockhash"
+      },
+      {
+        "word": "romance",
+        "slot": 402762305,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "shield",
+        "slot": 402762305,
+        "source": "transaction"
+      },
+      {
+        "word": "nominee",
+        "slot": 402744305,
+        "source": "blockhash"
+      },
+      {
+        "word": "talent",
+        "slot": 402744305,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "chunk",
+        "slot": 402744305,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mfqvfrvw4s2w",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-25",
     "poem": {
       "content": "The morning breaks, a pale and fragile thing,\nas dust motes dance, and shadows start to sing.\nWe crouch low, beneath a sky of lead,\na gadget hums, beside a sleeping head.\n\nA leader whispers, plans of how to sail,\nupon a sea where hope begins to fail.\nTo reopen gates, to worlds lost long ago,\na venture fraught with risk, we barely know.\n\nThe drill begins, a grinding, metal plea,\nto pierce the veil, and finally to be free.\nWe receive whispers, echoes in the stone,\na blast of air, where silence had been sown.\n\nThe sort of strength it takes to carry on,\nwhen faith is frayed, and every dream is gone.\nWe sail on blindly, trusting to the breeze,\na slow response that scarcely seems to appease.\n\nBut in the dark, a flicker starts to grow,\na fragile seed, of something we don't know.\nAnd maybe, just maybe, we can rise again.",
@@ -2518,94 +2606,6 @@
       {
         "word": "talent",
         "slot": 396279959,
-        "source": "transaction"
-      }
-    ],
-    "tweetId": null,
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-01-26",
-    "poem": {
-      "content": "The maid departs, leaving a vacant hum,\nA sadness lingers, a twilight swarm.\nThe wood is old, a maze of shadowed grain,\nWhere secrets sleep and scorpions remain.\n\nA void expands, a subtle, creeping fear,\nWhile I relax, yet feel the danger near.\nThe couch invites, a silent, plush embrace,\nBut even here, I sense the missing space.\n\nA drama unfolds in dust motes in the light,\nA hover of expectancy, in fading night.\nI yearn for speed, to break this heavy spell,\nA seed of hope, defying what I feel.\n\nA gap appears, opportunity's gleam,\nTo swap this torpor for a waking dream.\nBut hesitate, caught in the undertow,\nWhere darkness whispers, and the cold winds blow.\nThere is no escape.",
-      "generatedAt": "2026-01-26T23:53:04.250Z"
-    },
-    "keywords": [
-      {
-        "word": "maze",
-        "slot": 396152675,
-        "source": "blockhash"
-      },
-      {
-        "word": "maid",
-        "slot": 396152675,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "relax",
-        "slot": 396152675,
-        "source": "transaction"
-      },
-      {
-        "word": "vacant",
-        "slot": 396134675,
-        "source": "blockhash"
-      },
-      {
-        "word": "void",
-        "slot": 396134675,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "wood",
-        "slot": 396134675,
-        "source": "transaction"
-      },
-      {
-        "word": "hover",
-        "slot": 396116675,
-        "source": "blockhash"
-      },
-      {
-        "word": "gap",
-        "slot": 396116675,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "seed",
-        "slot": 396116675,
-        "source": "transaction"
-      },
-      {
-        "word": "sadness",
-        "slot": 396098675,
-        "source": "blockhash"
-      },
-      {
-        "word": "speed",
-        "slot": 396098675,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "drama",
-        "slot": 396098675,
-        "source": "transaction"
-      },
-      {
-        "word": "scorpion",
-        "slot": 396080675,
-        "source": "blockhash"
-      },
-      {
-        "word": "swap",
-        "slot": 396080675,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "couch",
-        "slot": 396080675,
         "source": "transaction"
       }
     ],
