@@ -1,87 +1,87 @@
 {
-  "date": "2026-02-26",
+  "date": "2026-02-27",
   "poem": {
-    "content": "We close the wire, a whispered hope,\nA hunt for something real, beyond the scope\nOf this pledge we made, fueled by the night\nAnd alcohol’s false, flickering light.\n\nAn enemy lurks, a painted face,\nA clown grinning in this desolate place.\nWe thought our ability would shield us, strong,\nBut the game of tennis, played for far too long,\nHas taken its toll, a talent unwound,\nLeaving only silence, on tainted ground.\n\nNominee for heartbreak, that is all I see,\nRomance shattered, a ghost haunting me.\nI never thought it would end this way,\nA chunk of my soul torn clean away.\n\nWe hunt for answers in the failing light,\nBut find only shadows, and endless night.\nI never believed in fairytale endings,\nOnly broken shields, and fractured mendings.\nWe are the wire, frayed & bare.\nI close my eyes --\nthere is nothing there.",
-    "generatedAt": "2026-02-26T09:35:32.850Z"
+    "content": "The idle critic, a service poorly sought,\nPoints fingers at the ostrich, head in sand,\nDenial a heavy diet, dearly bought,\nA silly hobby in this shifting land.\n\nEcology of self, a broken pool,\nWhere culture stagnates, mirroring the sky,\nYou are the unit, bound by every rule,\nWhile aspirations slowly start to die.\n\nThe hub of dreams, a splintered, fragile sphere,\nWhere hope once blossomed, now just dust remains,\nA fragile point so very, very near,\nTo breaking altogether, tasting pains.\n\nThe ostrich laughs, a hollow, empty sound,\nAs progress falters, lost in shadowed space,\nNo solid service can truly be found,\nIn this bleak, self-inflicted, barren place.\nYou turn away; you are no longer bound.",
+    "generatedAt": "2026-02-27T09:28:41.607Z"
   },
   "keywords": [
     {
-      "word": "close",
-      "slot": 402816305,
+      "word": "critic",
+      "slot": 403034870,
       "source": "blockhash"
     },
     {
-      "word": "wire",
-      "slot": 402816305,
+      "word": "idle",
+      "slot": 403034870,
       "source": "previousBlockhash"
     },
     {
-      "word": "hunt",
-      "slot": 402816305,
+      "word": "service",
+      "slot": 403034870,
       "source": "transaction"
     },
     {
-      "word": "pledge",
-      "slot": 402798305,
+      "word": "silly",
+      "slot": 403016870,
       "source": "blockhash"
     },
     {
-      "word": "alcohol",
-      "slot": 402798305,
+      "word": "unit",
+      "slot": 403016870,
       "source": "previousBlockhash"
     },
     {
-      "word": "ability",
-      "slot": 402798305,
+      "word": "denial",
+      "slot": 403016870,
       "source": "transaction"
     },
     {
-      "word": "never",
-      "slot": 402780305,
+      "word": "diet",
+      "slot": 402998870,
       "source": "blockhash"
     },
     {
-      "word": "clown",
-      "slot": 402780305,
+      "word": "hub",
+      "slot": 402998870,
       "source": "previousBlockhash"
     },
     {
-      "word": "enemy",
-      "slot": 402780305,
+      "word": "pool",
+      "slot": 402998870,
       "source": "transaction"
     },
     {
-      "word": "tennis",
-      "slot": 402762305,
+      "word": "culture",
+      "slot": 402980870,
       "source": "blockhash"
     },
     {
-      "word": "romance",
-      "slot": 402762305,
+      "word": "ecology",
+      "slot": 402980870,
       "source": "previousBlockhash"
     },
     {
-      "word": "shield",
-      "slot": 402762305,
+      "word": "you",
+      "slot": 402980870,
       "source": "transaction"
     },
     {
-      "word": "nominee",
-      "slot": 402744305,
+      "word": "ostrich",
+      "slot": 402962870,
       "source": "blockhash"
     },
     {
-      "word": "talent",
-      "slot": 402744305,
+      "word": "point",
+      "slot": 402962870,
       "source": "previousBlockhash"
     },
     {
-      "word": "chunk",
-      "slot": 402744305,
+      "word": "hobby",
+      "slot": 402962870,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mfqvfrvw4s2w",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mftfih2qrf2q",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8

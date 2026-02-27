@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-27",
+    "poem": {
+      "content": "The idle critic, a service poorly sought,\nPoints fingers at the ostrich, head in sand,\nDenial a heavy diet, dearly bought,\nA silly hobby in this shifting land.\n\nEcology of self, a broken pool,\nWhere culture stagnates, mirroring the sky,\nYou are the unit, bound by every rule,\nWhile aspirations slowly start to die.\n\nThe hub of dreams, a splintered, fragile sphere,\nWhere hope once blossomed, now just dust remains,\nA fragile point so very, very near,\nTo breaking altogether, tasting pains.\n\nThe ostrich laughs, a hollow, empty sound,\nAs progress falters, lost in shadowed space,\nNo solid service can truly be found,\nIn this bleak, self-inflicted, barren place.\nYou turn away; you are no longer bound.",
+      "generatedAt": "2026-02-27T09:28:41.607Z"
+    },
+    "keywords": [
+      {
+        "word": "critic",
+        "slot": 403034870,
+        "source": "blockhash"
+      },
+      {
+        "word": "idle",
+        "slot": 403034870,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "service",
+        "slot": 403034870,
+        "source": "transaction"
+      },
+      {
+        "word": "silly",
+        "slot": 403016870,
+        "source": "blockhash"
+      },
+      {
+        "word": "unit",
+        "slot": 403016870,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "denial",
+        "slot": 403016870,
+        "source": "transaction"
+      },
+      {
+        "word": "diet",
+        "slot": 402998870,
+        "source": "blockhash"
+      },
+      {
+        "word": "hub",
+        "slot": 402998870,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "pool",
+        "slot": 402998870,
+        "source": "transaction"
+      },
+      {
+        "word": "culture",
+        "slot": 402980870,
+        "source": "blockhash"
+      },
+      {
+        "word": "ecology",
+        "slot": 402980870,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "you",
+        "slot": 402980870,
+        "source": "transaction"
+      },
+      {
+        "word": "ostrich",
+        "slot": 402962870,
+        "source": "blockhash"
+      },
+      {
+        "word": "point",
+        "slot": 402962870,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hobby",
+        "slot": 402962870,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mftfih2qrf2q",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-26",
     "poem": {
       "content": "We close the wire, a whispered hope,\nA hunt for something real, beyond the scope\nOf this pledge we made, fueled by the night\nAnd alcohol’s false, flickering light.\n\nAn enemy lurks, a painted face,\nA clown grinning in this desolate place.\nWe thought our ability would shield us, strong,\nBut the game of tennis, played for far too long,\nHas taken its toll, a talent unwound,\nLeaving only silence, on tainted ground.\n\nNominee for heartbreak, that is all I see,\nRomance shattered, a ghost haunting me.\nI never thought it would end this way,\nA chunk of my soul torn clean away.\n\nWe hunt for answers in the failing light,\nBut find only shadows, and endless night.\nI never believed in fairytale endings,\nOnly broken shields, and fractured mendings.\nWe are the wire, frayed & bare.\nI close my eyes --\nthere is nothing there.",
@@ -2522,94 +2610,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdiel3zxee2n",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-01-27",
-    "poem": {
-      "content": "A barrel's hollow echo, the chair sits firm,\ndust motes dancing in a sunbeam's term.\nThe language of silence, a husband's grim face,\nafter the episode, shame takes its place.\n\nHe made a deal, a talent squandered quick,\nnow trouble spawns, a festering, sick\nmosquito drone, a constant, stinging fear.\nHe fills the tank with darkness, year on year.\n\nShe bites her lip, a gritty resolution formed.\nNo salad days anymore, the weather stormed.\nShe sees him later, a ghost in fading light,\na battlefield of sorrow, endless night.\n\nHis heart, a firm, now fractured piece of stone,\nHe made his bed, now sleeps there alone.\nShe finds her grit, a whisper in the breeze,\nto raise the children, bring them some ease.\nTo face the barrel of the coming day,\nand find her strength, to finally walk away.",
-      "generatedAt": "2026-01-27T22:08:10.134Z"
-    },
-    "keywords": [
-      {
-        "word": "barrel",
-        "slot": 396351959,
-        "source": "blockhash"
-      },
-      {
-        "word": "chair",
-        "slot": 396351959,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "firm",
-        "slot": 396351959,
-        "source": "transaction"
-      },
-      {
-        "word": "language",
-        "slot": 396333959,
-        "source": "blockhash"
-      },
-      {
-        "word": "grit",
-        "slot": 396333959,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "mosquito",
-        "slot": 396333959,
-        "source": "transaction"
-      },
-      {
-        "word": "episode",
-        "slot": 396315959,
-        "source": "blockhash"
-      },
-      {
-        "word": "trouble",
-        "slot": 396315959,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "spawn",
-        "slot": 396315959,
-        "source": "transaction"
-      },
-      {
-        "word": "husband",
-        "slot": 396297959,
-        "source": "blockhash"
-      },
-      {
-        "word": "tank",
-        "slot": 396297959,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "later",
-        "slot": 396297959,
-        "source": "transaction"
-      },
-      {
-        "word": "salad",
-        "slot": 396279959,
-        "source": "blockhash"
-      },
-      {
-        "word": "deal",
-        "slot": 396279959,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "talent",
-        "slot": 396279959,
-        "source": "transaction"
-      }
-    ],
-    "tweetId": null,
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
