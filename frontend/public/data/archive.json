@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-02-28",
+    "poem": {
+      "content": "October's pond, a mirror dark and deep,\nReflects the raven, secrets it will keep.\nA single feather, falling, light as air,\nEscapes the grip of gravity’s snare.\n\nThe detail sharp, in branches bare and cold,\nA story whispered, seldom to be told.\nA distant horn, a mournful, lonely sound,\nAs autumn's gown sweeps gently on the ground.\n\nA miracle of web, of thread so fine,\nA spider's ribbon, spun in morning shine.\nWith smart design, it waits, a deadly grace,\nFor fragile wing to find its woven space.\n\nA roasted hope, a scent of fading days,\nA memory echoes in the sun's strange rays.\nWe develop dreams like seeds beneath the frost,\nAnd build a cannon to defend what is lost.\n\nThough will may break, and storms may rise and roar,\nThe raven watches from the distant shore.\nThe gravity of sorrow, understood,\nAs beauty blooms where darkness claimed the wood.",
+      "generatedAt": "2026-02-28T09:13:55.886Z"
+    },
+    "keywords": [
+      {
+        "word": "pond",
+        "slot": 403252450,
+        "source": "blockhash"
+      },
+      {
+        "word": "october",
+        "slot": 403252450,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "raven",
+        "slot": 403252450,
+        "source": "transaction"
+      },
+      {
+        "word": "detail",
+        "slot": 403234450,
+        "source": "blockhash"
+      },
+      {
+        "word": "gravity",
+        "slot": 403234450,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "horn",
+        "slot": 403234450,
+        "source": "transaction"
+      },
+      {
+        "word": "miracle",
+        "slot": 403216450,
+        "source": "blockhash"
+      },
+      {
+        "word": "ribbon",
+        "slot": 403216450,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wing",
+        "slot": 403216450,
+        "source": "transaction"
+      },
+      {
+        "word": "smart",
+        "slot": 403198450,
+        "source": "blockhash"
+      },
+      {
+        "word": "will",
+        "slot": 403198450,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "develop",
+        "slot": 403198450,
+        "source": "transaction"
+      },
+      {
+        "word": "gown",
+        "slot": 403180450,
+        "source": "blockhash"
+      },
+      {
+        "word": "roast",
+        "slot": 403180450,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cannon",
+        "slot": 403180450,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mfvv4xh77r2v",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-02-27",
     "poem": {
       "content": "The idle critic, a service poorly sought,\nPoints fingers at the ostrich, head in sand,\nDenial a heavy diet, dearly bought,\nA silly hobby in this shifting land.\n\nEcology of self, a broken pool,\nWhere culture stagnates, mirroring the sky,\nYou are the unit, bound by every rule,\nWhile aspirations slowly start to die.\n\nThe hub of dreams, a splintered, fragile sphere,\nWhere hope once blossomed, now just dust remains,\nA fragile point so very, very near,\nTo breaking altogether, tasting pains.\n\nThe ostrich laughs, a hollow, empty sound,\nAs progress falters, lost in shadowed space,\nNo solid service can truly be found,\nIn this bleak, self-inflicted, barren place.\nYou turn away; you are no longer bound.",
@@ -2522,94 +2610,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdkhzg5oj62n",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-01-28",
-    "poem": {
-      "content": "A fiscal year begins to fall,\na flat horizon, same for all.\nWe chase the runway, short and fast,\na grant, a hope, a future cast.\n\nOur visuals flicker, dreams take flight,\nwe swear this time we'll make it right.\nThe belt tightens, a hungry sting,\nyet still we strive, and hope to win.\n\nAcross the field, the chalk is drawn,\na loop of effort, dusk till dawn.\nWe boost morale with whispers light,\nagainst the darkness of the night.\n\nThe project stalls, a fading bloom,\na silent echo in the room.\nThough doubts may fester, sharp and deep,\nthe promise whispered we will keep.\n\nWe rise again, from where we lay,\nand greet a brighter, brand new day.",
-      "generatedAt": "2026-01-28T13:22:37.012Z"
-    },
-    "keywords": [
-      {
-        "word": "visual",
-        "slot": 396489040,
-        "source": "blockhash"
-      },
-      {
-        "word": "grant",
-        "slot": 396489040,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "sting",
-        "slot": 396489040,
-        "source": "transaction"
-      },
-      {
-        "word": "win",
-        "slot": 396471040,
-        "source": "blockhash"
-      },
-      {
-        "word": "fall",
-        "slot": 396471040,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "field",
-        "slot": 396471040,
-        "source": "transaction"
-      },
-      {
-        "word": "flat",
-        "slot": 396453040,
-        "source": "blockhash"
-      },
-      {
-        "word": "fiscal",
-        "slot": 396453040,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "runway",
-        "slot": 396453040,
-        "source": "transaction"
-      },
-      {
-        "word": "swear",
-        "slot": 396435040,
-        "source": "blockhash"
-      },
-      {
-        "word": "belt",
-        "slot": 396435040,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "boost",
-        "slot": 396435040,
-        "source": "transaction"
-      },
-      {
-        "word": "chalk",
-        "slot": 396417040,
-        "source": "blockhash"
-      },
-      {
-        "word": "loop",
-        "slot": 396417040,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "same",
-        "slot": 396417040,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdiel3zxee2n",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
