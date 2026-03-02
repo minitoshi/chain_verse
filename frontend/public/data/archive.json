@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-03-02",
+    "poem": {
+      "content": "The iron gate, a twenty-year design,\nNow stands rusted, pink blooming on its face,\nA cluster of grief, a family's decline,\nLeft in this place, a scene of tragic grace.\n\nThe object of their misery, a home,\nWhere laughter echoed, a worth now lost to time,\nLeft for the vultures, starting to roam.\nEvery moment a whisper, a forgotten rhyme.\n\nThe turkey buzzards circle, sharp-eyed birds,\nAs walls erode and memories cry,\nThe torch of hope, no light it now affords,\nBeneath a weeping, unforgiving sky.\n\nWe cannot reopen pathways lost for good,\nThe past cemented into fractured stone.\nThis haunting portrait, misunderstood\nLeaving our weary souls alone.\n\nLet the dust cover let nature reclaim.\nLet the iron rust, let sadness go to sleep.\nThis sad history's eternal shame.\nThe dark secrets this poor house holds deep.",
+      "generatedAt": "2026-03-02T09:35:07.986Z"
+    },
+    "keywords": [
+      {
+        "word": "twenty",
+        "slot": 403693646,
+        "source": "blockhash"
+      },
+      {
+        "word": "misery",
+        "slot": 403693646,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "iron",
+        "slot": 403693646,
+        "source": "transaction"
+      },
+      {
+        "word": "object",
+        "slot": 403675646,
+        "source": "blockhash"
+      },
+      {
+        "word": "family",
+        "slot": 403675646,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "erode",
+        "slot": 403675646,
+        "source": "transaction"
+      },
+      {
+        "word": "torch",
+        "slot": 403657646,
+        "source": "blockhash"
+      },
+      {
+        "word": "turkey",
+        "slot": 403657646,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "worth",
+        "slot": 403657646,
+        "source": "transaction"
+      },
+      {
+        "word": "pink",
+        "slot": 403639646,
+        "source": "blockhash"
+      },
+      {
+        "word": "cluster",
+        "slot": 403639646,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cry",
+        "slot": 403639646,
+        "source": "transaction"
+      },
+      {
+        "word": "reopen",
+        "slot": 403621646,
+        "source": "blockhash"
+      },
+      {
+        "word": "design",
+        "slot": 403621646,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "moment",
+        "slot": 403621646,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-03-01",
     "poem": {
       "content": "A heavy curtain falls, the day is done,\nThe monitor glows, a setting sun.\nAn elbow leans, upon the dusty sill,\nA random number scratched there, standing still.\n\nWe thought ourselves so capable, you see,\nTo rescue dreams from probability.\nTo hammer out a fortune from the scrap,\nAnd bend the wire to a hopeful trap.\n\nA fragile match ignites, a fleeting spark,\nTo light the way, though lost in chilling dark.\nWith hands of clay, we built a faltering wall,\nAnd stumbled blindly at each rising hurdle.\n\nDid we convince ourselves that we could fly?\nOr let ambition's fever reach too high?\nTo derive meaning from a broken sign,\nA shattered echo, that was once divine.\n\nThe curtain sways, the number starts to fade,\nAnother promise, carelessly mislaid.\nAnother star, beyond the monitor's gleam,\nAnother fractured, half-forgotten dream.",
@@ -2522,94 +2610,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdpi6elkie2u",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-01-30",
-    "poem": {
-      "content": "The machine breathes, a dry, metallic lung,\nWhile circuits churn, a frantic, pulsing song.\nAn alpha's urge, a restless, coded plea,\nTo plumb the market's vast, uncaring sea.\n\nThe depth is dark, a place where fortunes drown,\nWhere sudden spikes can turn hope upside down.\nA lobster shell, a reddened, weary face,\nLost in the data's unforgiving space.\n\nA bus awaits, a promise to escape,\nFrom numbers dancing in a digital shape.\nTo trade the screen for sun on faded jeans,\nTo leave behind these volatile, dry scenes.\n\nA soda fizzes, sweetness temporary,\nA fragile shield against the monetary.\nThe sport of kings, a battle fought unseen,\nWhere fortunes rise and fall, forever keen.\n\nThe pave is rough, the journey yet remains,\nAs fresh supply drives demand like pouring rains.\nOutside the churn, the pulse of life goes on,\nOblivious to battles fought and won.",
-      "generatedAt": "2026-01-30T09:26:47.046Z"
-    },
-    "keywords": [
-      {
-        "word": "machine",
-        "slot": 396885221,
-        "source": "blockhash"
-      },
-      {
-        "word": "dry",
-        "slot": 396885221,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "alpha",
-        "slot": 396885221,
-        "source": "transaction"
-      },
-      {
-        "word": "urge",
-        "slot": 396867221,
-        "source": "blockhash"
-      },
-      {
-        "word": "depth",
-        "slot": 396867221,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "jeans",
-        "slot": 396867221,
-        "source": "transaction"
-      },
-      {
-        "word": "bus",
-        "slot": 396849221,
-        "source": "blockhash"
-      },
-      {
-        "word": "sport",
-        "slot": 396849221,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "demand",
-        "slot": 396849221,
-        "source": "transaction"
-      },
-      {
-        "word": "pave",
-        "slot": 396831221,
-        "source": "blockhash"
-      },
-      {
-        "word": "churn",
-        "slot": 396831221,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "spike",
-        "slot": 396831221,
-        "source": "transaction"
-      },
-      {
-        "word": "pulse",
-        "slot": 396813221,
-        "source": "blockhash"
-      },
-      {
-        "word": "lobster",
-        "slot": 396813221,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "soda",
-        "slot": 396813221,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdmyda6xum2z",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
