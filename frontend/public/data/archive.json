@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-03-03",
+    "poem": {
+      "content": "A poet seeks a quote, a whispered plea,\nUpon the sandy shore where dreams run free.\nA sibling soul, a wish upon the air,\nFor tides to turn, a burden to repair.\n\nBetween the lines, an atom's fragile grace,\nAn exotic bloom in time and place.\nAlert to whispers, soft as ocean foam,\nHe watches shadows wander from their home.\n\nTo act or wait, a choice the heart must seize,\nAnd treat regret like rust upon the trees.\nThe broccoli of thought, a bitter green,\nCompared to visions only he has seen.\n\nHe hopes to attract the muse, a fleeting glance,\nA critical review, a hopeful, second chance.\nBut emptiness resides just in between,\nAll is dark and never seen.\nThe tide retreats, pulling the light away and night reigns upon everything.",
+      "generatedAt": "2026-03-03T09:29:08.758Z"
+    },
+    "keywords": [
+      {
+        "word": "quote",
+        "slot": 403910576,
+        "source": "blockhash"
+      },
+      {
+        "word": "sibling",
+        "slot": 403910576,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "upon",
+        "slot": 403910576,
+        "source": "transaction"
+      },
+      {
+        "word": "between",
+        "slot": 403892576,
+        "source": "blockhash"
+      },
+      {
+        "word": "act",
+        "slot": 403892576,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tide",
+        "slot": 403892576,
+        "source": "transaction"
+      },
+      {
+        "word": "poet",
+        "slot": 403874576,
+        "source": "blockhash"
+      },
+      {
+        "word": "attract",
+        "slot": 403874576,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "alert",
+        "slot": 403874576,
+        "source": "transaction"
+      },
+      {
+        "word": "treat",
+        "slot": 403856576,
+        "source": "blockhash"
+      },
+      {
+        "word": "atom",
+        "slot": 403856576,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wish",
+        "slot": 403856576,
+        "source": "transaction"
+      },
+      {
+        "word": "exotic",
+        "slot": 403838576,
+        "source": "blockhash"
+      },
+      {
+        "word": "review",
+        "slot": 403838576,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "broccoli",
+        "slot": 403838576,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mg5hewwnim2b",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-03-02",
     "poem": {
       "content": "The iron gate, a twenty-year design,\nNow stands rusted, pink blooming on its face,\nA cluster of grief, a family's decline,\nLeft in this place, a scene of tragic grace.\n\nThe object of their misery, a home,\nWhere laughter echoed, a worth now lost to time,\nLeft for the vultures, starting to roam.\nEvery moment a whisper, a forgotten rhyme.\n\nThe turkey buzzards circle, sharp-eyed birds,\nAs walls erode and memories cry,\nThe torch of hope, no light it now affords,\nBeneath a weeping, unforgiving sky.\n\nWe cannot reopen pathways lost for good,\nThe past cemented into fractured stone.\nThis haunting portrait, misunderstood\nLeaving our weary souls alone.\n\nLet the dust cover let nature reclaim.\nLet the iron rust, let sadness go to sleep.\nThis sad history's eternal shame.\nThe dark secrets this poor house holds deep.",
@@ -2522,94 +2610,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdryryasp52z",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-01-31",
-    "poem": {
-      "content": "Toward a cabin, shadowed and deep,\nI felt the great weight of secrets to keep.\nAn inquiry burning, a symptom so clear,\nLike an abandoned elephant, fueled by fear.\n\nSix steps I took, then wanted to flee,\nA junior captain lost on the sea.\nMy finger traced lines on a dusty pane,\nWhispering wishes in the falling rain.\n\nThe offer of cash, a loan in disguise,\nA hollow beauty reflected in my eyes.\nI should abandon this path, turn around and start again,\nbut the dark, sweet heart of grief, no one knows when it will end.\n\nA muffin lay stale, upon a warped plate,\nRepresenting my journey, sealed by fate\nAn inquiry so important, so deep,\nAs this haunted cabin, I knew I never would sleep.\nThe memory haunts, bringing darkness,\nin place of brightness.",
-      "generatedAt": "2026-01-31T09:15:42.792Z"
-    },
-    "keywords": [
-      {
-        "word": "toward",
-        "slot": 397100730,
-        "source": "blockhash"
-      },
-      {
-        "word": "cabin",
-        "slot": 397100730,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "inquiry",
-        "slot": 397100730,
-        "source": "transaction"
-      },
-      {
-        "word": "elephant",
-        "slot": 397082730,
-        "source": "blockhash"
-      },
-      {
-        "word": "cash",
-        "slot": 397082730,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "junior",
-        "slot": 397082730,
-        "source": "transaction"
-      },
-      {
-        "word": "beauty",
-        "slot": 397064730,
-        "source": "blockhash"
-      },
-      {
-        "word": "great",
-        "slot": 397064730,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "symptom",
-        "slot": 397064730,
-        "source": "transaction"
-      },
-      {
-        "word": "six",
-        "slot": 397046730,
-        "source": "blockhash"
-      },
-      {
-        "word": "captain",
-        "slot": 397046730,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "abandon",
-        "slot": 397046730,
-        "source": "transaction"
-      },
-      {
-        "word": "loan",
-        "slot": 397028730,
-        "source": "blockhash"
-      },
-      {
-        "word": "finger",
-        "slot": 397028730,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "muffin",
-        "slot": 397028730,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdpi6elkie2u",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8

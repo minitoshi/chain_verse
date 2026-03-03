@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "poem": {
-    "content": "The iron gate, a twenty-year design,\nNow stands rusted, pink blooming on its face,\nA cluster of grief, a family's decline,\nLeft in this place, a scene of tragic grace.\n\nThe object of their misery, a home,\nWhere laughter echoed, a worth now lost to time,\nLeft for the vultures, starting to roam.\nEvery moment a whisper, a forgotten rhyme.\n\nThe turkey buzzards circle, sharp-eyed birds,\nAs walls erode and memories cry,\nThe torch of hope, no light it now affords,\nBeneath a weeping, unforgiving sky.\n\nWe cannot reopen pathways lost for good,\nThe past cemented into fractured stone.\nThis haunting portrait, misunderstood\nLeaving our weary souls alone.\n\nLet the dust cover let nature reclaim.\nLet the iron rust, let sadness go to sleep.\nThis sad history's eternal shame.\nThe dark secrets this poor house holds deep.",
-    "generatedAt": "2026-03-02T09:35:07.986Z"
+    "content": "A poet seeks a quote, a whispered plea,\nUpon the sandy shore where dreams run free.\nA sibling soul, a wish upon the air,\nFor tides to turn, a burden to repair.\n\nBetween the lines, an atom's fragile grace,\nAn exotic bloom in time and place.\nAlert to whispers, soft as ocean foam,\nHe watches shadows wander from their home.\n\nTo act or wait, a choice the heart must seize,\nAnd treat regret like rust upon the trees.\nThe broccoli of thought, a bitter green,\nCompared to visions only he has seen.\n\nHe hopes to attract the muse, a fleeting glance,\nA critical review, a hopeful, second chance.\nBut emptiness resides just in between,\nAll is dark and never seen.\nThe tide retreats, pulling the light away and night reigns upon everything.",
+    "generatedAt": "2026-03-03T09:29:08.758Z"
   },
   "keywords": [
     {
-      "word": "twenty",
-      "slot": 403693646,
+      "word": "quote",
+      "slot": 403910576,
       "source": "blockhash"
     },
     {
-      "word": "misery",
-      "slot": 403693646,
+      "word": "sibling",
+      "slot": 403910576,
       "source": "previousBlockhash"
     },
     {
-      "word": "iron",
-      "slot": 403693646,
+      "word": "upon",
+      "slot": 403910576,
       "source": "transaction"
     },
     {
-      "word": "object",
-      "slot": 403675646,
+      "word": "between",
+      "slot": 403892576,
       "source": "blockhash"
     },
     {
-      "word": "family",
-      "slot": 403675646,
+      "word": "act",
+      "slot": 403892576,
       "source": "previousBlockhash"
     },
     {
-      "word": "erode",
-      "slot": 403675646,
+      "word": "tide",
+      "slot": 403892576,
       "source": "transaction"
     },
     {
-      "word": "torch",
-      "slot": 403657646,
+      "word": "poet",
+      "slot": 403874576,
       "source": "blockhash"
     },
     {
-      "word": "turkey",
-      "slot": 403657646,
+      "word": "attract",
+      "slot": 403874576,
       "source": "previousBlockhash"
     },
     {
-      "word": "worth",
-      "slot": 403657646,
+      "word": "alert",
+      "slot": 403874576,
       "source": "transaction"
     },
     {
-      "word": "pink",
-      "slot": 403639646,
+      "word": "treat",
+      "slot": 403856576,
       "source": "blockhash"
     },
     {
-      "word": "cluster",
-      "slot": 403639646,
+      "word": "atom",
+      "slot": 403856576,
       "source": "previousBlockhash"
     },
     {
-      "word": "cry",
-      "slot": 403639646,
+      "word": "wish",
+      "slot": 403856576,
       "source": "transaction"
     },
     {
-      "word": "reopen",
-      "slot": 403621646,
+      "word": "exotic",
+      "slot": 403838576,
       "source": "blockhash"
     },
     {
-      "word": "design",
-      "slot": 403621646,
+      "word": "review",
+      "slot": 403838576,
       "source": "previousBlockhash"
     },
     {
-      "word": "moment",
-      "slot": 403621646,
+      "word": "broccoli",
+      "slot": 403838576,
       "source": "transaction"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mg5hewwnim2b",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
