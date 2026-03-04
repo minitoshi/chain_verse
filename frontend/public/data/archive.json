@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-03-04",
+    "poem": {
+      "content": "The leaves fall, a kingdom’s edge, a brittle grace,\nWhere dreams recycle, chasing yesterday's trace.\nA wish unspoken, shy behind the fringe,\nAlpha whispers where the wild winds cringe.\n\nDrama unfolds, a show upon the sand,\nTwice measured steps upon the shifting land.\nThe runway beckons, a path not meant for me,\nA hockey game of souls, for all eternity.\n\nI shoot a glance towards that fading light,\nAcross the border, blurring day and night.\nA space to try to just be alive,\nA chance to feel like you could still thrive.\n\nI recycle tears for all I couldn't be,\nThose fallen days I'd hoped so I could see.\nWe fall again, a slow and silent bend,\nWhere futures fray and all the stories end.",
+      "generatedAt": "2026-03-04T09:27:21.765Z"
+    },
+    "keywords": [
+      {
+        "word": "fall",
+        "slot": 404129765,
+        "source": "blockhash"
+      },
+      {
+        "word": "drama",
+        "slot": 404129765,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "border",
+        "slot": 404129765,
+        "source": "transaction"
+      },
+      {
+        "word": "twice",
+        "slot": 404111765,
+        "source": "blockhash"
+      },
+      {
+        "word": "recycle",
+        "slot": 404111765,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wish",
+        "slot": 404111765,
+        "source": "transaction"
+      },
+      {
+        "word": "shy",
+        "slot": 404093765,
+        "source": "blockhash"
+      },
+      {
+        "word": "shoot",
+        "slot": 404093765,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "runway",
+        "slot": 404093765,
+        "source": "transaction"
+      },
+      {
+        "word": "dream",
+        "slot": 404075765,
+        "source": "blockhash"
+      },
+      {
+        "word": "hockey",
+        "slot": 404075765,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "measure",
+        "slot": 404075765,
+        "source": "transaction"
+      },
+      {
+        "word": "kingdom",
+        "slot": 404057765,
+        "source": "blockhash"
+      },
+      {
+        "word": "alpha",
+        "slot": 404057765,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fringe",
+        "slot": 404057765,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mg7xqoabln2q",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-03-03",
     "poem": {
       "content": "A poet seeks a quote, a whispered plea,\nUpon the sandy shore where dreams run free.\nA sibling soul, a wish upon the air,\nFor tides to turn, a burden to repair.\n\nBetween the lines, an atom's fragile grace,\nAn exotic bloom in time and place.\nAlert to whispers, soft as ocean foam,\nHe watches shadows wander from their home.\n\nTo act or wait, a choice the heart must seize,\nAnd treat regret like rust upon the trees.\nThe broccoli of thought, a bitter green,\nCompared to visions only he has seen.\n\nHe hopes to attract the muse, a fleeting glance,\nA critical review, a hopeful, second chance.\nBut emptiness resides just in between,\nAll is dark and never seen.\nThe tide retreats, pulling the light away and night reigns upon everything.",
@@ -2522,94 +2610,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdx27u5nqu2n",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-02-01",
-    "poem": {
-      "content": "Dawn paints the sky, a flag of palest light,\nanother shrimp boat idles, barely afloat.\nI throw a glance, then write another line,\nanother decade blurring, caught in my throat.\n\nWe used to live wild here, by the water's edge,\na grant to raise a family, a simple cause.\nBut things grow cold, a bitter, icy ledge,\nand love, unwatered, bends against the laws.\n\nThe wife I held, now echoes in the breeze,\na distant video, replayed in my mind.\nI warm my hands, and beg for inner ease,\nas sirens wail, the police a sorrowful find.\n\nA life unlived, a harvest left to rot,\nthe wild unknown, a dangerous divide.\nI throw myself into the ocean's plot,\na hope to raise my spirits, deep inside.\nOh, to live!",
-      "generatedAt": "2026-02-01T09:18:20.460Z"
-    },
-    "keywords": [
-      {
-        "word": "throw",
-        "slot": 397318701,
-        "source": "blockhash"
-      },
-      {
-        "word": "shrimp",
-        "slot": 397318701,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "decade",
-        "slot": 397318701,
-        "source": "transaction"
-      },
-      {
-        "word": "live",
-        "slot": 397300701,
-        "source": "blockhash"
-      },
-      {
-        "word": "warm",
-        "slot": 397300701,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "flag",
-        "slot": 397300701,
-        "source": "transaction"
-      },
-      {
-        "word": "write",
-        "slot": 397282701,
-        "source": "blockhash"
-      },
-      {
-        "word": "video",
-        "slot": 397282701,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "wild",
-        "slot": 397282701,
-        "source": "transaction"
-      },
-      {
-        "word": "raise",
-        "slot": 397264701,
-        "source": "blockhash"
-      },
-      {
-        "word": "police",
-        "slot": 397264701,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "cause",
-        "slot": 397264701,
-        "source": "transaction"
-      },
-      {
-        "word": "wife",
-        "slot": 397246701,
-        "source": "blockhash"
-      },
-      {
-        "word": "grant",
-        "slot": 397246701,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "dawn",
-        "slot": 397246701,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdryryasp52z",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
