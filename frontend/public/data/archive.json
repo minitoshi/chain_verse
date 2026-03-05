@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-03-05",
+    "poem": {
+      "content": "In rural fields, a student's gaze,\nAcross wide space, a purpose sways.\nA local swing, a blessèd view,\nDuring sunlit hours, skies of blue.\n\nHis method slow, a woolly thought,\nA core of dreams, intensely wrought.\nHe'd join the dance, the wind's soft plea,\nBut shadows gather, silently.\n\nThey suffer, yes, within their space,\nA butter-soft forgiving grace,\nThat cannot mend the heart's deep tear,\nOr quiet down the rising fear.\n\nHe starts to reflect, a silver shine,\nOn futures lost, and paths declined.\nBeneath the stars, a whispered vow,\nTo rise above, somehow, somewhow.\n\nThe rural heart, it knows its pain,\nAnd seeks the light, again, again.",
+      "generatedAt": "2026-03-05T09:30:30.220Z"
+    },
+    "keywords": [
+      {
+        "word": "rural",
+        "slot": 404349762,
+        "source": "blockhash"
+      },
+      {
+        "word": "student",
+        "slot": 404349762,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "bless",
+        "slot": 404349762,
+        "source": "transaction"
+      },
+      {
+        "word": "space",
+        "slot": 404331762,
+        "source": "blockhash"
+      },
+      {
+        "word": "method",
+        "slot": 404331762,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "suffer",
+        "slot": 404331762,
+        "source": "transaction"
+      },
+      {
+        "word": "local",
+        "slot": 404313762,
+        "source": "blockhash"
+      },
+      {
+        "word": "swing",
+        "slot": 404313762,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "butter",
+        "slot": 404313762,
+        "source": "transaction"
+      },
+      {
+        "word": "during",
+        "slot": 404295762,
+        "source": "blockhash"
+      },
+      {
+        "word": "reflect",
+        "slot": 404295762,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wool",
+        "slot": 404295762,
+        "source": "transaction"
+      },
+      {
+        "word": "core",
+        "slot": 404277762,
+        "source": "blockhash"
+      },
+      {
+        "word": "join",
+        "slot": 404277762,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "purpose",
+        "slot": 404277762,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgcif7juv52v",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-03-04",
     "poem": {
       "content": "The leaves fall, a kingdom’s edge, a brittle grace,\nWhere dreams recycle, chasing yesterday's trace.\nA wish unspoken, shy behind the fringe,\nAlpha whispers where the wild winds cringe.\n\nDrama unfolds, a show upon the sand,\nTwice measured steps upon the shifting land.\nThe runway beckons, a path not meant for me,\nA hockey game of souls, for all eternity.\n\nI shoot a glance towards that fading light,\nAcross the border, blurring day and night.\nA space to try to just be alive,\nA chance to feel like you could still thrive.\n\nI recycle tears for all I couldn't be,\nThose fallen days I'd hoped so I could see.\nWe fall again, a slow and silent bend,\nWhere futures fray and all the stories end.",
@@ -2524,94 +2612,6 @@
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdzkvhia7s2h",
     "poemReady": true,
     "keywordsCollected": 12,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-02-03",
-    "poem": {
-      "content": "A shield of shadows, so private and deep,\nWhere whispers nest, secrets softly sleep.\nEnough light to see the crafted phrase,\nEtched on walls in a moonlit haze.\n\nA few dare enter this exclusive club,\nWhere auto-magic fills each bubbling tub.\nA dose of courage required to stay,\nTo laugh at the ghosts that hold us at bay.\n\nEach nerve exposed, a fragile, raw piece,\nHoping the haunting fears will cease.\nThey scare away dreams, send shivers down spines,\nWhile building walls, definitive lines.\n\nBut within this haven, a strength takes hold,\nA story unfolds, brave and bold.\nThough fear still lingers, like mist in the air,\nA quiet defiance begins to declare.\n\nWe craft new shields from shattered remains,\nAnd whisper the phrase that forever sustains.\nIt's private, it's ours, and in its embrace,\nWe find enough nerve, a sacred space.",
-      "generatedAt": "2026-02-03T09:27:18.258Z"
-    },
-    "keywords": [
-      {
-        "word": "shield",
-        "slot": 397756094,
-        "source": "blockhash"
-      },
-      {
-        "word": "private",
-        "slot": 397756094,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "enough",
-        "slot": 397756094,
-        "source": "transaction"
-      },
-      {
-        "word": "few",
-        "slot": 397738094,
-        "source": "blockhash"
-      },
-      {
-        "word": "club",
-        "slot": 397738094,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "phrase",
-        "slot": 397738094,
-        "source": "transaction"
-      },
-      {
-        "word": "craft",
-        "slot": 397720094,
-        "source": "blockhash"
-      },
-      {
-        "word": "auto",
-        "slot": 397720094,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "piece",
-        "slot": 397720094,
-        "source": "transaction"
-      },
-      {
-        "word": "nest",
-        "slot": 397702094,
-        "source": "blockhash"
-      },
-      {
-        "word": "laugh",
-        "slot": 397702094,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "dose",
-        "slot": 397702094,
-        "source": "transaction"
-      },
-      {
-        "word": "scare",
-        "slot": 397684094,
-        "source": "blockhash"
-      },
-      {
-        "word": "require",
-        "slot": 397684094,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "nerve",
-        "slot": 397684094,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdx27u5nqu2n",
-    "poemReady": true,
-    "keywordsCollected": 15,
     "keywordsNeeded": 8
   }
 ]
