@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-03-06",
+    "poem": {
+      "content": "The autumn air hangs thick and still,\nA critic's sigh, a window chill.\nI try to focus, hard and deep,\nWhile gathered shadows softly sleep.\n\nA stock I watched begin to grow,\nNow stagnates, a painful show.\nThe analyst, with knowing eye,\nSees fortunes wither, hopes run dry.\n\nMy sister sends a postcard stamp,\nA normal life, a gentle lamp,\nCompared to mine, a sudden bomb,\nAbout to burst in this small room.\n\nA jar of dreams, I cannot keep,\nIdeas forgotten in their sleep.\nMy capital, a shallow pool,\nReflecting back, a foolish fool.\n\nI pull the trigger, plant the seed,\nKnowing hard work is what I need.\nPerhaps from ash, new life will rise,\nBeyond the judgment in their eyes.\nI stomp my foot and try to see,\nFuture potential, just for me.",
+      "generatedAt": "2026-03-06T09:25:30.888Z"
+    },
+    "keywords": [
+      {
+        "word": "normal",
+        "slot": 404568221,
+        "source": "blockhash"
+      },
+      {
+        "word": "grow",
+        "slot": 404568221,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "focus",
+        "slot": 404568221,
+        "source": "transaction"
+      },
+      {
+        "word": "stock",
+        "slot": 404550221,
+        "source": "blockhash"
+      },
+      {
+        "word": "sister",
+        "slot": 404550221,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "stamp",
+        "slot": 404550221,
+        "source": "transaction"
+      },
+      {
+        "word": "bomb",
+        "slot": 404532221,
+        "source": "blockhash"
+      },
+      {
+        "word": "pool",
+        "slot": 404532221,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "capital",
+        "slot": 404532221,
+        "source": "transaction"
+      },
+      {
+        "word": "autumn",
+        "slot": 404514221,
+        "source": "blockhash"
+      },
+      {
+        "word": "critic",
+        "slot": 404514221,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hard",
+        "slot": 404514221,
+        "source": "transaction"
+      },
+      {
+        "word": "trigger",
+        "slot": 404496221,
+        "source": "blockhash"
+      },
+      {
+        "word": "jar",
+        "slot": 404496221,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "analyst",
+        "slot": 404496221,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgeyl7g5n524",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-03-05",
     "poem": {
       "content": "In rural fields, a student's gaze,\nAcross wide space, a purpose sways.\nA local swing, a blessèd view,\nDuring sunlit hours, skies of blue.\n\nHis method slow, a woolly thought,\nA core of dreams, intensely wrought.\nHe'd join the dance, the wind's soft plea,\nBut shadows gather, silently.\n\nThey suffer, yes, within their space,\nA butter-soft forgiving grace,\nThat cannot mend the heart's deep tear,\nOr quiet down the rising fear.\n\nHe starts to reflect, a silver shine,\nOn futures lost, and paths declined.\nBeneath the stars, a whispered vow,\nTo rise above, somehow, somewhow.\n\nThe rural heart, it knows its pain,\nAnd seeks the light, again, again.",
@@ -2539,79 +2627,6 @@
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3me43ftgmgn2e",
     "poemReady": true,
     "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-02-04",
-    "poem": {
-      "content": "A silken method, slow unfurling,\nLike a banner in the dawn's first light.\nVault of secrets, subtly swirling,\nWhere shadows dance and day takes flight.\n\nStay awhile, and watch it grow,\nThis fragile thing, this tender need.\nBehave as if the seeds you sow\nWill blossom into something freed.\n\nExercise the will that sleeps,\nBecome the leopard in the night.\nLift the heart from caverns deeps,\nAwaken bone with burning might.\n\nThe silken banner waves and sighs,\nA leopard's bone, displayed with pride.\nWe stay and watch the morning rise,\nWith method, secrets deep inside.\n\nThe vault protects, the shadows flee,\nAs fragile hopes begin to gleam.\nStay strong, dear heart, and you will see,\nA vibrant, waking, living dream.",
-      "generatedAt": "2026-02-04T09:31:03.245Z"
-    },
-    "keywords": [
-      {
-        "word": "method",
-        "slot": 397975099,
-        "source": "blockhash"
-      },
-      {
-        "word": "banner",
-        "slot": 397975099,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "silk",
-        "slot": 397975099,
-        "source": "transaction"
-      },
-      {
-        "word": "stay",
-        "slot": 397957099,
-        "source": "blockhash"
-      },
-      {
-        "word": "vault",
-        "slot": 397957099,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "behave",
-        "slot": 397957099,
-        "source": "transaction"
-      },
-      {
-        "word": "grow",
-        "slot": 397939099,
-        "source": "blockhash"
-      },
-      {
-        "word": "exercise",
-        "slot": 397939099,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "become",
-        "slot": 397939099,
-        "source": "transaction"
-      },
-      {
-        "word": "lift",
-        "slot": 397921099,
-        "source": "blockhash"
-      },
-      {
-        "word": "bone",
-        "slot": 397921099,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "leopard",
-        "slot": 397921099,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mdzkvhia7s2h",
-    "poemReady": true,
-    "keywordsCollected": 12,
     "keywordsNeeded": 8
   }
 ]

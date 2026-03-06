@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-05",
+  "date": "2026-03-06",
   "poem": {
-    "content": "In rural fields, a student's gaze,\nAcross wide space, a purpose sways.\nA local swing, a blessèd view,\nDuring sunlit hours, skies of blue.\n\nHis method slow, a woolly thought,\nA core of dreams, intensely wrought.\nHe'd join the dance, the wind's soft plea,\nBut shadows gather, silently.\n\nThey suffer, yes, within their space,\nA butter-soft forgiving grace,\nThat cannot mend the heart's deep tear,\nOr quiet down the rising fear.\n\nHe starts to reflect, a silver shine,\nOn futures lost, and paths declined.\nBeneath the stars, a whispered vow,\nTo rise above, somehow, somewhow.\n\nThe rural heart, it knows its pain,\nAnd seeks the light, again, again.",
-    "generatedAt": "2026-03-05T09:30:30.220Z"
+    "content": "The autumn air hangs thick and still,\nA critic's sigh, a window chill.\nI try to focus, hard and deep,\nWhile gathered shadows softly sleep.\n\nA stock I watched begin to grow,\nNow stagnates, a painful show.\nThe analyst, with knowing eye,\nSees fortunes wither, hopes run dry.\n\nMy sister sends a postcard stamp,\nA normal life, a gentle lamp,\nCompared to mine, a sudden bomb,\nAbout to burst in this small room.\n\nA jar of dreams, I cannot keep,\nIdeas forgotten in their sleep.\nMy capital, a shallow pool,\nReflecting back, a foolish fool.\n\nI pull the trigger, plant the seed,\nKnowing hard work is what I need.\nPerhaps from ash, new life will rise,\nBeyond the judgment in their eyes.\nI stomp my foot and try to see,\nFuture potential, just for me.",
+    "generatedAt": "2026-03-06T09:25:30.888Z"
   },
   "keywords": [
     {
-      "word": "rural",
-      "slot": 404349762,
+      "word": "normal",
+      "slot": 404568221,
       "source": "blockhash"
     },
     {
-      "word": "student",
-      "slot": 404349762,
+      "word": "grow",
+      "slot": 404568221,
       "source": "previousBlockhash"
     },
     {
-      "word": "bless",
-      "slot": 404349762,
+      "word": "focus",
+      "slot": 404568221,
       "source": "transaction"
     },
     {
-      "word": "space",
-      "slot": 404331762,
+      "word": "stock",
+      "slot": 404550221,
       "source": "blockhash"
     },
     {
-      "word": "method",
-      "slot": 404331762,
+      "word": "sister",
+      "slot": 404550221,
       "source": "previousBlockhash"
     },
     {
-      "word": "suffer",
-      "slot": 404331762,
+      "word": "stamp",
+      "slot": 404550221,
       "source": "transaction"
     },
     {
-      "word": "local",
-      "slot": 404313762,
+      "word": "bomb",
+      "slot": 404532221,
       "source": "blockhash"
     },
     {
-      "word": "swing",
-      "slot": 404313762,
+      "word": "pool",
+      "slot": 404532221,
       "source": "previousBlockhash"
     },
     {
-      "word": "butter",
-      "slot": 404313762,
+      "word": "capital",
+      "slot": 404532221,
       "source": "transaction"
     },
     {
-      "word": "during",
-      "slot": 404295762,
+      "word": "autumn",
+      "slot": 404514221,
       "source": "blockhash"
     },
     {
-      "word": "reflect",
-      "slot": 404295762,
+      "word": "critic",
+      "slot": 404514221,
       "source": "previousBlockhash"
     },
     {
-      "word": "wool",
-      "slot": 404295762,
+      "word": "hard",
+      "slot": 404514221,
       "source": "transaction"
     },
     {
-      "word": "core",
-      "slot": 404277762,
+      "word": "trigger",
+      "slot": 404496221,
       "source": "blockhash"
     },
     {
-      "word": "join",
-      "slot": 404277762,
+      "word": "jar",
+      "slot": 404496221,
       "source": "previousBlockhash"
     },
     {
-      "word": "purpose",
-      "slot": 404277762,
+      "word": "analyst",
+      "slot": 404496221,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgcif7juv52v",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgeyl7g5n524",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
