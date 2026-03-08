@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-03-08",
+    "poem": {
+      "content": "In August light, the days still thrive,\nThough shadows lengthen, spirits dive.\nI monitor myself, a silent quest,\nTo understand what I detest.\n\nThe myth I built, a gilded cage,\nWhere talent sleeps on ambition's page.\nSome accuse me of a heart grown cold,\nA squirrel hoarding stories yet untold.\n\nI grab the gadget, a window to the view,\nA fleeting glimpse of dreams anew.\nTo teach myself to let it pass,\nThe yearning echoes in the grass.\n\nI drive toward a distant shore,\nWhere burdens lighten, and I soar.\nNo longer bound by what I know,\nBut where the seeds of future grow.\n\nThe road is long, the path unseen,\nBut purpose whispers, sharp and keen.\nI seek to shed the weary shell,\nAnd in my own true being, dwell.",
+      "generatedAt": "2026-03-08T09:16:39.650Z"
+    },
+    "keywords": [
+      {
+        "word": "thrive",
+        "slot": 405004474,
+        "source": "blockhash"
+      },
+      {
+        "word": "august",
+        "slot": 405004474,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "myself",
+        "slot": 405004474,
+        "source": "transaction"
+      },
+      {
+        "word": "pass",
+        "slot": 404986474,
+        "source": "blockhash"
+      },
+      {
+        "word": "view",
+        "slot": 404986474,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "accuse",
+        "slot": 404986474,
+        "source": "transaction"
+      },
+      {
+        "word": "myth",
+        "slot": 404968474,
+        "source": "blockhash"
+      },
+      {
+        "word": "teach",
+        "slot": 404968474,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "monitor",
+        "slot": 404968474,
+        "source": "transaction"
+      },
+      {
+        "word": "drive",
+        "slot": 404950474,
+        "source": "blockhash"
+      },
+      {
+        "word": "toward",
+        "slot": 404950474,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "grab",
+        "slot": 404950474,
+        "source": "transaction"
+      },
+      {
+        "word": "squirrel",
+        "slot": 404932474,
+        "source": "blockhash"
+      },
+      {
+        "word": "talent",
+        "slot": 404932474,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "gadget",
+        "slot": 404932474,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgjyz7pmtp2q",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-03-07",
     "poem": {
       "content": "The wheat fields whisper where the wrong was done,\nA clever scheme, a token's frosty gleam.\nA single shrimp, lost, its tiny job begun,\nFinds only garbage in a broken dream.\n\nThe sail hangs limp, a curtain drawing closed,\nOn futures promised, now a shadowed show.\nThe team is scattered, impact decomposed,\nInto the earth, where bitter winds do blow.\n\nPut down the shovel, let the digging cease,\nThis practice hollow, echoing the pain.\nA frozen landscape offers no release,\nJust empty acres, washed by chilling rain.\n\nThe frost has bitten to the very core,\nLeaving a hole where hope once used to brightly bloom.\nNo golden harvest waits behind that door,\nJust silent fields consumed by heavy gloom.\n\nThe wheat is withered, bent beneath the chill,\nA frozen monument to futures unrealized, a hill.",
@@ -2537,94 +2625,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3meb3lvdk7p23",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-02-06",
-    "poem": {
-      "content": "A comic book of days, a life in every segment,\nThe space between heartbeats, a pregnant, silent hum.\nWe live a painted state, a canvas oil slicked and grim,\nEach gesture, a chosen style, a shattered atom come undone.\n\nThe entry to forever, guarded by a painted liar,\nHis words like weighted march, a crushing, heavy ball.\nThe author of my sorrow, writes a fate I can't deny,\nLeaving me to listen, as the empty echoes call.\n\nBeneath the surface gleam, a deeper darkness waits,\nImprisoned in this type of story, sealed in frozen time.\nI search for a release, for solace through the gates,\nBut the liar's clever script, becomes tragically sublime.\n\nThe painted ball of promise, turns to crashing, cold despair,\nAnother comic segment folds, in March's frigid care.\nThe story ends abruptly, a silent, stifled breath,\nA frozen, hollow lie, a poet’s lonely death.",
-      "generatedAt": "2026-02-06T09:30:58.329Z"
-    },
-    "keywords": [
-      {
-        "word": "comic",
-        "slot": 398415028,
-        "source": "blockhash"
-      },
-      {
-        "word": "segment",
-        "slot": 398415028,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "between",
-        "slot": 398415028,
-        "source": "transaction"
-      },
-      {
-        "word": "live",
-        "slot": 398397028,
-        "source": "blockhash"
-      },
-      {
-        "word": "state",
-        "slot": 398397028,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "oil",
-        "slot": 398397028,
-        "source": "transaction"
-      },
-      {
-        "word": "style",
-        "slot": 398379028,
-        "source": "blockhash"
-      },
-      {
-        "word": "atom",
-        "slot": 398379028,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "liar",
-        "slot": 398379028,
-        "source": "transaction"
-      },
-      {
-        "word": "entry",
-        "slot": 398361028,
-        "source": "blockhash"
-      },
-      {
-        "word": "ball",
-        "slot": 398361028,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "author",
-        "slot": 398361028,
-        "source": "transaction"
-      },
-      {
-        "word": "crush",
-        "slot": 398343028,
-        "source": "blockhash"
-      },
-      {
-        "word": "march",
-        "slot": 398343028,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "type",
-        "slot": 398343028,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3me6lt6325e2z",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8

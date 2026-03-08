@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-07",
+  "date": "2026-03-08",
   "poem": {
-    "content": "The wheat fields whisper where the wrong was done,\nA clever scheme, a token's frosty gleam.\nA single shrimp, lost, its tiny job begun,\nFinds only garbage in a broken dream.\n\nThe sail hangs limp, a curtain drawing closed,\nOn futures promised, now a shadowed show.\nThe team is scattered, impact decomposed,\nInto the earth, where bitter winds do blow.\n\nPut down the shovel, let the digging cease,\nThis practice hollow, echoing the pain.\nA frozen landscape offers no release,\nJust empty acres, washed by chilling rain.\n\nThe frost has bitten to the very core,\nLeaving a hole where hope once used to brightly bloom.\nNo golden harvest waits behind that door,\nJust silent fields consumed by heavy gloom.\n\nThe wheat is withered, bent beneath the chill,\nA frozen monument to futures unrealized, a hill.",
-    "generatedAt": "2026-03-07T09:16:48.357Z"
+    "content": "In August light, the days still thrive,\nThough shadows lengthen, spirits dive.\nI monitor myself, a silent quest,\nTo understand what I detest.\n\nThe myth I built, a gilded cage,\nWhere talent sleeps on ambition's page.\nSome accuse me of a heart grown cold,\nA squirrel hoarding stories yet untold.\n\nI grab the gadget, a window to the view,\nA fleeting glimpse of dreams anew.\nTo teach myself to let it pass,\nThe yearning echoes in the grass.\n\nI drive toward a distant shore,\nWhere burdens lighten, and I soar.\nNo longer bound by what I know,\nBut where the seeds of future grow.\n\nThe road is long, the path unseen,\nBut purpose whispers, sharp and keen.\nI seek to shed the weary shell,\nAnd in my own true being, dwell.",
+    "generatedAt": "2026-03-08T09:16:39.650Z"
   },
   "keywords": [
     {
-      "word": "wheat",
-      "slot": 404785259,
+      "word": "thrive",
+      "slot": 405004474,
       "source": "blockhash"
     },
     {
-      "word": "token",
-      "slot": 404785259,
+      "word": "august",
+      "slot": 405004474,
       "source": "previousBlockhash"
     },
     {
-      "word": "job",
-      "slot": 404785259,
+      "word": "myself",
+      "slot": 405004474,
       "source": "transaction"
     },
     {
-      "word": "frost",
-      "slot": 404767259,
+      "word": "pass",
+      "slot": 404986474,
       "source": "blockhash"
     },
     {
-      "word": "wrong",
-      "slot": 404767259,
+      "word": "view",
+      "slot": 404986474,
       "source": "previousBlockhash"
     },
     {
-      "word": "sail",
-      "slot": 404767259,
+      "word": "accuse",
+      "slot": 404986474,
       "source": "transaction"
     },
     {
-      "word": "curtain",
-      "slot": 404749259,
+      "word": "myth",
+      "slot": 404968474,
       "source": "blockhash"
     },
     {
-      "word": "impact",
-      "slot": 404749259,
+      "word": "teach",
+      "slot": 404968474,
       "source": "previousBlockhash"
     },
     {
-      "word": "clever",
-      "slot": 404749259,
+      "word": "monitor",
+      "slot": 404968474,
       "source": "transaction"
     },
     {
-      "word": "shrimp",
-      "slot": 404731259,
+      "word": "drive",
+      "slot": 404950474,
       "source": "blockhash"
     },
     {
-      "word": "hole",
-      "slot": 404731259,
+      "word": "toward",
+      "slot": 404950474,
       "source": "previousBlockhash"
     },
     {
-      "word": "practice",
-      "slot": 404731259,
+      "word": "grab",
+      "slot": 404950474,
       "source": "transaction"
     },
     {
-      "word": "team",
-      "slot": 404713259,
+      "word": "squirrel",
+      "slot": 404932474,
       "source": "blockhash"
     },
     {
-      "word": "garbage",
-      "slot": 404713259,
+      "word": "talent",
+      "slot": 404932474,
       "source": "previousBlockhash"
     },
     {
-      "word": "put",
-      "slot": 404713259,
+      "word": "gadget",
+      "slot": 404932474,
       "source": "transaction"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgjyz7pmtp2q",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
