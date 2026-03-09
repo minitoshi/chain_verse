@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-03-09",
+    "poem": {
+      "content": "A single sentence, a viable claim,\nEmerge from code, whispered by name.\nOnline, the ledger, a spyglass bright,\nReflecting back a digital light.\n\nEmbrace the new, the infant’s first cry,\nAssist the growth reaching for the sky.\nTeach us the patterns, the ebb and the flow,\nA story unfolding, watch the seeds grow.\n\nA ripple begins, in the digital sand,\nWhere fortunes are built, and fortunes are banned.\nChalk dust trails, on the monitor's gleam,\nA developer's nightmare, or coder's bright dream.\n\nThe system can crack, under pressure's harsh hand,\nVulnerabilities exposed in this digital land\nBut scrub clean the errors, with resolute care,\nLet innovation thrive, beyond compare.\n\nThe network endures, a resilient design,\nWhere new possibilities brilliantly shine.\nThe infant, a future we can only see,\nReflected in the blockchain constantly.",
+      "generatedAt": "2026-03-09T09:34:26.019Z"
+    },
+    "keywords": [
+      {
+        "word": "sentence",
+        "slot": 405226696,
+        "source": "blockhash"
+      },
+      {
+        "word": "embrace",
+        "slot": 405226696,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "viable",
+        "slot": 405226696,
+        "source": "transaction"
+      },
+      {
+        "word": "emerge",
+        "slot": 405208696,
+        "source": "blockhash"
+      },
+      {
+        "word": "assist",
+        "slot": 405208696,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "teach",
+        "slot": 405208696,
+        "source": "transaction"
+      },
+      {
+        "word": "thrive",
+        "slot": 405190696,
+        "source": "blockhash"
+      },
+      {
+        "word": "story",
+        "slot": 405190696,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "crack",
+        "slot": 405190696,
+        "source": "transaction"
+      },
+      {
+        "word": "scrub",
+        "slot": 405172696,
+        "source": "blockhash"
+      },
+      {
+        "word": "chalk",
+        "slot": 405172696,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "online",
+        "slot": 405172696,
+        "source": "transaction"
+      },
+      {
+        "word": "spy",
+        "slot": 405154696,
+        "source": "blockhash"
+      },
+      {
+        "word": "infant",
+        "slot": 405154696,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "ripple",
+        "slot": 405154696,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgmkhvl5u424",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-03-08",
     "poem": {
       "content": "In August light, the days still thrive,\nThough shadows lengthen, spirits dive.\nI monitor myself, a silent quest,\nTo understand what I detest.\n\nThe myth I built, a gilded cage,\nWhere talent sleeps on ambition's page.\nSome accuse me of a heart grown cold,\nA squirrel hoarding stories yet untold.\n\nI grab the gadget, a window to the view,\nA fleeting glimpse of dreams anew.\nTo teach myself to let it pass,\nThe yearning echoes in the grass.\n\nI drive toward a distant shore,\nWhere burdens lighten, and I soar.\nNo longer bound by what I know,\nBut where the seeds of future grow.\n\nThe road is long, the path unseen,\nBut purpose whispers, sharp and keen.\nI seek to shed the weary shell,\nAnd in my own true being, dwell.",
@@ -2537,94 +2625,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3medm3eyyi62e",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-02-07",
-    "poem": {
-      "content": "The midnight air, a notable chill,\nindoor, the tobacco smoke did fill.\nA master's gaze, a hired hand's plight,\ndevote to labor, day and night.\n\nAn ankle throbbing, weary from the field,\nwhere golden grain, the land did yield.\nA whale of burden, on his weary back,\nanother harvest, on this dusty track.\n\nHe felt no blame for dreams that would not bloom,\njust silent ache within a shadowed room.\nA roast upon the fire, a hollow feast,\nwhile fortune favored, the powerful beast.\n\nA tooth that ached with every weary chew,\nhis meager purse, could barely see him through.\nHe watched the embers, settle in their bed,\nhis soul like embers, nearly cold and dead.\n\nYet in the darkness, stars began to gleam,\nand whispered hope within a broken dream.",
-      "generatedAt": "2026-02-07T09:18:32.845Z"
-    },
-    "keywords": [
-      {
-        "word": "blame",
-        "slot": 398633321,
-        "source": "blockhash"
-      },
-      {
-        "word": "tobacco",
-        "slot": 398633321,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ankle",
-        "slot": 398633321,
-        "source": "transaction"
-      },
-      {
-        "word": "master",
-        "slot": 398615321,
-        "source": "blockhash"
-      },
-      {
-        "word": "notable",
-        "slot": 398615321,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "hire",
-        "slot": 398615321,
-        "source": "transaction"
-      },
-      {
-        "word": "grain",
-        "slot": 398597321,
-        "source": "blockhash"
-      },
-      {
-        "word": "whale",
-        "slot": 398597321,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "tooth",
-        "slot": 398597321,
-        "source": "transaction"
-      },
-      {
-        "word": "devote",
-        "slot": 398579321,
-        "source": "blockhash"
-      },
-      {
-        "word": "midnight",
-        "slot": 398579321,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "gaze",
-        "slot": 398579321,
-        "source": "transaction"
-      },
-      {
-        "word": "indoor",
-        "slot": 398561321,
-        "source": "blockhash"
-      },
-      {
-        "word": "roast",
-        "slot": 398561321,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "purse",
-        "slot": 398561321,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3meb3lvdk7p23",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
