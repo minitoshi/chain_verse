@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-11",
+  "date": "2026-03-12",
   "poem": {
-    "content": "In a pudding-colored room, shadows flee,\nA woman sits, stirring coffee, dark as sea.\nTwo lizards scuttle, a tag of yesterday's play,\nWhile outside, dramas unfold, day by day.\n\nLive wires hum, an antenna reaching high,\nTo catch whispers of secrets drifting by.\nAn angry echo in the cotton-stuffed chair,\nAs moonlight paints the room with pale despair.\n\nShe tries to conduct herself with careful grace,\nBut memories claw at her time-worn face.\nA yearning lingers, a soft and tender plea,\nTo enhance the moments that used to be.\n\nThe coffee cools, a bitter, acrid taste,\nIn this quiet room, her heart held in waste.\nShe wishes only to flee this desolate scene,\nWhere shadows dance, and dreams grow lean.",
-    "generatedAt": "2026-03-11T09:30:53.778Z"
+    "content": "The virtual world, a golden net,\nsnared my attention, wet\nand damp with dreams before.\nWhen ordinary life felt like\na hollow echo, a locked door.\n\nMy neck ached from the strain,\nscrolling endless news, a hurricane\nof information, a dizzying render.\nA master puppeteer, did I surrender?\n\nThis digital disorder,\nsettled deep within my stomach, bordered\non obsession. Was this true income?\nOr just fool's gold, a gilded tomb?\n\nBefore I knew, the lines blurred,\nthe real world deferred.\nWhen the sun dipped low, a gold cascade,\nI saw the errors I had made.\n\nThe virtual, a damp embrace,\nno substitute for time and space.\nThe net cut deep, a golden snare.\nLike a phantom, freedom was rare.",
+    "generatedAt": "2026-03-12T09:30:49.861Z"
   },
   "keywords": [
     {
-      "word": "pudding",
-      "slot": 405666998,
+      "word": "virtual",
+      "slot": 405887821,
       "source": "blockhash"
     },
     {
-      "word": "room",
-      "slot": 405666998,
+      "word": "net",
+      "slot": 405887821,
       "source": "previousBlockhash"
     },
     {
-      "word": "flee",
-      "slot": 405666998,
+      "word": "neck",
+      "slot": 405887821,
       "source": "transaction"
     },
     {
-      "word": "coffee",
-      "slot": 405648998,
+      "word": "stomach",
+      "slot": 405869821,
       "source": "blockhash"
     },
     {
-      "word": "drama",
-      "slot": 405648998,
+      "word": "like",
+      "slot": 405869821,
       "source": "previousBlockhash"
     },
     {
-      "word": "live",
-      "slot": 405648998,
+      "word": "ordinary",
+      "slot": 405869821,
       "source": "transaction"
     },
     {
-      "word": "lizard",
-      "slot": 405630998,
+      "word": "disorder",
+      "slot": 405851821,
       "source": "blockhash"
     },
     {
-      "word": "tag",
-      "slot": 405630998,
+      "word": "when",
+      "slot": 405851821,
       "source": "previousBlockhash"
     },
     {
-      "word": "two",
-      "slot": 405630998,
+      "word": "before",
+      "slot": 405851821,
       "source": "transaction"
     },
     {
-      "word": "conduct",
-      "slot": 405612998,
+      "word": "master",
+      "slot": 405833821,
       "source": "blockhash"
     },
     {
-      "word": "angry",
-      "slot": 405612998,
+      "word": "render",
+      "slot": 405833821,
       "source": "previousBlockhash"
     },
     {
-      "word": "enhance",
-      "slot": 405612998,
+      "word": "gold",
+      "slot": 405833821,
       "source": "transaction"
     },
     {
-      "word": "cotton",
-      "slot": 405594998,
+      "word": "news",
+      "slot": 405815821,
       "source": "blockhash"
     },
     {
-      "word": "antenna",
-      "slot": 405594998,
+      "word": "damp",
+      "slot": 405815821,
       "source": "previousBlockhash"
     },
     {
-      "word": "woman",
-      "slot": 405594998,
+      "word": "income",
+      "slot": 405815821,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgrl7grkuh2k",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgu3oairsr2w",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
