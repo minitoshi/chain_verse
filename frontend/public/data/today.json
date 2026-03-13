@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-12",
+  "date": "2026-03-13",
   "poem": {
-    "content": "The virtual world, a golden net,\nsnared my attention, wet\nand damp with dreams before.\nWhen ordinary life felt like\na hollow echo, a locked door.\n\nMy neck ached from the strain,\nscrolling endless news, a hurricane\nof information, a dizzying render.\nA master puppeteer, did I surrender?\n\nThis digital disorder,\nsettled deep within my stomach, bordered\non obsession. Was this true income?\nOr just fool's gold, a gilded tomb?\n\nBefore I knew, the lines blurred,\nthe real world deferred.\nWhen the sun dipped low, a gold cascade,\nI saw the errors I had made.\n\nThe virtual, a damp embrace,\nno substitute for time and space.\nThe net cut deep, a golden snare.\nLike a phantom, freedom was rare.",
-    "generatedAt": "2026-03-12T09:30:49.861Z"
+    "content": "The autumn air, a powder fine,\nSettles on the roof, a hopeful sign.\nAdjust the hood, pull it tight,\nAgainst the brief chill of the fading light.\n\nA wide expanse of sky above,\nAs I descend the creaking stairs, I love\nThe thought of sun, a ghost of heat,\nBefore the winter winds begin to beat.\n\nMy faded jeans and bicycle wait below,\nOne wheel spins, a silent show.\nDown the street, a lonely fan,\nChirps its song; where summer ran.\n\nThe poem forms, unbidden, here,\nLost in thoughts of what I hold dear.\nA muffin sits, untouched, aside,\nAs hopes decrease, where fears reside.\n\nThe world spins easily below my feet,\nA simple rhythm, bittersweet.\nI gather strength, to ride and roam,\nAnd find that weary heart, a home.",
+    "generatedAt": "2026-03-13T09:27:13.833Z"
   },
   "keywords": [
     {
-      "word": "virtual",
-      "slot": 405887821,
+      "word": "hope",
+      "slot": 406107800,
       "source": "blockhash"
     },
     {
-      "word": "net",
-      "slot": 405887821,
+      "word": "wide",
+      "slot": 406107800,
       "source": "previousBlockhash"
     },
     {
-      "word": "neck",
-      "slot": 405887821,
+      "word": "jeans",
+      "slot": 406107800,
       "source": "transaction"
     },
     {
-      "word": "stomach",
-      "slot": 405869821,
+      "word": "autumn",
+      "slot": 406089800,
       "source": "blockhash"
     },
     {
-      "word": "like",
-      "slot": 405869821,
+      "word": "stairs",
+      "slot": 406089800,
       "source": "previousBlockhash"
     },
     {
-      "word": "ordinary",
-      "slot": 405869821,
+      "word": "hood",
+      "slot": 406089800,
       "source": "transaction"
     },
     {
-      "word": "disorder",
-      "slot": 405851821,
+      "word": "fan",
+      "slot": 406071800,
       "source": "blockhash"
     },
     {
-      "word": "when",
-      "slot": 405851821,
+      "word": "powder",
+      "slot": 406071800,
       "source": "previousBlockhash"
     },
     {
-      "word": "before",
-      "slot": 405851821,
+      "word": "adjust",
+      "slot": 406071800,
       "source": "transaction"
     },
     {
-      "word": "master",
-      "slot": 405833821,
+      "word": "poem",
+      "slot": 406053800,
       "source": "blockhash"
     },
     {
-      "word": "render",
-      "slot": 405833821,
+      "word": "easily",
+      "slot": 406053800,
       "source": "previousBlockhash"
     },
     {
-      "word": "gold",
-      "slot": 405833821,
+      "word": "brief",
+      "slot": 406053800,
       "source": "transaction"
     },
     {
-      "word": "news",
-      "slot": 405815821,
+      "word": "bicycle",
+      "slot": 406035800,
       "source": "blockhash"
     },
     {
-      "word": "damp",
-      "slot": 405815821,
+      "word": "muffin",
+      "slot": 406035800,
       "source": "previousBlockhash"
     },
     {
-      "word": "income",
-      "slot": 405815821,
+      "word": "decrease",
+      "slot": 406035800,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgu3oairsr2w",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgwlwptue224",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
