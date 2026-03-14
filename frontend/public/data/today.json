@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-13",
+  "date": "2026-03-14",
   "poem": {
-    "content": "The autumn air, a powder fine,\nSettles on the roof, a hopeful sign.\nAdjust the hood, pull it tight,\nAgainst the brief chill of the fading light.\n\nA wide expanse of sky above,\nAs I descend the creaking stairs, I love\nThe thought of sun, a ghost of heat,\nBefore the winter winds begin to beat.\n\nMy faded jeans and bicycle wait below,\nOne wheel spins, a silent show.\nDown the street, a lonely fan,\nChirps its song; where summer ran.\n\nThe poem forms, unbidden, here,\nLost in thoughts of what I hold dear.\nA muffin sits, untouched, aside,\nAs hopes decrease, where fears reside.\n\nThe world spins easily below my feet,\nA simple rhythm, bittersweet.\nI gather strength, to ride and roam,\nAnd find that weary heart, a home.",
-    "generatedAt": "2026-03-13T09:27:13.833Z"
+    "content": "The ginger moon, an oval stain,\nhung heavy on this balcony.\nWhat trial awaits, beyond the pane?\nA bitter taste, like something gone badly.\n\nThe setup, slick, a mobile dream,\nbelies the hurdle in its code.\nAvoid the surge, the screaming beam,\nbefore the future is bestowed.\n\nRather walk a shadowed street,\nthan chase this sugar-coated lie.\nTo develop wings, then find deceit,\nis a slow burn 'til you die.\n\nThe thing I seek, a hidden key,\nto unlock what's become illegal.\nIf only code could set me free...\nor is this desperation real?\n\nThe oval moon, a spectral guide,\ndevelops thoughts of flight and fear.\nIllegal hopes begin to ride\nsurge forward, year after year.",
+    "generatedAt": "2026-03-14T09:20:33.075Z"
   },
   "keywords": [
     {
-      "word": "hope",
-      "slot": 406107800,
+      "word": "surge",
+      "slot": 406326787,
       "source": "blockhash"
     },
     {
-      "word": "wide",
-      "slot": 406107800,
+      "word": "ginger",
+      "slot": 406326787,
       "source": "previousBlockhash"
     },
     {
-      "word": "jeans",
-      "slot": 406107800,
+      "word": "what",
+      "slot": 406326787,
       "source": "transaction"
     },
     {
-      "word": "autumn",
-      "slot": 406089800,
+      "word": "trial",
+      "slot": 406308787,
       "source": "blockhash"
     },
     {
-      "word": "stairs",
-      "slot": 406089800,
+      "word": "thing",
+      "slot": 406308787,
       "source": "previousBlockhash"
     },
     {
-      "word": "hood",
-      "slot": 406089800,
+      "word": "setup",
+      "slot": 406308787,
       "source": "transaction"
     },
     {
-      "word": "fan",
-      "slot": 406071800,
+      "word": "mobile",
+      "slot": 406290787,
       "source": "blockhash"
     },
     {
-      "word": "powder",
-      "slot": 406071800,
+      "word": "oval",
+      "slot": 406290787,
       "source": "previousBlockhash"
     },
     {
-      "word": "adjust",
-      "slot": 406071800,
+      "word": "rather",
+      "slot": 406290787,
       "source": "transaction"
     },
     {
-      "word": "poem",
-      "slot": 406053800,
+      "word": "hurdle",
+      "slot": 406272787,
       "source": "blockhash"
     },
     {
-      "word": "easily",
-      "slot": 406053800,
+      "word": "develop",
+      "slot": 406272787,
       "source": "previousBlockhash"
     },
     {
-      "word": "brief",
-      "slot": 406053800,
+      "word": "illegal",
+      "slot": 406272787,
       "source": "transaction"
     },
     {
-      "word": "bicycle",
-      "slot": 406035800,
+      "word": "balcony",
+      "slot": 406254787,
       "source": "blockhash"
     },
     {
-      "word": "muffin",
-      "slot": 406035800,
+      "word": "avoid",
+      "slot": 406254787,
       "source": "previousBlockhash"
     },
     {
-      "word": "decrease",
-      "slot": 406035800,
+      "word": "sugar",
+      "slot": 406254787,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgwlwptue224",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgz3zp5bbp2n",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
