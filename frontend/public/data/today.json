@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-15",
+  "date": "2026-03-16",
   "poem": {
-    "content": "I long to give myself permission,\nto travel past this dusty frame.\n\nThe inner hum a faulty stereo,\na cheap refrain I can't erase.\n\nEnter the census taker's world,\na clerk describes my barren state.\n\nI draw a leopard on the wall,\na truth projected, fierce and bold.\n\nA fruit hangs heavy, bittersweet,\nutility undefined, untold.\n\nThis aching want, this hollow cast,\nI see reflections, shadows deep.\n\nI travel there, to find the core,\nwhere ancient secrets softly sleep.\n\nThe leopard roars, a vibrant call,\nto draw you in, past barren wall.\n\nThe fruit I give, a ripened gift,\nto understand the inner shift.\n\nTo find our truth within the roar,\nto travel inward, evermore.",
-    "generatedAt": "2026-03-15T09:21:54.389Z"
+    "content": "A ginger cat upon the bench,\nWatches the world, a simple sketch.\nPeople pass, a hurried trade,\nOf smiles and frowns, a life displayed.\n\nThe outer reaches, cold and vast,\nWhere lonely ships forever cast\nTheir shadows, in an endless orbit,\nA silent film, a cosmic forfeit.\n\nA novel read beneath the leaf,\nHides secrets, sorrow, disbelief.\nA tagged ambition starts to wane,\nAs dreams decrease, like falling rain.\n\nThe plan to execute, they say,\nChanges with the view each day.\nAlso, a wish, kept close and deep\nAs sleep,\nThat even in this shadowed place,\nA new star rises to displace\nThe endless night, a brighter gleam,\nTo wake us from this novel dream.",
+    "generatedAt": "2026-03-16T09:51:08.683Z"
   },
   "keywords": [
     {
-      "word": "give",
-      "slot": 406546327,
+      "word": "ginger",
+      "slot": 406769951,
       "source": "blockhash"
     },
     {
-      "word": "travel",
-      "slot": 406546327,
+      "word": "outer",
+      "slot": 406769951,
       "source": "previousBlockhash"
     },
     {
-      "word": "inner",
-      "slot": 406546327,
+      "word": "novel",
+      "slot": 406769951,
       "source": "transaction"
     },
     {
-      "word": "clerk",
-      "slot": 406528327,
+      "word": "execute",
+      "slot": 406751951,
       "source": "blockhash"
     },
     {
-      "word": "stereo",
-      "slot": 406528327,
+      "word": "film",
+      "slot": 406751951,
       "source": "previousBlockhash"
     },
     {
-      "word": "census",
-      "slot": 406528327,
+      "word": "trade",
+      "slot": 406751951,
       "source": "transaction"
     },
     {
-      "word": "leopard",
-      "slot": 406510327,
+      "word": "leaf",
+      "slot": 406733951,
       "source": "blockhash"
     },
     {
-      "word": "cheap",
-      "slot": 406510327,
+      "word": "view",
+      "slot": 406733951,
       "source": "previousBlockhash"
     },
     {
-      "word": "utility",
-      "slot": 406510327,
+      "word": "orbit",
+      "slot": 406733951,
       "source": "transaction"
     },
     {
-      "word": "frame",
-      "slot": 406492327,
+      "word": "tag",
+      "slot": 406715951,
       "source": "blockhash"
     },
     {
-      "word": "enter",
-      "slot": 406492327,
+      "word": "secret",
+      "slot": 406715951,
       "source": "previousBlockhash"
     },
     {
-      "word": "truth",
-      "slot": 406492327,
+      "word": "bench",
+      "slot": 406715951,
       "source": "transaction"
     },
     {
-      "word": "describe",
-      "slot": 406474327,
+      "word": "people",
+      "slot": 406697951,
       "source": "blockhash"
     },
     {
-      "word": "draw",
-      "slot": 406474327,
+      "word": "decrease",
+      "slot": 406697951,
       "source": "previousBlockhash"
     },
     {
-      "word": "fruit",
-      "slot": 406474327,
+      "word": "also",
+      "slot": 406697951,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mh3ml27qao2q",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mh66oalmco26",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
