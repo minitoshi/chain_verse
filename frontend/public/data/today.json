@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "poem": {
-    "content": "The salt air stings, evokes a memory.\nA tower of code, austere and gray,\nwhere protocols keep watch today.\nWe scan the horizon, ever near,\na phantom threat, fueled by fear.\n\nThey exhibit strength, a polished shield,\nbut cracks appear, secrets revealed.\nAn assault on trust, a subtle sting,\na twisted narrative, on fragile wing.\nWe try to fix what feels decayed,\n\nBut access denied, the system swayed.\nEach transaction, a careful slice,\nof what was mine, at what high price?\nI lock my wallet, tight and fast,\na future stolen, fading fast.\n\nThey report that all is well and sound,\nwhile fortunes vanish, underground.\nEnjoy the view, they seem to say,\nas shadows twist and steal the day.\nI watch the tower, cold and tall,\n\nAnd let the echoes softly fall.\nA solemn vow, within my keep,\nI trust in code, while others sleep.",
-    "generatedAt": "2026-03-17T09:41:12.535Z"
+    "content": "I try to pen a civil order, crisp and clean,\nBut the swarm within, unable to be seen,\nBegins to crawl, a restless, hungry tide.\nMy pony spirit, nowhere left to hide.\n\nThe model shifts, a broken, shattered style,\nEach impact echoes for a thousand mile.\nA trigger pulled, a silent, empty shell,\nWhere dreams once danced, now shadows only dwell.\n\nTo jump is futile, gravity's embrace,\nA shop of sorrows etched upon my face.\nThis fragile shell, this being tried and bent,\nA twisted echo of what heaven sent.\n\nI try to rise, from ashes cold and deep,\nBut find myself within a slumbering sleep.\nThe order gone, the civil lost to fray,\nAnd all that's left is just this endless day.\nA crawl, a swarm, a whisper in the breeze,\nOf what will be, among the barren trees.",
+    "generatedAt": "2026-03-18T09:39:22.185Z"
   },
   "keywords": [
     {
-      "word": "evoke",
-      "slot": 406987911,
+      "word": "try",
+      "slot": 407206986,
       "source": "blockhash"
     },
     {
-      "word": "slice",
-      "slot": 406987911,
+      "word": "model",
+      "slot": 407206986,
       "source": "previousBlockhash"
     },
     {
-      "word": "scan",
-      "slot": 406987911,
+      "word": "unable",
+      "slot": 407206986,
       "source": "transaction"
     },
     {
-      "word": "tower",
-      "slot": 406969911,
+      "word": "order",
+      "slot": 407188986,
       "source": "blockhash"
     },
     {
-      "word": "exhibit",
-      "slot": 406969911,
+      "word": "civil",
+      "slot": 407188986,
       "source": "previousBlockhash"
     },
     {
-      "word": "keep",
-      "slot": 406969911,
+      "word": "crawl",
+      "slot": 407188986,
       "source": "transaction"
     },
     {
-      "word": "today",
-      "slot": 406951911,
+      "word": "swarm",
+      "slot": 407170986,
       "source": "blockhash"
     },
     {
-      "word": "assault",
-      "slot": 406951911,
+      "word": "impact",
+      "slot": 407170986,
       "source": "previousBlockhash"
     },
     {
-      "word": "access",
-      "slot": 406951911,
+      "word": "pen",
+      "slot": 407170986,
       "source": "transaction"
     },
     {
-      "word": "shield",
-      "slot": 406933911,
+      "word": "pony",
+      "slot": 407152986,
       "source": "blockhash"
     },
     {
-      "word": "fix",
-      "slot": 406933911,
+      "word": "trigger",
+      "slot": 407152986,
       "source": "previousBlockhash"
     },
     {
-      "word": "lock",
-      "slot": 406933911,
+      "word": "shop",
+      "slot": 407152986,
       "source": "transaction"
     },
     {
-      "word": "twist",
-      "slot": 406915911,
+      "word": "style",
+      "slot": 407134986,
       "source": "blockhash"
     },
     {
-      "word": "report",
-      "slot": 406915911,
+      "word": "jump",
+      "slot": 407134986,
       "source": "previousBlockhash"
     },
     {
-      "word": "enjoy",
-      "slot": 406915911,
+      "word": "crisp",
+      "slot": 407134986,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhaolfj3p22w",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhd6wzoi5y2s",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
