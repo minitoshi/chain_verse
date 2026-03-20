@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-19",
+  "date": "2026-03-20",
   "poem": {
-    "content": "A giant's shadow, draped upon the screen,\nWhere numbers climb, a fevered, anxious green.\nCan we manage this? This lumbering descent,\nOf data files, where fortunes are misspent?\n\nAn animal fear, a primal, trembling thing,\nAs spikes ascend, and digital bells ring.\nOne voice, lost in the general's command,\nA drifting soul, in this digital land.\n\nThe actor raises, then lays down his rifle,\nHis purpose lost, a half-forgotten trifle.\nHe sees the numbers, cold and stark and bright,\nReflected in the endless, hollow night.\n\nThe currencies drift, and they rise and fall\nHe climbs this mountain, destined not to call.\nThe digital frontier, a haunting dream\nA world it seems, is not as it seems.\nHe pulls his voice to the front\nAnd sings to the moon, a haunting hunt.",
-    "generatedAt": "2026-03-19T09:30:48.407Z"
+    "content": "The athlete, weary, sought a sunlit pool,\nTo reflect on victories, harsh and few.\nRemember echoes, crowds that rise and throw\nTheir adoration, fleeting in its glow.\n\nHe'd give it all, this gilded, hollow prize,\nTo sniff the air, where simple comfort lies.\nA kitten's purr, a soft and gentle sound,\nA cushion waiting, on familiar ground.\n\nThe world outside, a current flowing fast,\nLike someone paddling in a fragile canoe,\nA weird compulsion, shadows always cast,\nTo mimic triumphs, old and ever new.\n\nHe cannot prosper chained to what's been done,\nDevote his soul entirely to the sun.\nA tiny mouse, within a grand design,\nHis spirit yearns for something more divine.\n\nTo throw aside the mask, the sweat, the strain,\nThe pool's dark surface, mirroring the pain.\nLet go the memory, harsh and ever cold,\nA future's whispered story to unfold.",
+    "generatedAt": "2026-03-20T09:28:05.059Z"
   },
   "keywords": [
     {
-      "word": "giant",
-      "slot": 407422608,
+      "word": "cushion",
+      "slot": 407640830,
       "source": "blockhash"
     },
     {
-      "word": "climb",
-      "slot": 407422608,
+      "word": "devote",
+      "slot": 407640830,
       "source": "previousBlockhash"
     },
     {
-      "word": "manage",
-      "slot": 407422608,
+      "word": "prosper",
+      "slot": 407640830,
       "source": "transaction"
     },
     {
-      "word": "file",
-      "slot": 407404608,
+      "word": "throw",
+      "slot": 407622830,
       "source": "blockhash"
     },
     {
-      "word": "screen",
-      "slot": 407404608,
+      "word": "give",
+      "slot": 407622830,
       "source": "previousBlockhash"
     },
     {
-      "word": "animal",
-      "slot": 407404608,
+      "word": "athlete",
+      "slot": 407622830,
       "source": "transaction"
     },
     {
-      "word": "one",
-      "slot": 407386608,
+      "word": "mouse",
+      "slot": 407604830,
       "source": "blockhash"
     },
     {
-      "word": "drift",
-      "slot": 407386608,
+      "word": "weird",
+      "slot": 407604830,
       "source": "previousBlockhash"
     },
     {
-      "word": "general",
-      "slot": 407386608,
+      "word": "sniff",
+      "slot": 407604830,
       "source": "transaction"
     },
     {
-      "word": "actor",
-      "slot": 407368608,
+      "word": "kitten",
+      "slot": 407586830,
       "source": "blockhash"
     },
     {
-      "word": "raise",
-      "slot": 407368608,
+      "word": "canoe",
+      "slot": 407586830,
       "source": "previousBlockhash"
     },
     {
-      "word": "spike",
-      "slot": 407368608,
+      "word": "pool",
+      "slot": 407586830,
       "source": "transaction"
     },
     {
-      "word": "lumber",
-      "slot": 407350608,
+      "word": "reflect",
+      "slot": 407568830,
       "source": "blockhash"
     },
     {
-      "word": "rifle",
-      "slot": 407350608,
+      "word": "remember",
+      "slot": 407568830,
       "source": "previousBlockhash"
     },
     {
-      "word": "voice",
-      "slot": 407350608,
+      "word": "mimic",
+      "slot": 407568830,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhfown7qz22c",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhi7aogjh726",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
