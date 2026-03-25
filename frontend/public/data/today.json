@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-24",
+  "date": "2026-03-25",
   "poem": {
-    "content": "The olympic flame, a flash of gold,\nNever dims in April’s hold.\nA lazy sun upon the bay,\nAnother dawn begins to play.\n\nOne canvas bleached by salty air,\nWhere seabirds seek a life to share.\nI carry burdens, understood,\nExplain myself as best I could.\n\nMy body aches, a solemn plea,\nTo repair what’s broken in me.\nSo easily, the tides recede,\nA whispered promise, planted seed.\n\nNo succulent meat, just bone on bone,\nA lonely path, I walk alone.\nYet in the flash of breaking wave,\nThe strength I need, the courage crave.\n\nThat olympic spirit, fierce and bright,\nWill guide my soul through darkest night.\nAnd never let my spirit break.\nFor beauty's sake.",
-    "generatedAt": "2026-03-24T09:42:13.967Z"
+    "content": "The coral whispers secrets in the area,\nabout a grief I can no longer hold.\nI brought a shoe, worn thin, familiarity,\na bachelor's hope, now turning cold.\n\nAn adult now, I barely understand the lyrics\nwritten in this salt-stained pen,\na plea for someone to feed\nthe hollow space where joy had been.\n\nI borrow light from the waning moon,\na grant of peace I desperately crave.\nTo prosper, I must face the tune\nof sorrow echoing in a watery cave.\n\nMy heart, hardened like a shell,\nonce dreamt of sand and sunlit skies.\nNow, only tides of loss compel,\nas hope slowly dies.\n\nIs it enough, to simply bring\nmyself to this ocean air?\nAnd from the depths, let sorrow wring\nuntil there's nothing left of care?",
+    "generatedAt": "2026-03-25T09:40:58.289Z"
   },
   "keywords": [
     {
-      "word": "flash",
-      "slot": 408520469,
+      "word": "shoe",
+      "slot": 408739374,
       "source": "blockhash"
     },
     {
-      "word": "never",
-      "slot": 408520469,
+      "word": "grant",
+      "slot": 408739374,
       "source": "previousBlockhash"
     },
     {
-      "word": "olympic",
-      "slot": 408520469,
+      "word": "hold",
+      "slot": 408739374,
       "source": "transaction"
     },
     {
-      "word": "canvas",
-      "slot": 408502469,
+      "word": "bachelor",
+      "slot": 408721375,
       "source": "blockhash"
     },
     {
-      "word": "carry",
-      "slot": 408502469,
+      "word": "adult",
+      "slot": 408721375,
       "source": "previousBlockhash"
     },
     {
-      "word": "meat",
-      "slot": 408502469,
+      "word": "feed",
+      "slot": 408721375,
       "source": "transaction"
     },
     {
-      "word": "lazy",
-      "slot": 408484469,
+      "word": "borrow",
+      "slot": 408703375,
       "source": "blockhash"
     },
     {
-      "word": "another",
-      "slot": 408484469,
+      "word": "pen",
+      "slot": 408703375,
       "source": "previousBlockhash"
     },
     {
-      "word": "body",
-      "slot": 408484469,
+      "word": "about",
+      "slot": 408703375,
       "source": "transaction"
     },
     {
-      "word": "explain",
-      "slot": 408466469,
+      "word": "lyrics",
+      "slot": 408685375,
       "source": "blockhash"
     },
     {
-      "word": "seek",
-      "slot": 408466469,
+      "word": "grief",
+      "slot": 408685375,
       "source": "previousBlockhash"
     },
     {
-      "word": "easily",
-      "slot": 408466469,
+      "word": "coral",
+      "slot": 408685375,
       "source": "transaction"
     },
     {
-      "word": "one",
-      "slot": 408448469,
+      "word": "area",
+      "slot": 408667375,
       "source": "blockhash"
     },
     {
-      "word": "april",
-      "slot": 408448469,
+      "word": "prosper",
+      "slot": 408667375,
       "source": "previousBlockhash"
     },
     {
-      "word": "repair",
-      "slot": 408448469,
+      "word": "bring",
+      "slot": 408667375,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhsbvofwja2b",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhuscdm4m42t",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
