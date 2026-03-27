@@ -1,83 +1,88 @@
 {
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "poem": {
-    "content": "The basket, a forgotten promise,\nlies overturned, a chunk of yesterday.\nYou, a toddler lost in digital haze,\nwander where proofs are sold as dreams away.\n\nThe wreck of future shimmered, then vanished,\na flash of awesome, now a hollow sound.\nFault lines crack beneath, a silent warfare,\nwhere fortunes shift, and innocence is unbound.\n\nDrift upon the waves of doubt, rebuild\nthe shattered trust, brick by weary brick.\nCan solace bloom where algorithms bleed,\ncan tender hope rise swift, though spirit's sick?\n\nProvide the solace to this fractured heart,\nbefore its beat surrenders to the void.\nUpon this ground, where shadows play their part,\nlet lost connections be again enjoyed.",
-    "generatedAt": "2026-03-26T09:47:41.927Z"
+    "content": "The crowd swelled, a frantic, hungry sea,\nbecause the taxi was late, you see.\nAunt Millie, bless her cotton socks,\nwas stuck downtown, amidst the ticking clocks.\n\n“Hurry now! The order's placed, it’s main!”\nshe'd phoned, her voice a desperate, strained refrain.\nWhat order? Some new scheme, some layered plan,\nto make her fortune, as an adult can.\n\nThe viability of bacon, strangely clung\nto market whispers, where the tune was sung\nof profits promised, fortunes to be made,\na calculus of greed, a math cascade.\n\nAny hope of sanity, seemed now to drain and seep,\na slow and silent plug, while shadows creep.\nThe engine stalled, beneath the sodium light,\na dead end road, in the encroaching night.\nThe plan collapsed, it was, by all rights,\nnot viable, as everyone could see.\nAunt Millie arrived, a little cross,\nand gave a sigh, from all of this loss.",
+    "generatedAt": "2026-03-27T09:40:52.352Z"
   },
   "keywords": [
     {
-      "word": "basket",
-      "slot": 408960920,
+      "word": "plug",
+      "slot": 409180961,
       "source": "blockhash"
     },
     {
-      "word": "chunk",
-      "slot": 408960920,
+      "word": "because",
+      "slot": 409180961,
       "source": "previousBlockhash"
     },
     {
-      "word": "you",
-      "slot": 408960920,
+      "word": "hurry",
+      "slot": 409180961,
       "source": "transaction"
     },
     {
-      "word": "toddler",
-      "slot": 408942920,
+      "word": "aunt",
+      "slot": 409162961,
       "source": "blockhash"
     },
     {
-      "word": "proof",
-      "slot": 408942920,
+      "word": "adult",
+      "slot": 409162961,
       "source": "previousBlockhash"
     },
     {
-      "word": "warfare",
-      "slot": 408942920,
+      "word": "order",
+      "slot": 409162961,
       "source": "transaction"
     },
     {
-      "word": "rebuild",
-      "slot": 408924920,
+      "word": "now",
+      "slot": 409144961,
       "source": "blockhash"
     },
     {
-      "word": "awesome",
-      "slot": 408924920,
+      "word": "main",
+      "slot": 409144961,
       "source": "previousBlockhash"
     },
     {
-      "word": "fault",
-      "slot": 408924920,
+      "word": "layer",
+      "slot": 409144961,
       "source": "transaction"
     },
     {
-      "word": "provide",
-      "slot": 408906920,
+      "word": "any",
+      "slot": 409126961,
       "source": "blockhash"
     },
     {
-      "word": "upon",
-      "slot": 408906920,
+      "word": "crowd",
+      "slot": 409126961,
       "source": "previousBlockhash"
     },
     {
-      "word": "drift",
-      "slot": 408906920,
+      "word": "taxi",
+      "slot": 409126961,
       "source": "transaction"
     },
     {
-      "word": "vanish",
-      "slot": 408888920,
+      "word": "math",
+      "slot": 409108961,
       "source": "blockhash"
     },
     {
-      "word": "wreck",
-      "slot": 408888920,
+      "word": "bacon",
+      "slot": 409108961,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "viable",
+      "slot": 409108961,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhxd5c4omn2h",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhzt7yhxqz2z",
   "poemReady": true,
-  "keywordsCollected": 14,
+  "keywordsCollected": 15,
   "keywordsNeeded": 8
 }
