@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-03-28",
+    "poem": {
+      "content": "The doctor, he called me innocent,\na fringe of doubt still clinging near.\nI saw a pyramid of honeyed events,\nclarity both false and dear.\n\nHe watched me pack the olive oil,\ntold me to run, run far away.\nA worn-out van, my shifting soil,\nto claim a different kind of day.\n\nMy heart a prison, locked and tight,\nI crouch within its shadowed walls.\nInhale the coming of the night,\nanswering freedom's distant calls.\n\nWe were together, once, you see,\nacross the fields, our laughter flowed.\nBut home is just a memory,\na stolen innocence bestowed.\n\nNow I must run, and keep on running,\nbeyond the edge, beyond the scene.\nEscaped the life I was becoming,\nforever altered, evergreen.",
+      "generatedAt": "2026-03-28T09:24:10.354Z"
+    },
+    "keywords": [
+      {
+        "word": "fringe",
+        "slot": 409399642,
+        "source": "blockhash"
+      },
+      {
+        "word": "doctor",
+        "slot": 409399642,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "van",
+        "slot": 409399642,
+        "source": "transaction"
+      },
+      {
+        "word": "run",
+        "slot": 409381642,
+        "source": "blockhash"
+      },
+      {
+        "word": "inhale",
+        "slot": 409381642,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "honey",
+        "slot": 409381642,
+        "source": "transaction"
+      },
+      {
+        "word": "crouch",
+        "slot": 409363642,
+        "source": "blockhash"
+      },
+      {
+        "word": "pyramid",
+        "slot": 409363642,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "olive",
+        "slot": 409363642,
+        "source": "transaction"
+      },
+      {
+        "word": "home",
+        "slot": 409345642,
+        "source": "blockhash"
+      },
+      {
+        "word": "across",
+        "slot": 409345642,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "innocent",
+        "slot": 409345642,
+        "source": "transaction"
+      },
+      {
+        "word": "together",
+        "slot": 409327642,
+        "source": "blockhash"
+      },
+      {
+        "word": "prison",
+        "slot": 409327642,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "claim",
+        "slot": 409327642,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mi4cr2rebx2v",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-03-27",
     "poem": {
       "content": "The crowd swelled, a frantic, hungry sea,\nbecause the taxi was late, you see.\nAunt Millie, bless her cotton socks,\nwas stuck downtown, amidst the ticking clocks.\n\n“Hurry now! The order's placed, it’s main!”\nshe'd phoned, her voice a desperate, strained refrain.\nWhat order? Some new scheme, some layered plan,\nto make her fortune, as an adult can.\n\nThe viability of bacon, strangely clung\nto market whispers, where the tune was sung\nof profits promised, fortunes to be made,\na calculus of greed, a math cascade.\n\nAny hope of sanity, seemed now to drain and seep,\na slow and silent plug, while shadows creep.\nThe engine stalled, beneath the sodium light,\na dead end road, in the encroaching night.\nThe plan collapsed, it was, by all rights,\nnot viable, as everyone could see.\nAunt Millie arrived, a little cross,\nand gave a sigh, from all of this loss.",
@@ -2542,94 +2630,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mftfih2qrf2q",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-02-26",
-    "poem": {
-      "content": "We close the wire, a whispered hope,\nA hunt for something real, beyond the scope\nOf this pledge we made, fueled by the night\nAnd alcohol’s false, flickering light.\n\nAn enemy lurks, a painted face,\nA clown grinning in this desolate place.\nWe thought our ability would shield us, strong,\nBut the game of tennis, played for far too long,\nHas taken its toll, a talent unwound,\nLeaving only silence, on tainted ground.\n\nNominee for heartbreak, that is all I see,\nRomance shattered, a ghost haunting me.\nI never thought it would end this way,\nA chunk of my soul torn clean away.\n\nWe hunt for answers in the failing light,\nBut find only shadows, and endless night.\nI never believed in fairytale endings,\nOnly broken shields, and fractured mendings.\nWe are the wire, frayed & bare.\nI close my eyes --\nthere is nothing there.",
-      "generatedAt": "2026-02-26T09:35:32.850Z"
-    },
-    "keywords": [
-      {
-        "word": "close",
-        "slot": 402816305,
-        "source": "blockhash"
-      },
-      {
-        "word": "wire",
-        "slot": 402816305,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "hunt",
-        "slot": 402816305,
-        "source": "transaction"
-      },
-      {
-        "word": "pledge",
-        "slot": 402798305,
-        "source": "blockhash"
-      },
-      {
-        "word": "alcohol",
-        "slot": 402798305,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ability",
-        "slot": 402798305,
-        "source": "transaction"
-      },
-      {
-        "word": "never",
-        "slot": 402780305,
-        "source": "blockhash"
-      },
-      {
-        "word": "clown",
-        "slot": 402780305,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "enemy",
-        "slot": 402780305,
-        "source": "transaction"
-      },
-      {
-        "word": "tennis",
-        "slot": 402762305,
-        "source": "blockhash"
-      },
-      {
-        "word": "romance",
-        "slot": 402762305,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "shield",
-        "slot": 402762305,
-        "source": "transaction"
-      },
-      {
-        "word": "nominee",
-        "slot": 402744305,
-        "source": "blockhash"
-      },
-      {
-        "word": "talent",
-        "slot": 402744305,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "chunk",
-        "slot": 402744305,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mfqvfrvw4s2w",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8

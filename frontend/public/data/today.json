@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "poem": {
-    "content": "The crowd swelled, a frantic, hungry sea,\nbecause the taxi was late, you see.\nAunt Millie, bless her cotton socks,\nwas stuck downtown, amidst the ticking clocks.\n\n“Hurry now! The order's placed, it’s main!”\nshe'd phoned, her voice a desperate, strained refrain.\nWhat order? Some new scheme, some layered plan,\nto make her fortune, as an adult can.\n\nThe viability of bacon, strangely clung\nto market whispers, where the tune was sung\nof profits promised, fortunes to be made,\na calculus of greed, a math cascade.\n\nAny hope of sanity, seemed now to drain and seep,\na slow and silent plug, while shadows creep.\nThe engine stalled, beneath the sodium light,\na dead end road, in the encroaching night.\nThe plan collapsed, it was, by all rights,\nnot viable, as everyone could see.\nAunt Millie arrived, a little cross,\nand gave a sigh, from all of this loss.",
-    "generatedAt": "2026-03-27T09:40:52.352Z"
+    "content": "The doctor, he called me innocent,\na fringe of doubt still clinging near.\nI saw a pyramid of honeyed events,\nclarity both false and dear.\n\nHe watched me pack the olive oil,\ntold me to run, run far away.\nA worn-out van, my shifting soil,\nto claim a different kind of day.\n\nMy heart a prison, locked and tight,\nI crouch within its shadowed walls.\nInhale the coming of the night,\nanswering freedom's distant calls.\n\nWe were together, once, you see,\nacross the fields, our laughter flowed.\nBut home is just a memory,\na stolen innocence bestowed.\n\nNow I must run, and keep on running,\nbeyond the edge, beyond the scene.\nEscaped the life I was becoming,\nforever altered, evergreen.",
+    "generatedAt": "2026-03-28T09:24:10.354Z"
   },
   "keywords": [
     {
-      "word": "plug",
-      "slot": 409180961,
+      "word": "fringe",
+      "slot": 409399642,
       "source": "blockhash"
     },
     {
-      "word": "because",
-      "slot": 409180961,
+      "word": "doctor",
+      "slot": 409399642,
       "source": "previousBlockhash"
     },
     {
-      "word": "hurry",
-      "slot": 409180961,
+      "word": "van",
+      "slot": 409399642,
       "source": "transaction"
     },
     {
-      "word": "aunt",
-      "slot": 409162961,
+      "word": "run",
+      "slot": 409381642,
       "source": "blockhash"
     },
     {
-      "word": "adult",
-      "slot": 409162961,
+      "word": "inhale",
+      "slot": 409381642,
       "source": "previousBlockhash"
     },
     {
-      "word": "order",
-      "slot": 409162961,
+      "word": "honey",
+      "slot": 409381642,
       "source": "transaction"
     },
     {
-      "word": "now",
-      "slot": 409144961,
+      "word": "crouch",
+      "slot": 409363642,
       "source": "blockhash"
     },
     {
-      "word": "main",
-      "slot": 409144961,
+      "word": "pyramid",
+      "slot": 409363642,
       "source": "previousBlockhash"
     },
     {
-      "word": "layer",
-      "slot": 409144961,
+      "word": "olive",
+      "slot": 409363642,
       "source": "transaction"
     },
     {
-      "word": "any",
-      "slot": 409126961,
+      "word": "home",
+      "slot": 409345642,
       "source": "blockhash"
     },
     {
-      "word": "crowd",
-      "slot": 409126961,
+      "word": "across",
+      "slot": 409345642,
       "source": "previousBlockhash"
     },
     {
-      "word": "taxi",
-      "slot": 409126961,
+      "word": "innocent",
+      "slot": 409345642,
       "source": "transaction"
     },
     {
-      "word": "math",
-      "slot": 409108961,
+      "word": "together",
+      "slot": 409327642,
       "source": "blockhash"
     },
     {
-      "word": "bacon",
-      "slot": 409108961,
+      "word": "prison",
+      "slot": 409327642,
       "source": "previousBlockhash"
     },
     {
-      "word": "viable",
-      "slot": 409108961,
+      "word": "claim",
+      "slot": 409327642,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhzt7yhxqz2z",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mi4cr2rebx2v",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
