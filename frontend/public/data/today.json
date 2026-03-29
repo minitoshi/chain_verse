@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "poem": {
-    "content": "The doctor, he called me innocent,\na fringe of doubt still clinging near.\nI saw a pyramid of honeyed events,\nclarity both false and dear.\n\nHe watched me pack the olive oil,\ntold me to run, run far away.\nA worn-out van, my shifting soil,\nto claim a different kind of day.\n\nMy heart a prison, locked and tight,\nI crouch within its shadowed walls.\nInhale the coming of the night,\nanswering freedom's distant calls.\n\nWe were together, once, you see,\nacross the fields, our laughter flowed.\nBut home is just a memory,\na stolen innocence bestowed.\n\nNow I must run, and keep on running,\nbeyond the edge, beyond the scene.\nEscaped the life I was becoming,\nforever altered, evergreen.",
-    "generatedAt": "2026-03-28T09:24:10.354Z"
+    "content": "The donkey brays, a ritual old,\nAs sunset paints the sky with gold.\nA wink from stars, a painted van,\nInto the universe, began\nA journey stretching, length untold,\nWhere stories sleep, and futures fold.\n\nWe orient toward a need unspoken,\nA fragile promise, gently broken.\nThe typical day, a clay-smeared face,\nA hollow echo in this place.\nOrgan music, soft and low,\nWhere shadows dance and memories grow.\n\nForward we stumble, stained and sore,\nEndorse the silence at the door.\nThe universe is vast and blind,\nA wounded heart, we often find.\nNo comfort comes, no gentle hand,\nJust echoes in this barren land.\nAbuse of trust, a bitter sting,\nWhere fractured hopes no longer sing.\nThe sun descends, a fading ember.\nForget, forgive, and remember.",
+    "generatedAt": "2026-03-29T09:24:52.233Z"
   },
   "keywords": [
     {
-      "word": "fringe",
-      "slot": 409399642,
+      "word": "forward",
+      "slot": 409620736,
       "source": "blockhash"
     },
     {
-      "word": "doctor",
-      "slot": 409399642,
+      "word": "wink",
+      "slot": 409620736,
       "source": "previousBlockhash"
+    },
+    {
+      "word": "sunset",
+      "slot": 409620736,
+      "source": "transaction"
+    },
+    {
+      "word": "universe",
+      "slot": 409602736,
+      "source": "blockhash"
+    },
+    {
+      "word": "orient",
+      "slot": 409602736,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "length",
+      "slot": 409602736,
+      "source": "transaction"
     },
     {
       "word": "van",
-      "slot": 409399642,
-      "source": "transaction"
-    },
-    {
-      "word": "run",
-      "slot": 409381642,
+      "slot": 409584736,
       "source": "blockhash"
     },
     {
-      "word": "inhale",
-      "slot": 409381642,
+      "word": "ritual",
+      "slot": 409584736,
       "source": "previousBlockhash"
     },
     {
-      "word": "honey",
-      "slot": 409381642,
+      "word": "donkey",
+      "slot": 409584736,
       "source": "transaction"
     },
     {
-      "word": "crouch",
-      "slot": 409363642,
+      "word": "organ",
+      "slot": 409566736,
       "source": "blockhash"
     },
     {
-      "word": "pyramid",
-      "slot": 409363642,
+      "word": "typical",
+      "slot": 409566736,
       "source": "previousBlockhash"
     },
     {
-      "word": "olive",
-      "slot": 409363642,
+      "word": "need",
+      "slot": 409566736,
       "source": "transaction"
     },
     {
-      "word": "home",
-      "slot": 409345642,
+      "word": "clay",
+      "slot": 409548736,
       "source": "blockhash"
     },
     {
-      "word": "across",
-      "slot": 409345642,
+      "word": "abuse",
+      "slot": 409548736,
       "source": "previousBlockhash"
     },
     {
-      "word": "innocent",
-      "slot": 409345642,
-      "source": "transaction"
-    },
-    {
-      "word": "together",
-      "slot": 409327642,
-      "source": "blockhash"
-    },
-    {
-      "word": "prison",
-      "slot": 409327642,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "claim",
-      "slot": 409327642,
+      "word": "endorse",
+      "slot": 409548736,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mi4cr2rebx2v",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mi6tb7ufio2p",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
