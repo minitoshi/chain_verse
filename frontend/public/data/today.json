@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-29",
+  "date": "2026-03-30",
   "poem": {
-    "content": "The donkey brays, a ritual old,\nAs sunset paints the sky with gold.\nA wink from stars, a painted van,\nInto the universe, began\nA journey stretching, length untold,\nWhere stories sleep, and futures fold.\n\nWe orient toward a need unspoken,\nA fragile promise, gently broken.\nThe typical day, a clay-smeared face,\nA hollow echo in this place.\nOrgan music, soft and low,\nWhere shadows dance and memories grow.\n\nForward we stumble, stained and sore,\nEndorse the silence at the door.\nThe universe is vast and blind,\nA wounded heart, we often find.\nNo comfort comes, no gentle hand,\nJust echoes in this barren land.\nAbuse of trust, a bitter sting,\nWhere fractured hopes no longer sing.\nThe sun descends, a fading ember.\nForget, forgive, and remember.",
-    "generatedAt": "2026-03-29T09:24:52.233Z"
+    "content": "A warrior's cat, a shadow thing, would glide,\nAcross the camp, where embers barely sighed.\nDid they audit the moral of the air,\nOr just expect the coming of despair?\n\nA sniff of smoke, a chimney's weary plume,\nRemoved from beauty, sealed within a tomb\nOf faded color, on her trembling wrist,\nA memory clung, a phantom to be kissed.\n\nDown a lonely aisle, she’d often roam,\nSearching for that lost and fragile home.\nWhat can she expect, what things to find\nBesides the shadows playing on her mind?\n\nThe warrior sleeps, his battles left behind,\nA fragile thing, a peace he hopes to find.\nIn dreams he sees the cat, that graceful glide,\nAway from camp, where fractured morals hide...\nA promise whispered, on the night so deep,\nRemove the sorrow, watch the weary sleep.\nThe hidden beauty only she could see,\nA warrior's heart, forever wild and free.",
+    "generatedAt": "2026-03-30T10:03:18.319Z"
   },
   "keywords": [
     {
-      "word": "forward",
-      "slot": 409620736,
+      "word": "cat",
+      "slot": 409847332,
       "source": "blockhash"
     },
     {
-      "word": "wink",
-      "slot": 409620736,
+      "word": "glide",
+      "slot": 409847332,
       "source": "previousBlockhash"
     },
     {
-      "word": "sunset",
-      "slot": 409620736,
+      "word": "sniff",
+      "slot": 409847332,
       "source": "transaction"
     },
     {
-      "word": "universe",
-      "slot": 409602736,
+      "word": "camp",
+      "slot": 409829332,
       "source": "blockhash"
     },
     {
-      "word": "orient",
-      "slot": 409602736,
+      "word": "thing",
+      "slot": 409829332,
       "source": "previousBlockhash"
     },
     {
-      "word": "length",
-      "slot": 409602736,
+      "word": "color",
+      "slot": 409829332,
       "source": "transaction"
     },
     {
-      "word": "van",
-      "slot": 409584736,
+      "word": "wrist",
+      "slot": 409811332,
       "source": "blockhash"
     },
     {
-      "word": "ritual",
-      "slot": 409584736,
+      "word": "remove",
+      "slot": 409811332,
       "source": "previousBlockhash"
     },
     {
-      "word": "donkey",
-      "slot": 409584736,
+      "word": "audit",
+      "slot": 409811332,
       "source": "transaction"
     },
     {
-      "word": "organ",
-      "slot": 409566736,
+      "word": "moral",
+      "slot": 409793332,
       "source": "blockhash"
     },
     {
-      "word": "typical",
-      "slot": 409566736,
+      "word": "expect",
+      "slot": 409793332,
       "source": "previousBlockhash"
     },
     {
-      "word": "need",
-      "slot": 409566736,
+      "word": "aisle",
+      "slot": 409793332,
       "source": "transaction"
     },
     {
-      "word": "clay",
-      "slot": 409548736,
+      "word": "warrior",
+      "slot": 409775332,
       "source": "blockhash"
     },
     {
-      "word": "abuse",
-      "slot": 409548736,
+      "word": "chimney",
+      "slot": 409775332,
       "source": "previousBlockhash"
     },
     {
-      "word": "endorse",
-      "slot": 409548736,
+      "word": "beauty",
+      "slot": 409775332,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mi6tb7ufio2p",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mibfuudgnl2t",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
