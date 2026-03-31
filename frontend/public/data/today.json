@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "poem": {
-    "content": "A warrior's cat, a shadow thing, would glide,\nAcross the camp, where embers barely sighed.\nDid they audit the moral of the air,\nOr just expect the coming of despair?\n\nA sniff of smoke, a chimney's weary plume,\nRemoved from beauty, sealed within a tomb\nOf faded color, on her trembling wrist,\nA memory clung, a phantom to be kissed.\n\nDown a lonely aisle, she’d often roam,\nSearching for that lost and fragile home.\nWhat can she expect, what things to find\nBesides the shadows playing on her mind?\n\nThe warrior sleeps, his battles left behind,\nA fragile thing, a peace he hopes to find.\nIn dreams he sees the cat, that graceful glide,\nAway from camp, where fractured morals hide...\nA promise whispered, on the night so deep,\nRemove the sorrow, watch the weary sleep.\nThe hidden beauty only she could see,\nA warrior's heart, forever wild and free.",
-    "generatedAt": "2026-03-30T10:03:18.319Z"
+    "content": "The outer harbor, a smoky haze,\nWhere time itself begins to fray.\nA lonely crane, a rusted scale,\nMarks a ship’s departure, a delayed tale.\n\nUpon the menu, dreams unfurled,\nA chance embrace of another world.\nI guess at fortunes yet unknown,\nAs seeds of future farms are sown.\n\nA wooden swing, a creaking sound,\nWhere solace and lost memories are found.\nA whispered prayer the wind takes hold,\nA story etched in days of old.\n\nThe draw of destiny, a sharp command,\nA gleaming sword held in trembling hand.\nConfirm the course, the heading true,\nOn turbulent seas, forever new.\n\nNo turning back, no soft refrain,\nJust billowing smoke, a sunlit stain.\nThe distant shore, a fading gleam,\nLost in the vastness of a waking dream.",
+    "generatedAt": "2026-03-31T09:51:40.934Z"
   },
   "keywords": [
     {
-      "word": "cat",
-      "slot": 409847332,
+      "word": "swing",
+      "slot": 410065929,
       "source": "blockhash"
     },
     {
-      "word": "glide",
-      "slot": 409847332,
+      "word": "smoke",
+      "slot": 410065929,
       "source": "previousBlockhash"
     },
     {
-      "word": "sniff",
-      "slot": 409847332,
+      "word": "menu",
+      "slot": 410065929,
       "source": "transaction"
     },
     {
-      "word": "camp",
-      "slot": 409829332,
+      "word": "embrace",
+      "slot": 410047929,
       "source": "blockhash"
     },
     {
-      "word": "thing",
-      "slot": 409829332,
+      "word": "outer",
+      "slot": 410047929,
       "source": "previousBlockhash"
     },
     {
-      "word": "color",
-      "slot": 409829332,
+      "word": "ship",
+      "slot": 410047929,
       "source": "transaction"
     },
     {
-      "word": "wrist",
-      "slot": 409811332,
+      "word": "delay",
+      "slot": 410029929,
       "source": "blockhash"
     },
     {
-      "word": "remove",
-      "slot": 409811332,
+      "word": "confirm",
+      "slot": 410029929,
       "source": "previousBlockhash"
     },
     {
-      "word": "audit",
-      "slot": 409811332,
+      "word": "draw",
+      "slot": 410029929,
       "source": "transaction"
     },
     {
-      "word": "moral",
-      "slot": 409793332,
+      "word": "scale",
+      "slot": 410011929,
       "source": "blockhash"
     },
     {
-      "word": "expect",
-      "slot": 409793332,
+      "word": "crane",
+      "slot": 410011929,
       "source": "previousBlockhash"
     },
     {
-      "word": "aisle",
-      "slot": 409793332,
+      "word": "guess",
+      "slot": 410011929,
       "source": "transaction"
     },
     {
-      "word": "warrior",
-      "slot": 409775332,
+      "word": "sword",
+      "slot": 409993929,
       "source": "blockhash"
     },
     {
-      "word": "chimney",
-      "slot": 409775332,
+      "word": "time",
+      "slot": 409993929,
       "source": "previousBlockhash"
     },
     {
-      "word": "beauty",
-      "slot": 409775332,
+      "word": "farm",
+      "slot": 409993929,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mibfuudgnl2t",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3midvozapt72h",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
