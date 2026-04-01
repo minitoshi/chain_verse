@@ -1,87 +1,87 @@
 {
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "poem": {
-    "content": "The outer harbor, a smoky haze,\nWhere time itself begins to fray.\nA lonely crane, a rusted scale,\nMarks a ship’s departure, a delayed tale.\n\nUpon the menu, dreams unfurled,\nA chance embrace of another world.\nI guess at fortunes yet unknown,\nAs seeds of future farms are sown.\n\nA wooden swing, a creaking sound,\nWhere solace and lost memories are found.\nA whispered prayer the wind takes hold,\nA story etched in days of old.\n\nThe draw of destiny, a sharp command,\nA gleaming sword held in trembling hand.\nConfirm the course, the heading true,\nOn turbulent seas, forever new.\n\nNo turning back, no soft refrain,\nJust billowing smoke, a sunlit stain.\nThe distant shore, a fading gleam,\nLost in the vastness of a waking dream.",
-    "generatedAt": "2026-03-31T09:51:40.934Z"
+    "content": "The license, faded yellow, a promise of the south,\nWhere fancy chickens strutted, breadcrumbs in their mouth.\nI expect no gratitude, no turkey on a plate,\nJust the final whisper, sealing my weary fate.\n\nA level field of slush, where force begins to yield,\nAnd labor's bitter song is bravely now revealed.\nThe wind, a hungry beast, it tears and claws and bites,\nWhile mushroom spores ascend towards the pale, dim lights.\n\nI find no joy in this, no pleasure to be found,\nJust south of happiness, on frozen, barren ground.\nYet even in the slush, a beauty starts to bloom,\nA single, hopeful bud escaping from the tomb.\n\nI force myself to feel, to breathe, to simply be,\nAnd dream of golden bread, and chicken, wild and free,\nEnjoy the simple grace of just another day,\nBefore the level dusk completely melts away.",
+    "generatedAt": "2026-04-01T09:55:20.672Z"
   },
   "keywords": [
     {
-      "word": "swing",
-      "slot": 410065929,
+      "word": "license",
+      "slot": 410287276,
       "source": "blockhash"
     },
     {
-      "word": "smoke",
-      "slot": 410065929,
+      "word": "turkey",
+      "slot": 410287276,
       "source": "previousBlockhash"
     },
     {
-      "word": "menu",
-      "slot": 410065929,
+      "word": "fancy",
+      "slot": 410287276,
       "source": "transaction"
     },
     {
-      "word": "embrace",
-      "slot": 410047929,
+      "word": "yellow",
+      "slot": 410269276,
       "source": "blockhash"
     },
     {
-      "word": "outer",
-      "slot": 410047929,
+      "word": "force",
+      "slot": 410269276,
       "source": "previousBlockhash"
     },
     {
-      "word": "ship",
-      "slot": 410047929,
+      "word": "slush",
+      "slot": 410269276,
       "source": "transaction"
     },
     {
-      "word": "delay",
-      "slot": 410029929,
+      "word": "level",
+      "slot": 410251276,
       "source": "blockhash"
     },
     {
-      "word": "confirm",
-      "slot": 410029929,
+      "word": "bread",
+      "slot": 410251276,
       "source": "previousBlockhash"
     },
     {
-      "word": "draw",
-      "slot": 410029929,
+      "word": "final",
+      "slot": 410251276,
       "source": "transaction"
     },
     {
-      "word": "scale",
-      "slot": 410011929,
+      "word": "chicken",
+      "slot": 410233276,
       "source": "blockhash"
     },
     {
-      "word": "crane",
-      "slot": 410011929,
+      "word": "south",
+      "slot": 410233276,
       "source": "previousBlockhash"
     },
     {
-      "word": "guess",
-      "slot": 410011929,
+      "word": "labor",
+      "slot": 410233276,
       "source": "transaction"
     },
     {
-      "word": "sword",
-      "slot": 409993929,
+      "word": "enjoy",
+      "slot": 410215276,
       "source": "blockhash"
     },
     {
-      "word": "time",
-      "slot": 409993929,
+      "word": "mushroom",
+      "slot": 410215276,
       "source": "previousBlockhash"
     },
     {
-      "word": "farm",
-      "slot": 409993929,
+      "word": "expect",
+      "slot": 410215276,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3midvozapt72h",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
