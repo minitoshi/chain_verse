@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-04-02",
+    "poem": {
+      "content": "The alley whispers a gospel of dust,\nZero hour nears, a judgment we must\nApprove. The board sits, faces grim and still,\nWhile wind, a hungry ghost, begins to drill.\n\nProtect the soup, a broth of fading light,\nAgainst the coming dark, the endless night.\nEach soul a vivid chunk, of memory's taste,\nDispersed and lost, a terrible, swift waste.\n\nThe wise ones speak of amounts due, and paid,\nA grim accounting, choices we have made.\nMy position's clear, though fear begins to act,\nA chilling tremor, a truth I can’t retract.\n\nThe topic hangs, suspended in the air,\nAs consequences bloom beyond compare.\nA dance of shadows, a final, fleeting grace,\nBefore the fall from this appointed place.\n\nAnd if it ends, and all is washed away,\nMay hope, at least, illuminate the day.\nMay truth remain, though veiled so very deep,\nA promise whispered while the world's asleep.",
+      "generatedAt": "2026-04-02T09:47:28.963Z"
+    },
+    "keywords": [
+      {
+        "word": "soup",
+        "slot": 410506740,
+        "source": "blockhash"
+      },
+      {
+        "word": "chunk",
+        "slot": 410506740,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "alley",
+        "slot": 410506740,
+        "source": "transaction"
+      },
+      {
+        "word": "protect",
+        "slot": 410488740,
+        "source": "blockhash"
+      },
+      {
+        "word": "act",
+        "slot": 410488740,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "gospel",
+        "slot": 410488740,
+        "source": "transaction"
+      },
+      {
+        "word": "board",
+        "slot": 410470740,
+        "source": "blockhash"
+      },
+      {
+        "word": "position",
+        "slot": 410470740,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "amount",
+        "slot": 410470740,
+        "source": "transaction"
+      },
+      {
+        "word": "approve",
+        "slot": 410452740,
+        "source": "blockhash"
+      },
+      {
+        "word": "topic",
+        "slot": 410452740,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "vivid",
+        "slot": 410452740,
+        "source": "transaction"
+      },
+      {
+        "word": "drill",
+        "slot": 410434740,
+        "source": "blockhash"
+      },
+      {
+        "word": "wise",
+        "slot": 410434740,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "zero",
+        "slot": 410434740,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3miiwfdctlm27",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-01",
     "poem": {
       "content": "The license, faded yellow, a promise of the south,\nWhere fancy chickens strutted, breadcrumbs in their mouth.\nI expect no gratitude, no turkey on a plate,\nJust the final whisper, sealing my weary fate.\n\nA level field of slush, where force begins to yield,\nAnd labor's bitter song is bravely now revealed.\nThe wind, a hungry beast, it tears and claws and bites,\nWhile mushroom spores ascend towards the pale, dim lights.\n\nI find no joy in this, no pleasure to be found,\nJust south of happiness, on frozen, barren ground.\nYet even in the slush, a beauty starts to bloom,\nA single, hopeful bud escaping from the tomb.\n\nI force myself to feel, to breathe, to simply be,\nAnd dream of golden bread, and chicken, wild and free,\nEnjoy the simple grace of just another day,\nBefore the level dusk completely melts away.",
@@ -2542,94 +2630,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mg7xqoabln2q",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-03-03",
-    "poem": {
-      "content": "A poet seeks a quote, a whispered plea,\nUpon the sandy shore where dreams run free.\nA sibling soul, a wish upon the air,\nFor tides to turn, a burden to repair.\n\nBetween the lines, an atom's fragile grace,\nAn exotic bloom in time and place.\nAlert to whispers, soft as ocean foam,\nHe watches shadows wander from their home.\n\nTo act or wait, a choice the heart must seize,\nAnd treat regret like rust upon the trees.\nThe broccoli of thought, a bitter green,\nCompared to visions only he has seen.\n\nHe hopes to attract the muse, a fleeting glance,\nA critical review, a hopeful, second chance.\nBut emptiness resides just in between,\nAll is dark and never seen.\nThe tide retreats, pulling the light away and night reigns upon everything.",
-      "generatedAt": "2026-03-03T09:29:08.758Z"
-    },
-    "keywords": [
-      {
-        "word": "quote",
-        "slot": 403910576,
-        "source": "blockhash"
-      },
-      {
-        "word": "sibling",
-        "slot": 403910576,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "upon",
-        "slot": 403910576,
-        "source": "transaction"
-      },
-      {
-        "word": "between",
-        "slot": 403892576,
-        "source": "blockhash"
-      },
-      {
-        "word": "act",
-        "slot": 403892576,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "tide",
-        "slot": 403892576,
-        "source": "transaction"
-      },
-      {
-        "word": "poet",
-        "slot": 403874576,
-        "source": "blockhash"
-      },
-      {
-        "word": "attract",
-        "slot": 403874576,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "alert",
-        "slot": 403874576,
-        "source": "transaction"
-      },
-      {
-        "word": "treat",
-        "slot": 403856576,
-        "source": "blockhash"
-      },
-      {
-        "word": "atom",
-        "slot": 403856576,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "wish",
-        "slot": 403856576,
-        "source": "transaction"
-      },
-      {
-        "word": "exotic",
-        "slot": 403838576,
-        "source": "blockhash"
-      },
-      {
-        "word": "review",
-        "slot": 403838576,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "broccoli",
-        "slot": 403838576,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mg5hewwnim2b",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8

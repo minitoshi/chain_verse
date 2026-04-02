@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "poem": {
-    "content": "The license, faded yellow, a promise of the south,\nWhere fancy chickens strutted, breadcrumbs in their mouth.\nI expect no gratitude, no turkey on a plate,\nJust the final whisper, sealing my weary fate.\n\nA level field of slush, where force begins to yield,\nAnd labor's bitter song is bravely now revealed.\nThe wind, a hungry beast, it tears and claws and bites,\nWhile mushroom spores ascend towards the pale, dim lights.\n\nI find no joy in this, no pleasure to be found,\nJust south of happiness, on frozen, barren ground.\nYet even in the slush, a beauty starts to bloom,\nA single, hopeful bud escaping from the tomb.\n\nI force myself to feel, to breathe, to simply be,\nAnd dream of golden bread, and chicken, wild and free,\nEnjoy the simple grace of just another day,\nBefore the level dusk completely melts away.",
-    "generatedAt": "2026-04-01T09:55:20.672Z"
+    "content": "The alley whispers a gospel of dust,\nZero hour nears, a judgment we must\nApprove. The board sits, faces grim and still,\nWhile wind, a hungry ghost, begins to drill.\n\nProtect the soup, a broth of fading light,\nAgainst the coming dark, the endless night.\nEach soul a vivid chunk, of memory's taste,\nDispersed and lost, a terrible, swift waste.\n\nThe wise ones speak of amounts due, and paid,\nA grim accounting, choices we have made.\nMy position's clear, though fear begins to act,\nA chilling tremor, a truth I can’t retract.\n\nThe topic hangs, suspended in the air,\nAs consequences bloom beyond compare.\nA dance of shadows, a final, fleeting grace,\nBefore the fall from this appointed place.\n\nAnd if it ends, and all is washed away,\nMay hope, at least, illuminate the day.\nMay truth remain, though veiled so very deep,\nA promise whispered while the world's asleep.",
+    "generatedAt": "2026-04-02T09:47:28.963Z"
   },
   "keywords": [
     {
-      "word": "license",
-      "slot": 410287276,
+      "word": "soup",
+      "slot": 410506740,
       "source": "blockhash"
     },
     {
-      "word": "turkey",
-      "slot": 410287276,
+      "word": "chunk",
+      "slot": 410506740,
       "source": "previousBlockhash"
     },
     {
-      "word": "fancy",
-      "slot": 410287276,
+      "word": "alley",
+      "slot": 410506740,
       "source": "transaction"
     },
     {
-      "word": "yellow",
-      "slot": 410269276,
+      "word": "protect",
+      "slot": 410488740,
       "source": "blockhash"
     },
     {
-      "word": "force",
-      "slot": 410269276,
+      "word": "act",
+      "slot": 410488740,
       "source": "previousBlockhash"
     },
     {
-      "word": "slush",
-      "slot": 410269276,
+      "word": "gospel",
+      "slot": 410488740,
       "source": "transaction"
     },
     {
-      "word": "level",
-      "slot": 410251276,
+      "word": "board",
+      "slot": 410470740,
       "source": "blockhash"
     },
     {
-      "word": "bread",
-      "slot": 410251276,
+      "word": "position",
+      "slot": 410470740,
       "source": "previousBlockhash"
     },
     {
-      "word": "final",
-      "slot": 410251276,
+      "word": "amount",
+      "slot": 410470740,
       "source": "transaction"
     },
     {
-      "word": "chicken",
-      "slot": 410233276,
+      "word": "approve",
+      "slot": 410452740,
       "source": "blockhash"
     },
     {
-      "word": "south",
-      "slot": 410233276,
+      "word": "topic",
+      "slot": 410452740,
       "source": "previousBlockhash"
     },
     {
-      "word": "labor",
-      "slot": 410233276,
+      "word": "vivid",
+      "slot": 410452740,
       "source": "transaction"
     },
     {
-      "word": "enjoy",
-      "slot": 410215276,
+      "word": "drill",
+      "slot": 410434740,
       "source": "blockhash"
     },
     {
-      "word": "mushroom",
-      "slot": 410215276,
+      "word": "wise",
+      "slot": 410434740,
       "source": "previousBlockhash"
     },
     {
-      "word": "expect",
-      "slot": 410215276,
+      "word": "zero",
+      "slot": 410434740,
       "source": "transaction"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3miiwfdctlm27",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
