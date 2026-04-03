@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-04-03",
+    "poem": {
+      "content": "The dust of October settles, a ginger hue,\non a culture built on things we thought we knew.\nA critic boils with a silent, slow rage,\njudging an entire series, turning a new page.\n\nHe teaches his deputy the language of the code,\nwhile out on the water, a story untold.\nA thing of the deep, a flash of silver bright,\nthe tuna runs wild in the fading, pale light.\n\nBut beneath the surface, a horror breathes deep,\na blood-red current where secrets sleep.\nEnjoy the bounty, the fisherman's cry,\nunaware of the shadow passing overhead, high.\n\nThe entire coast watches, a silent refrain,\nas the boiling waves whisper a long-forgotten name.\nOctober's dust and the ginger's pale fire,\ncannot dispel this chilling desire.\n\nIt rises, a thing unbidden and vast,\na blood-soaked painting, forever to last.\nDeputy watches, wide eyed and still,\nlife ending quickly, and against your will.",
+      "generatedAt": "2026-04-03T09:41:29.315Z"
+    },
+    "keywords": [
+      {
+        "word": "blood",
+        "slot": 410725993,
+        "source": "blockhash"
+      },
+      {
+        "word": "tuna",
+        "slot": 410725993,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "horror",
+        "slot": 410725993,
+        "source": "transaction"
+      },
+      {
+        "word": "culture",
+        "slot": 410707993,
+        "source": "blockhash"
+      },
+      {
+        "word": "series",
+        "slot": 410707993,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "thing",
+        "slot": 410707993,
+        "source": "transaction"
+      },
+      {
+        "word": "enjoy",
+        "slot": 410689993,
+        "source": "blockhash"
+      },
+      {
+        "word": "entire",
+        "slot": 410689993,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "critic",
+        "slot": 410689993,
+        "source": "transaction"
+      },
+      {
+        "word": "ginger",
+        "slot": 410671993,
+        "source": "blockhash"
+      },
+      {
+        "word": "boil",
+        "slot": 410671993,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "teach",
+        "slot": 410671993,
+        "source": "transaction"
+      },
+      {
+        "word": "dust",
+        "slot": 410653993,
+        "source": "blockhash"
+      },
+      {
+        "word": "deputy",
+        "slot": 410653993,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "october",
+        "slot": 410653993,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3milgjjwz5b27",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-02",
     "poem": {
       "content": "The alley whispers a gospel of dust,\nZero hour nears, a judgment we must\nApprove. The board sits, faces grim and still,\nWhile wind, a hungry ghost, begins to drill.\n\nProtect the soup, a broth of fading light,\nAgainst the coming dark, the endless night.\nEach soul a vivid chunk, of memory's taste,\nDispersed and lost, a terrible, swift waste.\n\nThe wise ones speak of amounts due, and paid,\nA grim accounting, choices we have made.\nMy position's clear, though fear begins to act,\nA chilling tremor, a truth I can’t retract.\n\nThe topic hangs, suspended in the air,\nAs consequences bloom beyond compare.\nA dance of shadows, a final, fleeting grace,\nBefore the fall from this appointed place.\n\nAnd if it ends, and all is washed away,\nMay hope, at least, illuminate the day.\nMay truth remain, though veiled so very deep,\nA promise whispered while the world's asleep.",
@@ -2542,94 +2630,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgcif7juv52v",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-03-04",
-    "poem": {
-      "content": "The leaves fall, a kingdom’s edge, a brittle grace,\nWhere dreams recycle, chasing yesterday's trace.\nA wish unspoken, shy behind the fringe,\nAlpha whispers where the wild winds cringe.\n\nDrama unfolds, a show upon the sand,\nTwice measured steps upon the shifting land.\nThe runway beckons, a path not meant for me,\nA hockey game of souls, for all eternity.\n\nI shoot a glance towards that fading light,\nAcross the border, blurring day and night.\nA space to try to just be alive,\nA chance to feel like you could still thrive.\n\nI recycle tears for all I couldn't be,\nThose fallen days I'd hoped so I could see.\nWe fall again, a slow and silent bend,\nWhere futures fray and all the stories end.",
-      "generatedAt": "2026-03-04T09:27:21.765Z"
-    },
-    "keywords": [
-      {
-        "word": "fall",
-        "slot": 404129765,
-        "source": "blockhash"
-      },
-      {
-        "word": "drama",
-        "slot": 404129765,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "border",
-        "slot": 404129765,
-        "source": "transaction"
-      },
-      {
-        "word": "twice",
-        "slot": 404111765,
-        "source": "blockhash"
-      },
-      {
-        "word": "recycle",
-        "slot": 404111765,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "wish",
-        "slot": 404111765,
-        "source": "transaction"
-      },
-      {
-        "word": "shy",
-        "slot": 404093765,
-        "source": "blockhash"
-      },
-      {
-        "word": "shoot",
-        "slot": 404093765,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "runway",
-        "slot": 404093765,
-        "source": "transaction"
-      },
-      {
-        "word": "dream",
-        "slot": 404075765,
-        "source": "blockhash"
-      },
-      {
-        "word": "hockey",
-        "slot": 404075765,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "measure",
-        "slot": 404075765,
-        "source": "transaction"
-      },
-      {
-        "word": "kingdom",
-        "slot": 404057765,
-        "source": "blockhash"
-      },
-      {
-        "word": "alpha",
-        "slot": 404057765,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "fringe",
-        "slot": 404057765,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mg7xqoabln2q",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8

@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-02",
+  "date": "2026-04-03",
   "poem": {
-    "content": "The alley whispers a gospel of dust,\nZero hour nears, a judgment we must\nApprove. The board sits, faces grim and still,\nWhile wind, a hungry ghost, begins to drill.\n\nProtect the soup, a broth of fading light,\nAgainst the coming dark, the endless night.\nEach soul a vivid chunk, of memory's taste,\nDispersed and lost, a terrible, swift waste.\n\nThe wise ones speak of amounts due, and paid,\nA grim accounting, choices we have made.\nMy position's clear, though fear begins to act,\nA chilling tremor, a truth I can’t retract.\n\nThe topic hangs, suspended in the air,\nAs consequences bloom beyond compare.\nA dance of shadows, a final, fleeting grace,\nBefore the fall from this appointed place.\n\nAnd if it ends, and all is washed away,\nMay hope, at least, illuminate the day.\nMay truth remain, though veiled so very deep,\nA promise whispered while the world's asleep.",
-    "generatedAt": "2026-04-02T09:47:28.963Z"
+    "content": "The dust of October settles, a ginger hue,\non a culture built on things we thought we knew.\nA critic boils with a silent, slow rage,\njudging an entire series, turning a new page.\n\nHe teaches his deputy the language of the code,\nwhile out on the water, a story untold.\nA thing of the deep, a flash of silver bright,\nthe tuna runs wild in the fading, pale light.\n\nBut beneath the surface, a horror breathes deep,\na blood-red current where secrets sleep.\nEnjoy the bounty, the fisherman's cry,\nunaware of the shadow passing overhead, high.\n\nThe entire coast watches, a silent refrain,\nas the boiling waves whisper a long-forgotten name.\nOctober's dust and the ginger's pale fire,\ncannot dispel this chilling desire.\n\nIt rises, a thing unbidden and vast,\na blood-soaked painting, forever to last.\nDeputy watches, wide eyed and still,\nlife ending quickly, and against your will.",
+    "generatedAt": "2026-04-03T09:41:29.315Z"
   },
   "keywords": [
     {
-      "word": "soup",
-      "slot": 410506740,
+      "word": "blood",
+      "slot": 410725993,
       "source": "blockhash"
     },
     {
-      "word": "chunk",
-      "slot": 410506740,
+      "word": "tuna",
+      "slot": 410725993,
       "source": "previousBlockhash"
     },
     {
-      "word": "alley",
-      "slot": 410506740,
+      "word": "horror",
+      "slot": 410725993,
       "source": "transaction"
     },
     {
-      "word": "protect",
-      "slot": 410488740,
+      "word": "culture",
+      "slot": 410707993,
       "source": "blockhash"
     },
     {
-      "word": "act",
-      "slot": 410488740,
+      "word": "series",
+      "slot": 410707993,
       "source": "previousBlockhash"
     },
     {
-      "word": "gospel",
-      "slot": 410488740,
+      "word": "thing",
+      "slot": 410707993,
       "source": "transaction"
     },
     {
-      "word": "board",
-      "slot": 410470740,
+      "word": "enjoy",
+      "slot": 410689993,
       "source": "blockhash"
     },
     {
-      "word": "position",
-      "slot": 410470740,
+      "word": "entire",
+      "slot": 410689993,
       "source": "previousBlockhash"
     },
     {
-      "word": "amount",
-      "slot": 410470740,
+      "word": "critic",
+      "slot": 410689993,
       "source": "transaction"
     },
     {
-      "word": "approve",
-      "slot": 410452740,
+      "word": "ginger",
+      "slot": 410671993,
       "source": "blockhash"
     },
     {
-      "word": "topic",
-      "slot": 410452740,
+      "word": "boil",
+      "slot": 410671993,
       "source": "previousBlockhash"
     },
     {
-      "word": "vivid",
-      "slot": 410452740,
+      "word": "teach",
+      "slot": 410671993,
       "source": "transaction"
     },
     {
-      "word": "drill",
-      "slot": 410434740,
+      "word": "dust",
+      "slot": 410653993,
       "source": "blockhash"
     },
     {
-      "word": "wise",
-      "slot": 410434740,
+      "word": "deputy",
+      "slot": 410653993,
       "source": "previousBlockhash"
     },
     {
-      "word": "zero",
-      "slot": 410434740,
+      "word": "october",
+      "slot": 410653993,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3miiwfdctlm27",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3milgjjwz5b27",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
