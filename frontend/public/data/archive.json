@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-04-04",
+    "poem": {
+      "content": "The subway rumbles, a bleak heart of iron,\nAnother region swallowed by the grey.\nA pilot’s stare, unblinking, thereon,\nAcross the tracks, where shadows sway.\n\nHe grips his pen, to sketch a life untold,\nA loyal dog asleep upon my stool.\nAnother armed figure, hard and cold,\nWithin this urban, broken rule.\n\nThe lumber hauled, a hood obscures his face,\nA buyer waits, with empty, hollow eyes.\nNo outdoor light to grace this dismal place,\nJust fleeting dreams behind a false disguise.\n\nHe dreams of ranch, of open, sunlit space,\nA sculpted model, posed in morning dew.\nBut reality brings only this disgrace,\nA canvas stained with shades of somber hue.\n\nHe tries to bring the loyal feeling back,\nLost in the urban sprawl, and endless chase,\nA soul adrift, upon a barren track,\nLeaving only the bleak feel of this place.",
+      "generatedAt": "2026-04-04T09:25:27.406Z"
+    },
+    "keywords": [
+      {
+        "word": "subway",
+        "slot": 410943279,
+        "source": "blockhash"
+      },
+      {
+        "word": "region",
+        "slot": 410943279,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "stool",
+        "slot": 410943279,
+        "source": "transaction"
+      },
+      {
+        "word": "model",
+        "slot": 410925279,
+        "source": "blockhash"
+      },
+      {
+        "word": "pen",
+        "slot": 410925279,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "armed",
+        "slot": 410925279,
+        "source": "transaction"
+      },
+      {
+        "word": "lumber",
+        "slot": 410907279,
+        "source": "blockhash"
+      },
+      {
+        "word": "hood",
+        "slot": 410907279,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "ranch",
+        "slot": 410907279,
+        "source": "transaction"
+      },
+      {
+        "word": "loyal",
+        "slot": 410889279,
+        "source": "blockhash"
+      },
+      {
+        "word": "pilot",
+        "slot": 410889279,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "outdoor",
+        "slot": 410889279,
+        "source": "transaction"
+      },
+      {
+        "word": "bring",
+        "slot": 410871279,
+        "source": "blockhash"
+      },
+      {
+        "word": "bleak",
+        "slot": 410871279,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "buyer",
+        "slot": 410871279,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-03",
     "poem": {
       "content": "The dust of October settles, a ginger hue,\non a culture built on things we thought we knew.\nA critic boils with a silent, slow rage,\njudging an entire series, turning a new page.\n\nHe teaches his deputy the language of the code,\nwhile out on the water, a story untold.\nA thing of the deep, a flash of silver bright,\nthe tuna runs wild in the fading, pale light.\n\nBut beneath the surface, a horror breathes deep,\na blood-red current where secrets sleep.\nEnjoy the bounty, the fisherman's cry,\nunaware of the shadow passing overhead, high.\n\nThe entire coast watches, a silent refrain,\nas the boiling waves whisper a long-forgotten name.\nOctober's dust and the ginger's pale fire,\ncannot dispel this chilling desire.\n\nIt rises, a thing unbidden and vast,\na blood-soaked painting, forever to last.\nDeputy watches, wide eyed and still,\nlife ending quickly, and against your will.",
@@ -2542,94 +2630,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgeyl7g5n524",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-03-05",
-    "poem": {
-      "content": "In rural fields, a student's gaze,\nAcross wide space, a purpose sways.\nA local swing, a blessèd view,\nDuring sunlit hours, skies of blue.\n\nHis method slow, a woolly thought,\nA core of dreams, intensely wrought.\nHe'd join the dance, the wind's soft plea,\nBut shadows gather, silently.\n\nThey suffer, yes, within their space,\nA butter-soft forgiving grace,\nThat cannot mend the heart's deep tear,\nOr quiet down the rising fear.\n\nHe starts to reflect, a silver shine,\nOn futures lost, and paths declined.\nBeneath the stars, a whispered vow,\nTo rise above, somehow, somewhow.\n\nThe rural heart, it knows its pain,\nAnd seeks the light, again, again.",
-      "generatedAt": "2026-03-05T09:30:30.220Z"
-    },
-    "keywords": [
-      {
-        "word": "rural",
-        "slot": 404349762,
-        "source": "blockhash"
-      },
-      {
-        "word": "student",
-        "slot": 404349762,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "bless",
-        "slot": 404349762,
-        "source": "transaction"
-      },
-      {
-        "word": "space",
-        "slot": 404331762,
-        "source": "blockhash"
-      },
-      {
-        "word": "method",
-        "slot": 404331762,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "suffer",
-        "slot": 404331762,
-        "source": "transaction"
-      },
-      {
-        "word": "local",
-        "slot": 404313762,
-        "source": "blockhash"
-      },
-      {
-        "word": "swing",
-        "slot": 404313762,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "butter",
-        "slot": 404313762,
-        "source": "transaction"
-      },
-      {
-        "word": "during",
-        "slot": 404295762,
-        "source": "blockhash"
-      },
-      {
-        "word": "reflect",
-        "slot": 404295762,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "wool",
-        "slot": 404295762,
-        "source": "transaction"
-      },
-      {
-        "word": "core",
-        "slot": 404277762,
-        "source": "blockhash"
-      },
-      {
-        "word": "join",
-        "slot": 404277762,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "purpose",
-        "slot": 404277762,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgcif7juv52v",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8

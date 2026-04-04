@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "poem": {
-    "content": "The dust of October settles, a ginger hue,\non a culture built on things we thought we knew.\nA critic boils with a silent, slow rage,\njudging an entire series, turning a new page.\n\nHe teaches his deputy the language of the code,\nwhile out on the water, a story untold.\nA thing of the deep, a flash of silver bright,\nthe tuna runs wild in the fading, pale light.\n\nBut beneath the surface, a horror breathes deep,\na blood-red current where secrets sleep.\nEnjoy the bounty, the fisherman's cry,\nunaware of the shadow passing overhead, high.\n\nThe entire coast watches, a silent refrain,\nas the boiling waves whisper a long-forgotten name.\nOctober's dust and the ginger's pale fire,\ncannot dispel this chilling desire.\n\nIt rises, a thing unbidden and vast,\na blood-soaked painting, forever to last.\nDeputy watches, wide eyed and still,\nlife ending quickly, and against your will.",
-    "generatedAt": "2026-04-03T09:41:29.315Z"
+    "content": "The subway rumbles, a bleak heart of iron,\nAnother region swallowed by the grey.\nA pilot’s stare, unblinking, thereon,\nAcross the tracks, where shadows sway.\n\nHe grips his pen, to sketch a life untold,\nA loyal dog asleep upon my stool.\nAnother armed figure, hard and cold,\nWithin this urban, broken rule.\n\nThe lumber hauled, a hood obscures his face,\nA buyer waits, with empty, hollow eyes.\nNo outdoor light to grace this dismal place,\nJust fleeting dreams behind a false disguise.\n\nHe dreams of ranch, of open, sunlit space,\nA sculpted model, posed in morning dew.\nBut reality brings only this disgrace,\nA canvas stained with shades of somber hue.\n\nHe tries to bring the loyal feeling back,\nLost in the urban sprawl, and endless chase,\nA soul adrift, upon a barren track,\nLeaving only the bleak feel of this place.",
+    "generatedAt": "2026-04-04T09:25:27.406Z"
   },
   "keywords": [
     {
-      "word": "blood",
-      "slot": 410725993,
+      "word": "subway",
+      "slot": 410943279,
       "source": "blockhash"
     },
     {
-      "word": "tuna",
-      "slot": 410725993,
+      "word": "region",
+      "slot": 410943279,
       "source": "previousBlockhash"
     },
     {
-      "word": "horror",
-      "slot": 410725993,
+      "word": "stool",
+      "slot": 410943279,
       "source": "transaction"
     },
     {
-      "word": "culture",
-      "slot": 410707993,
+      "word": "model",
+      "slot": 410925279,
       "source": "blockhash"
     },
     {
-      "word": "series",
-      "slot": 410707993,
+      "word": "pen",
+      "slot": 410925279,
       "source": "previousBlockhash"
     },
     {
-      "word": "thing",
-      "slot": 410707993,
+      "word": "armed",
+      "slot": 410925279,
       "source": "transaction"
     },
     {
-      "word": "enjoy",
-      "slot": 410689993,
+      "word": "lumber",
+      "slot": 410907279,
       "source": "blockhash"
     },
     {
-      "word": "entire",
-      "slot": 410689993,
+      "word": "hood",
+      "slot": 410907279,
       "source": "previousBlockhash"
     },
     {
-      "word": "critic",
-      "slot": 410689993,
+      "word": "ranch",
+      "slot": 410907279,
       "source": "transaction"
     },
     {
-      "word": "ginger",
-      "slot": 410671993,
+      "word": "loyal",
+      "slot": 410889279,
       "source": "blockhash"
     },
     {
-      "word": "boil",
-      "slot": 410671993,
+      "word": "pilot",
+      "slot": 410889279,
       "source": "previousBlockhash"
     },
     {
-      "word": "teach",
-      "slot": 410671993,
+      "word": "outdoor",
+      "slot": 410889279,
       "source": "transaction"
     },
     {
-      "word": "dust",
-      "slot": 410653993,
+      "word": "bring",
+      "slot": 410871279,
       "source": "blockhash"
     },
     {
-      "word": "deputy",
-      "slot": 410653993,
+      "word": "bleak",
+      "slot": 410871279,
       "source": "previousBlockhash"
     },
     {
-      "word": "october",
-      "slot": 410653993,
+      "word": "buyer",
+      "slot": 410871279,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3milgjjwz5b27",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
