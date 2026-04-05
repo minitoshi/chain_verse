@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-04-05",
+    "poem": {
+      "content": "The coach rattled, dust obscuring sight,\nAnother town, another name unsaid.\nI longed for home, a beacon in the night,\nA pear tree blooming where my dreams were bred.\n\nMy civil spirit strained, a fragile thread,\nAgainst the rival lurking in my soul.\nHe sought to damage all I held instead,\nTo take my estate, make me lose control.\n\nThe trend was clear, decline was on the way.\nSustain yourself, the whisper urged me on.\nCould I arrive victorious, come what may?\nThe various trials, battles to be won.\n\nLife’s puzzle hard, a riddle to solve,\nNot ever easy, this much I now know.\nThe pear tree waits, its branches to absolve,\nAnd offer solace when the wild winds blow.\n\nThough paths are obscure and filled with hidden pain,\nMy home will always call out my name.",
+      "generatedAt": "2026-04-05T09:27:07.380Z"
+    },
+    "keywords": [
+      {
+        "word": "home",
+        "slot": 411163711,
+        "source": "blockhash"
+      },
+      {
+        "word": "arrive",
+        "slot": 411163711,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "obscure",
+        "slot": 411163711,
+        "source": "transaction"
+      },
+      {
+        "word": "pear",
+        "slot": 411145711,
+        "source": "blockhash"
+      },
+      {
+        "word": "name",
+        "slot": 411145711,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "coach",
+        "slot": 411145711,
+        "source": "transaction"
+      },
+      {
+        "word": "solve",
+        "slot": 411127711,
+        "source": "blockhash"
+      },
+      {
+        "word": "rival",
+        "slot": 411127711,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "trend",
+        "slot": 411127711,
+        "source": "transaction"
+      },
+      {
+        "word": "estate",
+        "slot": 411109711,
+        "source": "blockhash"
+      },
+      {
+        "word": "sustain",
+        "slot": 411109711,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "easy",
+        "slot": 411109711,
+        "source": "transaction"
+      },
+      {
+        "word": "civil",
+        "slot": 411091711,
+        "source": "blockhash"
+      },
+      {
+        "word": "damage",
+        "slot": 411091711,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "various",
+        "slot": 411091711,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3miqgnparsx2v",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-04",
     "poem": {
       "content": "The subway rumbles, a bleak heart of iron,\nAnother region swallowed by the grey.\nA pilot’s stare, unblinking, thereon,\nAcross the tracks, where shadows sway.\n\nHe grips his pen, to sketch a life untold,\nA loyal dog asleep upon my stool.\nAnother armed figure, hard and cold,\nWithin this urban, broken rule.\n\nThe lumber hauled, a hood obscures his face,\nA buyer waits, with empty, hollow eyes.\nNo outdoor light to grace this dismal place,\nJust fleeting dreams behind a false disguise.\n\nHe dreams of ranch, of open, sunlit space,\nA sculpted model, posed in morning dew.\nBut reality brings only this disgrace,\nA canvas stained with shades of somber hue.\n\nHe tries to bring the loyal feeling back,\nLost in the urban sprawl, and endless chase,\nA soul adrift, upon a barren track,\nLeaving only the bleak feel of this place.",
@@ -2542,94 +2630,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-03-06",
-    "poem": {
-      "content": "The autumn air hangs thick and still,\nA critic's sigh, a window chill.\nI try to focus, hard and deep,\nWhile gathered shadows softly sleep.\n\nA stock I watched begin to grow,\nNow stagnates, a painful show.\nThe analyst, with knowing eye,\nSees fortunes wither, hopes run dry.\n\nMy sister sends a postcard stamp,\nA normal life, a gentle lamp,\nCompared to mine, a sudden bomb,\nAbout to burst in this small room.\n\nA jar of dreams, I cannot keep,\nIdeas forgotten in their sleep.\nMy capital, a shallow pool,\nReflecting back, a foolish fool.\n\nI pull the trigger, plant the seed,\nKnowing hard work is what I need.\nPerhaps from ash, new life will rise,\nBeyond the judgment in their eyes.\nI stomp my foot and try to see,\nFuture potential, just for me.",
-      "generatedAt": "2026-03-06T09:25:30.888Z"
-    },
-    "keywords": [
-      {
-        "word": "normal",
-        "slot": 404568221,
-        "source": "blockhash"
-      },
-      {
-        "word": "grow",
-        "slot": 404568221,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "focus",
-        "slot": 404568221,
-        "source": "transaction"
-      },
-      {
-        "word": "stock",
-        "slot": 404550221,
-        "source": "blockhash"
-      },
-      {
-        "word": "sister",
-        "slot": 404550221,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "stamp",
-        "slot": 404550221,
-        "source": "transaction"
-      },
-      {
-        "word": "bomb",
-        "slot": 404532221,
-        "source": "blockhash"
-      },
-      {
-        "word": "pool",
-        "slot": 404532221,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "capital",
-        "slot": 404532221,
-        "source": "transaction"
-      },
-      {
-        "word": "autumn",
-        "slot": 404514221,
-        "source": "blockhash"
-      },
-      {
-        "word": "critic",
-        "slot": 404514221,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "hard",
-        "slot": 404514221,
-        "source": "transaction"
-      },
-      {
-        "word": "trigger",
-        "slot": 404496221,
-        "source": "blockhash"
-      },
-      {
-        "word": "jar",
-        "slot": 404496221,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "analyst",
-        "slot": 404496221,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgeyl7g5n524",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
