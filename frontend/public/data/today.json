@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-05",
+  "date": "2026-04-06",
   "poem": {
-    "content": "The coach rattled, dust obscuring sight,\nAnother town, another name unsaid.\nI longed for home, a beacon in the night,\nA pear tree blooming where my dreams were bred.\n\nMy civil spirit strained, a fragile thread,\nAgainst the rival lurking in my soul.\nHe sought to damage all I held instead,\nTo take my estate, make me lose control.\n\nThe trend was clear, decline was on the way.\nSustain yourself, the whisper urged me on.\nCould I arrive victorious, come what may?\nThe various trials, battles to be won.\n\nLife’s puzzle hard, a riddle to solve,\nNot ever easy, this much I now know.\nThe pear tree waits, its branches to absolve,\nAnd offer solace when the wild winds blow.\n\nThough paths are obscure and filled with hidden pain,\nMy home will always call out my name.",
-    "generatedAt": "2026-04-05T09:27:07.380Z"
+    "content": "The sun, a cracked photo, illegal in its glare,\nbaked the frost to jelly on the window pane.\nA cricket, chirping insane rhythms, drew near,\na siren's call across the dusty lane.\n\nI shouldn't rely, but I do, a weakness, old,\nlike a shoulder worn from years of suffer.\nHe promised to renew, a story often told,\nwhile polishing a pistol, smooth as butter.\n\nHe’s on the wrong side. This I know.\nThe air hangs thick, a pregnant, stifled breath.\nA bomb, a promise, waiting down below,\na silent scream, a whisper close to death.\n\nSome things are best left buried in the clay,\nbeneath the frost, where promises decay.\nHe suffers, too, I see it in his face,\nmirrored, in a haunting, hollow space.\n\nIt’s all illegal. And so are we.\nYet here we stand, where we are meant to be.",
+    "generatedAt": "2026-04-06T09:56:57.286Z"
   },
   "keywords": [
     {
-      "word": "home",
-      "slot": 411163711,
+      "word": "cricket",
+      "slot": 411387983,
       "source": "blockhash"
     },
     {
-      "word": "arrive",
-      "slot": 411163711,
+      "word": "jelly",
+      "slot": 411387983,
       "source": "previousBlockhash"
     },
     {
-      "word": "obscure",
-      "slot": 411163711,
+      "word": "illegal",
+      "slot": 411387983,
       "source": "transaction"
     },
     {
-      "word": "pear",
-      "slot": 411145711,
+      "word": "sun",
+      "slot": 411369983,
       "source": "blockhash"
     },
     {
-      "word": "name",
-      "slot": 411145711,
+      "word": "suffer",
+      "slot": 411369983,
       "source": "previousBlockhash"
     },
     {
-      "word": "coach",
-      "slot": 411145711,
+      "word": "pistol",
+      "slot": 411369983,
       "source": "transaction"
     },
     {
-      "word": "solve",
-      "slot": 411127711,
+      "word": "side",
+      "slot": 411351983,
       "source": "blockhash"
     },
     {
-      "word": "rival",
-      "slot": 411127711,
+      "word": "renew",
+      "slot": 411351983,
       "source": "previousBlockhash"
     },
     {
-      "word": "trend",
-      "slot": 411127711,
+      "word": "siren",
+      "slot": 411351983,
       "source": "transaction"
     },
     {
-      "word": "estate",
-      "slot": 411109711,
+      "word": "photo",
+      "slot": 411333983,
       "source": "blockhash"
     },
     {
-      "word": "sustain",
-      "slot": 411109711,
+      "word": "bomb",
+      "slot": 411333983,
       "source": "previousBlockhash"
     },
     {
-      "word": "easy",
-      "slot": 411109711,
+      "word": "rely",
+      "slot": 411333983,
       "source": "transaction"
     },
     {
-      "word": "civil",
-      "slot": 411091711,
+      "word": "shoulder",
+      "slot": 411315983,
       "source": "blockhash"
     },
     {
-      "word": "damage",
-      "slot": 411091711,
+      "word": "frost",
+      "slot": 411315983,
       "source": "previousBlockhash"
     },
     {
-      "word": "various",
-      "slot": 411091711,
+      "word": "insane",
+      "slot": 411315983,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3miqgnparsx2v",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3misyrxqvt324",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
