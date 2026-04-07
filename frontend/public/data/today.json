@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "poem": {
-    "content": "The sun, a cracked photo, illegal in its glare,\nbaked the frost to jelly on the window pane.\nA cricket, chirping insane rhythms, drew near,\na siren's call across the dusty lane.\n\nI shouldn't rely, but I do, a weakness, old,\nlike a shoulder worn from years of suffer.\nHe promised to renew, a story often told,\nwhile polishing a pistol, smooth as butter.\n\nHe’s on the wrong side. This I know.\nThe air hangs thick, a pregnant, stifled breath.\nA bomb, a promise, waiting down below,\na silent scream, a whisper close to death.\n\nSome things are best left buried in the clay,\nbeneath the frost, where promises decay.\nHe suffers, too, I see it in his face,\nmirrored, in a haunting, hollow space.\n\nIt’s all illegal. And so are we.\nYet here we stand, where we are meant to be.",
-    "generatedAt": "2026-04-06T09:56:57.286Z"
+    "content": "The water, slow and deep, a swamp's dark treat,\nWhere secrets sleep beneath the cypress knees.\nA dwarf's lost name, a forgotten street,\nWhispered on the fringe of memories.\n\nThe insect hum, a possible doom,\nA huntsman's echo in the fading light.\nSo slow the days, they stumble through the gloom,\nAnd dreams now drop like feathers in the night.\n\nHe hunts for answers in the humid air,\nA dumb pursuit, a foolish, fruitless quest.\nFor other worlds exist beyond compare,\nWhere easy sleep offers a peaceful rest.\n\nBut something stirs, a truth he cannot name,\nA feeling crawls, like spiders on his skin.\nHe’s playing a fool, caught in a cruel game.\nThe swamp is only where the strange events begin!\n\nHe searches now with hope, that he can reap\nA treasure of wisdom, from the waters deep.",
+    "generatedAt": "2026-04-07T09:55:05.682Z"
   },
   "keywords": [
     {
-      "word": "cricket",
-      "slot": 411387983,
+      "word": "treat",
+      "slot": 411607490,
       "source": "blockhash"
     },
     {
-      "word": "jelly",
-      "slot": 411387983,
+      "word": "slow",
+      "slot": 411607490,
       "source": "previousBlockhash"
     },
     {
-      "word": "illegal",
-      "slot": 411387983,
+      "word": "fringe",
+      "slot": 411607490,
       "source": "transaction"
     },
     {
-      "word": "sun",
-      "slot": 411369983,
+      "word": "name",
+      "slot": 411589490,
       "source": "blockhash"
     },
     {
-      "word": "suffer",
-      "slot": 411369983,
+      "word": "water",
+      "slot": 411589490,
       "source": "previousBlockhash"
     },
     {
-      "word": "pistol",
-      "slot": 411369983,
+      "word": "possible",
+      "slot": 411589490,
       "source": "transaction"
     },
     {
-      "word": "side",
-      "slot": 411351983,
+      "word": "dumb",
+      "slot": 411571490,
       "source": "blockhash"
     },
     {
-      "word": "renew",
-      "slot": 411351983,
+      "word": "hunt",
+      "slot": 411571490,
       "source": "previousBlockhash"
     },
     {
-      "word": "siren",
-      "slot": 411351983,
+      "word": "other",
+      "slot": 411571490,
       "source": "transaction"
     },
     {
-      "word": "photo",
-      "slot": 411333983,
+      "word": "insect",
+      "slot": 411553490,
       "source": "blockhash"
     },
     {
-      "word": "bomb",
-      "slot": 411333983,
+      "word": "sleep",
+      "slot": 411553490,
       "source": "previousBlockhash"
     },
     {
-      "word": "rely",
-      "slot": 411333983,
+      "word": "swamp",
+      "slot": 411553490,
       "source": "transaction"
     },
     {
-      "word": "shoulder",
-      "slot": 411315983,
+      "word": "drop",
+      "slot": 411535490,
       "source": "blockhash"
     },
     {
-      "word": "frost",
-      "slot": 411315983,
+      "word": "secret",
+      "slot": 411535490,
       "source": "previousBlockhash"
     },
     {
-      "word": "insane",
-      "slot": 411315983,
+      "word": "dwarf",
+      "slot": 411535490,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3misyrxqvt324",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8

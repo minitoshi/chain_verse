@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-04-07",
+    "poem": {
+      "content": "The water, slow and deep, a swamp's dark treat,\nWhere secrets sleep beneath the cypress knees.\nA dwarf's lost name, a forgotten street,\nWhispered on the fringe of memories.\n\nThe insect hum, a possible doom,\nA huntsman's echo in the fading light.\nSo slow the days, they stumble through the gloom,\nAnd dreams now drop like feathers in the night.\n\nHe hunts for answers in the humid air,\nA dumb pursuit, a foolish, fruitless quest.\nFor other worlds exist beyond compare,\nWhere easy sleep offers a peaceful rest.\n\nBut something stirs, a truth he cannot name,\nA feeling crawls, like spiders on his skin.\nHe’s playing a fool, caught in a cruel game.\nThe swamp is only where the strange events begin!\n\nHe searches now with hope, that he can reap\nA treasure of wisdom, from the waters deep.",
+      "generatedAt": "2026-04-07T09:55:05.682Z"
+    },
+    "keywords": [
+      {
+        "word": "treat",
+        "slot": 411607490,
+        "source": "blockhash"
+      },
+      {
+        "word": "slow",
+        "slot": 411607490,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fringe",
+        "slot": 411607490,
+        "source": "transaction"
+      },
+      {
+        "word": "name",
+        "slot": 411589490,
+        "source": "blockhash"
+      },
+      {
+        "word": "water",
+        "slot": 411589490,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "possible",
+        "slot": 411589490,
+        "source": "transaction"
+      },
+      {
+        "word": "dumb",
+        "slot": 411571490,
+        "source": "blockhash"
+      },
+      {
+        "word": "hunt",
+        "slot": 411571490,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "other",
+        "slot": 411571490,
+        "source": "transaction"
+      },
+      {
+        "word": "insect",
+        "slot": 411553490,
+        "source": "blockhash"
+      },
+      {
+        "word": "sleep",
+        "slot": 411553490,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "swamp",
+        "slot": 411553490,
+        "source": "transaction"
+      },
+      {
+        "word": "drop",
+        "slot": 411535490,
+        "source": "blockhash"
+      },
+      {
+        "word": "secret",
+        "slot": 411535490,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dwarf",
+        "slot": 411535490,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-06",
     "poem": {
       "content": "The sun, a cracked photo, illegal in its glare,\nbaked the frost to jelly on the window pane.\nA cricket, chirping insane rhythms, drew near,\na siren's call across the dusty lane.\n\nI shouldn't rely, but I do, a weakness, old,\nlike a shoulder worn from years of suffer.\nHe promised to renew, a story often told,\nwhile polishing a pistol, smooth as butter.\n\nHe’s on the wrong side. This I know.\nThe air hangs thick, a pregnant, stifled breath.\nA bomb, a promise, waiting down below,\na silent scream, a whisper close to death.\n\nSome things are best left buried in the clay,\nbeneath the frost, where promises decay.\nHe suffers, too, I see it in his face,\nmirrored, in a haunting, hollow space.\n\nIt’s all illegal. And so are we.\nYet here we stand, where we are meant to be.",
@@ -2542,94 +2630,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgmkhvl5u424",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-03-08",
-    "poem": {
-      "content": "In August light, the days still thrive,\nThough shadows lengthen, spirits dive.\nI monitor myself, a silent quest,\nTo understand what I detest.\n\nThe myth I built, a gilded cage,\nWhere talent sleeps on ambition's page.\nSome accuse me of a heart grown cold,\nA squirrel hoarding stories yet untold.\n\nI grab the gadget, a window to the view,\nA fleeting glimpse of dreams anew.\nTo teach myself to let it pass,\nThe yearning echoes in the grass.\n\nI drive toward a distant shore,\nWhere burdens lighten, and I soar.\nNo longer bound by what I know,\nBut where the seeds of future grow.\n\nThe road is long, the path unseen,\nBut purpose whispers, sharp and keen.\nI seek to shed the weary shell,\nAnd in my own true being, dwell.",
-      "generatedAt": "2026-03-08T09:16:39.650Z"
-    },
-    "keywords": [
-      {
-        "word": "thrive",
-        "slot": 405004474,
-        "source": "blockhash"
-      },
-      {
-        "word": "august",
-        "slot": 405004474,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "myself",
-        "slot": 405004474,
-        "source": "transaction"
-      },
-      {
-        "word": "pass",
-        "slot": 404986474,
-        "source": "blockhash"
-      },
-      {
-        "word": "view",
-        "slot": 404986474,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "accuse",
-        "slot": 404986474,
-        "source": "transaction"
-      },
-      {
-        "word": "myth",
-        "slot": 404968474,
-        "source": "blockhash"
-      },
-      {
-        "word": "teach",
-        "slot": 404968474,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "monitor",
-        "slot": 404968474,
-        "source": "transaction"
-      },
-      {
-        "word": "drive",
-        "slot": 404950474,
-        "source": "blockhash"
-      },
-      {
-        "word": "toward",
-        "slot": 404950474,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "grab",
-        "slot": 404950474,
-        "source": "transaction"
-      },
-      {
-        "word": "squirrel",
-        "slot": 404932474,
-        "source": "blockhash"
-      },
-      {
-        "word": "talent",
-        "slot": 404932474,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "gadget",
-        "slot": 404932474,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgjyz7pmtp2q",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
