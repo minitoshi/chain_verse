@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "poem": {
-    "content": "A little silver scale, dusted with galaxy light,\nmeasured the wonder, the night.\nWe came to collect, luggage in hand,\na hidden butter dish in this promised land.\n\nThe action unfolds, a slow, deliberate glide,\nlike saplings leaning, where secrets reside.\nA lone tree stands, witness to all,\nas shadows lengthen and softly call.\n\nThe setup complete, cement barely dry,\nunderneath a painted azure sky.\nThe amount of longing, a heavy weight,\na kitchen forgotten, sealed by fate.\n\nThe cosmic dust, it begins to gleam,\nan impossible, unfinished dream.\nToo much to bear, this burden unknown,\nseeds of sadness we've sown.\n\nThe scale tips now, towards shadowed grey,\nas the universe continues into the next day.\nA little is gained, much is lost, it seems,\nin the churning galaxy, and half-remembered, fading dreams.",
-    "generatedAt": "2026-04-08T09:55:36.645Z"
+    "content": "The old vendor, still as stone,\nkept a record in his bone.\nOf thunder, a Latin curse,\nechoing through the universe.\n\nHe watched the oven slowly rise,\na helmet of heat across the skies.\nThe term was up, the debt unpaid,\nhis weary soul, a game betrayed.\n\nThey came to destroy all he possessed,\nhe saw their shadows, darkly dressed.\nA metal frame within the door,\nsqueezing tight against the floor.\n\nHe wanted to quit, to run away,\nbut concrete held him fast that day.\nHe raised a hand, a futile plea,\nhis skin, a map of misery.\n\nA broken leg, a silent scream,\nhis shattered vision, a fever dream.\nThe still, small voice within his head,\nwhispered of ashes, softly spread.",
+    "generatedAt": "2026-04-09T09:59:34.173Z"
   },
   "keywords": [
     {
-      "word": "action",
-      "slot": 411827286,
+      "word": "vendor",
+      "slot": 412046987,
       "source": "blockhash"
     },
     {
-      "word": "little",
-      "slot": 411827286,
+      "word": "still",
+      "slot": 412046987,
       "source": "previousBlockhash"
     },
     {
-      "word": "wonder",
-      "slot": 411827286,
+      "word": "record",
+      "slot": 412046987,
       "source": "transaction"
     },
     {
-      "word": "setup",
-      "slot": 411809286,
+      "word": "oven",
+      "slot": 412028987,
       "source": "blockhash"
     },
     {
-      "word": "cement",
-      "slot": 411809286,
+      "word": "destroy",
+      "slot": 412028987,
       "source": "previousBlockhash"
     },
     {
-      "word": "collect",
-      "slot": 411809286,
+      "word": "quit",
+      "slot": 412028987,
       "source": "transaction"
     },
     {
-      "word": "luggage",
-      "slot": 411791286,
+      "word": "leg",
+      "slot": 412010987,
       "source": "blockhash"
     },
     {
-      "word": "butter",
-      "slot": 411791286,
+      "word": "skin",
+      "slot": 412010987,
       "source": "previousBlockhash"
     },
     {
-      "word": "scale",
-      "slot": 411791286,
+      "word": "term",
+      "slot": 412010987,
       "source": "transaction"
     },
     {
-      "word": "silver",
-      "slot": 411773286,
+      "word": "thunder",
+      "slot": 411992987,
       "source": "blockhash"
     },
     {
-      "word": "tree",
-      "slot": 411773286,
+      "word": "frame",
+      "slot": 411992987,
       "source": "previousBlockhash"
     },
     {
-      "word": "glide",
-      "slot": 411773286,
+      "word": "latin",
+      "slot": 411992987,
       "source": "transaction"
     },
     {
-      "word": "amount",
-      "slot": 411755286,
+      "word": "squeeze",
+      "slot": 411974987,
       "source": "blockhash"
     },
     {
-      "word": "galaxy",
-      "slot": 411755286,
+      "word": "raise",
+      "slot": 411974987,
       "source": "previousBlockhash"
     },
     {
-      "word": "kitchen",
-      "slot": 411755286,
+      "word": "helmet",
+      "slot": 411974987,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mixznfpphd27",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mj2kdftflz25",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
