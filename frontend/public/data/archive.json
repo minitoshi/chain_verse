@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-04-10",
+    "poem": {
+      "content": "The early rose, a blush against the grey,\nHeard the ocean talk, learned what the tides convey.\nAbout the law, the shifting, hungry sand,\nAnd how the fury claws across the land.\n\nA company of shadows, drawing near,\nBehind each mask, a chilling, silent fear.\nWe depend on whispers, carried on the breeze,\nAmong the lemon groves and bending trees.\n\nTo laugh is to invite a cruel test,\nTo show the happy heart within your breast.\nBut smiles are fragile, easily undone,\nThis world can damage all beneath the sun.\n\nHe pulled the mask, revealing what remained,\nA face the fury of the ocean stained.\nNo rose survives the bitterness of brine,\nNo lemon brightens what the tides define.\n\nHe learned the law: existence is the fight,\nAgainst the crushing waves and endless night.\nAnd yet, the tide will turn, they say,\nWashing the damage into yesterday.",
+      "generatedAt": "2026-04-10T09:57:28.178Z"
+    },
+    "keywords": [
+      {
+        "word": "talk",
+        "slot": 412265755,
+        "source": "blockhash"
+      },
+      {
+        "word": "damage",
+        "slot": 412265755,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "laugh",
+        "slot": 412265755,
+        "source": "transaction"
+      },
+      {
+        "word": "depend",
+        "slot": 412247755,
+        "source": "blockhash"
+      },
+      {
+        "word": "law",
+        "slot": 412247755,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tide",
+        "slot": 412247755,
+        "source": "transaction"
+      },
+      {
+        "word": "fury",
+        "slot": 412229755,
+        "source": "blockhash"
+      },
+      {
+        "word": "happy",
+        "slot": 412229755,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "rose",
+        "slot": 412229755,
+        "source": "transaction"
+      },
+      {
+        "word": "mask",
+        "slot": 412211755,
+        "source": "blockhash"
+      },
+      {
+        "word": "ocean",
+        "slot": 412211755,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "early",
+        "slot": 412211755,
+        "source": "transaction"
+      },
+      {
+        "word": "about",
+        "slot": 412193755,
+        "source": "blockhash"
+      },
+      {
+        "word": "company",
+        "slot": 412193755,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "lemon",
+        "slot": 412193755,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mj52okjb452r",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-09",
     "poem": {
       "content": "The old vendor, still as stone,\nkept a record in his bone.\nOf thunder, a Latin curse,\nechoing through the universe.\n\nHe watched the oven slowly rise,\na helmet of heat across the skies.\nThe term was up, the debt unpaid,\nhis weary soul, a game betrayed.\n\nThey came to destroy all he possessed,\nhe saw their shadows, darkly dressed.\nA metal frame within the door,\nsqueezing tight against the floor.\n\nHe wanted to quit, to run away,\nbut concrete held him fast that day.\nHe raised a hand, a futile plea,\nhis skin, a map of misery.\n\nA broken leg, a silent scream,\nhis shattered vision, a fever dream.\nThe still, small voice within his head,\nwhispered of ashes, softly spread.",
@@ -2542,94 +2630,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgu3oairsr2w",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-03-11",
-    "poem": {
-      "content": "In a pudding-colored room, shadows flee,\nA woman sits, stirring coffee, dark as sea.\nTwo lizards scuttle, a tag of yesterday's play,\nWhile outside, dramas unfold, day by day.\n\nLive wires hum, an antenna reaching high,\nTo catch whispers of secrets drifting by.\nAn angry echo in the cotton-stuffed chair,\nAs moonlight paints the room with pale despair.\n\nShe tries to conduct herself with careful grace,\nBut memories claw at her time-worn face.\nA yearning lingers, a soft and tender plea,\nTo enhance the moments that used to be.\n\nThe coffee cools, a bitter, acrid taste,\nIn this quiet room, her heart held in waste.\nShe wishes only to flee this desolate scene,\nWhere shadows dance, and dreams grow lean.",
-      "generatedAt": "2026-03-11T09:30:53.778Z"
-    },
-    "keywords": [
-      {
-        "word": "pudding",
-        "slot": 405666998,
-        "source": "blockhash"
-      },
-      {
-        "word": "room",
-        "slot": 405666998,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "flee",
-        "slot": 405666998,
-        "source": "transaction"
-      },
-      {
-        "word": "coffee",
-        "slot": 405648998,
-        "source": "blockhash"
-      },
-      {
-        "word": "drama",
-        "slot": 405648998,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "live",
-        "slot": 405648998,
-        "source": "transaction"
-      },
-      {
-        "word": "lizard",
-        "slot": 405630998,
-        "source": "blockhash"
-      },
-      {
-        "word": "tag",
-        "slot": 405630998,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "two",
-        "slot": 405630998,
-        "source": "transaction"
-      },
-      {
-        "word": "conduct",
-        "slot": 405612998,
-        "source": "blockhash"
-      },
-      {
-        "word": "angry",
-        "slot": 405612998,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "enhance",
-        "slot": 405612998,
-        "source": "transaction"
-      },
-      {
-        "word": "cotton",
-        "slot": 405594998,
-        "source": "blockhash"
-      },
-      {
-        "word": "antenna",
-        "slot": 405594998,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "woman",
-        "slot": 405594998,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mgrl7grkuh2k",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
