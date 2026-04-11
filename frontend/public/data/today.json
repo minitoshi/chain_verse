@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-10",
+  "date": "2026-04-11",
   "poem": {
-    "content": "The early rose, a blush against the grey,\nHeard the ocean talk, learned what the tides convey.\nAbout the law, the shifting, hungry sand,\nAnd how the fury claws across the land.\n\nA company of shadows, drawing near,\nBehind each mask, a chilling, silent fear.\nWe depend on whispers, carried on the breeze,\nAmong the lemon groves and bending trees.\n\nTo laugh is to invite a cruel test,\nTo show the happy heart within your breast.\nBut smiles are fragile, easily undone,\nThis world can damage all beneath the sun.\n\nHe pulled the mask, revealing what remained,\nA face the fury of the ocean stained.\nNo rose survives the bitterness of brine,\nNo lemon brightens what the tides define.\n\nHe learned the law: existence is the fight,\nAgainst the crushing waves and endless night.\nAnd yet, the tide will turn, they say,\nWashing the damage into yesterday.",
-    "generatedAt": "2026-04-10T09:57:28.178Z"
+    "content": "Sun bleeds through the library pane,\ndust motes dancing in a golden rain.\nRegret, a vacuum in my chest,\na toy horse broken, put to rest.\n\nThe stairs ascend, a daunting height,\na prize awaits, bathed in pale light,\nbut I gather only shadows there,\na few bright hopes, thin as air.\n\nThe entire world feels out of sync,\na lesson learned, a bitter drink.\nThe impact of choices, sharp and deep,\na secret promise I couldn't keep.\n\nA gap between what is and seems,\na trick of fate, disrupting dreams.\nThe horse now gone, its silent plea,\nleaves only emptiness mocking me.",
+    "generatedAt": "2026-04-11T09:28:39.952Z"
   },
   "keywords": [
     {
-      "word": "talk",
-      "slot": 412265755,
+      "word": "regret",
+      "slot": 412479415,
       "source": "blockhash"
     },
     {
-      "word": "damage",
-      "slot": 412265755,
+      "word": "vacuum",
+      "slot": 412479415,
       "source": "previousBlockhash"
     },
     {
-      "word": "laugh",
-      "slot": 412265755,
+      "word": "library",
+      "slot": 412479415,
       "source": "transaction"
     },
     {
-      "word": "depend",
-      "slot": 412247755,
+      "word": "horse",
+      "slot": 412461415,
       "source": "blockhash"
     },
     {
-      "word": "law",
-      "slot": 412247755,
+      "word": "impact",
+      "slot": 412461415,
       "source": "previousBlockhash"
     },
     {
-      "word": "tide",
-      "slot": 412247755,
+      "word": "toy",
+      "slot": 412461415,
       "source": "transaction"
     },
     {
-      "word": "fury",
-      "slot": 412229755,
+      "word": "sun",
+      "slot": 412443415,
       "source": "blockhash"
     },
     {
-      "word": "happy",
-      "slot": 412229755,
+      "word": "gap",
+      "slot": 412443415,
       "source": "previousBlockhash"
     },
     {
-      "word": "rose",
-      "slot": 412229755,
+      "word": "lesson",
+      "slot": 412443415,
       "source": "transaction"
     },
     {
-      "word": "mask",
-      "slot": 412211755,
+      "word": "trick",
+      "slot": 412425415,
       "source": "blockhash"
     },
     {
-      "word": "ocean",
-      "slot": 412211755,
+      "word": "entire",
+      "slot": 412425415,
       "source": "previousBlockhash"
     },
     {
-      "word": "early",
-      "slot": 412211755,
+      "word": "stairs",
+      "slot": 412425415,
       "source": "transaction"
     },
     {
-      "word": "about",
-      "slot": 412193755,
+      "word": "prize",
+      "slot": 412407415,
       "source": "blockhash"
     },
     {
-      "word": "company",
-      "slot": 412193755,
+      "word": "gather",
+      "slot": 412407415,
       "source": "previousBlockhash"
     },
     {
-      "word": "lemon",
-      "slot": 412193755,
+      "word": "few",
+      "slot": 412407415,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mj52okjb452r",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
