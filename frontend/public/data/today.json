@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-11",
+  "date": "2026-04-12",
   "poem": {
-    "content": "Sun bleeds through the library pane,\ndust motes dancing in a golden rain.\nRegret, a vacuum in my chest,\na toy horse broken, put to rest.\n\nThe stairs ascend, a daunting height,\na prize awaits, bathed in pale light,\nbut I gather only shadows there,\na few bright hopes, thin as air.\n\nThe entire world feels out of sync,\na lesson learned, a bitter drink.\nThe impact of choices, sharp and deep,\na secret promise I couldn't keep.\n\nA gap between what is and seems,\na trick of fate, disrupting dreams.\nThe horse now gone, its silent plea,\nleaves only emptiness mocking me.",
-    "generatedAt": "2026-04-11T09:28:39.952Z"
+    "content": "A digital fog, a frozen aspect gleaned,\nThe general feeling of a world unseen.\nPrepare the lab, for echoes faint and low,\nWhere icy lizard dreams begin to flow.\n\nRetreat into cushions, softly deep,\nWhile frosted windows secrets keep.\nAgain, the shadow lengthens on the wall,\nAs digital material starts to fall.\n\nOppose the chill, the creeping, icy dread,\nDecorate with warmth, though hope feels dead.\nAfford the fire, let the embers gleam,\nA fragile island in a frozen dream.\n\nThe aspect shifts, the fog begins to lift,\nA lizard’s eye reveals an offered gift.\nAnd though the general mood is stark and wan,\nPrepare, retreat, let warmth be born again.",
+    "generatedAt": "2026-04-12T09:34:13.592Z"
   },
   "keywords": [
     {
-      "word": "regret",
-      "slot": 412479415,
+      "word": "general",
+      "slot": 412698463,
       "source": "blockhash"
     },
     {
-      "word": "vacuum",
-      "slot": 412479415,
+      "word": "aspect",
+      "slot": 412698463,
       "source": "previousBlockhash"
     },
     {
-      "word": "library",
-      "slot": 412479415,
+      "word": "frozen",
+      "slot": 412698463,
       "source": "transaction"
     },
     {
-      "word": "horse",
-      "slot": 412461415,
+      "word": "digital",
+      "slot": 412680463,
       "source": "blockhash"
     },
     {
-      "word": "impact",
-      "slot": 412461415,
+      "word": "prepare",
+      "slot": 412680463,
       "source": "previousBlockhash"
     },
     {
-      "word": "toy",
-      "slot": 412461415,
+      "word": "decorate",
+      "slot": 412680463,
       "source": "transaction"
     },
     {
-      "word": "sun",
-      "slot": 412443415,
+      "word": "retreat",
+      "slot": 412662463,
       "source": "blockhash"
     },
     {
-      "word": "gap",
-      "slot": 412443415,
+      "word": "material",
+      "slot": 412662463,
       "source": "previousBlockhash"
     },
     {
-      "word": "lesson",
-      "slot": 412443415,
+      "word": "lab",
+      "slot": 412662463,
       "source": "transaction"
     },
     {
-      "word": "trick",
-      "slot": 412425415,
+      "word": "fog",
+      "slot": 412644463,
       "source": "blockhash"
     },
     {
-      "word": "entire",
-      "slot": 412425415,
+      "word": "lizard",
+      "slot": 412644463,
       "source": "previousBlockhash"
     },
     {
-      "word": "stairs",
-      "slot": 412425415,
+      "word": "oppose",
+      "slot": 412644463,
       "source": "transaction"
     },
     {
-      "word": "prize",
-      "slot": 412407415,
+      "word": "again",
+      "slot": 412626463,
       "source": "blockhash"
     },
     {
-      "word": "gather",
-      "slot": 412407415,
+      "word": "afford",
+      "slot": 412626463,
       "source": "previousBlockhash"
     },
     {
-      "word": "few",
-      "slot": 412407415,
+      "word": "cushion",
+      "slot": 412626463,
       "source": "transaction"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjc2ctx24a25",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
