@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "poem": {
-    "content": "A digital fog, a frozen aspect gleaned,\nThe general feeling of a world unseen.\nPrepare the lab, for echoes faint and low,\nWhere icy lizard dreams begin to flow.\n\nRetreat into cushions, softly deep,\nWhile frosted windows secrets keep.\nAgain, the shadow lengthens on the wall,\nAs digital material starts to fall.\n\nOppose the chill, the creeping, icy dread,\nDecorate with warmth, though hope feels dead.\nAfford the fire, let the embers gleam,\nA fragile island in a frozen dream.\n\nThe aspect shifts, the fog begins to lift,\nA lizard’s eye reveals an offered gift.\nAnd though the general mood is stark and wan,\nPrepare, retreat, let warmth be born again.",
-    "generatedAt": "2026-04-12T09:34:13.592Z"
+    "content": "The hospital clock, a slow indictate of dread,\nEach hour a hammer blow upon my head.\nA myth spun of healing, a white walled lie,\nWhile shadows gathered, and hope began to die.\n\nA loud insistent call, a surgeon's drill,\nTo sample frail flesh, against my will.\nMuscles bound so tight, a painful bind,\nLeaving all peace and solace far behind.\n\nLater, escaping south, a cabin small,\nWhere I recall the sight, the ghostly thrall.\nThe wind will reopen wounds, once neatly sealed,\nA pain now known, a truth at last revealed.\n\nI try to drill deep, find strength to mend,\nBefore this anguish brings about my end.\nThe muscles ache, a ghostly, haunted shore,\nWhere healing waits, or death will evermore,\n\nBind my soul, to shadows left behind,\nAnd indicate there's not much to find.",
+    "generatedAt": "2026-04-13T10:23:42.341Z"
   },
   "keywords": [
     {
-      "word": "general",
-      "slot": 412698463,
+      "word": "indicate",
+      "slot": 412925129,
       "source": "blockhash"
     },
     {
-      "word": "aspect",
-      "slot": 412698463,
+      "word": "hour",
+      "slot": 412925129,
       "source": "previousBlockhash"
     },
     {
-      "word": "frozen",
-      "slot": 412698463,
+      "word": "hospital",
+      "slot": 412925129,
       "source": "transaction"
     },
     {
-      "word": "digital",
-      "slot": 412680463,
+      "word": "call",
+      "slot": 412907129,
       "source": "blockhash"
     },
     {
-      "word": "prepare",
-      "slot": 412680463,
+      "word": "drill",
+      "slot": 412907129,
       "source": "previousBlockhash"
     },
     {
-      "word": "decorate",
-      "slot": 412680463,
+      "word": "myth",
+      "slot": 412907129,
       "source": "transaction"
     },
     {
-      "word": "retreat",
-      "slot": 412662463,
+      "word": "sample",
+      "slot": 412889129,
       "source": "blockhash"
     },
     {
-      "word": "material",
-      "slot": 412662463,
+      "word": "bind",
+      "slot": 412889129,
       "source": "previousBlockhash"
     },
     {
-      "word": "lab",
-      "slot": 412662463,
+      "word": "south",
+      "slot": 412889129,
       "source": "transaction"
     },
     {
-      "word": "fog",
-      "slot": 412644463,
+      "word": "later",
+      "slot": 412871129,
       "source": "blockhash"
     },
     {
-      "word": "lizard",
-      "slot": 412644463,
+      "word": "cabin",
+      "slot": 412871129,
       "source": "previousBlockhash"
     },
     {
-      "word": "oppose",
-      "slot": 412644463,
+      "word": "muscle",
+      "slot": 412871129,
       "source": "transaction"
     },
     {
-      "word": "again",
-      "slot": 412626463,
+      "word": "sight",
+      "slot": 412853129,
       "source": "blockhash"
     },
     {
-      "word": "afford",
-      "slot": 412626463,
+      "word": "loud",
+      "slot": 412853129,
       "source": "previousBlockhash"
     },
     {
-      "word": "cushion",
-      "slot": 412626463,
+      "word": "reopen",
+      "slot": 412853129,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjc2ctx24a25",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjenkampco2h",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
