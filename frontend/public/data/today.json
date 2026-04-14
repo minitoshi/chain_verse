@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "poem": {
-    "content": "The hospital clock, a slow indictate of dread,\nEach hour a hammer blow upon my head.\nA myth spun of healing, a white walled lie,\nWhile shadows gathered, and hope began to die.\n\nA loud insistent call, a surgeon's drill,\nTo sample frail flesh, against my will.\nMuscles bound so tight, a painful bind,\nLeaving all peace and solace far behind.\n\nLater, escaping south, a cabin small,\nWhere I recall the sight, the ghostly thrall.\nThe wind will reopen wounds, once neatly sealed,\nA pain now known, a truth at last revealed.\n\nI try to drill deep, find strength to mend,\nBefore this anguish brings about my end.\nThe muscles ache, a ghostly, haunted shore,\nWhere healing waits, or death will evermore,\n\nBind my soul, to shadows left behind,\nAnd indicate there's not much to find.",
-    "generatedAt": "2026-04-13T10:23:42.341Z"
+    "content": "The early mist, a candy-sweet despair,\nhung heavy, like a smoke-filled, distant prayer.\nMy nerve, a frayed and brittle, broken thing,\nawaiting some cool quarter that will ring.\n\nA deer I saw, its eyes like liquid coal,\na critic’s gaze, dissecting my lost soul.\nI mixed my hope with shadows on the ground,\nwhere shattered dreams and satoshi are found.\n\nA dose of courage, bitter, hard to take,\nbeneath the brim of a forgotten hat I make\na stand against the night, the rising tide\nof dark demand where fragile hopes subside.\n\nThis endless series bends, a tangled chain,\nbinding me to sorrow and to pain.\nThe world keeps spinning, deaf to silent pleas,\na concrete jungle, swallowing whole with ease.\nNo savior comes, no hand to lead me through;\njust ash and ember, sky of endless blue.",
+    "generatedAt": "2026-04-14T10:03:49.239Z"
   },
   "keywords": [
     {
-      "word": "indicate",
-      "slot": 412925129,
+      "word": "nerve",
+      "slot": 413141710,
       "source": "blockhash"
     },
     {
-      "word": "hour",
-      "slot": 412925129,
+      "word": "despair",
+      "slot": 413141710,
       "source": "previousBlockhash"
     },
     {
-      "word": "hospital",
-      "slot": 412925129,
+      "word": "deer",
+      "slot": 413141710,
       "source": "transaction"
     },
     {
-      "word": "call",
-      "slot": 412907129,
+      "word": "satoshi",
+      "slot": 413123710,
       "source": "blockhash"
     },
     {
-      "word": "drill",
-      "slot": 412907129,
+      "word": "mix",
+      "slot": 413123710,
       "source": "previousBlockhash"
     },
     {
-      "word": "myth",
-      "slot": 412907129,
+      "word": "series",
+      "slot": 413123710,
       "source": "transaction"
     },
     {
-      "word": "sample",
-      "slot": 412889129,
+      "word": "candy",
+      "slot": 413105710,
       "source": "blockhash"
     },
     {
-      "word": "bind",
-      "slot": 412889129,
+      "word": "smoke",
+      "slot": 413105710,
       "source": "previousBlockhash"
     },
     {
-      "word": "south",
-      "slot": 412889129,
+      "word": "quarter",
+      "slot": 413105710,
       "source": "transaction"
     },
     {
-      "word": "later",
-      "slot": 412871129,
+      "word": "early",
+      "slot": 413087710,
       "source": "blockhash"
     },
     {
-      "word": "cabin",
-      "slot": 412871129,
+      "word": "critic",
+      "slot": 413087710,
       "source": "previousBlockhash"
     },
     {
-      "word": "muscle",
-      "slot": 412871129,
+      "word": "hat",
+      "slot": 413087710,
       "source": "transaction"
     },
     {
-      "word": "sight",
-      "slot": 412853129,
+      "word": "dose",
+      "slot": 413069710,
       "source": "blockhash"
     },
     {
-      "word": "loud",
-      "slot": 412853129,
+      "word": "demand",
+      "slot": 413069710,
       "source": "previousBlockhash"
     },
     {
-      "word": "reopen",
-      "slot": 412853129,
+      "word": "cool",
+      "slot": 413069710,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjenkampco2h",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjh4vmap242a",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
