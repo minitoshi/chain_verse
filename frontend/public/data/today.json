@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-15",
   "poem": {
-    "content": "The early mist, a candy-sweet despair,\nhung heavy, like a smoke-filled, distant prayer.\nMy nerve, a frayed and brittle, broken thing,\nawaiting some cool quarter that will ring.\n\nA deer I saw, its eyes like liquid coal,\na critic’s gaze, dissecting my lost soul.\nI mixed my hope with shadows on the ground,\nwhere shattered dreams and satoshi are found.\n\nA dose of courage, bitter, hard to take,\nbeneath the brim of a forgotten hat I make\na stand against the night, the rising tide\nof dark demand where fragile hopes subside.\n\nThis endless series bends, a tangled chain,\nbinding me to sorrow and to pain.\nThe world keeps spinning, deaf to silent pleas,\na concrete jungle, swallowing whole with ease.\nNo savior comes, no hand to lead me through;\njust ash and ember, sky of endless blue.",
-    "generatedAt": "2026-04-14T10:03:49.239Z"
+    "content": "The north wind whispers, a lesson harsh,\nto a pupil lost, just past life's arch.\nHe fled the party, the glittering lens,\nfor a route less traveled, no gentle defense.\n\nAbove him, the stars, a simple guide,\na benefit sought, where truths reside.\nHe yearned for a melody, clear and bright,\nto banish the shadows, and bring him to light.\n\nThe school of hard knocks, no easy test,\nto quit now would mean he’d never truly rest.\nThe world, a harsh master, lessons unseen,\nthrough a different lens, everything serene.\n\nThough shadows dance and darkness grips,\nhe walks on, the truth escapes his lips.\nA benefit found in quiet space,\na simple truth, a gentle grace.\n\nThe route ahead, still dimly lit,\nbut he will not quit, not even a bit.\nHe stands again, above the fray.\nAnd finds a new lens, another way.",
+    "generatedAt": "2026-04-15T10:04:19.055Z"
   },
   "keywords": [
     {
-      "word": "nerve",
-      "slot": 413141710,
+      "word": "party",
+      "slot": 413360842,
       "source": "blockhash"
     },
     {
-      "word": "despair",
-      "slot": 413141710,
+      "word": "school",
+      "slot": 413360842,
       "source": "previousBlockhash"
     },
     {
-      "word": "deer",
-      "slot": 413141710,
+      "word": "above",
+      "slot": 413360842,
       "source": "transaction"
     },
     {
-      "word": "satoshi",
-      "slot": 413123710,
+      "word": "gentle",
+      "slot": 413342842,
       "source": "blockhash"
     },
     {
-      "word": "mix",
-      "slot": 413123710,
+      "word": "pupil",
+      "slot": 413342842,
       "source": "previousBlockhash"
     },
     {
-      "word": "series",
-      "slot": 413123710,
+      "word": "quit",
+      "slot": 413342842,
       "source": "transaction"
     },
     {
-      "word": "candy",
-      "slot": 413105710,
+      "word": "benefit",
+      "slot": 413324842,
       "source": "blockhash"
     },
     {
-      "word": "smoke",
-      "slot": 413105710,
+      "word": "north",
+      "slot": 413324842,
       "source": "previousBlockhash"
     },
     {
-      "word": "quarter",
-      "slot": 413105710,
+      "word": "route",
+      "slot": 413324842,
       "source": "transaction"
     },
     {
-      "word": "early",
-      "slot": 413087710,
+      "word": "simple",
+      "slot": 413306842,
       "source": "blockhash"
     },
     {
-      "word": "critic",
-      "slot": 413087710,
+      "word": "melody",
+      "slot": 413306842,
       "source": "previousBlockhash"
     },
     {
-      "word": "hat",
-      "slot": 413087710,
+      "word": "test",
+      "slot": 413306842,
       "source": "transaction"
     },
     {
-      "word": "dose",
-      "slot": 413069710,
+      "word": "harsh",
+      "slot": 413288842,
       "source": "blockhash"
     },
     {
-      "word": "demand",
-      "slot": 413069710,
+      "word": "life",
+      "slot": 413288842,
       "source": "previousBlockhash"
     },
     {
-      "word": "cool",
-      "slot": 413069710,
+      "word": "lens",
+      "slot": 413288842,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjh4vmap242a",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjjnfg6mpb2r",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
