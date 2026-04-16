@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-15",
+  "date": "2026-04-16",
   "poem": {
-    "content": "The north wind whispers, a lesson harsh,\nto a pupil lost, just past life's arch.\nHe fled the party, the glittering lens,\nfor a route less traveled, no gentle defense.\n\nAbove him, the stars, a simple guide,\na benefit sought, where truths reside.\nHe yearned for a melody, clear and bright,\nto banish the shadows, and bring him to light.\n\nThe school of hard knocks, no easy test,\nto quit now would mean he’d never truly rest.\nThe world, a harsh master, lessons unseen,\nthrough a different lens, everything serene.\n\nThough shadows dance and darkness grips,\nhe walks on, the truth escapes his lips.\nA benefit found in quiet space,\na simple truth, a gentle grace.\n\nThe route ahead, still dimly lit,\nbut he will not quit, not even a bit.\nHe stands again, above the fray.\nAnd finds a new lens, another way.",
-    "generatedAt": "2026-04-15T10:04:19.055Z"
+    "content": "The smoke of a broken pact lingers tonight,\nA trial by fire, a dim and fading light.\nJunior dreams dissolving in the haze,\nLost in the carbon dark of bygone days.\n\nA gentle solace, a memory of silk,\nA brush against my cheek, sweet as fresh milk.\nBut now the menu offers only grief,\nAnd hope's frail amount brings no relief.\n\nI need an anchor in this restless sea,\nA bridge to cross, to finally be free.\nTo deliver myself from this heavy chain,\nTo repair the damage, ease the pain.\n\nThe waves crash hard, a constant, mournful drone,\nI search for kindness, for a whispered tone.\nA way to mend what’s shattered on the floor,\nAnd find my footing, searching for the shore.\nThough silk is torn, the pact betrayed in night,\nI seek repair, and walk on, holding light.",
+    "generatedAt": "2026-04-16T10:03:31.248Z"
   },
   "keywords": [
     {
-      "word": "party",
-      "slot": 413360842,
+      "word": "trial",
+      "slot": 413579202,
       "source": "blockhash"
     },
     {
-      "word": "school",
-      "slot": 413360842,
+      "word": "pact",
+      "slot": 413579202,
       "source": "previousBlockhash"
     },
     {
-      "word": "above",
-      "slot": 413360842,
+      "word": "tonight",
+      "slot": 413579202,
       "source": "transaction"
     },
     {
       "word": "gentle",
-      "slot": 413342842,
+      "slot": 413561202,
       "source": "blockhash"
     },
     {
-      "word": "pupil",
-      "slot": 413342842,
+      "word": "silk",
+      "slot": 413561202,
       "source": "previousBlockhash"
     },
     {
-      "word": "quit",
-      "slot": 413342842,
+      "word": "junior",
+      "slot": 413561202,
       "source": "transaction"
     },
     {
-      "word": "benefit",
-      "slot": 413324842,
+      "word": "menu",
+      "slot": 413543202,
       "source": "blockhash"
     },
     {
-      "word": "north",
-      "slot": 413324842,
+      "word": "anchor",
+      "slot": 413543202,
       "source": "previousBlockhash"
     },
     {
-      "word": "route",
-      "slot": 413324842,
+      "word": "carbon",
+      "slot": 413543202,
       "source": "transaction"
     },
     {
-      "word": "simple",
-      "slot": 413306842,
+      "word": "brush",
+      "slot": 413525202,
       "source": "blockhash"
     },
     {
-      "word": "melody",
-      "slot": 413306842,
+      "word": "deliver",
+      "slot": 413525202,
       "source": "previousBlockhash"
     },
     {
-      "word": "test",
-      "slot": 413306842,
+      "word": "bridge",
+      "slot": 413525202,
       "source": "transaction"
     },
     {
-      "word": "harsh",
-      "slot": 413288842,
+      "word": "repair",
+      "slot": 413507202,
       "source": "blockhash"
     },
     {
-      "word": "life",
-      "slot": 413288842,
+      "word": "amount",
+      "slot": 413507202,
       "source": "previousBlockhash"
     },
     {
-      "word": "lens",
-      "slot": 413288842,
+      "word": "smoke",
+      "slot": 413507202,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjjnfg6mpb2r",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjm5svzast2p",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
