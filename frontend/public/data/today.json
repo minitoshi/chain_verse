@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "poem": {
-    "content": "The smoke of a broken pact lingers tonight,\nA trial by fire, a dim and fading light.\nJunior dreams dissolving in the haze,\nLost in the carbon dark of bygone days.\n\nA gentle solace, a memory of silk,\nA brush against my cheek, sweet as fresh milk.\nBut now the menu offers only grief,\nAnd hope's frail amount brings no relief.\n\nI need an anchor in this restless sea,\nA bridge to cross, to finally be free.\nTo deliver myself from this heavy chain,\nTo repair the damage, ease the pain.\n\nThe waves crash hard, a constant, mournful drone,\nI search for kindness, for a whispered tone.\nA way to mend what’s shattered on the floor,\nAnd find my footing, searching for the shore.\nThough silk is torn, the pact betrayed in night,\nI seek repair, and walk on, holding light.",
-    "generatedAt": "2026-04-16T10:03:31.248Z"
+    "content": "A proof of daring, sketched in virtual light,\nWhere mansions shimmer, built on whispered code.\nA wise retreat, when shadows start to bite,\nTo build a nest where weary souls unload.\n\nAssume no safety, though the walls are high,\nFor vintage errors linger in the core.\nA kidney aches, beneath a digital sky,\nA long and silent scream, unheard before.\n\nEmbrace the glitch, the differ-ence it weaves,\nA tapestry of fortune, fraught with pain.\nA whispered tip, the algorithm believes,\nCan soothe the burning, ease the pouring rain.\n\nBut pills won’t cure the soul's long, hollow plea,\nNor fix the fragments scattered on the breeze.\nA virtual promise, eternally\nadrift, among the digital, haunted trees.",
+    "generatedAt": "2026-04-17T10:01:50.262Z"
   },
   "keywords": [
     {
-      "word": "trial",
-      "slot": 413579202,
+      "word": "proof",
+      "slot": 413797156,
       "source": "blockhash"
     },
     {
-      "word": "pact",
-      "slot": 413579202,
+      "word": "wise",
+      "slot": 413797156,
       "source": "previousBlockhash"
     },
     {
-      "word": "tonight",
-      "slot": 413579202,
+      "word": "daring",
+      "slot": 413797156,
       "source": "transaction"
     },
     {
-      "word": "gentle",
-      "slot": 413561202,
+      "word": "retreat",
+      "slot": 413779156,
       "source": "blockhash"
     },
     {
-      "word": "silk",
-      "slot": 413561202,
+      "word": "nest",
+      "slot": 413779156,
       "source": "previousBlockhash"
     },
     {
-      "word": "junior",
-      "slot": 413561202,
+      "word": "vintage",
+      "slot": 413779156,
       "source": "transaction"
     },
     {
-      "word": "menu",
-      "slot": 413543202,
+      "word": "assume",
+      "slot": 413761156,
       "source": "blockhash"
     },
     {
-      "word": "anchor",
-      "slot": 413543202,
+      "word": "embrace",
+      "slot": 413761156,
       "source": "previousBlockhash"
     },
     {
-      "word": "carbon",
-      "slot": 413543202,
+      "word": "virtual",
+      "slot": 413761156,
       "source": "transaction"
     },
     {
-      "word": "brush",
-      "slot": 413525202,
+      "word": "differ",
+      "slot": 413743156,
       "source": "blockhash"
     },
     {
-      "word": "deliver",
-      "slot": 413525202,
+      "word": "mansion",
+      "slot": 413743156,
       "source": "previousBlockhash"
     },
     {
-      "word": "bridge",
-      "slot": 413525202,
+      "word": "tip",
+      "slot": 413743156,
       "source": "transaction"
     },
     {
-      "word": "repair",
-      "slot": 413507202,
+      "word": "kidney",
+      "slot": 413725156,
       "source": "blockhash"
     },
     {
-      "word": "amount",
-      "slot": 413507202,
+      "word": "long",
+      "slot": 413725156,
       "source": "previousBlockhash"
     },
     {
-      "word": "smoke",
-      "slot": 413507202,
+      "word": "pill",
+      "slot": 413725156,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjm5svzast2p",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjoo6tab5n2s",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
