@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-04-18",
+    "poem": {
+      "content": "The winter harbor, a steel grey peace,\na thing forgotten, a peasant's lease.\nMy face, reflected in the icy pane,\na habit formed in sun and stinging rain.\n\nI saw the van pull in, no license bright,\ndelivering shadows in the fading light.\nA guitar slept within its case of hide,\na prize unclaimed, where truths confide.\n\nNo warm embrace within this frozen scene,\nbut evidence of what has always been.\nA fractured domain, where dreams take root,\nand bitter winds bear sorrow's somber fruit.\n\nWe stand together, ghosts in frosted air,\nwatching futures bloom from cold despair.\nTo develop hope where none could seem to be,\nour only solace on this frozen sea.\n\nPerhaps the guitar will sing a warmer song,\nand banish shadows where they don't belong.\nPerhaps the sun will melt this icy heart,\nand tear the winter domain apart.",
+      "generatedAt": "2026-04-18T09:35:40.804Z"
+    },
+    "keywords": [
+      {
+        "word": "winter",
+        "slot": 414011307,
+        "source": "blockhash"
+      },
+      {
+        "word": "thing",
+        "slot": 414011307,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "habit",
+        "slot": 414011307,
+        "source": "transaction"
+      },
+      {
+        "word": "face",
+        "slot": 413993307,
+        "source": "blockhash"
+      },
+      {
+        "word": "guitar",
+        "slot": 413993307,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "domain",
+        "slot": 413993307,
+        "source": "transaction"
+      },
+      {
+        "word": "warm",
+        "slot": 413975307,
+        "source": "blockhash"
+      },
+      {
+        "word": "evidence",
+        "slot": 413975307,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "harbor",
+        "slot": 413975307,
+        "source": "transaction"
+      },
+      {
+        "word": "prize",
+        "slot": 413957307,
+        "source": "blockhash"
+      },
+      {
+        "word": "van",
+        "slot": 413957307,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "develop",
+        "slot": 413957307,
+        "source": "transaction"
+      },
+      {
+        "word": "peace",
+        "slot": 413939307,
+        "source": "blockhash"
+      },
+      {
+        "word": "peasant",
+        "slot": 413939307,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "together",
+        "slot": 413939307,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-17",
     "poem": {
       "content": "A proof of daring, sketched in virtual light,\nWhere mansions shimmer, built on whispered code.\nA wise retreat, when shadows start to bite,\nTo build a nest where weary souls unload.\n\nAssume no safety, though the walls are high,\nFor vintage errors linger in the core.\nA kidney aches, beneath a digital sky,\nA long and silent scream, unheard before.\n\nEmbrace the glitch, the differ-ence it weaves,\nA tapestry of fortune, fraught with pain.\nA whispered tip, the algorithm believes,\nCan soothe the burning, ease the pouring rain.\n\nBut pills won’t cure the soul's long, hollow plea,\nNor fix the fragments scattered on the breeze.\nA virtual promise, eternally\nadrift, among the digital, haunted trees.",
@@ -2542,94 +2630,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhi7aogjh726",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-03-19",
-    "poem": {
-      "content": "A giant's shadow, draped upon the screen,\nWhere numbers climb, a fevered, anxious green.\nCan we manage this? This lumbering descent,\nOf data files, where fortunes are misspent?\n\nAn animal fear, a primal, trembling thing,\nAs spikes ascend, and digital bells ring.\nOne voice, lost in the general's command,\nA drifting soul, in this digital land.\n\nThe actor raises, then lays down his rifle,\nHis purpose lost, a half-forgotten trifle.\nHe sees the numbers, cold and stark and bright,\nReflected in the endless, hollow night.\n\nThe currencies drift, and they rise and fall\nHe climbs this mountain, destined not to call.\nThe digital frontier, a haunting dream\nA world it seems, is not as it seems.\nHe pulls his voice to the front\nAnd sings to the moon, a haunting hunt.",
-      "generatedAt": "2026-03-19T09:30:48.407Z"
-    },
-    "keywords": [
-      {
-        "word": "giant",
-        "slot": 407422608,
-        "source": "blockhash"
-      },
-      {
-        "word": "climb",
-        "slot": 407422608,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "manage",
-        "slot": 407422608,
-        "source": "transaction"
-      },
-      {
-        "word": "file",
-        "slot": 407404608,
-        "source": "blockhash"
-      },
-      {
-        "word": "screen",
-        "slot": 407404608,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "animal",
-        "slot": 407404608,
-        "source": "transaction"
-      },
-      {
-        "word": "one",
-        "slot": 407386608,
-        "source": "blockhash"
-      },
-      {
-        "word": "drift",
-        "slot": 407386608,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "general",
-        "slot": 407386608,
-        "source": "transaction"
-      },
-      {
-        "word": "actor",
-        "slot": 407368608,
-        "source": "blockhash"
-      },
-      {
-        "word": "raise",
-        "slot": 407368608,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "spike",
-        "slot": 407368608,
-        "source": "transaction"
-      },
-      {
-        "word": "lumber",
-        "slot": 407350608,
-        "source": "blockhash"
-      },
-      {
-        "word": "rifle",
-        "slot": 407350608,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "voice",
-        "slot": 407350608,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhfown7qz22c",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8

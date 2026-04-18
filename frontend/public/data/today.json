@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "poem": {
-    "content": "A proof of daring, sketched in virtual light,\nWhere mansions shimmer, built on whispered code.\nA wise retreat, when shadows start to bite,\nTo build a nest where weary souls unload.\n\nAssume no safety, though the walls are high,\nFor vintage errors linger in the core.\nA kidney aches, beneath a digital sky,\nA long and silent scream, unheard before.\n\nEmbrace the glitch, the differ-ence it weaves,\nA tapestry of fortune, fraught with pain.\nA whispered tip, the algorithm believes,\nCan soothe the burning, ease the pouring rain.\n\nBut pills won’t cure the soul's long, hollow plea,\nNor fix the fragments scattered on the breeze.\nA virtual promise, eternally\nadrift, among the digital, haunted trees.",
-    "generatedAt": "2026-04-17T10:01:50.262Z"
+    "content": "The winter harbor, a steel grey peace,\na thing forgotten, a peasant's lease.\nMy face, reflected in the icy pane,\na habit formed in sun and stinging rain.\n\nI saw the van pull in, no license bright,\ndelivering shadows in the fading light.\nA guitar slept within its case of hide,\na prize unclaimed, where truths confide.\n\nNo warm embrace within this frozen scene,\nbut evidence of what has always been.\nA fractured domain, where dreams take root,\nand bitter winds bear sorrow's somber fruit.\n\nWe stand together, ghosts in frosted air,\nwatching futures bloom from cold despair.\nTo develop hope where none could seem to be,\nour only solace on this frozen sea.\n\nPerhaps the guitar will sing a warmer song,\nand banish shadows where they don't belong.\nPerhaps the sun will melt this icy heart,\nand tear the winter domain apart.",
+    "generatedAt": "2026-04-18T09:35:40.804Z"
   },
   "keywords": [
     {
-      "word": "proof",
-      "slot": 413797156,
+      "word": "winter",
+      "slot": 414011307,
       "source": "blockhash"
     },
     {
-      "word": "wise",
-      "slot": 413797156,
+      "word": "thing",
+      "slot": 414011307,
       "source": "previousBlockhash"
     },
     {
-      "word": "daring",
-      "slot": 413797156,
+      "word": "habit",
+      "slot": 414011307,
       "source": "transaction"
     },
     {
-      "word": "retreat",
-      "slot": 413779156,
+      "word": "face",
+      "slot": 413993307,
       "source": "blockhash"
     },
     {
-      "word": "nest",
-      "slot": 413779156,
+      "word": "guitar",
+      "slot": 413993307,
       "source": "previousBlockhash"
     },
     {
-      "word": "vintage",
-      "slot": 413779156,
+      "word": "domain",
+      "slot": 413993307,
       "source": "transaction"
     },
     {
-      "word": "assume",
-      "slot": 413761156,
+      "word": "warm",
+      "slot": 413975307,
       "source": "blockhash"
     },
     {
-      "word": "embrace",
-      "slot": 413761156,
+      "word": "evidence",
+      "slot": 413975307,
       "source": "previousBlockhash"
     },
     {
-      "word": "virtual",
-      "slot": 413761156,
+      "word": "harbor",
+      "slot": 413975307,
       "source": "transaction"
     },
     {
-      "word": "differ",
-      "slot": 413743156,
+      "word": "prize",
+      "slot": 413957307,
       "source": "blockhash"
     },
     {
-      "word": "mansion",
-      "slot": 413743156,
+      "word": "van",
+      "slot": 413957307,
       "source": "previousBlockhash"
     },
     {
-      "word": "tip",
-      "slot": 413743156,
+      "word": "develop",
+      "slot": 413957307,
       "source": "transaction"
     },
     {
-      "word": "kidney",
-      "slot": 413725156,
+      "word": "peace",
+      "slot": 413939307,
       "source": "blockhash"
     },
     {
-      "word": "long",
-      "slot": 413725156,
+      "word": "peasant",
+      "slot": 413939307,
       "source": "previousBlockhash"
     },
     {
-      "word": "pill",
-      "slot": 413725156,
+      "word": "together",
+      "slot": 413939307,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjoo6tab5n2s",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
