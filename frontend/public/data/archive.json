@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-04-19",
+    "poem": {
+      "content": "The early sun, an oval stain,\nbehind the fading indigo.\nA bachelor dawn, recalling rain,\nupon the oyster's echo.\n\nNo tourist yet disturbs the shore,\nwhere grains of sand like dreams reside.\nAn infant wave, then nothing more,\nas carbon ghosts begin to hide.\n\nWe work, a project yet untold,\nto dish out futures, brave and bright.\nA secret story to unfold,\nlike foil reflecting back the light.\n\nFrom output small, ideas grow,\nWe must develop what is sown -\nthough some may see just empty show,\na wasteland they have always known.\n\nThe world behind is yesterday,\nWe dream a new dawn every day.\nNew worlds will rise, we work to show,\nthese rising worlds will start to grow.",
+      "generatedAt": "2026-04-19T09:35:21.349Z"
+    },
+    "keywords": [
+      {
+        "word": "behind",
+        "slot": 414229624,
+        "source": "blockhash"
+      },
+      {
+        "word": "oval",
+        "slot": 414229624,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "bachelor",
+        "slot": 414229624,
+        "source": "transaction"
+      },
+      {
+        "word": "output",
+        "slot": 414211624,
+        "source": "blockhash"
+      },
+      {
+        "word": "dish",
+        "slot": 414211624,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "carbon",
+        "slot": 414211624,
+        "source": "transaction"
+      },
+      {
+        "word": "early",
+        "slot": 414193624,
+        "source": "blockhash"
+      },
+      {
+        "word": "tourist",
+        "slot": 414193624,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "oyster",
+        "slot": 414193624,
+        "source": "transaction"
+      },
+      {
+        "word": "grain",
+        "slot": 414175624,
+        "source": "blockhash"
+      },
+      {
+        "word": "recall",
+        "slot": 414175624,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "foil",
+        "slot": 414175624,
+        "source": "transaction"
+      },
+      {
+        "word": "develop",
+        "slot": 414157624,
+        "source": "blockhash"
+      },
+      {
+        "word": "infant",
+        "slot": 414157624,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "project",
+        "slot": 414157624,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjtnncu2b32x",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-18",
     "poem": {
       "content": "The winter harbor, a steel grey peace,\na thing forgotten, a peasant's lease.\nMy face, reflected in the icy pane,\na habit formed in sun and stinging rain.\n\nI saw the van pull in, no license bright,\ndelivering shadows in the fading light.\nA guitar slept within its case of hide,\na prize unclaimed, where truths confide.\n\nNo warm embrace within this frozen scene,\nbut evidence of what has always been.\nA fractured domain, where dreams take root,\nand bitter winds bear sorrow's somber fruit.\n\nWe stand together, ghosts in frosted air,\nwatching futures bloom from cold despair.\nTo develop hope where none could seem to be,\nour only solace on this frozen sea.\n\nPerhaps the guitar will sing a warmer song,\nand banish shadows where they don't belong.\nPerhaps the sun will melt this icy heart,\nand tear the winter domain apart.",
@@ -2542,94 +2630,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhkp76imep2v",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-03-20",
-    "poem": {
-      "content": "The athlete, weary, sought a sunlit pool,\nTo reflect on victories, harsh and few.\nRemember echoes, crowds that rise and throw\nTheir adoration, fleeting in its glow.\n\nHe'd give it all, this gilded, hollow prize,\nTo sniff the air, where simple comfort lies.\nA kitten's purr, a soft and gentle sound,\nA cushion waiting, on familiar ground.\n\nThe world outside, a current flowing fast,\nLike someone paddling in a fragile canoe,\nA weird compulsion, shadows always cast,\nTo mimic triumphs, old and ever new.\n\nHe cannot prosper chained to what's been done,\nDevote his soul entirely to the sun.\nA tiny mouse, within a grand design,\nHis spirit yearns for something more divine.\n\nTo throw aside the mask, the sweat, the strain,\nThe pool's dark surface, mirroring the pain.\nLet go the memory, harsh and ever cold,\nA future's whispered story to unfold.",
-      "generatedAt": "2026-03-20T09:28:05.059Z"
-    },
-    "keywords": [
-      {
-        "word": "cushion",
-        "slot": 407640830,
-        "source": "blockhash"
-      },
-      {
-        "word": "devote",
-        "slot": 407640830,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "prosper",
-        "slot": 407640830,
-        "source": "transaction"
-      },
-      {
-        "word": "throw",
-        "slot": 407622830,
-        "source": "blockhash"
-      },
-      {
-        "word": "give",
-        "slot": 407622830,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "athlete",
-        "slot": 407622830,
-        "source": "transaction"
-      },
-      {
-        "word": "mouse",
-        "slot": 407604830,
-        "source": "blockhash"
-      },
-      {
-        "word": "weird",
-        "slot": 407604830,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "sniff",
-        "slot": 407604830,
-        "source": "transaction"
-      },
-      {
-        "word": "kitten",
-        "slot": 407586830,
-        "source": "blockhash"
-      },
-      {
-        "word": "canoe",
-        "slot": 407586830,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "pool",
-        "slot": 407586830,
-        "source": "transaction"
-      },
-      {
-        "word": "reflect",
-        "slot": 407568830,
-        "source": "blockhash"
-      },
-      {
-        "word": "remember",
-        "slot": 407568830,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "mimic",
-        "slot": 407568830,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhi7aogjh726",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
