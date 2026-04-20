@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "poem": {
-    "content": "The early sun, an oval stain,\nbehind the fading indigo.\nA bachelor dawn, recalling rain,\nupon the oyster's echo.\n\nNo tourist yet disturbs the shore,\nwhere grains of sand like dreams reside.\nAn infant wave, then nothing more,\nas carbon ghosts begin to hide.\n\nWe work, a project yet untold,\nto dish out futures, brave and bright.\nA secret story to unfold,\nlike foil reflecting back the light.\n\nFrom output small, ideas grow,\nWe must develop what is sown -\nthough some may see just empty show,\na wasteland they have always known.\n\nThe world behind is yesterday,\nWe dream a new dawn every day.\nNew worlds will rise, we work to show,\nthese rising worlds will start to grow.",
-    "generatedAt": "2026-04-19T09:35:21.349Z"
+    "content": "The morning broke, a summer kissed with dew,\nBut woke me feeling sick, a slight unease.\nAn antique clock chimed, its mournful tune,\nAn anchor chained to memories, if you please.\n\nThe social hum outside, a distant drone,\nWhile I, the actor, rehearse a cheerful face.\nI’ll pave a smile on, though spirit’s never known\nSuch heavy clouds, such desolate space.\n\nA critic whispers doubt, a chilling breeze,\nThat I am but a sham, a gilded lie,\nAnd even silk against my skin, if you please,\nCan't mask the truth reflected by my eye.\n\nI chuckle weakly, knowing it’s no use\nTo wallow long in self-deprecating art,\nSo I embark on this day's twisted truce,\nDespite the bitter taste within my hurt.\nNever again will I let it take hold of me.\nI'll let it pass, let it go to the sea.",
+    "generatedAt": "2026-04-20T10:24:19.931Z"
   },
   "keywords": [
     {
-      "word": "behind",
-      "slot": 414229624,
+      "word": "morning",
+      "slot": 414455725,
       "source": "blockhash"
     },
     {
-      "word": "oval",
-      "slot": 414229624,
+      "word": "sick",
+      "slot": 414455725,
       "source": "previousBlockhash"
     },
     {
-      "word": "bachelor",
-      "slot": 414229624,
+      "word": "slight",
+      "slot": 414455725,
       "source": "transaction"
     },
     {
-      "word": "output",
-      "slot": 414211624,
+      "word": "never",
+      "slot": 414437725,
       "source": "blockhash"
     },
     {
-      "word": "dish",
-      "slot": 414211624,
+      "word": "anchor",
+      "slot": 414437725,
       "source": "previousBlockhash"
     },
     {
-      "word": "carbon",
-      "slot": 414211624,
+      "word": "chuckle",
+      "slot": 414437725,
       "source": "transaction"
     },
     {
-      "word": "early",
-      "slot": 414193624,
+      "word": "social",
+      "slot": 414419725,
       "source": "blockhash"
     },
     {
-      "word": "tourist",
-      "slot": 414193624,
+      "word": "pave",
+      "slot": 414419725,
       "source": "previousBlockhash"
     },
     {
-      "word": "oyster",
-      "slot": 414193624,
+      "word": "antique",
+      "slot": 414419725,
       "source": "transaction"
     },
     {
-      "word": "grain",
-      "slot": 414175624,
+      "word": "embark",
+      "slot": 414401725,
       "source": "blockhash"
     },
     {
-      "word": "recall",
-      "slot": 414175624,
+      "word": "kiss",
+      "slot": 414401725,
       "source": "previousBlockhash"
     },
     {
-      "word": "foil",
-      "slot": 414175624,
+      "word": "silk",
+      "slot": 414401725,
       "source": "transaction"
     },
     {
-      "word": "develop",
-      "slot": 414157624,
+      "word": "summer",
+      "slot": 414383725,
       "source": "blockhash"
     },
     {
-      "word": "infant",
-      "slot": 414157624,
+      "word": "critic",
+      "slot": 414383725,
       "source": "previousBlockhash"
     },
     {
-      "word": "project",
-      "slot": 414157624,
+      "word": "actor",
+      "slot": 414383725,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjtnncu2b32x",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjwatsszzw2m",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
