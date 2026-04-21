@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "poem": {
-    "content": "The morning broke, a summer kissed with dew,\nBut woke me feeling sick, a slight unease.\nAn antique clock chimed, its mournful tune,\nAn anchor chained to memories, if you please.\n\nThe social hum outside, a distant drone,\nWhile I, the actor, rehearse a cheerful face.\nI’ll pave a smile on, though spirit’s never known\nSuch heavy clouds, such desolate space.\n\nA critic whispers doubt, a chilling breeze,\nThat I am but a sham, a gilded lie,\nAnd even silk against my skin, if you please,\nCan't mask the truth reflected by my eye.\n\nI chuckle weakly, knowing it’s no use\nTo wallow long in self-deprecating art,\nSo I embark on this day's twisted truce,\nDespite the bitter taste within my hurt.\nNever again will I let it take hold of me.\nI'll let it pass, let it go to the sea.",
-    "generatedAt": "2026-04-20T10:24:19.931Z"
+    "content": "In the shadow of the stone, where evil whispers low\nLurks a world behind the scenes, where few may go\nThe frequent footsteps echo, a sinister refrain\nAs darkness creeps, a kangaroo's shadow cast in vain\n\nIts fur as white as alabaster, its eyes as black as night\nIt hops with menace, a symbol of a twisted delight\nA public spectacle, a show of wicked glee\nA reminder that behind the stone, evil is free to be\n\nThe drip of a faucet, a steady heartbeat in the dark\nA rhythm that entices, a loop of cruel charm to embark\nA dress of deceit, a cloak of darkness worn\nA disguise to keep the innocent from harm, from being torn\n\nBut I am an inmate, a prisoner of my own design\nTrapped behind the panel, with no escape in sight, no vine\nTo climb and rise above, to break the chains that bind\nA willing captive, a servant to the evil I've left behind\n\nI try to keep my heart from breaking, from shattering like glass\nBut the wave of despair crashes, and I am forever aghast\nAt the reflection staring back, a stranger in a familiar face\nA mask that resembles mine, but with a wicked, evil pace\n\nI'm lost in a world of shadows, where the light is hard to find\nWhere the stone is cold and unforgiving, and the kangaroo's eyes are blind\nBut still I'm ready to face it, to walk the darkened path\nFor in the end, it's not the evil that consumes me, but the aftermath.",
+    "generatedAt": "2026-04-21T10:07:18.487Z"
   },
   "keywords": [
     {
-      "word": "morning",
-      "slot": 414455725,
+      "word": "frequent",
+      "slot": 414670605,
       "source": "blockhash"
     },
     {
-      "word": "sick",
-      "slot": 414455725,
+      "word": "evil",
+      "slot": 414670605,
       "source": "previousBlockhash"
     },
     {
-      "word": "slight",
-      "slot": 414455725,
+      "word": "behind",
+      "slot": 414670605,
       "source": "transaction"
     },
     {
-      "word": "never",
-      "slot": 414437725,
+      "word": "stone",
+      "slot": 414652605,
       "source": "blockhash"
     },
     {
-      "word": "anchor",
-      "slot": 414437725,
+      "word": "public",
+      "slot": 414652605,
       "source": "previousBlockhash"
     },
     {
-      "word": "chuckle",
-      "slot": 414437725,
+      "word": "kangaroo",
+      "slot": 414652605,
       "source": "transaction"
     },
     {
-      "word": "social",
-      "slot": 414419725,
+      "word": "drip",
+      "slot": 414634605,
       "source": "blockhash"
     },
     {
-      "word": "pave",
-      "slot": 414419725,
+      "word": "loop",
+      "slot": 414634605,
       "source": "previousBlockhash"
     },
     {
-      "word": "antique",
-      "slot": 414419725,
+      "word": "dress",
+      "slot": 414634605,
       "source": "transaction"
     },
     {
-      "word": "embark",
-      "slot": 414401725,
+      "word": "keep",
+      "slot": 414616605,
       "source": "blockhash"
     },
     {
-      "word": "kiss",
-      "slot": 414401725,
+      "word": "inmate",
+      "slot": 414616605,
       "source": "previousBlockhash"
     },
     {
-      "word": "silk",
-      "slot": 414401725,
+      "word": "panel",
+      "slot": 414616605,
       "source": "transaction"
     },
     {
-      "word": "summer",
-      "slot": 414383725,
+      "word": "ready",
+      "slot": 414598605,
       "source": "blockhash"
     },
     {
-      "word": "critic",
-      "slot": 414383725,
+      "word": "wave",
+      "slot": 414598605,
       "source": "previousBlockhash"
     },
     {
-      "word": "actor",
-      "slot": 414383725,
+      "word": "resemble",
+      "slot": 414598605,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjwatsszzw2m",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjyqeag5xd2h",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
