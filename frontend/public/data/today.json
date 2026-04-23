@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "poem": {
-    "content": "The desert stretches, where useless dreams\nAcquire a phantom weight, like beefy limbs\nOf ancient cactus, tasting ash and spite.\n\nA general's ghost wanders in the light,\nAlso seeking what he could not bring--\nA gentler fate, before the vultures sing.\n\nThe battlefield, a split in time's own face,\nReveals the rose, in this forsaken space.\nNo silk to ease the pain, no solace found,\nJust lion's roar upon the barren ground.\n\nThe taste of loss, a bitter draught to hold,\nA story whispered, never to grow old.\nHe sought to bring a solace, pure and deep,\nBut found only silence, where secrets sleep.\n\nIf I could split the sky, and show you then,\nThe useless burden carried by all men,\nThe cactus blooms, in space so very wide,\nA desert bloom, where silent wishes hide.",
-    "generatedAt": "2026-04-22T10:07:19.879Z"
+    "content": "A voyage on vapor, a canvas gray,\nThe ocean breathes a salty spray.\nA mystery unfolds in watery dance,\nWhile shadows shift, a fleeting glance.\n\nA payment due, for passage deep,\nWhere ancient secrets softly sleep.\nAn apple rots, a bitter juice,\nA creeping dread, insidious.\n\nDisease whispers on the breeze,\nRustling pages of the book of trees.\nHe wears a sock, now frayed and thin,\nA drip, drip, drip, where do I begin?\n\nTo understand the tangled thread,\nAround her neck, by sorrow led.\nThe next port calls, a distant shore,\nWhere scattered thoughts will be no more.\n\nTo find a solace in the air,\nAnd watch the world without a care.\nThe dance continues, life’s refrain,\nAmidst the vapor and the rain.",
+    "generatedAt": "2026-04-23T10:11:26.099Z"
   },
   "keywords": [
     {
-      "word": "cactus",
-      "slot": 414888705,
+      "word": "mystery",
+      "slot": 415107021,
       "source": "blockhash"
     },
     {
-      "word": "taste",
-      "slot": 414888705,
+      "word": "dance",
+      "slot": 415107021,
       "source": "previousBlockhash"
     },
     {
-      "word": "acquire",
-      "slot": 414888705,
+      "word": "neck",
+      "slot": 415107021,
       "source": "transaction"
     },
     {
-      "word": "split",
-      "slot": 414870705,
+      "word": "scatter",
+      "slot": 415089021,
       "source": "blockhash"
     },
     {
-      "word": "useless",
-      "slot": 414870705,
+      "word": "vapor",
+      "slot": 415089021,
       "source": "previousBlockhash"
     },
     {
-      "word": "beef",
-      "slot": 414870705,
+      "word": "book",
+      "slot": 415089021,
       "source": "transaction"
     },
     {
-      "word": "lion",
-      "slot": 414852705,
+      "word": "drip",
+      "slot": 415071021,
       "source": "blockhash"
     },
     {
-      "word": "bring",
-      "slot": 414852705,
+      "word": "voyage",
+      "slot": 415071021,
       "source": "previousBlockhash"
     },
     {
-      "word": "also",
-      "slot": 414852705,
+      "word": "next",
+      "slot": 415071021,
       "source": "transaction"
     },
     {
-      "word": "where",
-      "slot": 414834705,
+      "word": "payment",
+      "slot": 415053021,
       "source": "blockhash"
     },
     {
-      "word": "rose",
-      "slot": 414834705,
+      "word": "apple",
+      "slot": 415053021,
       "source": "previousBlockhash"
     },
     {
-      "word": "general",
-      "slot": 414834705,
+      "word": "disease",
+      "slot": 415053021,
       "source": "transaction"
     },
     {
-      "word": "space",
-      "slot": 414816705,
+      "word": "ocean",
+      "slot": 415035021,
       "source": "blockhash"
     },
     {
-      "word": "limb",
-      "slot": 414816705,
+      "word": "juice",
+      "slot": 415035021,
       "source": "previousBlockhash"
     },
     {
-      "word": "silk",
-      "slot": 414816705,
+      "word": "sock",
+      "slot": 415035021,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mk3atasp7v2b",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mk5rjj4ssw2c",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
