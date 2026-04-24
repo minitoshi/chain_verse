@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-04-24",
+    "poem": {
+      "content": "I lend my ear to fiction, spun of night,\nwhere stars are false and shadows bleed like fire.\nThis rifle script, a future caught in flight,\na family choked, fulfilling dark desire.\n\nI learn to swim against the churning tide,\nto clarify the murk that hides the truth.\nA year has passed, and still the pain won't hide,\na constant echo from my wasted youth.\n\nA kind hand reaches, I can not receive,\nthe darkness clings, possessive and unkind.\nI watch the ocean, and I start to grieve,\nfor all the things I left so far behind.\n\nThe target shifts, a phantom in the haze,\na fishing boat upon the distant shore.\nA false promise in these sunlit days,\nI learn to swim, and I can only implore,\nthe fire inside will simply cease to be,\nand clarify a path for only me.",
+      "generatedAt": "2026-04-24T10:12:56.024Z"
+    },
+    "keywords": [
+      {
+        "word": "lend",
+        "slot": 415325481,
+        "source": "blockhash"
+      },
+      {
+        "word": "learn",
+        "slot": 415325481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fiction",
+        "slot": 415325481,
+        "source": "transaction"
+      },
+      {
+        "word": "false",
+        "slot": 415307481,
+        "source": "blockhash"
+      },
+      {
+        "word": "fire",
+        "slot": 415307481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "rifle",
+        "slot": 415307481,
+        "source": "transaction"
+      },
+      {
+        "word": "script",
+        "slot": 415289481,
+        "source": "blockhash"
+      },
+      {
+        "word": "family",
+        "slot": 415289481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "clarify",
+        "slot": 415289481,
+        "source": "transaction"
+      },
+      {
+        "word": "swim",
+        "slot": 415271481,
+        "source": "blockhash"
+      },
+      {
+        "word": "year",
+        "slot": 415271481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "kind",
+        "slot": 415271481,
+        "source": "transaction"
+      },
+      {
+        "word": "receive",
+        "slot": 415253481,
+        "source": "blockhash"
+      },
+      {
+        "word": "fish",
+        "slot": 415253481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "target",
+        "slot": 415253481,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkac34gywi2m",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-23",
     "poem": {
       "content": "A voyage on vapor, a canvas gray,\nThe ocean breathes a salty spray.\nA mystery unfolds in watery dance,\nWhile shadows shift, a fleeting glance.\n\nA payment due, for passage deep,\nWhere ancient secrets softly sleep.\nAn apple rots, a bitter juice,\nA creeping dread, insidious.\n\nDisease whispers on the breeze,\nRustling pages of the book of trees.\nHe wears a sock, now frayed and thin,\nA drip, drip, drip, where do I begin?\n\nTo understand the tangled thread,\nAround her neck, by sorrow led.\nThe next port calls, a distant shore,\nWhere scattered thoughts will be no more.\n\nTo find a solace in the air,\nAnd watch the world without a care.\nThe dance continues, life’s refrain,\nAmidst the vapor and the rain.",
@@ -2544,94 +2632,6 @@
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhxd5c4omn2h",
     "poemReady": true,
     "keywordsCollected": 14,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-03-25",
-    "poem": {
-      "content": "The coral whispers secrets in the area,\nabout a grief I can no longer hold.\nI brought a shoe, worn thin, familiarity,\na bachelor's hope, now turning cold.\n\nAn adult now, I barely understand the lyrics\nwritten in this salt-stained pen,\na plea for someone to feed\nthe hollow space where joy had been.\n\nI borrow light from the waning moon,\na grant of peace I desperately crave.\nTo prosper, I must face the tune\nof sorrow echoing in a watery cave.\n\nMy heart, hardened like a shell,\nonce dreamt of sand and sunlit skies.\nNow, only tides of loss compel,\nas hope slowly dies.\n\nIs it enough, to simply bring\nmyself to this ocean air?\nAnd from the depths, let sorrow wring\nuntil there's nothing left of care?",
-      "generatedAt": "2026-03-25T09:40:58.289Z"
-    },
-    "keywords": [
-      {
-        "word": "shoe",
-        "slot": 408739374,
-        "source": "blockhash"
-      },
-      {
-        "word": "grant",
-        "slot": 408739374,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "hold",
-        "slot": 408739374,
-        "source": "transaction"
-      },
-      {
-        "word": "bachelor",
-        "slot": 408721375,
-        "source": "blockhash"
-      },
-      {
-        "word": "adult",
-        "slot": 408721375,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "feed",
-        "slot": 408721375,
-        "source": "transaction"
-      },
-      {
-        "word": "borrow",
-        "slot": 408703375,
-        "source": "blockhash"
-      },
-      {
-        "word": "pen",
-        "slot": 408703375,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "about",
-        "slot": 408703375,
-        "source": "transaction"
-      },
-      {
-        "word": "lyrics",
-        "slot": 408685375,
-        "source": "blockhash"
-      },
-      {
-        "word": "grief",
-        "slot": 408685375,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "coral",
-        "slot": 408685375,
-        "source": "transaction"
-      },
-      {
-        "word": "area",
-        "slot": 408667375,
-        "source": "blockhash"
-      },
-      {
-        "word": "prosper",
-        "slot": 408667375,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "bring",
-        "slot": 408667375,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhuscdm4m42t",
-    "poemReady": true,
-    "keywordsCollected": 15,
     "keywordsNeeded": 8
   }
 ]

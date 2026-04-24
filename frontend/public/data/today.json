@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-23",
+  "date": "2026-04-24",
   "poem": {
-    "content": "A voyage on vapor, a canvas gray,\nThe ocean breathes a salty spray.\nA mystery unfolds in watery dance,\nWhile shadows shift, a fleeting glance.\n\nA payment due, for passage deep,\nWhere ancient secrets softly sleep.\nAn apple rots, a bitter juice,\nA creeping dread, insidious.\n\nDisease whispers on the breeze,\nRustling pages of the book of trees.\nHe wears a sock, now frayed and thin,\nA drip, drip, drip, where do I begin?\n\nTo understand the tangled thread,\nAround her neck, by sorrow led.\nThe next port calls, a distant shore,\nWhere scattered thoughts will be no more.\n\nTo find a solace in the air,\nAnd watch the world without a care.\nThe dance continues, life’s refrain,\nAmidst the vapor and the rain.",
-    "generatedAt": "2026-04-23T10:11:26.099Z"
+    "content": "I lend my ear to fiction, spun of night,\nwhere stars are false and shadows bleed like fire.\nThis rifle script, a future caught in flight,\na family choked, fulfilling dark desire.\n\nI learn to swim against the churning tide,\nto clarify the murk that hides the truth.\nA year has passed, and still the pain won't hide,\na constant echo from my wasted youth.\n\nA kind hand reaches, I can not receive,\nthe darkness clings, possessive and unkind.\nI watch the ocean, and I start to grieve,\nfor all the things I left so far behind.\n\nThe target shifts, a phantom in the haze,\na fishing boat upon the distant shore.\nA false promise in these sunlit days,\nI learn to swim, and I can only implore,\nthe fire inside will simply cease to be,\nand clarify a path for only me.",
+    "generatedAt": "2026-04-24T10:12:56.024Z"
   },
   "keywords": [
     {
-      "word": "mystery",
-      "slot": 415107021,
+      "word": "lend",
+      "slot": 415325481,
       "source": "blockhash"
     },
     {
-      "word": "dance",
-      "slot": 415107021,
+      "word": "learn",
+      "slot": 415325481,
       "source": "previousBlockhash"
     },
     {
-      "word": "neck",
-      "slot": 415107021,
+      "word": "fiction",
+      "slot": 415325481,
       "source": "transaction"
     },
     {
-      "word": "scatter",
-      "slot": 415089021,
+      "word": "false",
+      "slot": 415307481,
       "source": "blockhash"
     },
     {
-      "word": "vapor",
-      "slot": 415089021,
+      "word": "fire",
+      "slot": 415307481,
       "source": "previousBlockhash"
     },
     {
-      "word": "book",
-      "slot": 415089021,
+      "word": "rifle",
+      "slot": 415307481,
       "source": "transaction"
     },
     {
-      "word": "drip",
-      "slot": 415071021,
+      "word": "script",
+      "slot": 415289481,
       "source": "blockhash"
     },
     {
-      "word": "voyage",
-      "slot": 415071021,
+      "word": "family",
+      "slot": 415289481,
       "source": "previousBlockhash"
     },
     {
-      "word": "next",
-      "slot": 415071021,
+      "word": "clarify",
+      "slot": 415289481,
       "source": "transaction"
     },
     {
-      "word": "payment",
-      "slot": 415053021,
+      "word": "swim",
+      "slot": 415271481,
       "source": "blockhash"
     },
     {
-      "word": "apple",
-      "slot": 415053021,
+      "word": "year",
+      "slot": 415271481,
       "source": "previousBlockhash"
     },
     {
-      "word": "disease",
-      "slot": 415053021,
+      "word": "kind",
+      "slot": 415271481,
       "source": "transaction"
     },
     {
-      "word": "ocean",
-      "slot": 415035021,
+      "word": "receive",
+      "slot": 415253481,
       "source": "blockhash"
     },
     {
-      "word": "juice",
-      "slot": 415035021,
+      "word": "fish",
+      "slot": 415253481,
       "source": "previousBlockhash"
     },
     {
-      "word": "sock",
-      "slot": 415035021,
+      "word": "target",
+      "slot": 415253481,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mk5rjj4ssw2c",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkac34gywi2m",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
