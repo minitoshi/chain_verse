@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-04-25",
+    "poem": {
+      "content": "The air turned brisk, a forest's breath,\nas a couple strolled, near insane with grief.\nHe winked, a gesture shadowed by the trees,\nshe tilted her head, beyond relief.\n\nA vendor stood, by a road ahead,\nhis cart piled high, her grocery need.\nShe thought about escape, about a plunge\ninto depths where silent sorrows bleed.\n\nBut sunshine, warm, upon her face,\na jewel-like promise, caught in a blur.\nA moment held, in fragile lace,\nrenew the hope, the insane thoughts deter.\n\nHe took her hand, a silent vow,\nto stand with her, here and now.\nThe forest whispers, soft and deep,\nwhile through the trees their secrets creep.\nThe grocery bag, a weight they bore,\nthey walk ahead, and nothing more.",
+      "generatedAt": "2026-04-25T09:39:00.731Z"
+    },
+    "keywords": [
+      {
+        "word": "grocery",
+        "slot": 415539197,
+        "source": "blockhash"
+      },
+      {
+        "word": "about",
+        "slot": 415539197,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "brisk",
+        "slot": 415539197,
+        "source": "transaction"
+      },
+      {
+        "word": "forest",
+        "slot": 415521197,
+        "source": "blockhash"
+      },
+      {
+        "word": "wink",
+        "slot": 415521197,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tilt",
+        "slot": 415521197,
+        "source": "transaction"
+      },
+      {
+        "word": "warm",
+        "slot": 415503197,
+        "source": "blockhash"
+      },
+      {
+        "word": "vendor",
+        "slot": 415503197,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "insane",
+        "slot": 415503197,
+        "source": "transaction"
+      },
+      {
+        "word": "couple",
+        "slot": 415485197,
+        "source": "blockhash"
+      },
+      {
+        "word": "caught",
+        "slot": 415485197,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "plunge",
+        "slot": 415485197,
+        "source": "transaction"
+      },
+      {
+        "word": "blur",
+        "slot": 415467197,
+        "source": "blockhash"
+      },
+      {
+        "word": "jewel",
+        "slot": 415467197,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "renew",
+        "slot": 415467197,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkcqnesx4v2w",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-24",
     "poem": {
       "content": "I lend my ear to fiction, spun of night,\nwhere stars are false and shadows bleed like fire.\nThis rifle script, a future caught in flight,\na family choked, fulfilling dark desire.\n\nI learn to swim against the churning tide,\nto clarify the murk that hides the truth.\nA year has passed, and still the pain won't hide,\na constant echo from my wasted youth.\n\nA kind hand reaches, I can not receive,\nthe darkness clings, possessive and unkind.\nI watch the ocean, and I start to grieve,\nfor all the things I left so far behind.\n\nThe target shifts, a phantom in the haze,\na fishing boat upon the distant shore.\nA false promise in these sunlit days,\nI learn to swim, and I can only implore,\nthe fire inside will simply cease to be,\nand clarify a path for only me.",
@@ -2549,89 +2637,6 @@
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhzt7yhxqz2z",
     "poemReady": true,
     "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-03-26",
-    "poem": {
-      "content": "The basket, a forgotten promise,\nlies overturned, a chunk of yesterday.\nYou, a toddler lost in digital haze,\nwander where proofs are sold as dreams away.\n\nThe wreck of future shimmered, then vanished,\na flash of awesome, now a hollow sound.\nFault lines crack beneath, a silent warfare,\nwhere fortunes shift, and innocence is unbound.\n\nDrift upon the waves of doubt, rebuild\nthe shattered trust, brick by weary brick.\nCan solace bloom where algorithms bleed,\ncan tender hope rise swift, though spirit's sick?\n\nProvide the solace to this fractured heart,\nbefore its beat surrenders to the void.\nUpon this ground, where shadows play their part,\nlet lost connections be again enjoyed.",
-      "generatedAt": "2026-03-26T09:47:41.927Z"
-    },
-    "keywords": [
-      {
-        "word": "basket",
-        "slot": 408960920,
-        "source": "blockhash"
-      },
-      {
-        "word": "chunk",
-        "slot": 408960920,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "you",
-        "slot": 408960920,
-        "source": "transaction"
-      },
-      {
-        "word": "toddler",
-        "slot": 408942920,
-        "source": "blockhash"
-      },
-      {
-        "word": "proof",
-        "slot": 408942920,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "warfare",
-        "slot": 408942920,
-        "source": "transaction"
-      },
-      {
-        "word": "rebuild",
-        "slot": 408924920,
-        "source": "blockhash"
-      },
-      {
-        "word": "awesome",
-        "slot": 408924920,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "fault",
-        "slot": 408924920,
-        "source": "transaction"
-      },
-      {
-        "word": "provide",
-        "slot": 408906920,
-        "source": "blockhash"
-      },
-      {
-        "word": "upon",
-        "slot": 408906920,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "drift",
-        "slot": 408906920,
-        "source": "transaction"
-      },
-      {
-        "word": "vanish",
-        "slot": 408888920,
-        "source": "blockhash"
-      },
-      {
-        "word": "wreck",
-        "slot": 408888920,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mhxd5c4omn2h",
-    "poemReady": true,
-    "keywordsCollected": 14,
     "keywordsNeeded": 8
   }
 ]
