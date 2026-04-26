@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-25",
+  "date": "2026-04-26",
   "poem": {
-    "content": "The air turned brisk, a forest's breath,\nas a couple strolled, near insane with grief.\nHe winked, a gesture shadowed by the trees,\nshe tilted her head, beyond relief.\n\nA vendor stood, by a road ahead,\nhis cart piled high, her grocery need.\nShe thought about escape, about a plunge\ninto depths where silent sorrows bleed.\n\nBut sunshine, warm, upon her face,\na jewel-like promise, caught in a blur.\nA moment held, in fragile lace,\nrenew the hope, the insane thoughts deter.\n\nHe took her hand, a silent vow,\nto stand with her, here and now.\nThe forest whispers, soft and deep,\nwhile through the trees their secrets creep.\nThe grocery bag, a weight they bore,\nthey walk ahead, and nothing more.",
-    "generatedAt": "2026-04-25T09:39:00.731Z"
+    "content": "A nerve frayed, a hope worn short,\na key lost in the echoing vault.\nMuscles tense, unable to sustain,\nthe weight of promises, a crystal rain.\n\nA brush with fate, a mimic's art,\nconcealing wounds carved in the heart.\nA token given, an empty prize,\nguarded by ghosts with hollow eyes.\n\nIs this transaction valid, this whispered plea?\nAn endorsement sought, eternally.\nWe miss the signals, the subtle signs,\nadrift in debris, where sunlight declines.\n\nThe ghost of a choice, a shadow play,\nwhere strength is fleeting, slipping away.\nBut somewhere within, a flicker persists,\na fragile bloom amidst hardened fists.\n\nA whispered prayer, a silent call,\nhoping something breaks, before we fall.\nWe brush off the dust, and face the unknown,\na single seed, desperately sown.",
+    "generatedAt": "2026-04-26T09:40:40.949Z"
   },
   "keywords": [
     {
-      "word": "grocery",
-      "slot": 415539197,
+      "word": "nerve",
+      "slot": 415757940,
       "source": "blockhash"
     },
     {
-      "word": "about",
-      "slot": 415539197,
+      "word": "short",
+      "slot": 415757940,
       "source": "previousBlockhash"
     },
     {
-      "word": "brisk",
-      "slot": 415539197,
+      "word": "key",
+      "slot": 415757940,
       "source": "transaction"
     },
     {
-      "word": "forest",
-      "slot": 415521197,
+      "word": "muscle",
+      "slot": 415739940,
       "source": "blockhash"
     },
     {
-      "word": "wink",
-      "slot": 415521197,
+      "word": "sustain",
+      "slot": 415739940,
       "source": "previousBlockhash"
     },
     {
-      "word": "tilt",
-      "slot": 415521197,
+      "word": "crystal",
+      "slot": 415739940,
       "source": "transaction"
     },
     {
-      "word": "warm",
-      "slot": 415503197,
+      "word": "brush",
+      "slot": 415721940,
       "source": "blockhash"
     },
     {
-      "word": "vendor",
-      "slot": 415503197,
+      "word": "mimic",
+      "slot": 415721940,
       "source": "previousBlockhash"
     },
     {
-      "word": "insane",
-      "slot": 415503197,
+      "word": "token",
+      "slot": 415721940,
       "source": "transaction"
     },
     {
-      "word": "couple",
-      "slot": 415485197,
+      "word": "hope",
+      "slot": 415703940,
       "source": "blockhash"
     },
     {
-      "word": "caught",
-      "slot": 415485197,
+      "word": "guard",
+      "slot": 415703940,
       "source": "previousBlockhash"
     },
     {
-      "word": "plunge",
-      "slot": 415485197,
+      "word": "valid",
+      "slot": 415703940,
       "source": "transaction"
     },
     {
-      "word": "blur",
-      "slot": 415467197,
+      "word": "endorse",
+      "slot": 415685940,
       "source": "blockhash"
     },
     {
-      "word": "jewel",
-      "slot": 415467197,
+      "word": "miss",
+      "slot": 415685940,
       "source": "previousBlockhash"
     },
     {
-      "word": "renew",
-      "slot": 415467197,
+      "word": "debris",
+      "slot": 415685940,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkcqnesx4v2w",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkfb7bsdru2w",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
