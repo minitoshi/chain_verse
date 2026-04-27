@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-04-27",
+    "poem": {
+      "content": "The salt air whispers, \"Hello,\" a digital sea,\nWhere dreams begin, and wallets flow so free.\nA fabric of chance, woven tight and deep,\nWhere fortunes slumber, secrets softly sleep.\n\nThe endless waves crash, a rhythmic, hungry sound,\nWhile hungry folks all sit around.\nFor a tuna burger with special sauce,\nHoping today will have no loss.\n\nThe faculty stands, on shores of grit and strife,\nPreparing souls for this unusual life.\nTo educate the young, to shape the minds so bright,\nAnd guide them through the day and darkest night.\n\nA dove descends, as transactions now approve,\nNew contracts blossom, fueled by endless groove.\nSome find it able, to pay the climbing tuition,\nWhile others struggle.\n\nSo let us find our grit and thrive,\nAnd from our digital world, we shall survive.",
+      "generatedAt": "2026-04-27T10:50:41.323Z"
+    },
+    "keywords": [
+      {
+        "word": "able",
+        "slot": 415986831,
+        "source": "blockhash"
+      },
+      {
+        "word": "tuna",
+        "slot": 415986831,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "begin",
+        "slot": 415986831,
+        "source": "transaction"
+      },
+      {
+        "word": "grit",
+        "slot": 415968831,
+        "source": "blockhash"
+      },
+      {
+        "word": "faculty",
+        "slot": 415968831,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "endless",
+        "slot": 415968831,
+        "source": "transaction"
+      },
+      {
+        "word": "educate",
+        "slot": 415950831,
+        "source": "blockhash"
+      },
+      {
+        "word": "sauce",
+        "slot": 415950831,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "burger",
+        "slot": 415950831,
+        "source": "transaction"
+      },
+      {
+        "word": "tuition",
+        "slot": 415932831,
+        "source": "blockhash"
+      },
+      {
+        "word": "digital",
+        "slot": 415932831,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fabric",
+        "slot": 415932831,
+        "source": "transaction"
+      },
+      {
+        "word": "hello",
+        "slot": 415914831,
+        "source": "blockhash"
+      },
+      {
+        "word": "approve",
+        "slot": 415914831,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dove",
+        "slot": 415914831,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkhvlf3rpu2b",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-26",
     "poem": {
       "content": "A nerve frayed, a hope worn short,\na key lost in the echoing vault.\nMuscles tense, unable to sustain,\nthe weight of promises, a crystal rain.\n\nA brush with fate, a mimic's art,\nconcealing wounds carved in the heart.\nA token given, an empty prize,\nguarded by ghosts with hollow eyes.\n\nIs this transaction valid, this whispered plea?\nAn endorsement sought, eternally.\nWe miss the signals, the subtle signs,\nadrift in debris, where sunlight declines.\n\nThe ghost of a choice, a shadow play,\nwhere strength is fleeting, slipping away.\nBut somewhere within, a flicker persists,\na fragile bloom amidst hardened fists.\n\nA whispered prayer, a silent call,\nhoping something breaks, before we fall.\nWe brush off the dust, and face the unknown,\na single seed, desperately sown.",
@@ -2547,94 +2635,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mi6tb7ufio2p",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-03-28",
-    "poem": {
-      "content": "The doctor, he called me innocent,\na fringe of doubt still clinging near.\nI saw a pyramid of honeyed events,\nclarity both false and dear.\n\nHe watched me pack the olive oil,\ntold me to run, run far away.\nA worn-out van, my shifting soil,\nto claim a different kind of day.\n\nMy heart a prison, locked and tight,\nI crouch within its shadowed walls.\nInhale the coming of the night,\nanswering freedom's distant calls.\n\nWe were together, once, you see,\nacross the fields, our laughter flowed.\nBut home is just a memory,\na stolen innocence bestowed.\n\nNow I must run, and keep on running,\nbeyond the edge, beyond the scene.\nEscaped the life I was becoming,\nforever altered, evergreen.",
-      "generatedAt": "2026-03-28T09:24:10.354Z"
-    },
-    "keywords": [
-      {
-        "word": "fringe",
-        "slot": 409399642,
-        "source": "blockhash"
-      },
-      {
-        "word": "doctor",
-        "slot": 409399642,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "van",
-        "slot": 409399642,
-        "source": "transaction"
-      },
-      {
-        "word": "run",
-        "slot": 409381642,
-        "source": "blockhash"
-      },
-      {
-        "word": "inhale",
-        "slot": 409381642,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "honey",
-        "slot": 409381642,
-        "source": "transaction"
-      },
-      {
-        "word": "crouch",
-        "slot": 409363642,
-        "source": "blockhash"
-      },
-      {
-        "word": "pyramid",
-        "slot": 409363642,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "olive",
-        "slot": 409363642,
-        "source": "transaction"
-      },
-      {
-        "word": "home",
-        "slot": 409345642,
-        "source": "blockhash"
-      },
-      {
-        "word": "across",
-        "slot": 409345642,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "innocent",
-        "slot": 409345642,
-        "source": "transaction"
-      },
-      {
-        "word": "together",
-        "slot": 409327642,
-        "source": "blockhash"
-      },
-      {
-        "word": "prison",
-        "slot": 409327642,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "claim",
-        "slot": 409327642,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mi4cr2rebx2v",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
