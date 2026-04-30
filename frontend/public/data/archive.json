@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-04-30",
+    "poem": {
+      "content": "The solar wind whips, a frozen kiss,\nUpon the chrome, a neon race begins.\nYouth spills out, a lottery of dreams,\nWhere fortunes rise and fall in laser beams.\n\nWe pave the way with digital despair,\nOur lives a clip, suspended in thin air.\nFury simmers, a silent, slow burn,\nWhile monitors flicker, lessons unlearned.\n\nEach dawn a prison, defined by the screen,\nGenre-bending boredom, a world unseen.\nThe ozone cracks, a warning from above,\nWhile we waste our hours on fleeting love.\n\nLong hair streams back, against the digital tide,\nA single soul where hope and fury hide.\nCan we begin again, escape the waste?\nBefore our future is forever erased.\nToo late, the clip ends, the light is gone.\nThe race is over, and the future’s pawn.",
+      "generatedAt": "2026-04-30T10:31:01.642Z"
+    },
+    "keywords": [
+      {
+        "word": "pave",
+        "slot": 416639028,
+        "source": "blockhash"
+      },
+      {
+        "word": "youth",
+        "slot": 416639028,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fury",
+        "slot": 416639028,
+        "source": "transaction"
+      },
+      {
+        "word": "lottery",
+        "slot": 416621028,
+        "source": "blockhash"
+      },
+      {
+        "word": "clip",
+        "slot": 416621028,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "frozen",
+        "slot": 416621028,
+        "source": "transaction"
+      },
+      {
+        "word": "race",
+        "slot": 416603028,
+        "source": "blockhash"
+      },
+      {
+        "word": "waste",
+        "slot": 416603028,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "begin",
+        "slot": 416603028,
+        "source": "transaction"
+      },
+      {
+        "word": "ozone",
+        "slot": 416585028,
+        "source": "blockhash"
+      },
+      {
+        "word": "solar",
+        "slot": 416585028,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hair",
+        "slot": 416585028,
+        "source": "transaction"
+      },
+      {
+        "word": "monitor",
+        "slot": 416567028,
+        "source": "blockhash"
+      },
+      {
+        "word": "genre",
+        "slot": 416567028,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "prison",
+        "slot": 416567028,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkpfuyflc42k",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-29",
     "poem": {
       "content": "The cinnamon dust of memory, a taste\nof something sweeter than what’s come to pass.\nA lottery of glances, heartbeats placed\non risks that shatter like thin hospital glass.\n\nI wear the mean world like a heavy glove,\na shield against the ships that sail the blood\nred seas of sorrow.  Notice how they move,\nthese vessels forged in tides misunderstood.\n\nAn oval cage of choices, small and tight,\nwhere price and worth are blurred beyond belief.\nTo break, to soar, to find the fading light,\nrequires a desperate, sweet relief.\n\nPopular opinion, a stifling screen,\na filter that distorts what’s truly seen.\nI long to shed this level, weary skin,\nreveal the raw, defiant soul within.\n\nThe ship is gone. The cinnamon's past.\nNo lottery, no escaping cage.\nThe mean world waits, a shadow built to last.\nThe glove held tight on life's hard page.",
@@ -2547,94 +2635,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-03-31",
-    "poem": {
-      "content": "The outer harbor, a smoky haze,\nWhere time itself begins to fray.\nA lonely crane, a rusted scale,\nMarks a ship’s departure, a delayed tale.\n\nUpon the menu, dreams unfurled,\nA chance embrace of another world.\nI guess at fortunes yet unknown,\nAs seeds of future farms are sown.\n\nA wooden swing, a creaking sound,\nWhere solace and lost memories are found.\nA whispered prayer the wind takes hold,\nA story etched in days of old.\n\nThe draw of destiny, a sharp command,\nA gleaming sword held in trembling hand.\nConfirm the course, the heading true,\nOn turbulent seas, forever new.\n\nNo turning back, no soft refrain,\nJust billowing smoke, a sunlit stain.\nThe distant shore, a fading gleam,\nLost in the vastness of a waking dream.",
-      "generatedAt": "2026-03-31T09:51:40.934Z"
-    },
-    "keywords": [
-      {
-        "word": "swing",
-        "slot": 410065929,
-        "source": "blockhash"
-      },
-      {
-        "word": "smoke",
-        "slot": 410065929,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "menu",
-        "slot": 410065929,
-        "source": "transaction"
-      },
-      {
-        "word": "embrace",
-        "slot": 410047929,
-        "source": "blockhash"
-      },
-      {
-        "word": "outer",
-        "slot": 410047929,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ship",
-        "slot": 410047929,
-        "source": "transaction"
-      },
-      {
-        "word": "delay",
-        "slot": 410029929,
-        "source": "blockhash"
-      },
-      {
-        "word": "confirm",
-        "slot": 410029929,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "draw",
-        "slot": 410029929,
-        "source": "transaction"
-      },
-      {
-        "word": "scale",
-        "slot": 410011929,
-        "source": "blockhash"
-      },
-      {
-        "word": "crane",
-        "slot": 410011929,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "guess",
-        "slot": 410011929,
-        "source": "transaction"
-      },
-      {
-        "word": "sword",
-        "slot": 409993929,
-        "source": "blockhash"
-      },
-      {
-        "word": "time",
-        "slot": 409993929,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "farm",
-        "slot": 409993929,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3midvozapt72h",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
