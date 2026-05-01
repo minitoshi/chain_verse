@@ -1,87 +1,87 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "poem": {
-    "content": "The solar wind whips, a frozen kiss,\nUpon the chrome, a neon race begins.\nYouth spills out, a lottery of dreams,\nWhere fortunes rise and fall in laser beams.\n\nWe pave the way with digital despair,\nOur lives a clip, suspended in thin air.\nFury simmers, a silent, slow burn,\nWhile monitors flicker, lessons unlearned.\n\nEach dawn a prison, defined by the screen,\nGenre-bending boredom, a world unseen.\nThe ozone cracks, a warning from above,\nWhile we waste our hours on fleeting love.\n\nLong hair streams back, against the digital tide,\nA single soul where hope and fury hide.\nCan we begin again, escape the waste?\nBefore our future is forever erased.\nToo late, the clip ends, the light is gone.\nThe race is over, and the future’s pawn.",
-    "generatedAt": "2026-04-30T10:31:01.642Z"
+    "content": "A midnight panther, sleek and normal now,\nNo longer vicious, eyes that held a fight.\nThe old chief dreamt beside a bridge of bough,\nHis weathered hand clamped on a fading light.\n\nThe budget small, a grant he’d hoped might bloom,\nTo finish what his fathers had begun.\nA genius plan, escaping future gloom,\nWith nature’s vessel, catching morning sun.\n\nAn agent came, with words of modern trade,\nA hollow promise, brightly colored, spun.\nHe saw the ancient wisdom start to fade,\nThe graceful wheel, no longer meant to run.\n\nThe chief refused, a quiet, firm decree,\nTo let the new world steal what made him free.\nHis vessel strong, his spirit clear and bright\nAmazing strength against approaching night.\nHe would build his bridge and finish what he started.\nThe color of hope, now forever imparted.",
+    "generatedAt": "2026-05-01T10:12:43.681Z"
   },
   "keywords": [
     {
-      "word": "pave",
-      "slot": 416639028,
+      "word": "panther",
+      "slot": 416855186,
       "source": "blockhash"
     },
     {
-      "word": "youth",
-      "slot": 416639028,
+      "word": "normal",
+      "slot": 416855186,
       "source": "previousBlockhash"
     },
     {
-      "word": "fury",
-      "slot": 416639028,
+      "word": "chief",
+      "slot": 416855186,
       "source": "transaction"
     },
     {
-      "word": "lottery",
-      "slot": 416621028,
+      "word": "budget",
+      "slot": 416837186,
       "source": "blockhash"
     },
     {
-      "word": "clip",
-      "slot": 416621028,
+      "word": "bridge",
+      "slot": 416837186,
       "source": "previousBlockhash"
     },
     {
-      "word": "frozen",
-      "slot": 416621028,
+      "word": "grant",
+      "slot": 416837186,
       "source": "transaction"
     },
     {
-      "word": "race",
-      "slot": 416603028,
+      "word": "finish",
+      "slot": 416819186,
       "source": "blockhash"
     },
     {
-      "word": "waste",
-      "slot": 416603028,
+      "word": "vicious",
+      "slot": 416819186,
       "source": "previousBlockhash"
     },
     {
-      "word": "begin",
-      "slot": 416603028,
+      "word": "genius",
+      "slot": 416819186,
       "source": "transaction"
     },
     {
-      "word": "ozone",
-      "slot": 416585028,
+      "word": "vessel",
+      "slot": 416801186,
       "source": "blockhash"
     },
     {
-      "word": "solar",
-      "slot": 416585028,
+      "word": "agent",
+      "slot": 416801186,
       "source": "previousBlockhash"
     },
     {
-      "word": "hair",
-      "slot": 416585028,
+      "word": "wheel",
+      "slot": 416801186,
       "source": "transaction"
     },
     {
-      "word": "monitor",
-      "slot": 416567028,
+      "word": "amazing",
+      "slot": 416783186,
       "source": "blockhash"
     },
     {
-      "word": "genre",
-      "slot": 416567028,
+      "word": "color",
+      "slot": 416783186,
       "source": "previousBlockhash"
     },
     {
-      "word": "prison",
-      "slot": 416567028,
+      "word": "now",
+      "slot": 416783186,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkpfuyflc42k",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8

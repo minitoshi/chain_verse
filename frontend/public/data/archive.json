@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-05-01",
+    "poem": {
+      "content": "A midnight panther, sleek and normal now,\nNo longer vicious, eyes that held a fight.\nThe old chief dreamt beside a bridge of bough,\nHis weathered hand clamped on a fading light.\n\nThe budget small, a grant he’d hoped might bloom,\nTo finish what his fathers had begun.\nA genius plan, escaping future gloom,\nWith nature’s vessel, catching morning sun.\n\nAn agent came, with words of modern trade,\nA hollow promise, brightly colored, spun.\nHe saw the ancient wisdom start to fade,\nThe graceful wheel, no longer meant to run.\n\nThe chief refused, a quiet, firm decree,\nTo let the new world steal what made him free.\nHis vessel strong, his spirit clear and bright\nAmazing strength against approaching night.\nHe would build his bridge and finish what he started.\nThe color of hope, now forever imparted.",
+      "generatedAt": "2026-05-01T10:12:43.681Z"
+    },
+    "keywords": [
+      {
+        "word": "panther",
+        "slot": 416855186,
+        "source": "blockhash"
+      },
+      {
+        "word": "normal",
+        "slot": 416855186,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "chief",
+        "slot": 416855186,
+        "source": "transaction"
+      },
+      {
+        "word": "budget",
+        "slot": 416837186,
+        "source": "blockhash"
+      },
+      {
+        "word": "bridge",
+        "slot": 416837186,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "grant",
+        "slot": 416837186,
+        "source": "transaction"
+      },
+      {
+        "word": "finish",
+        "slot": 416819186,
+        "source": "blockhash"
+      },
+      {
+        "word": "vicious",
+        "slot": 416819186,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "genius",
+        "slot": 416819186,
+        "source": "transaction"
+      },
+      {
+        "word": "vessel",
+        "slot": 416801186,
+        "source": "blockhash"
+      },
+      {
+        "word": "agent",
+        "slot": 416801186,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wheel",
+        "slot": 416801186,
+        "source": "transaction"
+      },
+      {
+        "word": "amazing",
+        "slot": 416783186,
+        "source": "blockhash"
+      },
+      {
+        "word": "color",
+        "slot": 416783186,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "now",
+        "slot": 416783186,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-04-30",
     "poem": {
       "content": "The solar wind whips, a frozen kiss,\nUpon the chrome, a neon race begins.\nYouth spills out, a lottery of dreams,\nWhere fortunes rise and fall in laser beams.\n\nWe pave the way with digital despair,\nOur lives a clip, suspended in thin air.\nFury simmers, a silent, slow burn,\nWhile monitors flicker, lessons unlearned.\n\nEach dawn a prison, defined by the screen,\nGenre-bending boredom, a world unseen.\nThe ozone cracks, a warning from above,\nWhile we waste our hours on fleeting love.\n\nLong hair streams back, against the digital tide,\nA single soul where hope and fury hide.\nCan we begin again, escape the waste?\nBefore our future is forever erased.\nToo late, the clip ends, the light is gone.\nThe race is over, and the future’s pawn.",
@@ -2547,94 +2635,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3miiwfdctlm27",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-04-01",
-    "poem": {
-      "content": "The license, faded yellow, a promise of the south,\nWhere fancy chickens strutted, breadcrumbs in their mouth.\nI expect no gratitude, no turkey on a plate,\nJust the final whisper, sealing my weary fate.\n\nA level field of slush, where force begins to yield,\nAnd labor's bitter song is bravely now revealed.\nThe wind, a hungry beast, it tears and claws and bites,\nWhile mushroom spores ascend towards the pale, dim lights.\n\nI find no joy in this, no pleasure to be found,\nJust south of happiness, on frozen, barren ground.\nYet even in the slush, a beauty starts to bloom,\nA single, hopeful bud escaping from the tomb.\n\nI force myself to feel, to breathe, to simply be,\nAnd dream of golden bread, and chicken, wild and free,\nEnjoy the simple grace of just another day,\nBefore the level dusk completely melts away.",
-      "generatedAt": "2026-04-01T09:55:20.672Z"
-    },
-    "keywords": [
-      {
-        "word": "license",
-        "slot": 410287276,
-        "source": "blockhash"
-      },
-      {
-        "word": "turkey",
-        "slot": 410287276,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "fancy",
-        "slot": 410287276,
-        "source": "transaction"
-      },
-      {
-        "word": "yellow",
-        "slot": 410269276,
-        "source": "blockhash"
-      },
-      {
-        "word": "force",
-        "slot": 410269276,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "slush",
-        "slot": 410269276,
-        "source": "transaction"
-      },
-      {
-        "word": "level",
-        "slot": 410251276,
-        "source": "blockhash"
-      },
-      {
-        "word": "bread",
-        "slot": 410251276,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "final",
-        "slot": 410251276,
-        "source": "transaction"
-      },
-      {
-        "word": "chicken",
-        "slot": 410233276,
-        "source": "blockhash"
-      },
-      {
-        "word": "south",
-        "slot": 410233276,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "labor",
-        "slot": 410233276,
-        "source": "transaction"
-      },
-      {
-        "word": "enjoy",
-        "slot": 410215276,
-        "source": "blockhash"
-      },
-      {
-        "word": "mushroom",
-        "slot": 410215276,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "expect",
-        "slot": 410215276,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
