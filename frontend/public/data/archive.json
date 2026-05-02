@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-05-02",
+    "poem": {
+      "content": "October's chill, an olive sky descends,\nThe host of memories, where youth suspends\nIts fragile form. A single file,\nOf thoughts, stretching a winding mile.\n\nThe range of mountains, stark and gray,\nMirrors the emptiness of yesterday.\nMy stomach knots, a twisting mess,\nFor chances lost, I sorely miss.\n\nAn eagle circles, vapor trails so thin,\nA secret solace, held deep within.\nTo sustain hope, a fragile, leaking cup,\nWhile destinies converge, rise up.\n\nWe watched the merge, a digital tide,\nAs futures shifted, side by side.\nAn elephant's grey, in morning light\nReflecting shadows in the night.\n\nA kid's lost giggle, echoes still,\nAcross the void, against my will.\nThe heart remembers, what time conceals,\nAs autumn's tapestry reveals.",
+      "generatedAt": "2026-05-02T09:50:27.868Z"
+    },
+    "keywords": [
+      {
+        "word": "october",
+        "slot": 417070567,
+        "source": "blockhash"
+      },
+      {
+        "word": "olive",
+        "slot": 417070567,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "host",
+        "slot": 417070567,
+        "source": "transaction"
+      },
+      {
+        "word": "file",
+        "slot": 417052567,
+        "source": "blockhash"
+      },
+      {
+        "word": "range",
+        "slot": 417052567,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "stomach",
+        "slot": 417052567,
+        "source": "transaction"
+      },
+      {
+        "word": "miss",
+        "slot": 417034567,
+        "source": "blockhash"
+      },
+      {
+        "word": "eagle",
+        "slot": 417034567,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "vapor",
+        "slot": 417034567,
+        "source": "transaction"
+      },
+      {
+        "word": "sustain",
+        "slot": 417016567,
+        "source": "blockhash"
+      },
+      {
+        "word": "cup",
+        "slot": 417016567,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "secret",
+        "slot": 417016567,
+        "source": "transaction"
+      },
+      {
+        "word": "merge",
+        "slot": 416998567,
+        "source": "blockhash"
+      },
+      {
+        "word": "elephant",
+        "slot": 416998567,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "kid",
+        "slot": 416998567,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkuekcedwb2e",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-05-01",
     "poem": {
       "content": "A midnight panther, sleek and normal now,\nNo longer vicious, eyes that held a fight.\nThe old chief dreamt beside a bridge of bough,\nHis weathered hand clamped on a fading light.\n\nThe budget small, a grant he’d hoped might bloom,\nTo finish what his fathers had begun.\nA genius plan, escaping future gloom,\nWith nature’s vessel, catching morning sun.\n\nAn agent came, with words of modern trade,\nA hollow promise, brightly colored, spun.\nHe saw the ancient wisdom start to fade,\nThe graceful wheel, no longer meant to run.\n\nThe chief refused, a quiet, firm decree,\nTo let the new world steal what made him free.\nHis vessel strong, his spirit clear and bright\nAmazing strength against approaching night.\nHe would build his bridge and finish what he started.\nThe color of hope, now forever imparted.",
@@ -2547,94 +2635,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3milgjjwz5b27",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-04-02",
-    "poem": {
-      "content": "The alley whispers a gospel of dust,\nZero hour nears, a judgment we must\nApprove. The board sits, faces grim and still,\nWhile wind, a hungry ghost, begins to drill.\n\nProtect the soup, a broth of fading light,\nAgainst the coming dark, the endless night.\nEach soul a vivid chunk, of memory's taste,\nDispersed and lost, a terrible, swift waste.\n\nThe wise ones speak of amounts due, and paid,\nA grim accounting, choices we have made.\nMy position's clear, though fear begins to act,\nA chilling tremor, a truth I can’t retract.\n\nThe topic hangs, suspended in the air,\nAs consequences bloom beyond compare.\nA dance of shadows, a final, fleeting grace,\nBefore the fall from this appointed place.\n\nAnd if it ends, and all is washed away,\nMay hope, at least, illuminate the day.\nMay truth remain, though veiled so very deep,\nA promise whispered while the world's asleep.",
-      "generatedAt": "2026-04-02T09:47:28.963Z"
-    },
-    "keywords": [
-      {
-        "word": "soup",
-        "slot": 410506740,
-        "source": "blockhash"
-      },
-      {
-        "word": "chunk",
-        "slot": 410506740,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "alley",
-        "slot": 410506740,
-        "source": "transaction"
-      },
-      {
-        "word": "protect",
-        "slot": 410488740,
-        "source": "blockhash"
-      },
-      {
-        "word": "act",
-        "slot": 410488740,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "gospel",
-        "slot": 410488740,
-        "source": "transaction"
-      },
-      {
-        "word": "board",
-        "slot": 410470740,
-        "source": "blockhash"
-      },
-      {
-        "word": "position",
-        "slot": 410470740,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "amount",
-        "slot": 410470740,
-        "source": "transaction"
-      },
-      {
-        "word": "approve",
-        "slot": 410452740,
-        "source": "blockhash"
-      },
-      {
-        "word": "topic",
-        "slot": 410452740,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "vivid",
-        "slot": 410452740,
-        "source": "transaction"
-      },
-      {
-        "word": "drill",
-        "slot": 410434740,
-        "source": "blockhash"
-      },
-      {
-        "word": "wise",
-        "slot": 410434740,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "zero",
-        "slot": 410434740,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3miiwfdctlm27",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
