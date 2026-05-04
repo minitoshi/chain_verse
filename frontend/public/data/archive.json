@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-05-04",
+    "poem": {
+      "content": "The floorboards creaked, a brisk wind blew,\nUnder a fence, shadows grew.\nThe crew assembled, a motley sight,\nTheir task: to navigate the fading light.\n\nNo toast tonight, no laughter's cheer,\nOnly the negative whispers, sharp and clear.\nOnce, a craft sailed free and bold,\nNow, its story tarnished, growing cold.\n\nThe chef has fled, his spices gone,\nLeaving a barrel empty, hope withdrawn.\nA sample taken, a bitter taste,\nUpon the plate, a future misplaced.\n\nThe lounge stands empty, still and deep,\nWhere broken dreams their secrets keep.\nNo second chance, the die is cast,\nThe future buried, fading fast.\nA broken craft, now beyond repair.\n\nNow under the fence, a burden to bear.",
+      "generatedAt": "2026-05-04T10:51:08.932Z"
+    },
+    "keywords": [
+      {
+        "word": "floor",
+        "slot": 417517190,
+        "source": "blockhash"
+      },
+      {
+        "word": "crew",
+        "slot": 417517190,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "craft",
+        "slot": 417517190,
+        "source": "transaction"
+      },
+      {
+        "word": "toast",
+        "slot": 417499190,
+        "source": "blockhash"
+      },
+      {
+        "word": "chef",
+        "slot": 417499190,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "task",
+        "slot": 417499190,
+        "source": "transaction"
+      },
+      {
+        "word": "brisk",
+        "slot": 417481190,
+        "source": "blockhash"
+      },
+      {
+        "word": "negative",
+        "slot": 417481190,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "plate",
+        "slot": 417481190,
+        "source": "transaction"
+      },
+      {
+        "word": "barrel",
+        "slot": 417463190,
+        "source": "blockhash"
+      },
+      {
+        "word": "once",
+        "slot": 417463190,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "sample",
+        "slot": 417463190,
+        "source": "transaction"
+      },
+      {
+        "word": "under",
+        "slot": 417445190,
+        "source": "blockhash"
+      },
+      {
+        "word": "fence",
+        "slot": 417445190,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "lounge",
+        "slot": 417445190,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkziunqlmr2h",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-05-03",
     "poem": {
       "content": "The furnace hummed, a dinosaur's deep breath,\nas sunset painted the western sky a blush.\nNo artwork hung, only shadows underneath\nthe beam that promised soon I could retire.\n\nThe staff had gone, another income segment lost,\nanother dream destroyed by tidal shifts.\nI used to play here, careless, full of dust,\nnow aging walls whisper desperate gifts.\n\nThis crumbling estate, I cannot bring\nmyself to mend its fractured, fading grace.\nI glance outside, at what the future sings -\nbut fear is etched upon Time's weary face.\n\nCould I predict the ruins I would find?\nThe ashes where a future used to gleam?\nThe past extends, a chain around my mind,\nuntil I cannot tell if this is dream.\n\nThe cracks like veins crawl where laughter used to bloom.\nThe furnace flares, and in its dying light,\nI see the darkness deepen in the room,\npreparing to make everything its night.",
@@ -2547,94 +2635,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3miqgnparsx2v",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-04-04",
-    "poem": {
-      "content": "The subway rumbles, a bleak heart of iron,\nAnother region swallowed by the grey.\nA pilot’s stare, unblinking, thereon,\nAcross the tracks, where shadows sway.\n\nHe grips his pen, to sketch a life untold,\nA loyal dog asleep upon my stool.\nAnother armed figure, hard and cold,\nWithin this urban, broken rule.\n\nThe lumber hauled, a hood obscures his face,\nA buyer waits, with empty, hollow eyes.\nNo outdoor light to grace this dismal place,\nJust fleeting dreams behind a false disguise.\n\nHe dreams of ranch, of open, sunlit space,\nA sculpted model, posed in morning dew.\nBut reality brings only this disgrace,\nA canvas stained with shades of somber hue.\n\nHe tries to bring the loyal feeling back,\nLost in the urban sprawl, and endless chase,\nA soul adrift, upon a barren track,\nLeaving only the bleak feel of this place.",
-      "generatedAt": "2026-04-04T09:25:27.406Z"
-    },
-    "keywords": [
-      {
-        "word": "subway",
-        "slot": 410943279,
-        "source": "blockhash"
-      },
-      {
-        "word": "region",
-        "slot": 410943279,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "stool",
-        "slot": 410943279,
-        "source": "transaction"
-      },
-      {
-        "word": "model",
-        "slot": 410925279,
-        "source": "blockhash"
-      },
-      {
-        "word": "pen",
-        "slot": 410925279,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "armed",
-        "slot": 410925279,
-        "source": "transaction"
-      },
-      {
-        "word": "lumber",
-        "slot": 410907279,
-        "source": "blockhash"
-      },
-      {
-        "word": "hood",
-        "slot": 410907279,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ranch",
-        "slot": 410907279,
-        "source": "transaction"
-      },
-      {
-        "word": "loyal",
-        "slot": 410889279,
-        "source": "blockhash"
-      },
-      {
-        "word": "pilot",
-        "slot": 410889279,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "outdoor",
-        "slot": 410889279,
-        "source": "transaction"
-      },
-      {
-        "word": "bring",
-        "slot": 410871279,
-        "source": "blockhash"
-      },
-      {
-        "word": "bleak",
-        "slot": 410871279,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "buyer",
-        "slot": 410871279,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
