@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "poem": {
-    "content": "The floorboards creaked, a brisk wind blew,\nUnder a fence, shadows grew.\nThe crew assembled, a motley sight,\nTheir task: to navigate the fading light.\n\nNo toast tonight, no laughter's cheer,\nOnly the negative whispers, sharp and clear.\nOnce, a craft sailed free and bold,\nNow, its story tarnished, growing cold.\n\nThe chef has fled, his spices gone,\nLeaving a barrel empty, hope withdrawn.\nA sample taken, a bitter taste,\nUpon the plate, a future misplaced.\n\nThe lounge stands empty, still and deep,\nWhere broken dreams their secrets keep.\nNo second chance, the die is cast,\nThe future buried, fading fast.\nA broken craft, now beyond repair.\n\nNow under the fence, a burden to bear.",
-    "generatedAt": "2026-05-04T10:51:08.932Z"
+    "content": "A crumbling column, brick by weary brick,\nAn ethics lesson the wind chooses to speak.\nI saw a mule, abandoned in the street,\nIts metal shoe lost, a rhythmic, limping beat.\n\nA camera shutter, eager to possess,\nThe crack that runs through her painted blouse.\nI want to move, to shoot a truer scene,\nTo unveil the heart hidden deep within.\n\nBut shadows darken, shifting in the light,\nA single unit, caught in endless night.\nThe city sleeps, a canvas cold and vast,\nWhere broken promises forever seem to last.\n\nTaking everything into its cold heart and grasp,\nI speak to the night, begging for a new future to grasp.\nBut here, beneath the moon's pale, watchful eye,\nI must abandon hope, and softly sigh.",
+    "generatedAt": "2026-05-05T10:26:13.350Z"
   },
   "keywords": [
     {
-      "word": "floor",
-      "slot": 417517190,
+      "word": "column",
+      "slot": 417730741,
       "source": "blockhash"
     },
     {
-      "word": "crew",
-      "slot": 417517190,
+      "word": "camera",
+      "slot": 417730741,
       "source": "previousBlockhash"
     },
     {
-      "word": "craft",
-      "slot": 417517190,
+      "word": "into",
+      "slot": 417730741,
       "source": "transaction"
     },
     {
-      "word": "toast",
-      "slot": 417499190,
+      "word": "ethics",
+      "slot": 417712741,
       "source": "blockhash"
     },
     {
-      "word": "chef",
-      "slot": 417499190,
+      "word": "mule",
+      "slot": 417712741,
       "source": "previousBlockhash"
     },
     {
-      "word": "task",
-      "slot": 417499190,
+      "word": "metal",
+      "slot": 417712741,
       "source": "transaction"
     },
     {
-      "word": "brisk",
-      "slot": 417481190,
+      "word": "brick",
+      "slot": 417694741,
       "source": "blockhash"
     },
     {
-      "word": "negative",
-      "slot": 417481190,
+      "word": "speak",
+      "slot": 417694741,
       "source": "previousBlockhash"
     },
     {
-      "word": "plate",
-      "slot": 417481190,
+      "word": "crack",
+      "slot": 417694741,
       "source": "transaction"
     },
     {
-      "word": "barrel",
-      "slot": 417463190,
+      "word": "abandon",
+      "slot": 417676741,
       "source": "blockhash"
     },
     {
-      "word": "once",
-      "slot": 417463190,
+      "word": "unveil",
+      "slot": 417676741,
       "source": "previousBlockhash"
     },
     {
-      "word": "sample",
-      "slot": 417463190,
+      "word": "unit",
+      "slot": 417676741,
       "source": "transaction"
     },
     {
-      "word": "under",
-      "slot": 417445190,
+      "word": "move",
+      "slot": 417658741,
       "source": "blockhash"
     },
     {
-      "word": "fence",
-      "slot": 417445190,
+      "word": "shoot",
+      "slot": 417658741,
       "source": "previousBlockhash"
     },
     {
-      "word": "lounge",
-      "slot": 417445190,
+      "word": "blouse",
+      "slot": 417658741,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkziunqlmr2h",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3ml3xwyvthl2h",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
