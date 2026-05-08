@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-07",
+  "date": "2026-05-08",
   "poem": {
-    "content": "The gym door groans, a metal ritual,\neach clang, a shadow covering soft light.\nI own the broken hours here, set slow.\nA panda's gaze, collecting sweat,\nreflects the lab-like gleam of steel.\n\nMy pitch abandoned, voice gone raw,\nanother audit weighing heavy as mail,\nunread, unanswered, haunting me.\nThis person, blurred within the mirror's pane,\ncannot outrun the echoing refrain.\n\nThe treadmill mocks, its steady, beating pace,\nwhile fragmented dreams drift through the space.\nI try to gather them, but they slip through.\nA broken clock, a fractured view.\n\nI must escape this heavy, crushing dark,\nbegin again from what is left, a spark.\nCover it carefully, nurture it with care,\nuntil the own light shines beyond despair.\nFind the soft truth that hides within.",
-    "generatedAt": "2026-05-07T10:55:25.801Z"
+    "content": "The baby sleeps, a coral dream,\nSafe within a cubic room,\nWhere moonbeams drip like honey slow,\nAnd shadows decorate the gloom.\n\nTo either swing, or gently hold,\nA nuclear heart beats soft and low,\nWe aim to achieve a calmer state,\nBefore the darker seeds will grow.\n\nThey say to decide, to make a choice,\nTo bring some order to the tide,\nBut calm is lost, a fleeting grace,\nWhen fear threatens from inside.\n\nLet not the harshness of the world\nInflict such pain, so deep and wide.\nInstead, let kindness gently flow,\nAnd push the heavy fears aside.\n\nThe coral fades, the dream takes hold,\nA future shaped, a story told.",
+    "generatedAt": "2026-05-08T10:12:20.601Z"
   },
   "keywords": [
     {
-      "word": "cover",
-      "slot": 418167399,
+      "word": "achieve",
+      "slot": 418376443,
       "source": "blockhash"
     },
     {
-      "word": "ritual",
-      "slot": 418167399,
+      "word": "safe",
+      "slot": 418376443,
       "source": "previousBlockhash"
     },
     {
-      "word": "gym",
-      "slot": 418167399,
+      "word": "baby",
+      "slot": 418376443,
       "source": "transaction"
     },
     {
-      "word": "audit",
-      "slot": 418149399,
+      "word": "calm",
+      "slot": 418358443,
       "source": "blockhash"
     },
     {
-      "word": "own",
-      "slot": 418149399,
+      "word": "either",
+      "slot": 418358443,
       "source": "previousBlockhash"
     },
     {
-      "word": "panda",
-      "slot": 418149399,
+      "word": "drip",
+      "slot": 418358443,
       "source": "transaction"
     },
     {
-      "word": "lab",
-      "slot": 418131399,
+      "word": "inflict",
+      "slot": 418340443,
       "source": "blockhash"
     },
     {
-      "word": "mail",
-      "slot": 418131399,
+      "word": "order",
+      "slot": 418340443,
       "source": "previousBlockhash"
     },
     {
-      "word": "broken",
-      "slot": 418131399,
+      "word": "coral",
+      "slot": 418340443,
       "source": "transaction"
     },
     {
-      "word": "shadow",
-      "slot": 418113399,
+      "word": "aim",
+      "slot": 418322443,
       "source": "blockhash"
     },
     {
-      "word": "collect",
-      "slot": 418113399,
+      "word": "decorate",
+      "slot": 418322443,
       "source": "previousBlockhash"
     },
     {
-      "word": "person",
-      "slot": 418113399,
+      "word": "decide",
+      "slot": 418322443,
       "source": "transaction"
     },
     {
-      "word": "slow",
-      "slot": 418095399,
+      "word": "cube",
+      "slot": 418304443,
       "source": "blockhash"
     },
     {
-      "word": "pitch",
-      "slot": 418095399,
+      "word": "swing",
+      "slot": 418304443,
       "source": "previousBlockhash"
     },
     {
-      "word": "soft",
-      "slot": 418095399,
+      "word": "nuclear",
+      "slot": 418304443,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlb2j2xz2j2b",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mldikwzh742w",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8

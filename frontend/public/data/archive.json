@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-05-08",
+    "poem": {
+      "content": "The baby sleeps, a coral dream,\nSafe within a cubic room,\nWhere moonbeams drip like honey slow,\nAnd shadows decorate the gloom.\n\nTo either swing, or gently hold,\nA nuclear heart beats soft and low,\nWe aim to achieve a calmer state,\nBefore the darker seeds will grow.\n\nThey say to decide, to make a choice,\nTo bring some order to the tide,\nBut calm is lost, a fleeting grace,\nWhen fear threatens from inside.\n\nLet not the harshness of the world\nInflict such pain, so deep and wide.\nInstead, let kindness gently flow,\nAnd push the heavy fears aside.\n\nThe coral fades, the dream takes hold,\nA future shaped, a story told.",
+      "generatedAt": "2026-05-08T10:12:20.601Z"
+    },
+    "keywords": [
+      {
+        "word": "achieve",
+        "slot": 418376443,
+        "source": "blockhash"
+      },
+      {
+        "word": "safe",
+        "slot": 418376443,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "baby",
+        "slot": 418376443,
+        "source": "transaction"
+      },
+      {
+        "word": "calm",
+        "slot": 418358443,
+        "source": "blockhash"
+      },
+      {
+        "word": "either",
+        "slot": 418358443,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "drip",
+        "slot": 418358443,
+        "source": "transaction"
+      },
+      {
+        "word": "inflict",
+        "slot": 418340443,
+        "source": "blockhash"
+      },
+      {
+        "word": "order",
+        "slot": 418340443,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "coral",
+        "slot": 418340443,
+        "source": "transaction"
+      },
+      {
+        "word": "aim",
+        "slot": 418322443,
+        "source": "blockhash"
+      },
+      {
+        "word": "decorate",
+        "slot": 418322443,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "decide",
+        "slot": 418322443,
+        "source": "transaction"
+      },
+      {
+        "word": "cube",
+        "slot": 418304443,
+        "source": "blockhash"
+      },
+      {
+        "word": "swing",
+        "slot": 418304443,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "nuclear",
+        "slot": 418304443,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mldikwzh742w",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-05-07",
     "poem": {
       "content": "The gym door groans, a metal ritual,\neach clang, a shadow covering soft light.\nI own the broken hours here, set slow.\nA panda's gaze, collecting sweat,\nreflects the lab-like gleam of steel.\n\nMy pitch abandoned, voice gone raw,\nanother audit weighing heavy as mail,\nunread, unanswered, haunting me.\nThis person, blurred within the mirror's pane,\ncannot outrun the echoing refrain.\n\nThe treadmill mocks, its steady, beating pace,\nwhile fragmented dreams drift through the space.\nI try to gather them, but they slip through.\nA broken clock, a fractured view.\n\nI must escape this heavy, crushing dark,\nbegin again from what is left, a spark.\nCover it carefully, nurture it with care,\nuntil the own light shines beyond despair.\nFind the soft truth that hides within.",
@@ -2547,94 +2635,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mj2kdftflz25",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-04-08",
-    "poem": {
-      "content": "A little silver scale, dusted with galaxy light,\nmeasured the wonder, the night.\nWe came to collect, luggage in hand,\na hidden butter dish in this promised land.\n\nThe action unfolds, a slow, deliberate glide,\nlike saplings leaning, where secrets reside.\nA lone tree stands, witness to all,\nas shadows lengthen and softly call.\n\nThe setup complete, cement barely dry,\nunderneath a painted azure sky.\nThe amount of longing, a heavy weight,\na kitchen forgotten, sealed by fate.\n\nThe cosmic dust, it begins to gleam,\nan impossible, unfinished dream.\nToo much to bear, this burden unknown,\nseeds of sadness we've sown.\n\nThe scale tips now, towards shadowed grey,\nas the universe continues into the next day.\nA little is gained, much is lost, it seems,\nin the churning galaxy, and half-remembered, fading dreams.",
-      "generatedAt": "2026-04-08T09:55:36.645Z"
-    },
-    "keywords": [
-      {
-        "word": "action",
-        "slot": 411827286,
-        "source": "blockhash"
-      },
-      {
-        "word": "little",
-        "slot": 411827286,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "wonder",
-        "slot": 411827286,
-        "source": "transaction"
-      },
-      {
-        "word": "setup",
-        "slot": 411809286,
-        "source": "blockhash"
-      },
-      {
-        "word": "cement",
-        "slot": 411809286,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "collect",
-        "slot": 411809286,
-        "source": "transaction"
-      },
-      {
-        "word": "luggage",
-        "slot": 411791286,
-        "source": "blockhash"
-      },
-      {
-        "word": "butter",
-        "slot": 411791286,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "scale",
-        "slot": 411791286,
-        "source": "transaction"
-      },
-      {
-        "word": "silver",
-        "slot": 411773286,
-        "source": "blockhash"
-      },
-      {
-        "word": "tree",
-        "slot": 411773286,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "glide",
-        "slot": 411773286,
-        "source": "transaction"
-      },
-      {
-        "word": "amount",
-        "slot": 411755286,
-        "source": "blockhash"
-      },
-      {
-        "word": "galaxy",
-        "slot": 411755286,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "kitchen",
-        "slot": 411755286,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mixznfpphd27",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
