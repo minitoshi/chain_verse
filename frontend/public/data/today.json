@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "poem": {
-    "content": "The baby sleeps, a coral dream,\nSafe within a cubic room,\nWhere moonbeams drip like honey slow,\nAnd shadows decorate the gloom.\n\nTo either swing, or gently hold,\nA nuclear heart beats soft and low,\nWe aim to achieve a calmer state,\nBefore the darker seeds will grow.\n\nThey say to decide, to make a choice,\nTo bring some order to the tide,\nBut calm is lost, a fleeting grace,\nWhen fear threatens from inside.\n\nLet not the harshness of the world\nInflict such pain, so deep and wide.\nInstead, let kindness gently flow,\nAnd push the heavy fears aside.\n\nThe coral fades, the dream takes hold,\nA future shaped, a story told.",
-    "generatedAt": "2026-05-08T10:12:20.601Z"
+    "content": "The sea drifts, a canvas gray,\nUnable to borrow a smile today.\nA run for peace, a frantic ride,\nFrom the shore of the moral divide.\n\nTheory whispered, a salty trace,\nBiology bending to time and space.\nAn assault of thought, a crashing wave,\nAs title and self, the ocean gave.\n\nThe heart seeks solace, a gentle hand,\nTo boost the spirit, across the land.\nYet echoes copy, a hollow sound,\nWhere truth is lost, and can't be found.\n\nHope's frail vessel, caught in the storm,\nUnable to navigate, keep safe and warm.\nIs there a safe place to alight?\nOr will the darkness steal the light?",
+    "generatedAt": "2026-05-09T09:58:11.772Z"
   },
   "keywords": [
     {
-      "word": "achieve",
-      "slot": 418376443,
+      "word": "smile",
+      "slot": 418589321,
       "source": "blockhash"
     },
     {
-      "word": "safe",
-      "slot": 418376443,
+      "word": "copy",
+      "slot": 418589321,
       "source": "previousBlockhash"
     },
     {
-      "word": "baby",
-      "slot": 418376443,
+      "word": "biology",
+      "slot": 418589321,
       "source": "transaction"
     },
     {
-      "word": "calm",
-      "slot": 418358443,
+      "word": "borrow",
+      "slot": 418571321,
       "source": "blockhash"
     },
     {
-      "word": "either",
-      "slot": 418358443,
+      "word": "title",
+      "slot": 418571321,
       "source": "previousBlockhash"
     },
     {
-      "word": "drip",
-      "slot": 418358443,
+      "word": "ride",
+      "slot": 418571321,
       "source": "transaction"
     },
     {
-      "word": "inflict",
-      "slot": 418340443,
+      "word": "peace",
+      "slot": 418553321,
       "source": "blockhash"
     },
     {
-      "word": "order",
-      "slot": 418340443,
+      "word": "boost",
+      "slot": 418553321,
       "source": "previousBlockhash"
     },
     {
-      "word": "coral",
-      "slot": 418340443,
+      "word": "theory",
+      "slot": 418553321,
       "source": "transaction"
     },
     {
-      "word": "aim",
-      "slot": 418322443,
+      "word": "assault",
+      "slot": 418535321,
       "source": "blockhash"
     },
     {
-      "word": "decorate",
-      "slot": 418322443,
+      "word": "moral",
+      "slot": 418535321,
       "source": "previousBlockhash"
     },
     {
-      "word": "decide",
-      "slot": 418322443,
+      "word": "drift",
+      "slot": 418535321,
       "source": "transaction"
     },
     {
-      "word": "cube",
-      "slot": 418304443,
+      "word": "unable",
+      "slot": 418517321,
       "source": "blockhash"
     },
     {
-      "word": "swing",
-      "slot": 418304443,
+      "word": "sea",
+      "slot": 418517321,
       "source": "previousBlockhash"
     },
     {
-      "word": "nuclear",
-      "slot": 418304443,
+      "word": "run",
+      "slot": 418517321,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mldikwzh742w",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlfyakx4jr2m",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
