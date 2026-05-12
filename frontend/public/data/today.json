@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "poem": {
-    "content": "The glare of the monitor, a cold, hard light,\nWhere fortunes shift and fortunes take their flight.\nEnsure your wallet, lock it tight and fast,\nBefore the shadows of the jealous cast\nA spell of malice, twisting every choice.\n\nHe was a liar, with a painted face,\nA subtle transfer, erasing every trace.\nThe pledge he offered, hollow, weak, and thin,\nA fragile toy for those about to sin.\nEthics abandoned, left upon the edge.\n\nI witness now, the horse bolted far,\nBeyond the fences, guided by a star.\nA negative outcome, bitter fruit,\nHe built his empire on absolute pursuit.\nDisplaying riches earned by cruel deceit.\n\nBut darkness crumbles in the light of day,\nAnd bitter winds will surely blow away\nThe seeds of falsehood planted in the ground,\nWhere truth and justice will at last be found.\nHe made his choice, and now must bear his pain.",
-    "generatedAt": "2026-05-11T11:52:19.567Z"
+    "content": "A shallow case, a mobile screen’s cold light,\nAbsorb myself in ventures, day and night.\nA pyramid of stuff, a modern crop,\nWhere dreams take cruise, and fortunes never stop.\n\nThe visual whispers, \"motion is the key,\"\nBut I speak of inertia, haunting me.\nA ripple starts, a tremor in the soul,\nA festival of faces takes its toll.\n\nI watch them drift, antennae raised so high,\nSeeking connection in the digital sky.\nThe pyramid crumbles, grain by fading grain,\nA shallow promise, whispered in the rain.\n\nThis digital cruise, a siren’s gentle call,\nOffering answers, hiding shadows all.\nMy venture stalls, its future takes no hold,\nA shallow story, rarely to be told.\nThe ripples grow, the motion now will cease,\nI’ll absorb myself in finding inner peace.",
+    "generatedAt": "2026-05-12T11:07:12.231Z"
   },
   "keywords": [
     {
-      "word": "ensure",
-      "slot": 419035102,
+      "word": "pyramid",
+      "slot": 419242736,
       "source": "blockhash"
     },
     {
-      "word": "jealous",
-      "slot": 419035102,
+      "word": "case",
+      "slot": 419242736,
       "source": "previousBlockhash"
     },
     {
-      "word": "toy",
-      "slot": 419035102,
+      "word": "shallow",
+      "slot": 419242736,
       "source": "transaction"
     },
     {
-      "word": "witness",
-      "slot": 419017102,
+      "word": "cruise",
+      "slot": 419224736,
       "source": "blockhash"
     },
     {
-      "word": "edge",
-      "slot": 419017102,
+      "word": "ripple",
+      "slot": 419224736,
       "source": "previousBlockhash"
     },
     {
-      "word": "choice",
-      "slot": 419017102,
+      "word": "mobile",
+      "slot": 419224736,
       "source": "transaction"
     },
     {
-      "word": "negative",
-      "slot": 418999102,
+      "word": "festival",
+      "slot": 419206736,
       "source": "blockhash"
     },
     {
-      "word": "horse",
-      "slot": 418999102,
+      "word": "crop",
+      "slot": 419206736,
       "source": "previousBlockhash"
     },
     {
-      "word": "glare",
-      "slot": 418999102,
+      "word": "myself",
+      "slot": 419206736,
       "source": "transaction"
     },
     {
-      "word": "where",
-      "slot": 418981102,
+      "word": "venture",
+      "slot": 419188736,
       "source": "blockhash"
     },
     {
-      "word": "liar",
-      "slot": 418981102,
+      "word": "stuff",
+      "slot": 419188736,
       "source": "previousBlockhash"
     },
     {
-      "word": "display",
-      "slot": 418981102,
+      "word": "motion",
+      "slot": 419188736,
       "source": "transaction"
     },
     {
-      "word": "pledge",
-      "slot": 418963102,
+      "word": "absorb",
+      "slot": 419170736,
       "source": "blockhash"
     },
     {
-      "word": "transfer",
-      "slot": 418963102,
+      "word": "visual",
+      "slot": 419170736,
       "source": "previousBlockhash"
     },
     {
-      "word": "ethics",
-      "slot": 418963102,
+      "word": "speak",
+      "slot": 419170736,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mll7khw3ee2c",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlnniq3ql62h",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
