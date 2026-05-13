@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "poem": {
-    "content": "A shallow case, a mobile screen’s cold light,\nAbsorb myself in ventures, day and night.\nA pyramid of stuff, a modern crop,\nWhere dreams take cruise, and fortunes never stop.\n\nThe visual whispers, \"motion is the key,\"\nBut I speak of inertia, haunting me.\nA ripple starts, a tremor in the soul,\nA festival of faces takes its toll.\n\nI watch them drift, antennae raised so high,\nSeeking connection in the digital sky.\nThe pyramid crumbles, grain by fading grain,\nA shallow promise, whispered in the rain.\n\nThis digital cruise, a siren’s gentle call,\nOffering answers, hiding shadows all.\nMy venture stalls, its future takes no hold,\nA shallow story, rarely to be told.\nThe ripples grow, the motion now will cease,\nI’ll absorb myself in finding inner peace.",
-    "generatedAt": "2026-05-12T11:07:12.231Z"
+    "content": "I believe the slush whispers secrets,\nsimilar to cattle lowing in the dawn.\nA sweet ache in my wrist, fragile bone,\nas the artist tries to capture stone.\n\nHe digs in the dirt, a super effort,\nto verify the blast, the earth's retort.\nAn eyebrow arches, a skeptical slant,\nat the process, slow and elephant.\n\nCan beauty rise from such coarse ground?\nA diamond's genesis, profound.\nHe shapes the clay, a fragile hope,\nthat something lovely might elope.\n\nFrom chaos born, a spirit free,\na gentle heart now, meant to be.\nHe must believe, though doubts may tease,\nand find art's truth, to bring him ease.\n\nThe stone remains, a silent guide,\nwhere fragile beauty can reside.",
+    "generatedAt": "2026-05-13T11:20:59.494Z"
   },
   "keywords": [
     {
-      "word": "pyramid",
-      "slot": 419242736,
+      "word": "believe",
+      "slot": 419460152,
       "source": "blockhash"
     },
     {
-      "word": "case",
-      "slot": 419242736,
+      "word": "process",
+      "slot": 419460152,
       "source": "previousBlockhash"
     },
     {
-      "word": "shallow",
-      "slot": 419242736,
+      "word": "sweet",
+      "slot": 419460152,
       "source": "transaction"
     },
     {
-      "word": "cruise",
-      "slot": 419224736,
+      "word": "similar",
+      "slot": 419442152,
       "source": "blockhash"
     },
     {
-      "word": "ripple",
-      "slot": 419224736,
+      "word": "slush",
+      "slot": 419442152,
       "source": "previousBlockhash"
     },
     {
-      "word": "mobile",
-      "slot": 419224736,
+      "word": "artist",
+      "slot": 419442152,
       "source": "transaction"
     },
     {
-      "word": "festival",
-      "slot": 419206736,
+      "word": "fragile",
+      "slot": 419424152,
       "source": "blockhash"
     },
     {
-      "word": "crop",
-      "slot": 419206736,
+      "word": "wrist",
+      "slot": 419424152,
       "source": "previousBlockhash"
     },
     {
-      "word": "myself",
-      "slot": 419206736,
+      "word": "blast",
+      "slot": 419424152,
       "source": "transaction"
     },
     {
-      "word": "venture",
-      "slot": 419188736,
+      "word": "verify",
+      "slot": 419406152,
       "source": "blockhash"
     },
     {
-      "word": "stuff",
-      "slot": 419188736,
+      "word": "dirt",
+      "slot": 419406152,
       "source": "previousBlockhash"
     },
     {
-      "word": "motion",
-      "slot": 419188736,
+      "word": "eyebrow",
+      "slot": 419406152,
       "source": "transaction"
     },
     {
-      "word": "absorb",
-      "slot": 419170736,
+      "word": "super",
+      "slot": 419388152,
       "source": "blockhash"
     },
     {
-      "word": "visual",
-      "slot": 419170736,
+      "word": "cattle",
+      "slot": 419388152,
       "source": "previousBlockhash"
     },
     {
-      "word": "speak",
-      "slot": 419170736,
+      "word": "stone",
+      "slot": 419388152,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlnniq3ql62h",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlq6qcf3da2m",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
