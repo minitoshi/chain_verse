@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "poem": {
-    "content": "I believe the slush whispers secrets,\nsimilar to cattle lowing in the dawn.\nA sweet ache in my wrist, fragile bone,\nas the artist tries to capture stone.\n\nHe digs in the dirt, a super effort,\nto verify the blast, the earth's retort.\nAn eyebrow arches, a skeptical slant,\nat the process, slow and elephant.\n\nCan beauty rise from such coarse ground?\nA diamond's genesis, profound.\nHe shapes the clay, a fragile hope,\nthat something lovely might elope.\n\nFrom chaos born, a spirit free,\na gentle heart now, meant to be.\nHe must believe, though doubts may tease,\nand find art's truth, to bring him ease.\n\nThe stone remains, a silent guide,\nwhere fragile beauty can reside.",
-    "generatedAt": "2026-05-13T11:20:59.494Z"
+    "content": "A small moral lingered, a text unread.\nBuffalo grazed in the endless valley,\ntheir shadows lengthening, as stories shed,\nlike old skins, in dim light barely.\n\nA wife waits, by a hill’s harsh face,\nfor her husband to return from toil.\nHe toils where some explosion left its trace,\na crater formed in sun-baked soil.\n\nThe work is hard, a choice, a vote\nthat led him to this desolate place.\nTo enhance his family, so the note\nof future hope is on each face.\n\nTo describe the scene, an error creeps.\nHe sees no glory, only bitter need.\nAnd yet his love diligently sweeps,\nthrough days where dreams begin to bleed.\n\nThough fortunes won are slow to rise,\nand results are far and few,\nhe paints a future in her eyes,\nof love and dreams both old and new.",
+    "generatedAt": "2026-05-14T11:05:12.053Z"
   },
   "keywords": [
     {
-      "word": "believe",
-      "slot": 419460152,
+      "word": "small",
+      "slot": 419674218,
       "source": "blockhash"
     },
     {
-      "word": "process",
-      "slot": 419460152,
+      "word": "result",
+      "slot": 419674218,
       "source": "previousBlockhash"
     },
     {
-      "word": "sweet",
-      "slot": 419460152,
+      "word": "crater",
+      "slot": 419674218,
       "source": "transaction"
     },
     {
-      "word": "similar",
-      "slot": 419442152,
+      "word": "wife",
+      "slot": 419656218,
       "source": "blockhash"
     },
     {
-      "word": "slush",
-      "slot": 419442152,
+      "word": "buffalo",
+      "slot": 419656218,
       "source": "previousBlockhash"
     },
     {
-      "word": "artist",
-      "slot": 419442152,
+      "word": "moral",
+      "slot": 419656218,
       "source": "transaction"
     },
     {
-      "word": "fragile",
-      "slot": 419424152,
+      "word": "text",
+      "slot": 419638218,
       "source": "blockhash"
     },
     {
-      "word": "wrist",
-      "slot": 419424152,
+      "word": "endless",
+      "slot": 419638218,
       "source": "previousBlockhash"
     },
     {
-      "word": "blast",
-      "slot": 419424152,
+      "word": "shed",
+      "slot": 419638218,
       "source": "transaction"
     },
     {
-      "word": "verify",
-      "slot": 419406152,
+      "word": "valley",
+      "slot": 419620218,
       "source": "blockhash"
     },
     {
-      "word": "dirt",
-      "slot": 419406152,
+      "word": "enhance",
+      "slot": 419620218,
       "source": "previousBlockhash"
     },
     {
-      "word": "eyebrow",
-      "slot": 419406152,
+      "word": "describe",
+      "slot": 419620218,
       "source": "transaction"
     },
     {
-      "word": "super",
-      "slot": 419388152,
+      "word": "error",
+      "slot": 419602218,
       "source": "blockhash"
     },
     {
-      "word": "cattle",
-      "slot": 419388152,
+      "word": "vote",
+      "slot": 419602218,
       "source": "previousBlockhash"
     },
     {
-      "word": "stone",
-      "slot": 419388152,
+      "word": "hill",
+      "slot": 419602218,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlq6qcf3da2m",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlsocycrvg2e",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
