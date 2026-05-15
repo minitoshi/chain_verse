@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "poem": {
-    "content": "A small moral lingered, a text unread.\nBuffalo grazed in the endless valley,\ntheir shadows lengthening, as stories shed,\nlike old skins, in dim light barely.\n\nA wife waits, by a hill’s harsh face,\nfor her husband to return from toil.\nHe toils where some explosion left its trace,\na crater formed in sun-baked soil.\n\nThe work is hard, a choice, a vote\nthat led him to this desolate place.\nTo enhance his family, so the note\nof future hope is on each face.\n\nTo describe the scene, an error creeps.\nHe sees no glory, only bitter need.\nAnd yet his love diligently sweeps,\nthrough days where dreams begin to bleed.\n\nThough fortunes won are slow to rise,\nand results are far and few,\nhe paints a future in her eyes,\nof love and dreams both old and new.",
-    "generatedAt": "2026-05-14T11:05:12.053Z"
+    "content": "The antique rose, a blush upon her face,\nremembered comic laughter, light and brief.\nNow capital concerns employ each space,\na budget looming, shading joy with grief.\n\nTo spend or not to spend, the question lies,\na heavy cost, a burden on the soul.\nThe market erodes dreams beneath such skies,\nas whispered phrases take their destined toll.\n\nA shaft of doubt, like ice, begins to form,\nto shove aside the hope she held so dear.\nShe sees the order breaking in the storm,\nand feels the future tremble, drawing near.\n\nThe old facade can’t hide the truths beneath,\nthe constant worry lines where shadows play.\nShe tries to smile, to garland with belief,\nbut feels the light just slowly slip away.\n\nA quiet plea, a silent, soft suggest,\nthat beauty finds a solace to impart.\nThough fortune frowns, there's solace in the breast,\nand art can heal the cracking of the heart.",
+    "generatedAt": "2026-05-15T11:08:15.256Z"
   },
   "keywords": [
     {
-      "word": "small",
-      "slot": 419674218,
+      "word": "employ",
+      "slot": 419890988,
       "source": "blockhash"
     },
     {
-      "word": "result",
-      "slot": 419674218,
+      "word": "shaft",
+      "slot": 419890988,
       "source": "previousBlockhash"
     },
     {
-      "word": "crater",
-      "slot": 419674218,
+      "word": "antique",
+      "slot": 419890988,
       "source": "transaction"
     },
     {
-      "word": "wife",
-      "slot": 419656218,
+      "word": "budget",
+      "slot": 419872988,
       "source": "blockhash"
     },
     {
-      "word": "buffalo",
-      "slot": 419656218,
+      "word": "order",
+      "slot": 419872988,
       "source": "previousBlockhash"
     },
     {
-      "word": "moral",
-      "slot": 419656218,
+      "word": "face",
+      "slot": 419872988,
       "source": "transaction"
     },
     {
-      "word": "text",
-      "slot": 419638218,
+      "word": "comic",
+      "slot": 419854988,
       "source": "blockhash"
     },
     {
-      "word": "endless",
-      "slot": 419638218,
+      "word": "capital",
+      "slot": 419854988,
       "source": "previousBlockhash"
     },
     {
-      "word": "shed",
-      "slot": 419638218,
+      "word": "erode",
+      "slot": 419854988,
       "source": "transaction"
     },
     {
-      "word": "valley",
-      "slot": 419620218,
+      "word": "shove",
+      "slot": 419836988,
       "source": "blockhash"
     },
     {
-      "word": "enhance",
-      "slot": 419620218,
+      "word": "suggest",
+      "slot": 419836988,
       "source": "previousBlockhash"
     },
     {
-      "word": "describe",
-      "slot": 419620218,
+      "word": "cost",
+      "slot": 419836988,
       "source": "transaction"
     },
     {
-      "word": "error",
-      "slot": 419602218,
+      "word": "rose",
+      "slot": 419818988,
       "source": "blockhash"
     },
     {
-      "word": "vote",
-      "slot": 419602218,
+      "word": "phrase",
+      "slot": 419818988,
       "source": "previousBlockhash"
     },
     {
-      "word": "hill",
-      "slot": 419602218,
+      "word": "spend",
+      "slot": 419818988,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlsocycrvg2e",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlv6xe3nic2a",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
