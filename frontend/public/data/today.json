@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "poem": {
-    "content": "The antique rose, a blush upon her face,\nremembered comic laughter, light and brief.\nNow capital concerns employ each space,\na budget looming, shading joy with grief.\n\nTo spend or not to spend, the question lies,\na heavy cost, a burden on the soul.\nThe market erodes dreams beneath such skies,\nas whispered phrases take their destined toll.\n\nA shaft of doubt, like ice, begins to form,\nto shove aside the hope she held so dear.\nShe sees the order breaking in the storm,\nand feels the future tremble, drawing near.\n\nThe old facade can’t hide the truths beneath,\nthe constant worry lines where shadows play.\nShe tries to smile, to garland with belief,\nbut feels the light just slowly slip away.\n\nA quiet plea, a silent, soft suggest,\nthat beauty finds a solace to impart.\nThough fortune frowns, there's solace in the breast,\nand art can heal the cracking of the heart.",
-    "generatedAt": "2026-05-15T11:08:15.256Z"
+    "content": "A **basic** need, a frantic **demand**,\nHe teetered on the **cliff**, a trembling hand.\nA **weasel** thought, so dark and swift,\nTo watch him fall, a tragic gift.\n\nHe felt the world was **upset**, wrong,\nLike a summer **tomato**, never strong.\nHe’d crawl away to **hospital** walls,\nWhere sterile comfort often palls.\n\nAnother **month** of muted cries,\nAnother hollow, haunted sunrise.\nHe’d **ask** for help, a fragile plea,\nBut silence answered, cutting free.\n\nHe'd **plug** the holes with shards of hope,\nAnd bind the wounds with fraying **tape**.\nA barren **resource**, his soul laid bare,\nWhile phantom worries filled the air.\n\nA **hedgehog** curled against the chill,\nBeneath a vine of sickly **green**,\nA silent witness, standing still.\nNo way to **multiply** what might have been.",
+    "generatedAt": "2026-05-16T10:05:18.822Z"
   },
   "keywords": [
     {
-      "word": "employ",
-      "slot": 419890988,
+      "word": "weasel",
+      "slot": 420097791,
       "source": "blockhash"
     },
     {
-      "word": "shaft",
-      "slot": 419890988,
+      "word": "basic",
+      "slot": 420097791,
       "source": "previousBlockhash"
     },
     {
-      "word": "antique",
-      "slot": 419890988,
+      "word": "upset",
+      "slot": 420097791,
       "source": "transaction"
     },
     {
-      "word": "budget",
-      "slot": 419872988,
+      "word": "cliff",
+      "slot": 420079791,
       "source": "blockhash"
     },
     {
-      "word": "order",
-      "slot": 419872988,
+      "word": "demand",
+      "slot": 420079791,
       "source": "previousBlockhash"
     },
     {
-      "word": "face",
-      "slot": 419872988,
+      "word": "hospital",
+      "slot": 420079791,
       "source": "transaction"
     },
     {
-      "word": "comic",
-      "slot": 419854988,
+      "word": "plug",
+      "slot": 420061791,
       "source": "blockhash"
     },
     {
-      "word": "capital",
-      "slot": 419854988,
+      "word": "tape",
+      "slot": 420061791,
       "source": "previousBlockhash"
     },
     {
-      "word": "erode",
-      "slot": 419854988,
+      "word": "resource",
+      "slot": 420061791,
       "source": "transaction"
     },
     {
-      "word": "shove",
-      "slot": 419836988,
+      "word": "multiply",
+      "slot": 420043791,
       "source": "blockhash"
     },
     {
-      "word": "suggest",
-      "slot": 419836988,
+      "word": "month",
+      "slot": 420043791,
       "source": "previousBlockhash"
     },
     {
-      "word": "cost",
-      "slot": 419836988,
+      "word": "ask",
+      "slot": 420043791,
       "source": "transaction"
     },
     {
-      "word": "rose",
-      "slot": 419818988,
+      "word": "tomato",
+      "slot": 420025791,
       "source": "blockhash"
     },
     {
-      "word": "phrase",
-      "slot": 419818988,
+      "word": "green",
+      "slot": 420025791,
       "source": "previousBlockhash"
     },
     {
-      "word": "spend",
-      "slot": 419818988,
+      "word": "hedgehog",
+      "slot": 420025791,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlv6xe3nic2a",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlxlvqkzrs2u",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
