@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "poem": {
-    "content": "The future whispers on bamboo leaves,\nA history etched in fragile green,\nWhere ancient trees begin to grieve,\nA frost that coats a forgotten scene.\n\nA panther’s shadow, a silent dash,\nAcross the path where dreams once lay,\nAn addict’s tremor, finding ash,\nAnd hope that turns to disarray.\n\nA hamster whirls, a frantic plea,\nTo put the pieces back in place,\nTo find within the thorny tree,\nA flicker of forgotten grace.\n\nTo shrug off winter's heavy hand,\nAnd close the door on yesterday,\nA very simple, heartfelt stand,\nTo simply breathe and truly play.\n\nA gift lies hidden in the snow,\nEnjoy its warmth, before it flees,\nA silent promise, soft and low,\nWhispered within the frozen trees.",
-    "generatedAt": "2026-05-17T10:14:21.221Z"
+    "content": "A *chronic* ache, a *desert* in my *mind*,\nWhere *robust* systems crumble, left behind.\nThe *lesson* learned in *October's* fading light,\nA *quantum* shift that shattered day from night.\n\nI *invest*, a hope against the gray,\nWhile shadows lengthen, stealing time away.\nThe *load* is heavy, pressing down with force,\nA *pipe* of dreams directs a winding course.\n\nThe air is *brisk*, a sharp and stinging kiss,\nUpon a landscape barren, like amiss.\nA *fine* distinction, blurred where futures meet,\nTwo souls entwined, a fractured, fragile *pair*, so sweet.\n\nEach *slot* of time, a chance to redefine,\nThis broken contract where our fates align.\nThe coded world spins on, *unaware*\nOf fragile hearts that bleed and slowly tear.\n\nThe old machine, it sighs and starts to choke,\nWhile whispers rise from data it has spoke.\nA new dawn breaks, perhaps, or does it fade?\nUpon this stage where choices must be made.",
+    "generatedAt": "2026-05-18T12:17:36.439Z"
   },
   "keywords": [
     {
-      "word": "tree",
-      "slot": 420316068,
+      "word": "robust",
+      "slot": 420551636,
       "source": "blockhash"
     },
     {
-      "word": "shrug",
-      "slot": 420316068,
+      "word": "quantum",
+      "slot": 420551636,
       "source": "previousBlockhash"
     },
     {
-      "word": "dash",
-      "slot": 420316068,
+      "word": "load",
+      "slot": 420551636,
       "source": "transaction"
     },
     {
-      "word": "frost",
-      "slot": 420298068,
+      "word": "unaware",
+      "slot": 420533636,
       "source": "blockhash"
     },
     {
-      "word": "gift",
-      "slot": 420298068,
+      "word": "lesson",
+      "slot": 420533636,
       "source": "previousBlockhash"
     },
     {
-      "word": "put",
-      "slot": 420298068,
+      "word": "october",
+      "slot": 420533636,
       "source": "transaction"
     },
     {
-      "word": "history",
-      "slot": 420280068,
+      "word": "fine",
+      "slot": 420515636,
       "source": "blockhash"
     },
     {
-      "word": "panther",
-      "slot": 420280068,
+      "word": "pair",
+      "slot": 420515636,
       "source": "previousBlockhash"
     },
     {
-      "word": "future",
-      "slot": 420280068,
+      "word": "chronic",
+      "slot": 420515636,
       "source": "transaction"
     },
     {
-      "word": "bamboo",
-      "slot": 420262068,
+      "word": "pipe",
+      "slot": 420497636,
       "source": "blockhash"
     },
     {
-      "word": "enjoy",
-      "slot": 420262068,
+      "word": "invest",
+      "slot": 420497636,
       "source": "previousBlockhash"
     },
     {
-      "word": "addict",
-      "slot": 420262068,
+      "word": "mind",
+      "slot": 420497636,
       "source": "transaction"
     },
     {
-      "word": "close",
-      "slot": 420244068,
+      "word": "desert",
+      "slot": 420479636,
       "source": "blockhash"
     },
     {
-      "word": "very",
-      "slot": 420244068,
+      "word": "brisk",
+      "slot": 420479636,
       "source": "previousBlockhash"
     },
     {
-      "word": "hamster",
-      "slot": 420244068,
+      "word": "slot",
+      "slot": 420479636,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mm24utcfyb2b",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mm4ua4qqw32e",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
