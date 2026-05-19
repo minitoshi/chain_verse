@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-05-19",
+    "poem": {
+      "content": "The sunset bled, a richness I could not attain,\na judge within demanded I divorce the fat.\nI rely on patterns, music in the code,\na slow unfurling, settling dust and doubt.\n\nSo few remain who understand the art,\nthe artwork locked in chains, a digital domain.\nSure, the amount seems vast, a hopeful sign,\nbut underneath, a virus starts to creep.\n\nA sock pulled tight, a fragile, threadbare hope,\nagainst the chill, against the coming night.\nThe rich will whisper promises untold,\nbut shadows lengthen, and the story's old.\n\nI see it now, this dance of light and shade,\na slow descent, a future pre-betrayed.\nThough few may see, the truth begins to bloom,\nescape the virus doom, shake off the coming gloom.\n\nPerhaps this time, reliance will be kind.",
+      "generatedAt": "2026-05-19T11:50:35.482Z"
+    },
+    "keywords": [
+      {
+        "word": "rely",
+        "slot": 420763914,
+        "source": "blockhash"
+      },
+      {
+        "word": "music",
+        "slot": 420763914,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "amount",
+        "slot": 420763914,
+        "source": "transaction"
+      },
+      {
+        "word": "divorce",
+        "slot": 420745914,
+        "source": "blockhash"
+      },
+      {
+        "word": "sock",
+        "slot": 420745914,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "virus",
+        "slot": 420745914,
+        "source": "transaction"
+      },
+      {
+        "word": "sunset",
+        "slot": 420727914,
+        "source": "blockhash"
+      },
+      {
+        "word": "fat",
+        "slot": 420727914,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "rich",
+        "slot": 420727914,
+        "source": "transaction"
+      },
+      {
+        "word": "artwork",
+        "slot": 420709914,
+        "source": "blockhash"
+      },
+      {
+        "word": "judge",
+        "slot": 420709914,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "slow",
+        "slot": 420709914,
+        "source": "transaction"
+      },
+      {
+        "word": "settle",
+        "slot": 420691914,
+        "source": "blockhash"
+      },
+      {
+        "word": "sure",
+        "slot": 420691914,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "few",
+        "slot": 420691914,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mm7d6qtrxa2c",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-05-18",
     "poem": {
       "content": "A *chronic* ache, a *desert* in my *mind*,\nWhere *robust* systems crumble, left behind.\nThe *lesson* learned in *October's* fading light,\nA *quantum* shift that shattered day from night.\n\nI *invest*, a hope against the gray,\nWhile shadows lengthen, stealing time away.\nThe *load* is heavy, pressing down with force,\nA *pipe* of dreams directs a winding course.\n\nThe air is *brisk*, a sharp and stinging kiss,\nUpon a landscape barren, like amiss.\nA *fine* distinction, blurred where futures meet,\nTwo souls entwined, a fractured, fragile *pair*, so sweet.\n\nEach *slot* of time, a chance to redefine,\nThis broken contract where our fates align.\nThe coded world spins on, *unaware*\nOf fragile hearts that bleed and slowly tear.\n\nThe old machine, it sighs and starts to choke,\nWhile whispers rise from data it has spoke.\nA new dawn breaks, perhaps, or does it fade?\nUpon this stage where choices must be made.",
@@ -2547,94 +2635,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjwatsszzw2m",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-04-19",
-    "poem": {
-      "content": "The early sun, an oval stain,\nbehind the fading indigo.\nA bachelor dawn, recalling rain,\nupon the oyster's echo.\n\nNo tourist yet disturbs the shore,\nwhere grains of sand like dreams reside.\nAn infant wave, then nothing more,\nas carbon ghosts begin to hide.\n\nWe work, a project yet untold,\nto dish out futures, brave and bright.\nA secret story to unfold,\nlike foil reflecting back the light.\n\nFrom output small, ideas grow,\nWe must develop what is sown -\nthough some may see just empty show,\na wasteland they have always known.\n\nThe world behind is yesterday,\nWe dream a new dawn every day.\nNew worlds will rise, we work to show,\nthese rising worlds will start to grow.",
-      "generatedAt": "2026-04-19T09:35:21.349Z"
-    },
-    "keywords": [
-      {
-        "word": "behind",
-        "slot": 414229624,
-        "source": "blockhash"
-      },
-      {
-        "word": "oval",
-        "slot": 414229624,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "bachelor",
-        "slot": 414229624,
-        "source": "transaction"
-      },
-      {
-        "word": "output",
-        "slot": 414211624,
-        "source": "blockhash"
-      },
-      {
-        "word": "dish",
-        "slot": 414211624,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "carbon",
-        "slot": 414211624,
-        "source": "transaction"
-      },
-      {
-        "word": "early",
-        "slot": 414193624,
-        "source": "blockhash"
-      },
-      {
-        "word": "tourist",
-        "slot": 414193624,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "oyster",
-        "slot": 414193624,
-        "source": "transaction"
-      },
-      {
-        "word": "grain",
-        "slot": 414175624,
-        "source": "blockhash"
-      },
-      {
-        "word": "recall",
-        "slot": 414175624,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "foil",
-        "slot": 414175624,
-        "source": "transaction"
-      },
-      {
-        "word": "develop",
-        "slot": 414157624,
-        "source": "blockhash"
-      },
-      {
-        "word": "infant",
-        "slot": 414157624,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "project",
-        "slot": 414157624,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mjtnncu2b32x",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8

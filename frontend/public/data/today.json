@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "poem": {
-    "content": "A *chronic* ache, a *desert* in my *mind*,\nWhere *robust* systems crumble, left behind.\nThe *lesson* learned in *October's* fading light,\nA *quantum* shift that shattered day from night.\n\nI *invest*, a hope against the gray,\nWhile shadows lengthen, stealing time away.\nThe *load* is heavy, pressing down with force,\nA *pipe* of dreams directs a winding course.\n\nThe air is *brisk*, a sharp and stinging kiss,\nUpon a landscape barren, like amiss.\nA *fine* distinction, blurred where futures meet,\nTwo souls entwined, a fractured, fragile *pair*, so sweet.\n\nEach *slot* of time, a chance to redefine,\nThis broken contract where our fates align.\nThe coded world spins on, *unaware*\nOf fragile hearts that bleed and slowly tear.\n\nThe old machine, it sighs and starts to choke,\nWhile whispers rise from data it has spoke.\nA new dawn breaks, perhaps, or does it fade?\nUpon this stage where choices must be made.",
-    "generatedAt": "2026-05-18T12:17:36.439Z"
+    "content": "The sunset bled, a richness I could not attain,\na judge within demanded I divorce the fat.\nI rely on patterns, music in the code,\na slow unfurling, settling dust and doubt.\n\nSo few remain who understand the art,\nthe artwork locked in chains, a digital domain.\nSure, the amount seems vast, a hopeful sign,\nbut underneath, a virus starts to creep.\n\nA sock pulled tight, a fragile, threadbare hope,\nagainst the chill, against the coming night.\nThe rich will whisper promises untold,\nbut shadows lengthen, and the story's old.\n\nI see it now, this dance of light and shade,\na slow descent, a future pre-betrayed.\nThough few may see, the truth begins to bloom,\nescape the virus doom, shake off the coming gloom.\n\nPerhaps this time, reliance will be kind.",
+    "generatedAt": "2026-05-19T11:50:35.482Z"
   },
   "keywords": [
     {
-      "word": "robust",
-      "slot": 420551636,
+      "word": "rely",
+      "slot": 420763914,
       "source": "blockhash"
     },
     {
-      "word": "quantum",
-      "slot": 420551636,
+      "word": "music",
+      "slot": 420763914,
       "source": "previousBlockhash"
     },
     {
-      "word": "load",
-      "slot": 420551636,
+      "word": "amount",
+      "slot": 420763914,
       "source": "transaction"
     },
     {
-      "word": "unaware",
-      "slot": 420533636,
+      "word": "divorce",
+      "slot": 420745914,
       "source": "blockhash"
     },
     {
-      "word": "lesson",
-      "slot": 420533636,
+      "word": "sock",
+      "slot": 420745914,
       "source": "previousBlockhash"
     },
     {
-      "word": "october",
-      "slot": 420533636,
+      "word": "virus",
+      "slot": 420745914,
       "source": "transaction"
     },
     {
-      "word": "fine",
-      "slot": 420515636,
+      "word": "sunset",
+      "slot": 420727914,
       "source": "blockhash"
     },
     {
-      "word": "pair",
-      "slot": 420515636,
+      "word": "fat",
+      "slot": 420727914,
       "source": "previousBlockhash"
     },
     {
-      "word": "chronic",
-      "slot": 420515636,
+      "word": "rich",
+      "slot": 420727914,
       "source": "transaction"
     },
     {
-      "word": "pipe",
-      "slot": 420497636,
+      "word": "artwork",
+      "slot": 420709914,
       "source": "blockhash"
     },
     {
-      "word": "invest",
-      "slot": 420497636,
+      "word": "judge",
+      "slot": 420709914,
       "source": "previousBlockhash"
     },
     {
-      "word": "mind",
-      "slot": 420497636,
+      "word": "slow",
+      "slot": 420709914,
       "source": "transaction"
     },
     {
-      "word": "desert",
-      "slot": 420479636,
+      "word": "settle",
+      "slot": 420691914,
       "source": "blockhash"
     },
     {
-      "word": "brisk",
-      "slot": 420479636,
+      "word": "sure",
+      "slot": 420691914,
       "source": "previousBlockhash"
     },
     {
-      "word": "slot",
-      "slot": 420479636,
+      "word": "few",
+      "slot": 420691914,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mm4ua4qqw32e",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mm7d6qtrxa2c",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
