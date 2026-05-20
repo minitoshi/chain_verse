@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "poem": {
-    "content": "The sunset bled, a richness I could not attain,\na judge within demanded I divorce the fat.\nI rely on patterns, music in the code,\na slow unfurling, settling dust and doubt.\n\nSo few remain who understand the art,\nthe artwork locked in chains, a digital domain.\nSure, the amount seems vast, a hopeful sign,\nbut underneath, a virus starts to creep.\n\nA sock pulled tight, a fragile, threadbare hope,\nagainst the chill, against the coming night.\nThe rich will whisper promises untold,\nbut shadows lengthen, and the story's old.\n\nI see it now, this dance of light and shade,\na slow descent, a future pre-betrayed.\nThough few may see, the truth begins to bloom,\nescape the virus doom, shake off the coming gloom.\n\nPerhaps this time, reliance will be kind.",
-    "generatedAt": "2026-05-19T11:50:35.482Z"
+    "content": "A cousin's grief, a warm embrace,\nAn ordinary life, losing its pace.\nA couple, have they found their way?\nOr lost their light in the fading day?\n\nThe arena thrums, a cricket's call,\nA buzzing question, encompassing all.\nWhat is the answer, whispered low?\nTo the outer darkness, where shadows grow?\n\nThe version shattered, a broken dream,\nA lonely heart beside a silent stream.\nThe club is empty, the music gone,\nLeaving echoes until the break of dawn.\n\nA dilemma unfolds, a cruel design,\nTo scrap the future, a love divine.\nOr find the strength to rise anew,\nAnd paint the world in vibrant hue.\nHave hope.",
+    "generatedAt": "2026-05-20T11:39:06.265Z"
   },
   "keywords": [
     {
-      "word": "rely",
-      "slot": 420763914,
+      "word": "cousin",
+      "slot": 420978275,
       "source": "blockhash"
     },
     {
-      "word": "music",
-      "slot": 420763914,
+      "word": "couple",
+      "slot": 420978275,
       "source": "previousBlockhash"
     },
     {
-      "word": "amount",
-      "slot": 420763914,
+      "word": "have",
+      "slot": 420978275,
       "source": "transaction"
     },
     {
-      "word": "divorce",
-      "slot": 420745914,
+      "word": "arena",
+      "slot": 420960275,
       "source": "blockhash"
     },
     {
-      "word": "sock",
-      "slot": 420745914,
+      "word": "cricket",
+      "slot": 420960275,
       "source": "previousBlockhash"
     },
     {
-      "word": "virus",
-      "slot": 420745914,
+      "word": "ordinary",
+      "slot": 420960275,
       "source": "transaction"
     },
     {
-      "word": "sunset",
-      "slot": 420727914,
+      "word": "buzz",
+      "slot": 420942275,
       "source": "blockhash"
     },
     {
-      "word": "fat",
-      "slot": 420727914,
+      "word": "answer",
+      "slot": 420942275,
       "source": "previousBlockhash"
     },
     {
-      "word": "rich",
-      "slot": 420727914,
+      "word": "outer",
+      "slot": 420942275,
       "source": "transaction"
     },
     {
-      "word": "artwork",
-      "slot": 420709914,
+      "word": "club",
+      "slot": 420924275,
       "source": "blockhash"
     },
     {
-      "word": "judge",
-      "slot": 420709914,
+      "word": "grief",
+      "slot": 420924275,
       "source": "previousBlockhash"
     },
     {
-      "word": "slow",
-      "slot": 420709914,
+      "word": "warm",
+      "slot": 420924275,
       "source": "transaction"
     },
     {
-      "word": "settle",
-      "slot": 420691914,
+      "word": "version",
+      "slot": 420906275,
       "source": "blockhash"
     },
     {
-      "word": "sure",
-      "slot": 420691914,
+      "word": "dilemma",
+      "slot": 420906275,
       "source": "previousBlockhash"
     },
     {
-      "word": "few",
-      "slot": 420691914,
+      "word": "scrap",
+      "slot": 420906275,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mm7d6qtrxa2c",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmbsz4wvd62p",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
