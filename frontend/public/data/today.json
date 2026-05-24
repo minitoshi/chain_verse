@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "poem": {
-    "content": "The brisk wind whispers of a crash to come,\na worry gnawing, like a digital mouse,\nat the loyal heart, the human drum.\n\nSince then, the elders gather, shadows deep,\na moral question hangs, a legal fight,\na lawsuit blooming where the harvests sleep.\n\nThe wedding bells, a faded, joyful sound,\na promise broken, futures rearranged,\nas success turned brittle, hitting ground\n\nwith sharp-edged pieces, scattered in the dust.\nA message lost, a reason hard to find,\na hurried leave, betraying fading trust.\n\nThe bride, a statue, watches someone depart,\nher bouquet wilting, colors turning gray,\nwhile brittle memories tear the heart apart.\n\nTo renew hope, a phoenix must arise,\nfrom ashes of the old, a brighter morn',\na cleaner slate before our very eyes.",
-    "generatedAt": "2026-05-23T10:18:14.669Z"
+    "content": "A quantum theory, whispered in the void,\nwhere shadows hover, truths yet to be deployed.\nA hundred faces, rotating into view,\na reunion's drama, both false and true.\n\nThe brick wall crumbles, secrets start to wash,\nover memories, a silent, breathless dash.\nA piano weeps, a melody forlorn,\ntalent wasted, wishes left unborn.\n\nThe fruit rots slowly, a cube of jade concealed,\nfate's cruel jest, existence unrevealed.\nIn this dimension, where light begins to fray,\nwe cleanse the soul, before we fade away.\n\nDreams dash across the mental screen,\nA hundred thoughts, a hollow scene.\nThe piano's song can't fill the void,\nWhere quantum lives are now destroyed.\n\nWe rotate slowly, towards the great unknown,\ntalents scattered, seeds that are now sown.\nWe hover briefly, then begin to wash away,\nUntil the next brick, and the never ending day.",
+    "generatedAt": "2026-05-24T10:23:48.648Z"
   },
   "keywords": [
     {
-      "word": "crash",
-      "slot": 421615267,
+      "word": "hover",
+      "slot": 421832751,
       "source": "blockhash"
     },
     {
-      "word": "loyal",
-      "slot": 421615267,
+      "word": "piano",
+      "slot": 421832751,
       "source": "previousBlockhash"
     },
     {
-      "word": "wedding",
-      "slot": 421615267,
+      "word": "hundred",
+      "slot": 421832751,
       "source": "transaction"
     },
     {
-      "word": "lawsuit",
-      "slot": 421597267,
+      "word": "theory",
+      "slot": 421814751,
       "source": "blockhash"
     },
     {
-      "word": "moral",
-      "slot": 421597267,
+      "word": "cube",
+      "slot": 421814751,
       "source": "previousBlockhash"
     },
     {
-      "word": "brisk",
-      "slot": 421597267,
+      "word": "wash",
+      "slot": 421814751,
       "source": "transaction"
     },
     {
-      "word": "success",
-      "slot": 421579267,
+      "word": "drama",
+      "slot": 421796751,
       "source": "blockhash"
     },
     {
-      "word": "depart",
-      "slot": 421579267,
+      "word": "void",
+      "slot": 421796751,
       "source": "previousBlockhash"
     },
     {
-      "word": "mouse",
-      "slot": 421579267,
+      "word": "quantum",
+      "slot": 421796751,
       "source": "transaction"
     },
     {
-      "word": "worry",
-      "slot": 421561267,
+      "word": "dash",
+      "slot": 421778751,
       "source": "blockhash"
     },
     {
-      "word": "renew",
-      "slot": 421561267,
+      "word": "rotate",
+      "slot": 421778751,
       "source": "previousBlockhash"
     },
     {
-      "word": "human",
-      "slot": 421561267,
+      "word": "reunion",
+      "slot": 421778751,
       "source": "transaction"
     },
     {
-      "word": "elder",
-      "slot": 421543267,
+      "word": "fruit",
+      "slot": 421760751,
       "source": "blockhash"
     },
     {
-      "word": "message",
-      "slot": 421543267,
+      "word": "talent",
+      "slot": 421760751,
       "source": "previousBlockhash"
     },
     {
-      "word": "since",
-      "slot": 421543267,
+      "word": "brick",
+      "slot": 421760751,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmj7vcphsd2a",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmlqo6mmos2c",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
