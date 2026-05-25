@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "poem": {
-    "content": "A quantum theory, whispered in the void,\nwhere shadows hover, truths yet to be deployed.\nA hundred faces, rotating into view,\na reunion's drama, both false and true.\n\nThe brick wall crumbles, secrets start to wash,\nover memories, a silent, breathless dash.\nA piano weeps, a melody forlorn,\ntalent wasted, wishes left unborn.\n\nThe fruit rots slowly, a cube of jade concealed,\nfate's cruel jest, existence unrevealed.\nIn this dimension, where light begins to fray,\nwe cleanse the soul, before we fade away.\n\nDreams dash across the mental screen,\nA hundred thoughts, a hollow scene.\nThe piano's song can't fill the void,\nWhere quantum lives are now destroyed.\n\nWe rotate slowly, towards the great unknown,\ntalents scattered, seeds that are now sown.\nWe hover briefly, then begin to wash away,\nUntil the next brick, and the never ending day.",
-    "generatedAt": "2026-05-24T10:23:48.648Z"
+    "content": "A glass harbor, where dreams spend,\nAnd shadows own the fading day.\nI cross the threshold, to begin and end,\nWhere even the best words go astray.\n\nMy mind, a walnut, hard to crack,\nHolds pencils dull, and thoughts oblique.\nEquip me, then, to find my track,\nBefore my spirit starts to leak.\n\nThe ocean’s range, a siren call,\nA zero hour, now fully here.\nI feel the claw of something small,\nA hidden truth, a rising fear.\n\nSubmit myself, to what must be,\nThis Soda fountain's fizzy haze.\nAn aerobic rush, consuming me,\nIn fractured nights and sunlit days.\n\nNo harbor’s charm can make amends,\nUntil the past is left behind.\nThe present then forever mends,\nAnd a new world can I then find",
+    "generatedAt": "2026-05-25T12:15:16.189Z"
   },
   "keywords": [
     {
-      "word": "hover",
-      "slot": 421832751,
+      "word": "range",
+      "slot": 422065917,
       "source": "blockhash"
     },
     {
-      "word": "piano",
-      "slot": 421832751,
+      "word": "claw",
+      "slot": 422065917,
       "source": "previousBlockhash"
     },
     {
-      "word": "hundred",
-      "slot": 421832751,
+      "word": "equip",
+      "slot": 422065917,
       "source": "transaction"
     },
     {
-      "word": "theory",
-      "slot": 421814751,
+      "word": "glass",
+      "slot": 422047917,
       "source": "blockhash"
     },
     {
-      "word": "cube",
-      "slot": 421814751,
+      "word": "spend",
+      "slot": 422047917,
       "source": "previousBlockhash"
     },
     {
-      "word": "wash",
-      "slot": 421814751,
+      "word": "best",
+      "slot": 422047917,
       "source": "transaction"
     },
     {
-      "word": "drama",
-      "slot": 421796751,
+      "word": "harbor",
+      "slot": 422029917,
       "source": "blockhash"
     },
     {
-      "word": "void",
-      "slot": 421796751,
+      "word": "pencil",
+      "slot": 422029917,
       "source": "previousBlockhash"
     },
     {
-      "word": "quantum",
-      "slot": 421796751,
+      "word": "zero",
+      "slot": 422029917,
       "source": "transaction"
     },
     {
-      "word": "dash",
-      "slot": 421778751,
+      "word": "aerobic",
+      "slot": 422011917,
       "source": "blockhash"
     },
     {
-      "word": "rotate",
-      "slot": 421778751,
+      "word": "cross",
+      "slot": 422011917,
       "source": "previousBlockhash"
     },
     {
-      "word": "reunion",
-      "slot": 421778751,
+      "word": "walnut",
+      "slot": 422011917,
       "source": "transaction"
     },
     {
-      "word": "fruit",
-      "slot": 421760751,
+      "word": "soda",
+      "slot": 421993917,
       "source": "blockhash"
     },
     {
-      "word": "talent",
-      "slot": 421760751,
+      "word": "own",
+      "slot": 421993917,
       "source": "previousBlockhash"
     },
     {
-      "word": "brick",
-      "slot": 421760751,
+      "word": "submit",
+      "slot": 421993917,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmlqo6mmos2c",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmohefs6ry2q",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
