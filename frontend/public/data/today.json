@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-28",
   "poem": {
-    "content": "A glass harbor, where dreams spend,\nAnd shadows own the fading day.\nI cross the threshold, to begin and end,\nWhere even the best words go astray.\n\nMy mind, a walnut, hard to crack,\nHolds pencils dull, and thoughts oblique.\nEquip me, then, to find my track,\nBefore my spirit starts to leak.\n\nThe ocean’s range, a siren call,\nA zero hour, now fully here.\nI feel the claw of something small,\nA hidden truth, a rising fear.\n\nSubmit myself, to what must be,\nThis Soda fountain's fizzy haze.\nAn aerobic rush, consuming me,\nIn fractured nights and sunlit days.\n\nNo harbor’s charm can make amends,\nUntil the past is left behind.\nThe present then forever mends,\nAnd a new world can I then find",
-    "generatedAt": "2026-05-25T12:15:16.189Z"
+    "content": "A clever theory, barely hatched, a smart\nmonster lurks where credit takes its flight.\nThe next purchase, a whispered, swift remark,\na lobster-red alarm in pale moonlight.\n\nThe buyer, upset, views the distant nest,\nequip the defenses, few stand guard\nagainst the tide, an unwelcome guest.\nThe panel flickers, a fractured shard.\n\nHe thought he had it, this digital prize,\na new ecosystem, sleek and grand.\nBut shadows gather in his weary eyes,\na monster born from shifting sand.\n\nHe dreams of theory and of purchase made,\na simple credit, easily obtained.\nNow monsters rise, a bitter serenade.\nThe nest is breached, the cleverness profaned.\n\nSo swiftly vanishes the hopeful gleam,\nequip yourself, before the final scream.",
+    "generatedAt": "2026-05-28T12:16:21.219Z"
   },
   "keywords": [
     {
-      "word": "range",
-      "slot": 422065917,
+      "word": "smart",
+      "slot": 422718390,
       "source": "blockhash"
     },
     {
-      "word": "claw",
-      "slot": 422065917,
+      "word": "monster",
+      "slot": 422718390,
       "source": "previousBlockhash"
+    },
+    {
+      "word": "credit",
+      "slot": 422718390,
+      "source": "transaction"
+    },
+    {
+      "word": "buyer",
+      "slot": 422700390,
+      "source": "blockhash"
+    },
+    {
+      "word": "next",
+      "slot": 422700390,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "panel",
+      "slot": 422700390,
+      "source": "transaction"
     },
     {
       "word": "equip",
-      "slot": 422065917,
-      "source": "transaction"
-    },
-    {
-      "word": "glass",
-      "slot": 422047917,
+      "slot": 422682390,
       "source": "blockhash"
     },
     {
-      "word": "spend",
-      "slot": 422047917,
+      "word": "upset",
+      "slot": 422682390,
       "source": "previousBlockhash"
     },
     {
-      "word": "best",
-      "slot": 422047917,
+      "word": "clever",
+      "slot": 422682390,
       "source": "transaction"
     },
     {
-      "word": "harbor",
-      "slot": 422029917,
+      "word": "theory",
+      "slot": 422664390,
       "source": "blockhash"
     },
     {
-      "word": "pencil",
-      "slot": 422029917,
+      "word": "nest",
+      "slot": 422664390,
       "source": "previousBlockhash"
     },
     {
-      "word": "zero",
-      "slot": 422029917,
+      "word": "swift",
+      "slot": 422664390,
       "source": "transaction"
     },
     {
-      "word": "aerobic",
-      "slot": 422011917,
+      "word": "lobster",
+      "slot": 422646390,
       "source": "blockhash"
     },
     {
-      "word": "cross",
-      "slot": 422011917,
+      "word": "purchase",
+      "slot": 422646390,
       "source": "previousBlockhash"
     },
     {
-      "word": "walnut",
-      "slot": 422011917,
-      "source": "transaction"
-    },
-    {
-      "word": "soda",
-      "slot": 421993917,
-      "source": "blockhash"
-    },
-    {
-      "word": "own",
-      "slot": 421993917,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "submit",
-      "slot": 421993917,
+      "word": "few",
+      "slot": 422646390,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmohefs6ry2q",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmvyt4656r2b",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8

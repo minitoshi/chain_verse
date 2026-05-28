@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-05-28",
+    "poem": {
+      "content": "A clever theory, barely hatched, a smart\nmonster lurks where credit takes its flight.\nThe next purchase, a whispered, swift remark,\na lobster-red alarm in pale moonlight.\n\nThe buyer, upset, views the distant nest,\nequip the defenses, few stand guard\nagainst the tide, an unwelcome guest.\nThe panel flickers, a fractured shard.\n\nHe thought he had it, this digital prize,\na new ecosystem, sleek and grand.\nBut shadows gather in his weary eyes,\na monster born from shifting sand.\n\nHe dreams of theory and of purchase made,\na simple credit, easily obtained.\nNow monsters rise, a bitter serenade.\nThe nest is breached, the cleverness profaned.\n\nSo swiftly vanishes the hopeful gleam,\nequip yourself, before the final scream.",
+      "generatedAt": "2026-05-28T12:16:21.219Z"
+    },
+    "keywords": [
+      {
+        "word": "smart",
+        "slot": 422718390,
+        "source": "blockhash"
+      },
+      {
+        "word": "monster",
+        "slot": 422718390,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "credit",
+        "slot": 422718390,
+        "source": "transaction"
+      },
+      {
+        "word": "buyer",
+        "slot": 422700390,
+        "source": "blockhash"
+      },
+      {
+        "word": "next",
+        "slot": 422700390,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "panel",
+        "slot": 422700390,
+        "source": "transaction"
+      },
+      {
+        "word": "equip",
+        "slot": 422682390,
+        "source": "blockhash"
+      },
+      {
+        "word": "upset",
+        "slot": 422682390,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "clever",
+        "slot": 422682390,
+        "source": "transaction"
+      },
+      {
+        "word": "theory",
+        "slot": 422664390,
+        "source": "blockhash"
+      },
+      {
+        "word": "nest",
+        "slot": 422664390,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "swift",
+        "slot": 422664390,
+        "source": "transaction"
+      },
+      {
+        "word": "lobster",
+        "slot": 422646390,
+        "source": "blockhash"
+      },
+      {
+        "word": "purchase",
+        "slot": 422646390,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "few",
+        "slot": 422646390,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmvyt4656r2b",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-05-25",
     "poem": {
       "content": "A glass harbor, where dreams spend,\nAnd shadows own the fading day.\nI cross the threshold, to begin and end,\nWhere even the best words go astray.\n\nMy mind, a walnut, hard to crack,\nHolds pencils dull, and thoughts oblique.\nEquip me, then, to find my track,\nBefore my spirit starts to leak.\n\nThe ocean’s range, a siren call,\nA zero hour, now fully here.\nI feel the claw of something small,\nA hidden truth, a rising fear.\n\nSubmit myself, to what must be,\nThis Soda fountain's fizzy haze.\nAn aerobic rush, consuming me,\nIn fractured nights and sunlit days.\n\nNo harbor’s charm can make amends,\nUntil the past is left behind.\nThe present then forever mends,\nAnd a new world can I then find",
@@ -2547,94 +2635,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkhvlf3rpu2b",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-04-26",
-    "poem": {
-      "content": "A nerve frayed, a hope worn short,\na key lost in the echoing vault.\nMuscles tense, unable to sustain,\nthe weight of promises, a crystal rain.\n\nA brush with fate, a mimic's art,\nconcealing wounds carved in the heart.\nA token given, an empty prize,\nguarded by ghosts with hollow eyes.\n\nIs this transaction valid, this whispered plea?\nAn endorsement sought, eternally.\nWe miss the signals, the subtle signs,\nadrift in debris, where sunlight declines.\n\nThe ghost of a choice, a shadow play,\nwhere strength is fleeting, slipping away.\nBut somewhere within, a flicker persists,\na fragile bloom amidst hardened fists.\n\nA whispered prayer, a silent call,\nhoping something breaks, before we fall.\nWe brush off the dust, and face the unknown,\na single seed, desperately sown.",
-      "generatedAt": "2026-04-26T09:40:40.949Z"
-    },
-    "keywords": [
-      {
-        "word": "nerve",
-        "slot": 415757940,
-        "source": "blockhash"
-      },
-      {
-        "word": "short",
-        "slot": 415757940,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "key",
-        "slot": 415757940,
-        "source": "transaction"
-      },
-      {
-        "word": "muscle",
-        "slot": 415739940,
-        "source": "blockhash"
-      },
-      {
-        "word": "sustain",
-        "slot": 415739940,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "crystal",
-        "slot": 415739940,
-        "source": "transaction"
-      },
-      {
-        "word": "brush",
-        "slot": 415721940,
-        "source": "blockhash"
-      },
-      {
-        "word": "mimic",
-        "slot": 415721940,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "token",
-        "slot": 415721940,
-        "source": "transaction"
-      },
-      {
-        "word": "hope",
-        "slot": 415703940,
-        "source": "blockhash"
-      },
-      {
-        "word": "guard",
-        "slot": 415703940,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "valid",
-        "slot": 415703940,
-        "source": "transaction"
-      },
-      {
-        "word": "endorse",
-        "slot": 415685940,
-        "source": "blockhash"
-      },
-      {
-        "word": "miss",
-        "slot": 415685940,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "debris",
-        "slot": 415685940,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkfb7bsdru2w",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
