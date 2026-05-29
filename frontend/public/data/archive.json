@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-05-29",
+    "poem": {
+      "content": "A brown valley sighs, beneath a sky of shell,\nas the train of thought prepares to depart.\nRusty tracks gleam, a silent, metal hell,\nwhere memories cling with a jealous heart.\n\nA brick lies loose, a metaphor unplanned,\nfor futures cracked, and dreams that went astray.\nWe try to repair, with trembling hand,\nthe broken promises of yesterday.\n\nThe scent of mango, sharp and bittersweet,\na vibrant splash on dusty, tired land.\nA donor’s wish, a charitable feat,\nto sow new seeds upon the shifting sand.\n\nThe news arrives, a crumpled, soda-stained,\nforecast, a magnet drawing hope and fear.\nA need to adapt, when all’s been rearranged,\nand life’s harsh symphony is all we hear.\n\nWe decorate the void, with borrowed light\nattempting beauty in a world so bare.\nAnd watch the sun descend into the night,\ncontent, as silent stars begin to stare.",
+      "generatedAt": "2026-05-29T11:59:34.696Z"
+    },
+    "keywords": [
+      {
+        "word": "brick",
+        "slot": 422933927,
+        "source": "blockhash"
+      },
+      {
+        "word": "track",
+        "slot": 422933927,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "repair",
+        "slot": 422933927,
+        "source": "transaction"
+      },
+      {
+        "word": "brown",
+        "slot": 422915927,
+        "source": "blockhash"
+      },
+      {
+        "word": "valley",
+        "slot": 422915927,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "mango",
+        "slot": 422915927,
+        "source": "transaction"
+      },
+      {
+        "word": "soda",
+        "slot": 422897927,
+        "source": "blockhash"
+      },
+      {
+        "word": "magnet",
+        "slot": 422897927,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "depart",
+        "slot": 422897927,
+        "source": "transaction"
+      },
+      {
+        "word": "news",
+        "slot": 422879927,
+        "source": "blockhash"
+      },
+      {
+        "word": "shell",
+        "slot": 422879927,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "donor",
+        "slot": 422879927,
+        "source": "transaction"
+      },
+      {
+        "word": "adapt",
+        "slot": 422861927,
+        "source": "blockhash"
+      },
+      {
+        "word": "decorate",
+        "slot": 422861927,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "jealous",
+        "slot": 422861927,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmyidz7f4m2d",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-05-28",
     "poem": {
       "content": "A clever theory, barely hatched, a smart\nmonster lurks where credit takes its flight.\nThe next purchase, a whispered, swift remark,\na lobster-red alarm in pale moonlight.\n\nThe buyer, upset, views the distant nest,\nequip the defenses, few stand guard\nagainst the tide, an unwelcome guest.\nThe panel flickers, a fractured shard.\n\nHe thought he had it, this digital prize,\na new ecosystem, sleek and grand.\nBut shadows gather in his weary eyes,\na monster born from shifting sand.\n\nHe dreams of theory and of purchase made,\na simple credit, easily obtained.\nNow monsters rise, a bitter serenade.\nThe nest is breached, the cleverness profaned.\n\nSo swiftly vanishes the hopeful gleam,\nequip yourself, before the final scream.",
@@ -2547,94 +2635,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkkg3maemb2w",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-04-27",
-    "poem": {
-      "content": "The salt air whispers, \"Hello,\" a digital sea,\nWhere dreams begin, and wallets flow so free.\nA fabric of chance, woven tight and deep,\nWhere fortunes slumber, secrets softly sleep.\n\nThe endless waves crash, a rhythmic, hungry sound,\nWhile hungry folks all sit around.\nFor a tuna burger with special sauce,\nHoping today will have no loss.\n\nThe faculty stands, on shores of grit and strife,\nPreparing souls for this unusual life.\nTo educate the young, to shape the minds so bright,\nAnd guide them through the day and darkest night.\n\nA dove descends, as transactions now approve,\nNew contracts blossom, fueled by endless groove.\nSome find it able, to pay the climbing tuition,\nWhile others struggle.\n\nSo let us find our grit and thrive,\nAnd from our digital world, we shall survive.",
-      "generatedAt": "2026-04-27T10:50:41.323Z"
-    },
-    "keywords": [
-      {
-        "word": "able",
-        "slot": 415986831,
-        "source": "blockhash"
-      },
-      {
-        "word": "tuna",
-        "slot": 415986831,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "begin",
-        "slot": 415986831,
-        "source": "transaction"
-      },
-      {
-        "word": "grit",
-        "slot": 415968831,
-        "source": "blockhash"
-      },
-      {
-        "word": "faculty",
-        "slot": 415968831,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "endless",
-        "slot": 415968831,
-        "source": "transaction"
-      },
-      {
-        "word": "educate",
-        "slot": 415950831,
-        "source": "blockhash"
-      },
-      {
-        "word": "sauce",
-        "slot": 415950831,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "burger",
-        "slot": 415950831,
-        "source": "transaction"
-      },
-      {
-        "word": "tuition",
-        "slot": 415932831,
-        "source": "blockhash"
-      },
-      {
-        "word": "digital",
-        "slot": 415932831,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "fabric",
-        "slot": 415932831,
-        "source": "transaction"
-      },
-      {
-        "word": "hello",
-        "slot": 415914831,
-        "source": "blockhash"
-      },
-      {
-        "word": "approve",
-        "slot": 415914831,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "dove",
-        "slot": 415914831,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkhvlf3rpu2b",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
