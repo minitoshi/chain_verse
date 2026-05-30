@@ -1,87 +1,87 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "poem": {
-    "content": "A brown valley sighs, beneath a sky of shell,\nas the train of thought prepares to depart.\nRusty tracks gleam, a silent, metal hell,\nwhere memories cling with a jealous heart.\n\nA brick lies loose, a metaphor unplanned,\nfor futures cracked, and dreams that went astray.\nWe try to repair, with trembling hand,\nthe broken promises of yesterday.\n\nThe scent of mango, sharp and bittersweet,\na vibrant splash on dusty, tired land.\nA donor’s wish, a charitable feat,\nto sow new seeds upon the shifting sand.\n\nThe news arrives, a crumpled, soda-stained,\nforecast, a magnet drawing hope and fear.\nA need to adapt, when all’s been rearranged,\nand life’s harsh symphony is all we hear.\n\nWe decorate the void, with borrowed light\nattempting beauty in a world so bare.\nAnd watch the sun descend into the night,\ncontent, as silent stars begin to stare.",
-    "generatedAt": "2026-05-29T11:59:34.696Z"
+    "content": "The creek bed whispers, *easily*, a final call,\nan echo in the mirror, catching every fall.\nThe school bell silent, a script unread,\nwhile pudding moons spill secrets overhead.\n\nMuch like a frog upon a mossy stone,\nI search for something, a place to call my own.\nTo live within the ripple, understand the source,\nbefore the eternal night takes its dark course.\n\nA single sunlit spot upon the roof,\nwhere daydreams dance and truth becomes aloof.\nThis heart, a pudding, soft and filled with fear,\nunable to decide, the end is always near.\n\nThe final image stuck, it does not seem\nto grant reprieve or let me calmly dream.\nAn endless loop of call echoing\neternally, the source of everything.\nThe water mirrors back to me.",
+    "generatedAt": "2026-05-30T10:30:24.911Z"
   },
   "keywords": [
     {
-      "word": "brick",
-      "slot": 422933927,
+      "word": "eternal",
+      "slot": 423138490,
       "source": "blockhash"
     },
     {
-      "word": "track",
-      "slot": 422933927,
+      "word": "mirror",
+      "slot": 423138490,
       "source": "previousBlockhash"
     },
     {
-      "word": "repair",
-      "slot": 422933927,
+      "word": "easily",
+      "slot": 423138490,
       "source": "transaction"
     },
     {
-      "word": "brown",
-      "slot": 422915927,
+      "word": "source",
+      "slot": 423120490,
       "source": "blockhash"
     },
     {
-      "word": "valley",
-      "slot": 422915927,
+      "word": "call",
+      "slot": 423120490,
       "source": "previousBlockhash"
     },
     {
-      "word": "mango",
-      "slot": 422915927,
+      "word": "pudding",
+      "slot": 423120490,
       "source": "transaction"
     },
     {
-      "word": "soda",
-      "slot": 422897927,
+      "word": "script",
+      "slot": 423102490,
       "source": "blockhash"
     },
     {
-      "word": "magnet",
-      "slot": 422897927,
+      "word": "roof",
+      "slot": 423102490,
       "source": "previousBlockhash"
     },
     {
-      "word": "depart",
-      "slot": 422897927,
+      "word": "frog",
+      "slot": 423102490,
       "source": "transaction"
     },
     {
-      "word": "news",
-      "slot": 422879927,
+      "word": "much",
+      "slot": 423084490,
       "source": "blockhash"
     },
     {
-      "word": "shell",
-      "slot": 422879927,
+      "word": "school",
+      "slot": 423084490,
       "source": "previousBlockhash"
     },
     {
-      "word": "donor",
-      "slot": 422879927,
+      "word": "creek",
+      "slot": 423084490,
       "source": "transaction"
     },
     {
-      "word": "adapt",
-      "slot": 422861927,
+      "word": "spot",
+      "slot": 423066490,
       "source": "blockhash"
     },
     {
-      "word": "decorate",
-      "slot": 422861927,
+      "word": "live",
+      "slot": 423066490,
       "source": "previousBlockhash"
     },
     {
-      "word": "jealous",
-      "slot": 422861927,
+      "word": "final",
+      "slot": 423066490,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmyidz7f4m2d",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mn2ttja3ca2y",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
