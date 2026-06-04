@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-06-04",
+    "poem": {
+      "content": "In the harsh dawn's early light, I stir\nA sweet, silent scream, that only echoes clear\nMy nephew's laughter echoes, a distant delight\nA melody that wafts on the breeze, an easy pleasure in sight\n\nLike a pilot navigating the stormy sky\nI search for a calm, a refuge from the angry eye\nOf the world outside, where worries reside\nBut in the shell of my heart, a peaceful nest inside\n\nI know the limit, the boundaries I must keep\nA fragile balance, where fear and hope do creep\nBut still I knock, a gentle rapping on the door\nHoping for a sign, a wink of peace, to guide me more\n\nFor I often feel, a vapor of doubt within\nA misty fog, that obscures the path I must win\nBut then I see, a glimmer of light, a ray of peace\nA message from the universe, to guide me to release\n\nThe weight I bear, the burden of the soul\nI lay it down, at the entry point, where love makes me whole\nAnd in that moment, all my worries pass\nLike autumn leaves, that rustle to the ground, at last\n\nThe sweet release, the peace that I have found\nEchoes through my heart, a melody unbound\nA symphony of calm, that soothes my soul\nAnd in its harmony, I find my peaceful role.",
+      "generatedAt": "2026-06-04T11:41:57.942Z"
+    },
+    "keywords": [
+      {
+        "word": "harsh",
+        "slot": 424236551,
+        "source": "blockhash"
+      },
+      {
+        "word": "sweet",
+        "slot": 424236551,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "nephew",
+        "slot": 424236551,
+        "source": "transaction"
+      },
+      {
+        "word": "easy",
+        "slot": 424218551,
+        "source": "blockhash"
+      },
+      {
+        "word": "pilot",
+        "slot": 424218551,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "shell",
+        "slot": 424218551,
+        "source": "transaction"
+      },
+      {
+        "word": "limit",
+        "slot": 424200551,
+        "source": "blockhash"
+      },
+      {
+        "word": "knock",
+        "slot": 424200551,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "angry",
+        "slot": 424200551,
+        "source": "transaction"
+      },
+      {
+        "word": "often",
+        "slot": 424182551,
+        "source": "blockhash"
+      },
+      {
+        "word": "pass",
+        "slot": 424182551,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "entry",
+        "slot": 424182551,
+        "source": "transaction"
+      },
+      {
+        "word": "wink",
+        "slot": 424164551,
+        "source": "blockhash"
+      },
+      {
+        "word": "peace",
+        "slot": 424164551,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "vapor",
+        "slot": 424164551,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mnhk5zsop42b",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-03",
     "poem": {
       "content": "In ancient caverns, hidden deep,\nWhere sugar crystals form in mystic sleep,\nA regular heartbeat echoes through the night,\nA pulse that beats in harmony with time's own light.\n\nIn this dark cave, a secret wealth resides,\nAbstract and elusive, yet whispers abide,\nA gentle voice that whispers truths untold,\nAlready known, yet hidden from the bold.\n\nA direct path beckons, winding through the stone,\nA bridge of trust, where faith is made to atone,\nFor in this place, the past and present meet,\nAnd the uncertain heart finds a peaceful seat.\n\nBut beware, for security is not a given,\nA fragile stamp of approval, easily exchanged,\nFor the winds of change can occur in an instant's space,\nLeaving the unwary exposed, in a vulnerable place.\n\nYet still we venture, driven by a primal urge,\nTo spend and give, to love and be of worth,\nFor in the utility of our hearts, we find a light,\nA guiding star that shines, through the dark of night.\n\nAnd when the journey ends, and the path is complete,\nWe look back on the trials we've faced, and the faith we've kept,\nAnd though the scars remain, we've been made whole,\nFor in the ancient wisdom, we've discovered our soul.",
@@ -2547,94 +2635,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkziunqlmr2h",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-03",
-    "poem": {
-      "content": "The furnace hummed, a dinosaur's deep breath,\nas sunset painted the western sky a blush.\nNo artwork hung, only shadows underneath\nthe beam that promised soon I could retire.\n\nThe staff had gone, another income segment lost,\nanother dream destroyed by tidal shifts.\nI used to play here, careless, full of dust,\nnow aging walls whisper desperate gifts.\n\nThis crumbling estate, I cannot bring\nmyself to mend its fractured, fading grace.\nI glance outside, at what the future sings -\nbut fear is etched upon Time's weary face.\n\nCould I predict the ruins I would find?\nThe ashes where a future used to gleam?\nThe past extends, a chain around my mind,\nuntil I cannot tell if this is dream.\n\nThe cracks like veins crawl where laughter used to bloom.\nThe furnace flares, and in its dying light,\nI see the darkness deepen in the room,\npreparing to make everything its night.",
-      "generatedAt": "2026-05-03T09:57:12.918Z"
-    },
-    "keywords": [
-      {
-        "word": "blush",
-        "slot": 417290260,
-        "source": "blockhash"
-      },
-      {
-        "word": "bring",
-        "slot": 417290260,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "income",
-        "slot": 417290260,
-        "source": "transaction"
-      },
-      {
-        "word": "segment",
-        "slot": 417272260,
-        "source": "blockhash"
-      },
-      {
-        "word": "staff",
-        "slot": 417272260,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "dinosaur",
-        "slot": 417272260,
-        "source": "transaction"
-      },
-      {
-        "word": "predict",
-        "slot": 417254260,
-        "source": "blockhash"
-      },
-      {
-        "word": "furnace",
-        "slot": 417254260,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "glance",
-        "slot": 417254260,
-        "source": "transaction"
-      },
-      {
-        "word": "artwork",
-        "slot": 417236260,
-        "source": "blockhash"
-      },
-      {
-        "word": "destroy",
-        "slot": 417236260,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "extend",
-        "slot": 417236260,
-        "source": "transaction"
-      },
-      {
-        "word": "retire",
-        "slot": 417218260,
-        "source": "blockhash"
-      },
-      {
-        "word": "estate",
-        "slot": 417218260,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "play",
-        "slot": 417218260,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mkwvfbofkv2c",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
