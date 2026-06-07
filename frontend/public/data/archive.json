@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-06-07",
+    "poem": {
+      "content": "In the town, a man's skill is on display,\nA master craftsman, with art to sway,\nThe option of perfection, he does fair play,\nTo create a masterpiece, in each new day.\n\nBut in the streets, amidst the concrete gray,\nLies a sea of trash, inUnauthorized decay,\nReminding him of choices made, with regret's heavy weight,\nFor opportunities seized, and possibilities wasted, lost to fate.\n\nHe thinks of poems once composed, now long forgot,\nThe memories of love and laughter, on which they were drawn,\nLeaving him to wonder, would they still hold a prize,\nOr fade like the rail, that passes through the streets' dark disguise?\n\nThe weekend comes, a time to step outside and breathe,\nTo find the beauty, in the outdoor's wild release,\nBut he remembers all he left, in the town's central square,\nThe accolades, the salutes, and the praise, that only words can share.\n\nStill, he finds a way, to create a new work of art,\nA poem born of regret, and a healing heart,\nThat in its lines, and rhymes, and subtle, hidden might,\nLooks back on the impact, of the choices made, in blinding light.\n\nAnd though it's easy, to forget the ones we've known,\nThe memories linger, like the scent of a distant home,\nWhere love and laughter, and joy and sorrow, intertwined,\nForm the intricate patterns, of a life so finely designed.\n\nThe man smiles, though wistful, with a gentle regretful gaze,\nFor though the moments lost, can't be had, the memories remain,\nAnd in the silence, he hears a whisper, low and kind,\n\"Your skill is still a treasure, a gift to the world, left behind.\"",
+      "generatedAt": "2026-06-07T10:58:16.655Z"
+    },
+    "keywords": [
+      {
+        "word": "skill",
+        "slot": 424880105,
+        "source": "blockhash"
+      },
+      {
+        "word": "option",
+        "slot": 424880105,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "trash",
+        "slot": 424880105,
+        "source": "transaction"
+      },
+      {
+        "word": "regret",
+        "slot": 424862105,
+        "source": "blockhash"
+      },
+      {
+        "word": "poem",
+        "slot": 424862105,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "rail",
+        "slot": 424862105,
+        "source": "transaction"
+      },
+      {
+        "word": "man",
+        "slot": 424844105,
+        "source": "blockhash"
+      },
+      {
+        "word": "town",
+        "slot": 424844105,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "weekend",
+        "slot": 424844105,
+        "source": "transaction"
+      },
+      {
+        "word": "prize",
+        "slot": 424826105,
+        "source": "blockhash"
+      },
+      {
+        "word": "outdoor",
+        "slot": 424826105,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "street",
+        "slot": 424826105,
+        "source": "transaction"
+      },
+      {
+        "word": "salute",
+        "slot": 424808105,
+        "source": "blockhash"
+      },
+      {
+        "word": "impact",
+        "slot": 424808105,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "forget",
+        "slot": 424808105,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mnoz4myplp2l",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-06",
     "poem": {
       "content": "On the street, a canvas so grand\nA multitude of positions, each a unique stand\nThe people, a kaleidoscope of hue and of form\nEach one a thread in the fabric of the city's storm\n\nBut behind the surface, a silent message is told\nOf erasure and loss, of truths yet untold\nA physical presence, a ghostly form confined\nA negative space, where thoughts and dreams are left behind\n\nIn this space, a test of identity is made\nA trial by fire, where authenticity is displayed\nBut the search for truth is a wicked, winding road\nThrough labyrinths of doubt, where the sausage- blind lead\n\nIn the marketplace of ideas, a hole is left to roam\nA void where meaning is lost, and certainties overthrown\nYet, in this abyss, a poem is born, a makeshift guide\nTo navigate the void, where shadows and truths collide\n\nThe title of the game, a phrase, a single spark\nThat sets ablaze the embers of the heart, and we embark\nOn a journey through the fabric, of reality and the mind\nWhere young and old, rich and poor, are woven, intertwined\n\nAnd in this tapestry, a picture is revealed, a snapshot in time\nOf the city's pulsing heart, where hope and fear do entwine.",
@@ -2547,94 +2635,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlb2j2xz2j2b",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-06",
-    "poem": {
-      "content": "Upon a stool, a tourist sits to see,\nTomorrow's landscape through a tinted lens,\nA local market, where bright colors spree,\nAnd various blooms their petals now dispense.\n\nAn apple gleams, a polished, scarlet prize,\nBeside a flower, frail and pale and white,\nA hobby stall, bathed in the morning skies,\nWhere shadows blur, obscuring day from night.\n\nHe watched the change, a subtle, creeping thing,\nAs faces scatter, voices rise and fall,\nA supreme artist, time, on tireless wing,\nAdds texture to the memories of all.\n\nA start is made, a sketch upon the page,\nThe margin filled with details, small and deep,\nEscaping limits of a gilded cage,\nWhile in the heart, a solemn promise keep.\n\nThe world unfolds, a canvas wide and free,\nAnd fate and chance will write the final mark,\nOf every soul for all eternity.",
-      "generatedAt": "2026-05-06T10:52:18.181Z"
-    },
-    "keywords": [
-      {
-        "word": "stool",
-        "slot": 417950826,
-        "source": "blockhash"
-      },
-      {
-        "word": "lens",
-        "slot": 417950826,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "tomorrow",
-        "slot": 417950826,
-        "source": "transaction"
-      },
-      {
-        "word": "apple",
-        "slot": 417932826,
-        "source": "blockhash"
-      },
-      {
-        "word": "various",
-        "slot": 417932826,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "change",
-        "slot": 417932826,
-        "source": "transaction"
-      },
-      {
-        "word": "tourist",
-        "slot": 417914826,
-        "source": "blockhash"
-      },
-      {
-        "word": "hobby",
-        "slot": 417914826,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "flower",
-        "slot": 417914826,
-        "source": "transaction"
-      },
-      {
-        "word": "start",
-        "slot": 417896826,
-        "source": "blockhash"
-      },
-      {
-        "word": "scatter",
-        "slot": 417896826,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "margin",
-        "slot": 417896826,
-        "source": "transaction"
-      },
-      {
-        "word": "local",
-        "slot": 417878826,
-        "source": "blockhash"
-      },
-      {
-        "word": "blur",
-        "slot": 417878826,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "supreme",
-        "slot": 417878826,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
