@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-06-08",
+    "poem": {
+      "content": "In the vast expanse of the Solana sea,\nA lone kid sails, with heart full of glee.\nTheir sister's smile, a guiding light,\n Illuminates the maze of digital night.\n\nLike a pill, freedom dissolves the fear,\nAnd the April sun shines bright and clear.\nBut unable to resist the siren's call,\nThey sail into the depths, where the winds enthrall.\n\nA bitter taste, a razor's edge,\nCuts through the noise, and clears the pledge.\nThe load of secrets, a weight to bear,\nIs lifted by the freedom they share.\n\nOn this holiday from the digital grind,\nThey find solace in the digital wind.\nTheir shoulder shrugs, the burden gone,\nAs they rise to meet the morning sun's song.\n\nThe maze unwinds, like a thread so fine,\nRevealing the secrets of the Solana shrine.\nTheir sister's love, a beacon in the night,\nGuides them through, and brings forth the light.\n\nIn this vast ocean, where transactions roam,\nThey've found their anchor, a digital home.\nTheir sail billows, with a gentle breeze,\nAs they navigate the waters, with digital ease.\n\nThe pill of freedom, dissolves the pain,\nAs they soar on the wings of the Solana gain.\nTheir heart full of joy, their spirit free,\nThey ride the wind, wild and carefree.",
+      "generatedAt": "2026-06-08T12:53:38.079Z"
+    },
+    "keywords": [
+      {
+        "word": "kid",
+        "slot": 425114496,
+        "source": "blockhash"
+      },
+      {
+        "word": "sea",
+        "slot": 425114496,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "maze",
+        "slot": 425114496,
+        "source": "transaction"
+      },
+      {
+        "word": "sister",
+        "slot": 425096496,
+        "source": "blockhash"
+      },
+      {
+        "word": "pill",
+        "slot": 425096496,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "april",
+        "slot": 425096496,
+        "source": "transaction"
+      },
+      {
+        "word": "unable",
+        "slot": 425078496,
+        "source": "blockhash"
+      },
+      {
+        "word": "like",
+        "slot": 425078496,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "holiday",
+        "slot": 425078496,
+        "source": "transaction"
+      },
+      {
+        "word": "shoulder",
+        "slot": 425060496,
+        "source": "blockhash"
+      },
+      {
+        "word": "load",
+        "slot": 425060496,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "sail",
+        "slot": 425060496,
+        "source": "transaction"
+      },
+      {
+        "word": "razor",
+        "slot": 425042496,
+        "source": "blockhash"
+      },
+      {
+        "word": "bitter",
+        "slot": 425042496,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "inform",
+        "slot": 425042496,
+        "source": "transaction"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mnrpzueh272y",
+    "poemReady": true,
+    "keywordsCollected": 15,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-07",
     "poem": {
       "content": "In the town, a man's skill is on display,\nA master craftsman, with art to sway,\nThe option of perfection, he does fair play,\nTo create a masterpiece, in each new day.\n\nBut in the streets, amidst the concrete gray,\nLies a sea of trash, inUnauthorized decay,\nReminding him of choices made, with regret's heavy weight,\nFor opportunities seized, and possibilities wasted, lost to fate.\n\nHe thinks of poems once composed, now long forgot,\nThe memories of love and laughter, on which they were drawn,\nLeaving him to wonder, would they still hold a prize,\nOr fade like the rail, that passes through the streets' dark disguise?\n\nThe weekend comes, a time to step outside and breathe,\nTo find the beauty, in the outdoor's wild release,\nBut he remembers all he left, in the town's central square,\nThe accolades, the salutes, and the praise, that only words can share.\n\nStill, he finds a way, to create a new work of art,\nA poem born of regret, and a healing heart,\nThat in its lines, and rhymes, and subtle, hidden might,\nLooks back on the impact, of the choices made, in blinding light.\n\nAnd though it's easy, to forget the ones we've known,\nThe memories linger, like the scent of a distant home,\nWhere love and laughter, and joy and sorrow, intertwined,\nForm the intricate patterns, of a life so finely designed.\n\nThe man smiles, though wistful, with a gentle regretful gaze,\nFor though the moments lost, can't be had, the memories remain,\nAnd in the silence, he hears a whisper, low and kind,\n\"Your skill is still a treasure, a gift to the world, left behind.\"",
@@ -2547,94 +2635,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mldikwzh742w",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-07",
-    "poem": {
-      "content": "The gym door groans, a metal ritual,\neach clang, a shadow covering soft light.\nI own the broken hours here, set slow.\nA panda's gaze, collecting sweat,\nreflects the lab-like gleam of steel.\n\nMy pitch abandoned, voice gone raw,\nanother audit weighing heavy as mail,\nunread, unanswered, haunting me.\nThis person, blurred within the mirror's pane,\ncannot outrun the echoing refrain.\n\nThe treadmill mocks, its steady, beating pace,\nwhile fragmented dreams drift through the space.\nI try to gather them, but they slip through.\nA broken clock, a fractured view.\n\nI must escape this heavy, crushing dark,\nbegin again from what is left, a spark.\nCover it carefully, nurture it with care,\nuntil the own light shines beyond despair.\nFind the soft truth that hides within.",
-      "generatedAt": "2026-05-07T10:55:25.801Z"
-    },
-    "keywords": [
-      {
-        "word": "cover",
-        "slot": 418167399,
-        "source": "blockhash"
-      },
-      {
-        "word": "ritual",
-        "slot": 418167399,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "gym",
-        "slot": 418167399,
-        "source": "transaction"
-      },
-      {
-        "word": "audit",
-        "slot": 418149399,
-        "source": "blockhash"
-      },
-      {
-        "word": "own",
-        "slot": 418149399,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "panda",
-        "slot": 418149399,
-        "source": "transaction"
-      },
-      {
-        "word": "lab",
-        "slot": 418131399,
-        "source": "blockhash"
-      },
-      {
-        "word": "mail",
-        "slot": 418131399,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "broken",
-        "slot": 418131399,
-        "source": "transaction"
-      },
-      {
-        "word": "shadow",
-        "slot": 418113399,
-        "source": "blockhash"
-      },
-      {
-        "word": "collect",
-        "slot": 418113399,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "person",
-        "slot": 418113399,
-        "source": "transaction"
-      },
-      {
-        "word": "slow",
-        "slot": 418095399,
-        "source": "blockhash"
-      },
-      {
-        "word": "pitch",
-        "slot": 418095399,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "soft",
-        "slot": 418095399,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlb2j2xz2j2b",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
