@@ -1,87 +1,87 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "poem": {
-    "content": "In the vast expanse of the Solana sea,\nA lone kid sails, with heart full of glee.\nTheir sister's smile, a guiding light,\n Illuminates the maze of digital night.\n\nLike a pill, freedom dissolves the fear,\nAnd the April sun shines bright and clear.\nBut unable to resist the siren's call,\nThey sail into the depths, where the winds enthrall.\n\nA bitter taste, a razor's edge,\nCuts through the noise, and clears the pledge.\nThe load of secrets, a weight to bear,\nIs lifted by the freedom they share.\n\nOn this holiday from the digital grind,\nThey find solace in the digital wind.\nTheir shoulder shrugs, the burden gone,\nAs they rise to meet the morning sun's song.\n\nThe maze unwinds, like a thread so fine,\nRevealing the secrets of the Solana shrine.\nTheir sister's love, a beacon in the night,\nGuides them through, and brings forth the light.\n\nIn this vast ocean, where transactions roam,\nThey've found their anchor, a digital home.\nTheir sail billows, with a gentle breeze,\nAs they navigate the waters, with digital ease.\n\nThe pill of freedom, dissolves the pain,\nAs they soar on the wings of the Solana gain.\nTheir heart full of joy, their spirit free,\nThey ride the wind, wild and carefree.",
-    "generatedAt": "2026-06-08T12:53:38.079Z"
+    "content": "In the realm of Solana, a resource so fine,\nLies hidden, waiting to be divine,\nA skill so sharp, it cuts like a knife,\nUnlocks the Point, where miracles take flight.\n\nBut fatigue creeps in, like a summer's haze,\nAnd the Copy of a dream is all that remains,\nA canvas worn, with brushstrokes of the past,\nA Scan of memories that will forever last.\n\nOn the curve of a moon, the Asset glows bright,\nA treasure trove, where dreams take flight,\nYet, hurt and garbage, like rubble, lie in wait,\nA reminder of the struggles, the journey's weight.\n\nIn this astral expanse, a lone walker roams,\nA wanderer seeking solace from the cosmic thrones,\nWith every step, a dress of stars is spun,\nA masterpiece, born of the universe, begun.\n\nIn the Heart of Solana, a song begins to sing,\nA melody of hope, that echoes, joy does bring,\nA symphony of sound, where love does resound,\nAnd on the canvas of life, a new_PRINTFmiracle is found.\n\nSo let us don the dress of courage, once more,\nAnd venture forth, into the unknown, we adore,\nFor in the Point of Solana, a miracle awaits,\nA resource so divine, that fatigue will soon abate.\nAnd though we may stumble, and fall to the ground,\nThe curve of Solana's love, will lift us up, and wrap us round.",
+    "generatedAt": "2026-06-09T11:50:05.340Z"
   },
   "keywords": [
     {
-      "word": "kid",
-      "slot": 425114496,
+      "word": "resource",
+      "slot": 425321738,
       "source": "blockhash"
     },
     {
-      "word": "sea",
-      "slot": 425114496,
+      "word": "skill",
+      "slot": 425321738,
       "source": "previousBlockhash"
     },
     {
-      "word": "maze",
-      "slot": 425114496,
+      "word": "point",
+      "slot": 425321738,
       "source": "transaction"
     },
     {
-      "word": "sister",
-      "slot": 425096496,
+      "word": "miracle",
+      "slot": 425303738,
       "source": "blockhash"
     },
     {
-      "word": "pill",
-      "slot": 425096496,
+      "word": "fatigue",
+      "slot": 425303738,
       "source": "previousBlockhash"
     },
     {
-      "word": "april",
-      "slot": 425096496,
+      "word": "copy",
+      "slot": 425303738,
       "source": "transaction"
     },
     {
-      "word": "unable",
-      "slot": 425078496,
+      "word": "canvas",
+      "slot": 425285738,
       "source": "blockhash"
     },
     {
-      "word": "like",
-      "slot": 425078496,
+      "word": "scan",
+      "slot": 425285738,
       "source": "previousBlockhash"
     },
     {
-      "word": "holiday",
-      "slot": 425078496,
+      "word": "curve",
+      "slot": 425285738,
       "source": "transaction"
     },
     {
-      "word": "shoulder",
-      "slot": 425060496,
+      "word": "sing",
+      "slot": 425267738,
       "source": "blockhash"
     },
     {
-      "word": "load",
-      "slot": 425060496,
+      "word": "hidden",
+      "slot": 425267738,
       "source": "previousBlockhash"
     },
     {
-      "word": "sail",
-      "slot": 425060496,
+      "word": "hurt",
+      "slot": 425267738,
       "source": "transaction"
     },
     {
-      "word": "razor",
-      "slot": 425042496,
+      "word": "garbage",
+      "slot": 425249738,
       "source": "blockhash"
     },
     {
-      "word": "bitter",
-      "slot": 425042496,
+      "word": "dress",
+      "slot": 425249738,
       "source": "previousBlockhash"
     },
     {
-      "word": "inform",
-      "slot": 425042496,
+      "word": "asset",
+      "slot": 425249738,
       "source": "transaction"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mnrpzueh272y",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mnu4x5pkpy27",
   "poemReady": true,
   "keywordsCollected": 15,
   "keywordsNeeded": 8
