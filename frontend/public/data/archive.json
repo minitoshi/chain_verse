@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-06-12",
+    "poem": {
+      "content": "In the hollow of my heart, a chapter unfolds\nA story of love and truth, where I've been made to hold\nA fragile thread that weaves a home to stand\nA sanctuary where love and dreams take hand\n\nI met you, young and wild, with an untreated heart\nOur affair began with a spark, a tender start\nWe danced under the stars, with the moon's gentle pitch\nOur love was like a flame, that burns with every switch\n\nLike a cable, our love will stretch and bend\nConnecting us through thick and thin, a bond that never ends\nWe're capable of overcoming, even the most sealed and hard\nThe trenches of distrust, where love would otherwise be scarred\n\nBut I've learned to see the fat of life as free\nA liberating force, that sets me loose from me\nThe trim of uncertainty, that once kept me confined\nGives way to a freedom, where love's pure love is defined\n\nAlcohol, a familiar fool, tempted me to stray\nBut in your eyes, my captain, I found my anchor stay\nOn a wedding day, we stood, one to the other true\nExchanging vows, in a love that would always renew\n\nThe world outside may seem, a cruel and rude display\nBut within our bubble of love, we'll brave the stormy day\nTogether we'll brave, the darkness and the night\nAnd in each other's eyes, we'll hold on tight.",
+      "generatedAt": "2026-06-12T12:08:58.455Z"
+    },
+    "keywords": [
+      {
+        "word": "home",
+        "slot": 425978243,
+        "source": "blockhash"
+      },
+      {
+        "word": "chapter",
+        "slot": 425978243,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "trim",
+        "slot": 425978243,
+        "source": "transaction"
+      },
+      {
+        "word": "hollow",
+        "slot": 425960243,
+        "source": "blockhash"
+      },
+      {
+        "word": "ability",
+        "slot": 425960243,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cable",
+        "slot": 425960243,
+        "source": "transaction"
+      },
+      {
+        "word": "fat",
+        "slot": 425942243,
+        "source": "blockhash"
+      },
+      {
+        "word": "affair",
+        "slot": 425942243,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "young",
+        "slot": 425942243,
+        "source": "transaction"
+      },
+      {
+        "word": "alcohol",
+        "slot": 425924243,
+        "source": "blockhash"
+      },
+      {
+        "word": "wedding",
+        "slot": 425924243,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fragile",
+        "slot": 425924243,
+        "source": "transaction"
+      },
+      {
+        "word": "pitch",
+        "slot": 425906243,
+        "source": "blockhash"
+      },
+      {
+        "word": "rude",
+        "slot": 425906243,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "capable",
+        "slot": 425906243,
+        "source": "transaction"
+      },
+      {
+        "word": "brisk",
+        "slot": 425888243,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mo3pfopmlg2x",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-11",
     "poem": {
       "content": "In dune-filled landscapes, where shadows play,\nA hidden world awakens, night by day.\nA nominee emerges, pure and bright,\nSeeking to reform the darkness of night.\n\nWith every step, a list unfolds like a scroll,\nOf broken dreams and shattered goals.\nYet, in this desolate land, a snack of hope appears,\nA fleeting taste of sweetness, like sugar through the years.\n\nBut approval is hard-won, and often comes at a cost,\nA narrow path that twists and turns, forever lost.\nStill, we must enact our vision, no matter the strife,\nAnd crawl through the darkness, fueled by our inner life.\n\nLike a pupil opening wide, to drink in the light,\nWe must confront the evil that haunts this endless night.\nThe second chance we grasp, a fragile, precious thing,\nA moment's peace, before the chaos starts to sing.\n\nIn this vast, layered world, where truth is hard to find,\nWe search for a foundation, a solid ground to bind.\nBut the surface is deceptive, a fragile, shifting sand,\nThat threatens to swallow us whole, like a hungry, hungry land.\n\nYet, still we hold on, to the hope that we'll prevail,\nAnd in the darkness, find a hidden, secret trail.\nA path that winds and turns, through dunes of pain and strife,\nThat leads us to the truth, and the beauty of life.",
@@ -2552,94 +2645,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlnniq3ql62h",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-11",
-    "poem": {
-      "content": "The glare of the monitor, a cold, hard light,\nWhere fortunes shift and fortunes take their flight.\nEnsure your wallet, lock it tight and fast,\nBefore the shadows of the jealous cast\nA spell of malice, twisting every choice.\n\nHe was a liar, with a painted face,\nA subtle transfer, erasing every trace.\nThe pledge he offered, hollow, weak, and thin,\nA fragile toy for those about to sin.\nEthics abandoned, left upon the edge.\n\nI witness now, the horse bolted far,\nBeyond the fences, guided by a star.\nA negative outcome, bitter fruit,\nHe built his empire on absolute pursuit.\nDisplaying riches earned by cruel deceit.\n\nBut darkness crumbles in the light of day,\nAnd bitter winds will surely blow away\nThe seeds of falsehood planted in the ground,\nWhere truth and justice will at last be found.\nHe made his choice, and now must bear his pain.",
-      "generatedAt": "2026-05-11T11:52:19.567Z"
-    },
-    "keywords": [
-      {
-        "word": "ensure",
-        "slot": 419035102,
-        "source": "blockhash"
-      },
-      {
-        "word": "jealous",
-        "slot": 419035102,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "toy",
-        "slot": 419035102,
-        "source": "transaction"
-      },
-      {
-        "word": "witness",
-        "slot": 419017102,
-        "source": "blockhash"
-      },
-      {
-        "word": "edge",
-        "slot": 419017102,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "choice",
-        "slot": 419017102,
-        "source": "transaction"
-      },
-      {
-        "word": "negative",
-        "slot": 418999102,
-        "source": "blockhash"
-      },
-      {
-        "word": "horse",
-        "slot": 418999102,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "glare",
-        "slot": 418999102,
-        "source": "transaction"
-      },
-      {
-        "word": "where",
-        "slot": 418981102,
-        "source": "blockhash"
-      },
-      {
-        "word": "liar",
-        "slot": 418981102,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "display",
-        "slot": 418981102,
-        "source": "transaction"
-      },
-      {
-        "word": "pledge",
-        "slot": 418963102,
-        "source": "blockhash"
-      },
-      {
-        "word": "transfer",
-        "slot": 418963102,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ethics",
-        "slot": 418963102,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mll7khw3ee2c",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
