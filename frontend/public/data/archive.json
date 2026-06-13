@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-06-13",
+    "poem": {
+      "content": "In the shaft of dawn's first light, I stand\nA champion of the chaotic land\nWhere disorder reigns, and madness holds its sway\nA mad inmate, I, in this wild display\n\nThe cliff of uncertainty stretches far and wide\nA chunk of hope, a sliver of pride\nI take the leap, with heart aflame\nAnd watch as the world, in all its chaos, claims\n\nIts rightful place, a sudden, swift descent\nInto the depths of madness, where I, a prisoner, invent\nMy own reality, a twisted, mad design\nA world of disorder, where I, a inmate, confine\n\nBut then, a gentle hand, a loving, guiding light\nMy wife's soft touch, a soothing, peaceful sight\nShe stands beside me, as I stumble and stray\nA constant in this chaotic, mad array\n\nTogether we face the dawn, a new day's gain\nA fresh start, a chance to heal, to break the chain\nThe blast of noise, the din of disarray\nGives way to silence, a peaceful, quiet day\n\nAs I observe the world, with newfound eyes\nI see the beauty, the wonder, that it implies\nA world of disorder, tamed, made new\nA place of wonder, where I, a champion, can renew\n\nThe gauge of hope, once empty, now full and bright\nReflects the love, the light, that shines with all its might\nAnd as we walk, hand in hand, into the unknown\nI feel a sense of peace, a love that's made its home.",
+      "generatedAt": "2026-06-13T11:05:28.577Z"
+    },
+    "keywords": [
+      {
+        "word": "blast",
+        "slot": 426186183,
+        "source": "blockhash"
+      },
+      {
+        "word": "job",
+        "slot": 426186183,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "gain",
+        "slot": 426186183,
+        "source": "transaction"
+      },
+      {
+        "word": "observe",
+        "slot": 426168183,
+        "source": "blockhash"
+      },
+      {
+        "word": "shaft",
+        "slot": 426168183,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "chunk",
+        "slot": 426168183,
+        "source": "transaction"
+      },
+      {
+        "word": "cliff",
+        "slot": 426150183,
+        "source": "blockhash"
+      },
+      {
+        "word": "gauge",
+        "slot": 426150183,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "disorder",
+        "slot": 426150183,
+        "source": "transaction"
+      },
+      {
+        "word": "swift",
+        "slot": 426132183,
+        "source": "blockhash"
+      },
+      {
+        "word": "champion",
+        "slot": 426132183,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wash",
+        "slot": 426114183,
+        "source": "blockhash"
+      },
+      {
+        "word": "wife",
+        "slot": 426114183,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "mad",
+        "slot": 426114183,
+        "source": "transaction"
+      },
+      {
+        "word": "inmate",
+        "slot": 426096183,
+        "source": "blockhash"
+      },
+      {
+        "word": "result",
+        "slot": 426096183,
+        "source": "previousBlockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mo64d2sely2x",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-12",
     "poem": {
       "content": "In the hollow of my heart, a chapter unfolds\nA story of love and truth, where I've been made to hold\nA fragile thread that weaves a home to stand\nA sanctuary where love and dreams take hand\n\nI met you, young and wild, with an untreated heart\nOur affair began with a spark, a tender start\nWe danced under the stars, with the moon's gentle pitch\nOur love was like a flame, that burns with every switch\n\nLike a cable, our love will stretch and bend\nConnecting us through thick and thin, a bond that never ends\nWe're capable of overcoming, even the most sealed and hard\nThe trenches of distrust, where love would otherwise be scarred\n\nBut I've learned to see the fat of life as free\nA liberating force, that sets me loose from me\nThe trim of uncertainty, that once kept me confined\nGives way to a freedom, where love's pure love is defined\n\nAlcohol, a familiar fool, tempted me to stray\nBut in your eyes, my captain, I found my anchor stay\nOn a wedding day, we stood, one to the other true\nExchanging vows, in a love that would always renew\n\nThe world outside may seem, a cruel and rude display\nBut within our bubble of love, we'll brave the stormy day\nTogether we'll brave, the darkness and the night\nAnd in each other's eyes, we'll hold on tight.",
@@ -2557,94 +2650,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlq6qcf3da2m",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-12",
-    "poem": {
-      "content": "A shallow case, a mobile screen’s cold light,\nAbsorb myself in ventures, day and night.\nA pyramid of stuff, a modern crop,\nWhere dreams take cruise, and fortunes never stop.\n\nThe visual whispers, \"motion is the key,\"\nBut I speak of inertia, haunting me.\nA ripple starts, a tremor in the soul,\nA festival of faces takes its toll.\n\nI watch them drift, antennae raised so high,\nSeeking connection in the digital sky.\nThe pyramid crumbles, grain by fading grain,\nA shallow promise, whispered in the rain.\n\nThis digital cruise, a siren’s gentle call,\nOffering answers, hiding shadows all.\nMy venture stalls, its future takes no hold,\nA shallow story, rarely to be told.\nThe ripples grow, the motion now will cease,\nI’ll absorb myself in finding inner peace.",
-      "generatedAt": "2026-05-12T11:07:12.231Z"
-    },
-    "keywords": [
-      {
-        "word": "pyramid",
-        "slot": 419242736,
-        "source": "blockhash"
-      },
-      {
-        "word": "case",
-        "slot": 419242736,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "shallow",
-        "slot": 419242736,
-        "source": "transaction"
-      },
-      {
-        "word": "cruise",
-        "slot": 419224736,
-        "source": "blockhash"
-      },
-      {
-        "word": "ripple",
-        "slot": 419224736,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "mobile",
-        "slot": 419224736,
-        "source": "transaction"
-      },
-      {
-        "word": "festival",
-        "slot": 419206736,
-        "source": "blockhash"
-      },
-      {
-        "word": "crop",
-        "slot": 419206736,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "myself",
-        "slot": 419206736,
-        "source": "transaction"
-      },
-      {
-        "word": "venture",
-        "slot": 419188736,
-        "source": "blockhash"
-      },
-      {
-        "word": "stuff",
-        "slot": 419188736,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "motion",
-        "slot": 419188736,
-        "source": "transaction"
-      },
-      {
-        "word": "absorb",
-        "slot": 419170736,
-        "source": "blockhash"
-      },
-      {
-        "word": "visual",
-        "slot": 419170736,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "speak",
-        "slot": 419170736,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlnniq3ql62h",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
