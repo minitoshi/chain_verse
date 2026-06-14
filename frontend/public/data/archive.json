@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-06-14",
+    "poem": {
+      "content": "In the office of dawn's early light,\nA plate of opportunity lies in sight.\nA golden promise, glinting bright,\n Beckons me to take the first step, to take flight.\n\nThe sounds of the street, a stereo beat,\nWhisper secrets of the unknown, a journey to meet.\nThe gatherers of dreams, with hearts afire,\n Invite me to join the quest, to yearn and aspire.\n\nBut whispers of doubt creep in, a voice of fear,\nThat our plans may vanish, leaving only tears.\nCan we overcome the tide, the waves that slander our name?\nOr will we falter, lost in the morass, without a claim?\n\nSomewhere a wise and ancient soul suggests a way,\nTo rise above the fray, to seize the day.\nA moral compass, shining bright, a guiding light,\nA beacon in the darkness, to lead us to the fight.\n\nLike an oyster, we, in solitude, create our pearls,\nThrough trials and tribulations, our strength unfurls.\nWe install our resolve, our hearts a fortress strong,\nTo push against the waves, to sing our song.\n\nThe midnight hour, a time for quiet reflection,\nA moment to pause, to listen to the ocean's mention.\nThe tower of our dreams, a monument so grand,\nRises high, a testament to our unyielding hand.\n\nA box of candy, a symbol of sweetness and delight,\nLies on the table, a reminder of the journey's fuel in sight.\nFor in the depths of our hearts, a fire still burns bright,\nGuiding us forward, a flame that cuts through the darkest night.",
+      "generatedAt": "2026-06-14T11:20:40.095Z"
+    },
+    "keywords": [
+      {
+        "word": "plate",
+        "slot": 426406183,
+        "source": "blockhash"
+      },
+      {
+        "word": "gold",
+        "slot": 426406183,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "vanish",
+        "slot": 426406183,
+        "source": "transaction"
+      },
+      {
+        "word": "stereo",
+        "slot": 426388183,
+        "source": "blockhash"
+      },
+      {
+        "word": "office",
+        "slot": 426388183,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "legal",
+        "slot": 426388183,
+        "source": "transaction"
+      },
+      {
+        "word": "gather",
+        "slot": 426370183,
+        "source": "blockhash"
+      },
+      {
+        "word": "journey",
+        "slot": 426370183,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "oyster",
+        "slot": 426370183,
+        "source": "transaction"
+      },
+      {
+        "word": "install",
+        "slot": 426352183,
+        "source": "blockhash"
+      },
+      {
+        "word": "push",
+        "slot": 426352183,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "midnight",
+        "slot": 426352183,
+        "source": "transaction"
+      },
+      {
+        "word": "tower",
+        "slot": 426334183,
+        "source": "blockhash"
+      },
+      {
+        "word": "suggest",
+        "slot": 426334183,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "moral",
+        "slot": 426334183,
+        "source": "transaction"
+      },
+      {
+        "word": "candy",
+        "slot": 426316183,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3moann4yeur2l",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-13",
     "poem": {
       "content": "In the shaft of dawn's first light, I stand\nA champion of the chaotic land\nWhere disorder reigns, and madness holds its sway\nA mad inmate, I, in this wild display\n\nThe cliff of uncertainty stretches far and wide\nA chunk of hope, a sliver of pride\nI take the leap, with heart aflame\nAnd watch as the world, in all its chaos, claims\n\nIts rightful place, a sudden, swift descent\nInto the depths of madness, where I, a prisoner, invent\nMy own reality, a twisted, mad design\nA world of disorder, where I, a inmate, confine\n\nBut then, a gentle hand, a loving, guiding light\nMy wife's soft touch, a soothing, peaceful sight\nShe stands beside me, as I stumble and stray\nA constant in this chaotic, mad array\n\nTogether we face the dawn, a new day's gain\nA fresh start, a chance to heal, to break the chain\nThe blast of noise, the din of disarray\nGives way to silence, a peaceful, quiet day\n\nAs I observe the world, with newfound eyes\nI see the beauty, the wonder, that it implies\nA world of disorder, tamed, made new\nA place of wonder, where I, a champion, can renew\n\nThe gauge of hope, once empty, now full and bright\nReflects the love, the light, that shines with all its might\nAnd as we walk, hand in hand, into the unknown\nI feel a sense of peace, a love that's made its home.",
@@ -2562,94 +2655,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlsocycrvg2e",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-13",
-    "poem": {
-      "content": "I believe the slush whispers secrets,\nsimilar to cattle lowing in the dawn.\nA sweet ache in my wrist, fragile bone,\nas the artist tries to capture stone.\n\nHe digs in the dirt, a super effort,\nto verify the blast, the earth's retort.\nAn eyebrow arches, a skeptical slant,\nat the process, slow and elephant.\n\nCan beauty rise from such coarse ground?\nA diamond's genesis, profound.\nHe shapes the clay, a fragile hope,\nthat something lovely might elope.\n\nFrom chaos born, a spirit free,\na gentle heart now, meant to be.\nHe must believe, though doubts may tease,\nand find art's truth, to bring him ease.\n\nThe stone remains, a silent guide,\nwhere fragile beauty can reside.",
-      "generatedAt": "2026-05-13T11:20:59.494Z"
-    },
-    "keywords": [
-      {
-        "word": "believe",
-        "slot": 419460152,
-        "source": "blockhash"
-      },
-      {
-        "word": "process",
-        "slot": 419460152,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "sweet",
-        "slot": 419460152,
-        "source": "transaction"
-      },
-      {
-        "word": "similar",
-        "slot": 419442152,
-        "source": "blockhash"
-      },
-      {
-        "word": "slush",
-        "slot": 419442152,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "artist",
-        "slot": 419442152,
-        "source": "transaction"
-      },
-      {
-        "word": "fragile",
-        "slot": 419424152,
-        "source": "blockhash"
-      },
-      {
-        "word": "wrist",
-        "slot": 419424152,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "blast",
-        "slot": 419424152,
-        "source": "transaction"
-      },
-      {
-        "word": "verify",
-        "slot": 419406152,
-        "source": "blockhash"
-      },
-      {
-        "word": "dirt",
-        "slot": 419406152,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "eyebrow",
-        "slot": 419406152,
-        "source": "transaction"
-      },
-      {
-        "word": "super",
-        "slot": 419388152,
-        "source": "blockhash"
-      },
-      {
-        "word": "cattle",
-        "slot": 419388152,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "stone",
-        "slot": 419388152,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlq6qcf3da2m",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
