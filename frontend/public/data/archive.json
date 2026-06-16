@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-06-16",
+    "poem": {
+      "content": "In the chase of innovation's dream,\nA vaporous trail leaves the seeker's scheme,\nSeeking input from the minds of old,\nTo forge a path where none has been told.\n\nThrough dirt and grime, the journey's made,\nA title granted to the brave who've staked,\nTheir hearts and souls to convince the bold,\nThat growth is possible, though the path is cold.\n\nIn this chaotic game of give and take,\nDisorder reigns, yet beauty may awake,\nA figure emerges from the fog and dust,\nA beacon of hope, to guide the just.\n\nThe grant of wisdom, knowledge and might,\nGathers momentum, and ignites the light,\nTo bring the light to banish endless night,\nAnd give the heart a reason to take flight.\n\nSince dawn, the alpha wolves have roamed,\nHunting for truth, in the depths unknown,\nFollowing leads, through labyrinths old,\nTo find the promised land, where hearts are made of gold.\n\nBut still, the whispers of doubt and fear,\nA skeptic's voice, that dare not come near,\nTo pry and question the hearts that don't belong,\nAnd what it means to truly, be at home.\n\nYet, the casual observer shakes their head,\nAs futures unfurl, where players are freed,\nTo game the system, to test and explore,\nAnd in the disorder, find the beauty they've been looking for.",
+      "generatedAt": "2026-06-16T13:19:15.522Z"
+    },
+    "keywords": [
+      {
+        "word": "chase",
+        "slot": 426859969,
+        "source": "blockhash"
+      },
+      {
+        "word": "vapor",
+        "slot": 426859969,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "input",
+        "slot": 426859969,
+        "source": "transaction"
+      },
+      {
+        "word": "dirt",
+        "slot": 426841969,
+        "source": "blockhash"
+      },
+      {
+        "word": "title",
+        "slot": 426841969,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "convince",
+        "slot": 426841969,
+        "source": "transaction"
+      },
+      {
+        "word": "grow",
+        "slot": 426823969,
+        "source": "blockhash"
+      },
+      {
+        "word": "disorder",
+        "slot": 426823969,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "figure",
+        "slot": 426823969,
+        "source": "transaction"
+      },
+      {
+        "word": "grant",
+        "slot": 426805969,
+        "source": "blockhash"
+      },
+      {
+        "word": "bring",
+        "slot": 426805969,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "game",
+        "slot": 426805969,
+        "source": "transaction"
+      },
+      {
+        "word": "flee",
+        "slot": 426787969,
+        "source": "blockhash"
+      },
+      {
+        "word": "alpha",
+        "slot": 426787969,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "casual",
+        "slot": 426787969,
+        "source": "transaction"
+      },
+      {
+        "word": "since",
+        "slot": 426769969,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mofv72bg2t2g",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-15",
     "poem": {
       "content": "In armor of code, we venture forth,\nThrough the border of cyberspace, where stars depart.\nA heavy mist of doubt begins to rise,\nAs we join the fray, with vision in our eyes.\n\nLike a parrot's call, the whispers spread,\nOf freedom's reach, beyond the encrypted dread.\nWe step into the light, with visa in hand,\nContract signed, our destiny to stand.\n\nA second glance, and we behold the sight,\nA buffalo herd, prancing through the night.\nTheir steps, a rhythm, echoing through the air,\nAs we adjust the camp, our stakes, with care.\n\nIn this digital wild, we pitch our tent,\nGardens of progress, our maladies to abate.\nBut out there, in the outer weave,\nA lock on certainty, just beyond our gaze, we weave.\n\nA photo snaps, a memory taken,\nOf what lies ahead, as the miles are unmade.\nRabbit holes of choice, where forks divide and merge,\nIn a dance of balance, we recalibrate and surge.\n\nA buffalo's roar, resounds through the land,\nWe charge ahead, hearts and minds entwined in hand.\nOur armor cracks, our fears reveal,\nExposing the heart, like a visa, we reveal.\nThrough the heavy fog, a path unfurls, a road,\nWhere freedom's promise, like a parrot's call, abides and glows.\nTill we reach the edge, of uncertainty's sea.\nAnd here, our armor may be burned, or remade to be.",
@@ -2572,94 +2665,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlxlvqkzrs2u",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-15",
-    "poem": {
-      "content": "The antique rose, a blush upon her face,\nremembered comic laughter, light and brief.\nNow capital concerns employ each space,\na budget looming, shading joy with grief.\n\nTo spend or not to spend, the question lies,\na heavy cost, a burden on the soul.\nThe market erodes dreams beneath such skies,\nas whispered phrases take their destined toll.\n\nA shaft of doubt, like ice, begins to form,\nto shove aside the hope she held so dear.\nShe sees the order breaking in the storm,\nand feels the future tremble, drawing near.\n\nThe old facade can’t hide the truths beneath,\nthe constant worry lines where shadows play.\nShe tries to smile, to garland with belief,\nbut feels the light just slowly slip away.\n\nA quiet plea, a silent, soft suggest,\nthat beauty finds a solace to impart.\nThough fortune frowns, there's solace in the breast,\nand art can heal the cracking of the heart.",
-      "generatedAt": "2026-05-15T11:08:15.256Z"
-    },
-    "keywords": [
-      {
-        "word": "employ",
-        "slot": 419890988,
-        "source": "blockhash"
-      },
-      {
-        "word": "shaft",
-        "slot": 419890988,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "antique",
-        "slot": 419890988,
-        "source": "transaction"
-      },
-      {
-        "word": "budget",
-        "slot": 419872988,
-        "source": "blockhash"
-      },
-      {
-        "word": "order",
-        "slot": 419872988,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "face",
-        "slot": 419872988,
-        "source": "transaction"
-      },
-      {
-        "word": "comic",
-        "slot": 419854988,
-        "source": "blockhash"
-      },
-      {
-        "word": "capital",
-        "slot": 419854988,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "erode",
-        "slot": 419854988,
-        "source": "transaction"
-      },
-      {
-        "word": "shove",
-        "slot": 419836988,
-        "source": "blockhash"
-      },
-      {
-        "word": "suggest",
-        "slot": 419836988,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "cost",
-        "slot": 419836988,
-        "source": "transaction"
-      },
-      {
-        "word": "rose",
-        "slot": 419818988,
-        "source": "blockhash"
-      },
-      {
-        "word": "phrase",
-        "slot": 419818988,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "spend",
-        "slot": 419818988,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlv6xe3nic2a",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
