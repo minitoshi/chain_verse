@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-06-17",
+    "poem": {
+      "content": "In the field of open expanses, where the hybrid wheat sways,\nA wagon's wooden wheels creak, a mournful melody plays.\nThe goddess of the earth, a statuesque figure stands,\nHer face a map of wisdom, her hands that nurture lands.\n\nShe surveys the bulk of her harvest, a towering sight to see,\nA cornucopia of plenty, as golden as the morning sun's decree.\nBut where once water flowed, a toxic tide now spreads its stain,\nA stain that's hard to cleanse, a blemish that will not vanish in vain.\n\nIn the town, a couple sells small stones, bright as the morning dew,\nTheir quaint stall, a haven for weary travelers, offering respite anew.\nThey barter with an old rail, worn smooth by years of use,\nFor a bundle of fresh cabbage, its leaves so crisp, so sweet to imbuse.\n\nBut here, on the outskirts, where mobile wheels once ground,\nNow fossilized prints remain, a secret, ancient tome unbound.\nThe sweet, succulent scent of bacon, wafts up from a nearby fire,\nAs the smell of smoke and laughter fill the air, a soul's desire.\n\nFor in this meadow, time is currency, measured in tokens so fine,\nA fee for living, sensing, loving, and connecting eternally aligned.\nIn this rarefied air, we breathe, we move, we last,\nAs ephemeral as the white of the wind, forever gone, yet forever to return, at last.\n\nIn this primal scene, where the call of life resounds,\nA delicious sense of wonder waits, like the taste of sweetness unbound.",
+      "generatedAt": "2026-06-17T12:42:05.900Z"
+    },
+    "keywords": [
+      {
+        "word": "wagon",
+        "slot": 427072082,
+        "source": "blockhash"
+      },
+      {
+        "word": "hybrid",
+        "slot": 427072082,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "goddess",
+        "slot": 427072082,
+        "source": "transaction"
+      },
+      {
+        "word": "bulk",
+        "slot": 427054082,
+        "source": "blockhash"
+      },
+      {
+        "word": "supply",
+        "slot": 427054082,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "rail",
+        "slot": 427054082,
+        "source": "transaction"
+      },
+      {
+        "word": "cabbage",
+        "slot": 427036082,
+        "source": "blockhash"
+      },
+      {
+        "word": "cute",
+        "slot": 427036082,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "vanish",
+        "slot": 427036082,
+        "source": "transaction"
+      },
+      {
+        "word": "couple",
+        "slot": 427018082,
+        "source": "blockhash"
+      },
+      {
+        "word": "mobile",
+        "slot": 427018082,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tide",
+        "slot": 427018082,
+        "source": "transaction"
+      },
+      {
+        "word": "bacon",
+        "slot": 427000082,
+        "source": "blockhash"
+      },
+      {
+        "word": "fee",
+        "slot": 427000082,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "toilet",
+        "slot": 427000082,
+        "source": "transaction"
+      },
+      {
+        "word": "fossil",
+        "slot": 426982082,
+        "source": "previousBlockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3moidliuw3c22",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-16",
     "poem": {
       "content": "In the chase of innovation's dream,\nA vaporous trail leaves the seeker's scheme,\nSeeking input from the minds of old,\nTo forge a path where none has been told.\n\nThrough dirt and grime, the journey's made,\nA title granted to the brave who've staked,\nTheir hearts and souls to convince the bold,\nThat growth is possible, though the path is cold.\n\nIn this chaotic game of give and take,\nDisorder reigns, yet beauty may awake,\nA figure emerges from the fog and dust,\nA beacon of hope, to guide the just.\n\nThe grant of wisdom, knowledge and might,\nGathers momentum, and ignites the light,\nTo bring the light to banish endless night,\nAnd give the heart a reason to take flight.\n\nSince dawn, the alpha wolves have roamed,\nHunting for truth, in the depths unknown,\nFollowing leads, through labyrinths old,\nTo find the promised land, where hearts are made of gold.\n\nBut still, the whispers of doubt and fear,\nA skeptic's voice, that dare not come near,\nTo pry and question the hearts that don't belong,\nAnd what it means to truly, be at home.\n\nYet, the casual observer shakes their head,\nAs futures unfurl, where players are freed,\nTo game the system, to test and explore,\nAnd in the disorder, find the beauty they've been looking for.",
@@ -2577,94 +2670,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mm24utcfyb2b",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-16",
-    "poem": {
-      "content": "A **basic** need, a frantic **demand**,\nHe teetered on the **cliff**, a trembling hand.\nA **weasel** thought, so dark and swift,\nTo watch him fall, a tragic gift.\n\nHe felt the world was **upset**, wrong,\nLike a summer **tomato**, never strong.\nHe’d crawl away to **hospital** walls,\nWhere sterile comfort often palls.\n\nAnother **month** of muted cries,\nAnother hollow, haunted sunrise.\nHe’d **ask** for help, a fragile plea,\nBut silence answered, cutting free.\n\nHe'd **plug** the holes with shards of hope,\nAnd bind the wounds with fraying **tape**.\nA barren **resource**, his soul laid bare,\nWhile phantom worries filled the air.\n\nA **hedgehog** curled against the chill,\nBeneath a vine of sickly **green**,\nA silent witness, standing still.\nNo way to **multiply** what might have been.",
-      "generatedAt": "2026-05-16T10:05:18.822Z"
-    },
-    "keywords": [
-      {
-        "word": "weasel",
-        "slot": 420097791,
-        "source": "blockhash"
-      },
-      {
-        "word": "basic",
-        "slot": 420097791,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "upset",
-        "slot": 420097791,
-        "source": "transaction"
-      },
-      {
-        "word": "cliff",
-        "slot": 420079791,
-        "source": "blockhash"
-      },
-      {
-        "word": "demand",
-        "slot": 420079791,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "hospital",
-        "slot": 420079791,
-        "source": "transaction"
-      },
-      {
-        "word": "plug",
-        "slot": 420061791,
-        "source": "blockhash"
-      },
-      {
-        "word": "tape",
-        "slot": 420061791,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "resource",
-        "slot": 420061791,
-        "source": "transaction"
-      },
-      {
-        "word": "multiply",
-        "slot": 420043791,
-        "source": "blockhash"
-      },
-      {
-        "word": "month",
-        "slot": 420043791,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ask",
-        "slot": 420043791,
-        "source": "transaction"
-      },
-      {
-        "word": "tomato",
-        "slot": 420025791,
-        "source": "blockhash"
-      },
-      {
-        "word": "green",
-        "slot": 420025791,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "hedgehog",
-        "slot": 420025791,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mlxlvqkzrs2u",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
