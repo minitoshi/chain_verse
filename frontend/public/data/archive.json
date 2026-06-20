@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-06-20",
+    "poem": {
+      "content": "In the vast expanse of code and stone,\nA marriage of logic and form is sown.\nThe able minds of innovators entwine,\nWeaving a tapestry of digital design.\n\nA catalog of transactions, a ledger so fine,\nRecords each move, a testament to time.\nA tip of the hat to the critics who judge and sway,\nTheir words a gauge of the project's pace each day.\n\nIn this realm of ones and zeroes, an eternal test,\nLies the basic puzzle of trust and faith invested.\nThe orbit of Solana's sphere is vast and wide,\nA buffalo that roams, untamed, with power inside.\n\nThe critic's voice, a discordant note, is heard,\nPinning down the flaws, the imperfections unfurred.\nThe minimum stake, a price to pay for the ride,\nA gamble of sorts, where fortunes may slide.\n\nYet, in the void, a spark of joy does glow,\nA light that guides, a beacon to show the path to know.\nLike a giant, the system stands, untamed and free,\nA puzzle of code, a wonder to see.\n\nThe collectors of gems, they search and strive,\nCollecting the masterpieces, the stones that thrive.\nTheir art, a reflection of the code's own heart,\nA dance between light and darkness, a delicate start.\n\nIn the orbit of Solana's sphere, I find my place,\nA landing spot, a home for the digital space.\nWhere the marriage of logic and art entwines,\nA union of code and soul, an eternal, cosmic shrine.",
+      "generatedAt": "2026-06-20T11:05:08.821Z"
+    },
+    "keywords": [
+      {
+        "word": "able",
+        "slot": 427710943,
+        "source": "blockhash"
+      },
+      {
+        "word": "catalog",
+        "slot": 427710943,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "marriage",
+        "slot": 427710943,
+        "source": "transaction"
+      },
+      {
+        "word": "tip",
+        "slot": 427692943,
+        "source": "blockhash"
+      },
+      {
+        "word": "eternal",
+        "slot": 427692943,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "merge",
+        "slot": 427692943,
+        "source": "transaction"
+      },
+      {
+        "word": "critic",
+        "slot": 427674943,
+        "source": "blockhash"
+      },
+      {
+        "word": "minimum",
+        "slot": 427674943,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "orbit",
+        "slot": 427674943,
+        "source": "transaction"
+      },
+      {
+        "word": "basic",
+        "slot": 427656943,
+        "source": "blockhash"
+      },
+      {
+        "word": "puzzle",
+        "slot": 427656943,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "joy",
+        "slot": 427656943,
+        "source": "transaction"
+      },
+      {
+        "word": "giant",
+        "slot": 427638943,
+        "source": "blockhash"
+      },
+      {
+        "word": "gauge",
+        "slot": 427638943,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "buffalo",
+        "slot": 427638943,
+        "source": "transaction"
+      },
+      {
+        "word": "collect",
+        "slot": 427620943,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3moppkvvcwg2z",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-19",
     "poem": {
       "content": "In the middle of darkness, where shadows reside,\nA lone exchange takes place, where hearts abide,\nTwo souls, a distance apart, with longing eyes,\nSeek to bridge the gap, and reach the other's skies.\n\nBut the wage of love is scattered, lost in the void,\nEach hour a reminder, of the love that's employed,\nIn a garage of memories, where old dreams sleep,\nThe whispers of what could be, the regrets that creep.\n\nEither path leads to uncertainty,\nA rickety wagon, bearing the weight of destiny,\nBut color seeps into the cracks, of a life gone astray,\nA vibrant hue that whispers, \"hold on, just a little way\".\n\nIn this dance of longing, where steps are unsure,\nI lose myself, in the rhythm, of what I desire,\nA wish to overcome, the weight of yesterday,\nTo drive away the shadows, and let love stay.\n\nBut like a drink, that's savored, slow and cold,\nLife's bitter undertones, begin to unfold,\nIn a group of starred destiny, our fates entwine,\nThe demand for love is fed, by the taste of what's divine.\n\nThe farther we draw, from the safety of the shore,\nThe more I yearn to find, the anchor I adore,\nThe proper harbor, where love's sentinels stand,\nThe monuments of moments, that silently unfold in this land.",
@@ -2592,94 +2685,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmbsz4wvd62p",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-19",
-    "poem": {
-      "content": "The sunset bled, a richness I could not attain,\na judge within demanded I divorce the fat.\nI rely on patterns, music in the code,\na slow unfurling, settling dust and doubt.\n\nSo few remain who understand the art,\nthe artwork locked in chains, a digital domain.\nSure, the amount seems vast, a hopeful sign,\nbut underneath, a virus starts to creep.\n\nA sock pulled tight, a fragile, threadbare hope,\nagainst the chill, against the coming night.\nThe rich will whisper promises untold,\nbut shadows lengthen, and the story's old.\n\nI see it now, this dance of light and shade,\na slow descent, a future pre-betrayed.\nThough few may see, the truth begins to bloom,\nescape the virus doom, shake off the coming gloom.\n\nPerhaps this time, reliance will be kind.",
-      "generatedAt": "2026-05-19T11:50:35.482Z"
-    },
-    "keywords": [
-      {
-        "word": "rely",
-        "slot": 420763914,
-        "source": "blockhash"
-      },
-      {
-        "word": "music",
-        "slot": 420763914,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "amount",
-        "slot": 420763914,
-        "source": "transaction"
-      },
-      {
-        "word": "divorce",
-        "slot": 420745914,
-        "source": "blockhash"
-      },
-      {
-        "word": "sock",
-        "slot": 420745914,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "virus",
-        "slot": 420745914,
-        "source": "transaction"
-      },
-      {
-        "word": "sunset",
-        "slot": 420727914,
-        "source": "blockhash"
-      },
-      {
-        "word": "fat",
-        "slot": 420727914,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "rich",
-        "slot": 420727914,
-        "source": "transaction"
-      },
-      {
-        "word": "artwork",
-        "slot": 420709914,
-        "source": "blockhash"
-      },
-      {
-        "word": "judge",
-        "slot": 420709914,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "slow",
-        "slot": 420709914,
-        "source": "transaction"
-      },
-      {
-        "word": "settle",
-        "slot": 420691914,
-        "source": "blockhash"
-      },
-      {
-        "word": "sure",
-        "slot": 420691914,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "few",
-        "slot": 420691914,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mm7d6qtrxa2c",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
