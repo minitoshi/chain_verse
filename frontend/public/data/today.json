@@ -1,92 +1,92 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "poem": {
-    "content": "In the jungle of the net, a jaguar stalks\nWith a host of virtual connections at its walks\nA mist of beauty clings to its every step\nAs it navigates the realm where crypto's token's depth\n\nIt swipes a digital cigar, a symbol of its might\nA uniform code, a cloak of anonymity tonight\nA cushion of solace wraps around its data throne\nAs it glides through wallets, seeking Satoshi's unknown\n\nBut as the swamp of slush envelops the digital plane\nThe jaguar's eyes grow weary, its reflexes in pain\nIt seeks the warmth of the kitchen, where love resides\nA reminder of the need to shield its digital hide\n\nA lazy day unfurls, with virtual walks in sun\nA time for rest, for quiet contemplation, and learning won\nBut as it meditates, a filter flickers on its screen\nA message whispers next, a hint of the future unseen\n\nA blanket of calm wraps round the jaguar's form\nAs it absorbs the lessons of the virtual storm\nThe world's noise dwindles to a gentle hum\nAnd in the silence, the jaguar finds its inner beauty's bloom",
-    "generatedAt": "2026-06-21T11:36:30.813Z"
+    "content": "In secret gardens, hidden deep\nWhere the bamboo whispers secrets, soft and creep\nA lone bean sprouts, its tender skin\nUnfurling dreams, like a lover's gentle kin\n\nNearby, a skull lies, bleached and gray\nA token of the cycle, night and day\nIts hollow eyes, a window to the soul\nA mirror reflecting the mysteries we hold\n\nIn this quiet space, a file lies open\nA map of paths, a chart of wanderings, and the reason\nFor the tuna's silver scales, that shimmer bright\nAs it glides through waters, with a gentle might\n\nBut in the distance, a cluster forms\nA gathering of like minds, a symphony of norms\nTheir change is swift, like a summer breeze\nAs they adapt, and grow, with the seasons' ease\n\nTheir source is ancient, a wellspring deep\nWhere the keen insight of the past, their futures keep\nIn a bundle of threads, their stories are told\nOf trials and triumphs, of moments bold\n\nBut in the swamp of doubt, where fears reside\nThey must be brave, and let their spirits glide\nFor in the census of hearts, where love is the test\nThey must be willing to alter, and find their best\n\nLike a bounce of joy, that echoes through the night\nTheir laughter resounds, a symphony of delight\nA celebration of life, in all its hues\nA dance with the unknown, with a brave and curious muse.",
+    "generatedAt": "2026-06-22T14:19:38.767Z"
   },
   "keywords": [
     {
-      "word": "jaguar",
-      "slot": 427933199,
+      "word": "train",
+      "slot": 428175082,
       "source": "blockhash"
     },
     {
-      "word": "host",
-      "slot": 427933199,
+      "word": "bamboo",
+      "slot": 428175082,
       "source": "previousBlockhash"
     },
     {
-      "word": "blanket",
-      "slot": 427933199,
+      "word": "bean",
+      "slot": 428175082,
       "source": "transaction"
     },
     {
-      "word": "beauty",
-      "slot": 427915199,
+      "word": "skull",
+      "slot": 428157082,
       "source": "blockhash"
     },
     {
-      "word": "walk",
-      "slot": 427915199,
+      "word": "file",
+      "slot": 428157082,
       "source": "previousBlockhash"
     },
     {
-      "word": "cigar",
-      "slot": 427915199,
+      "word": "tuna",
+      "slot": 428157082,
       "source": "transaction"
     },
     {
-      "word": "uniform",
-      "slot": 427897199,
+      "word": "cluster",
+      "slot": 428139082,
       "source": "blockhash"
     },
     {
-      "word": "cushion",
-      "slot": 427897199,
+      "word": "change",
+      "slot": 428139082,
       "source": "previousBlockhash"
     },
     {
-      "word": "satoshi",
-      "slot": 427897199,
+      "word": "source",
+      "slot": 428139082,
       "source": "transaction"
     },
     {
-      "word": "lazy",
-      "slot": 427879199,
+      "word": "keen",
+      "slot": 428121082,
       "source": "blockhash"
     },
     {
-      "word": "next",
-      "slot": 427879199,
+      "word": "bundle",
+      "slot": 428121082,
       "source": "previousBlockhash"
     },
     {
-      "word": "filter",
-      "slot": 427879199,
+      "word": "alter",
+      "slot": 428121082,
       "source": "transaction"
     },
     {
-      "word": "slush",
-      "slot": 427861199,
+      "word": "bounce",
+      "slot": 428103082,
       "source": "blockhash"
     },
     {
-      "word": "kitchen",
-      "slot": 427861199,
+      "word": "swamp",
+      "slot": 428103082,
       "source": "previousBlockhash"
     },
     {
-      "word": "need",
-      "slot": 427861199,
+      "word": "census",
+      "slot": 428103082,
       "source": "transaction"
     },
     {
-      "word": "learn",
-      "slot": 427843199,
+      "word": "brave",
+      "slot": 428085082,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mosbrwxwrf2t",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mov3ekhpfb2i",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
