@@ -1,92 +1,92 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "poem": {
-    "content": "In secret gardens, hidden deep\nWhere the bamboo whispers secrets, soft and creep\nA lone bean sprouts, its tender skin\nUnfurling dreams, like a lover's gentle kin\n\nNearby, a skull lies, bleached and gray\nA token of the cycle, night and day\nIts hollow eyes, a window to the soul\nA mirror reflecting the mysteries we hold\n\nIn this quiet space, a file lies open\nA map of paths, a chart of wanderings, and the reason\nFor the tuna's silver scales, that shimmer bright\nAs it glides through waters, with a gentle might\n\nBut in the distance, a cluster forms\nA gathering of like minds, a symphony of norms\nTheir change is swift, like a summer breeze\nAs they adapt, and grow, with the seasons' ease\n\nTheir source is ancient, a wellspring deep\nWhere the keen insight of the past, their futures keep\nIn a bundle of threads, their stories are told\nOf trials and triumphs, of moments bold\n\nBut in the swamp of doubt, where fears reside\nThey must be brave, and let their spirits glide\nFor in the census of hearts, where love is the test\nThey must be willing to alter, and find their best\n\nLike a bounce of joy, that echoes through the night\nTheir laughter resounds, a symphony of delight\nA celebration of life, in all its hues\nA dance with the unknown, with a brave and curious muse.",
-    "generatedAt": "2026-06-22T14:19:38.767Z"
+    "content": "On the floor of the dune, where sunbeams play,\nA solitary elephant wanders, lost in disarray.\nIt's as if the ground beneath it has split,\nRevealing a chasm of doubt and regret's bitter pit.\n\nIt's been a long time since the divorce was final,\nThe papers signed, the accounts all said and done.\nBut still, the elephant asks, \"Is this really how it should be?\nCan I find my way around this new reality?\"\n\nConsider the coin that's flipped, the outcome unsure,\nPossible paths unfolding like a labyrinth, unclear.\nIt's hard to know which way to go, to find the right pace,\nWhen the future's uncertain, and the present's a troubled space.\n\nThe elephant takes a tumble, its trunk waving in air,\nAs it stumbles upon a nut, hidden, yet still there.\nA small reminder that even in darkness, there's a glimmer of light,\nA chance to find a new path, to make things right.\n\nBut still, the question lingers, about the past, about the pain,\nAbout the choices made, and the love that's lost in vain.\nIt's hard to laugh when the heart is heavy with sorrow,\nWhen the memories of what's been lost still linger, like a shadow.\n\nYet, the elephant gets up, its spirit unbroken,\nAnd starts to move forward, its steps determined, unspoken.\nFor even in the darkest night, there's a chance to start anew,\nTo find a way around the heartache, and a path that's true.",
+    "generatedAt": "2026-06-23T11:48:51.732Z"
   },
   "keywords": [
     {
-      "word": "train",
-      "slot": 428175082,
+      "word": "floor",
+      "slot": 428368921,
       "source": "blockhash"
     },
     {
-      "word": "bamboo",
-      "slot": 428175082,
+      "word": "divorce",
+      "slot": 428368921,
       "source": "previousBlockhash"
     },
     {
-      "word": "bean",
-      "slot": 428175082,
+      "word": "around",
+      "slot": 428368921,
       "source": "transaction"
     },
     {
-      "word": "skull",
-      "slot": 428157082,
+      "word": "consider",
+      "slot": 428350921,
       "source": "blockhash"
     },
     {
-      "word": "file",
-      "slot": 428157082,
+      "word": "account",
+      "slot": 428350921,
       "source": "previousBlockhash"
     },
     {
-      "word": "tuna",
-      "slot": 428157082,
+      "word": "elephant",
+      "slot": 428350921,
       "source": "transaction"
     },
     {
-      "word": "cluster",
-      "slot": 428139082,
+      "word": "race",
+      "slot": 428332921,
       "source": "blockhash"
     },
     {
-      "word": "change",
-      "slot": 428139082,
+      "word": "possible",
+      "slot": 428332921,
       "source": "previousBlockhash"
     },
     {
-      "word": "source",
-      "slot": 428139082,
+      "word": "split",
+      "slot": 428332921,
       "source": "transaction"
     },
     {
-      "word": "keen",
-      "slot": 428121082,
+      "word": "nut",
+      "slot": 428314921,
       "source": "blockhash"
     },
     {
-      "word": "bundle",
-      "slot": 428121082,
+      "word": "ask",
+      "slot": 428314921,
       "source": "previousBlockhash"
     },
     {
-      "word": "alter",
-      "slot": 428121082,
+      "word": "coin",
+      "slot": 428314921,
       "source": "transaction"
     },
     {
-      "word": "bounce",
-      "slot": 428103082,
+      "word": "about",
+      "slot": 428296921,
       "source": "blockhash"
     },
     {
-      "word": "swamp",
-      "slot": 428103082,
+      "word": "dune",
+      "slot": 428296921,
       "source": "previousBlockhash"
     },
     {
-      "word": "census",
-      "slot": 428103082,
+      "word": "tumble",
+      "slot": 428296921,
       "source": "transaction"
     },
     {
-      "word": "brave",
-      "slot": 428085082,
+      "word": "laugh",
+      "slot": 428278921,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mov3ekhpfb2i",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3moxdfthbqh22",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
