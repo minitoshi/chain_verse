@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-06-24",
+    "poem": {
+      "content": "In the hub of town, where waters did unfold,\nA myth took shape, a tale of old,\nA veteran doctor, with hands so fine,\nGazed out upon the waves, where humans did divine.\n\nHe'd seen the claim, the dream, the strife,\nThe major struggles for a better life,\nBut one thing stood clear, a truth so plain,\nThe power of the ocean, its waves' sweet refrain.\n\nWith wing-like sails, ships would start to glide,\nTheir paths were marked, the course to abide,\nThrough treacherous waters, where danger did reside,\nThe doctor's heart remained, a calm inside.\n\nHe saw the detail, of each separate fate,\nThe paths that intersected, creating an intricate state,\nA web of lives, that touched and intertwined as one,\n Each thread a story, forever sewn.\n\nBut as the tide turned, and waves began to rise,\nThe divide between land and sea would compromise,\nThe calm within, would start to take flight,\nAnd panic spread, like ripples on the bright blue night.\n\nIn these dark moments, humans would realize,\nThat fear and doubt, their minds could compromise,\nTheir swim, their battle, against the undertow,\nTheir will to strive, to find the next line to know.\n\nYet still the doctor stood, a lighthouse beam,\nGuiding his town, through the turbulent dream,\nA symbol of hope, where hearts could take a breath,\nAnd find the fitness to face life's turbulent depth.\n\nThe waves subsided, and the calm did return,\nThe town awoke, with its beauty reborn,\nThe doctor's words, still echoed through the air,\nA reminder of balance, beyond the foam and care.",
+      "generatedAt": "2026-06-24T11:34:49.297Z"
+    },
+    "keywords": [
+      {
+        "word": "claim",
+        "slot": 428582701,
+        "source": "blockhash"
+      },
+      {
+        "word": "doctor",
+        "slot": 428582701,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "human",
+        "slot": 428582701,
+        "source": "transaction"
+      },
+      {
+        "word": "wing",
+        "slot": 428564701,
+        "source": "blockhash"
+      },
+      {
+        "word": "veteran",
+        "slot": 428564701,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hub",
+        "slot": 428564701,
+        "source": "transaction"
+      },
+      {
+        "word": "detail",
+        "slot": 428546701,
+        "source": "blockhash"
+      },
+      {
+        "word": "major",
+        "slot": 428546701,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "divide",
+        "slot": 428546701,
+        "source": "transaction"
+      },
+      {
+        "word": "swim",
+        "slot": 428528701,
+        "source": "blockhash"
+      },
+      {
+        "word": "alert",
+        "slot": 428528701,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fitness",
+        "slot": 428528701,
+        "source": "transaction"
+      },
+      {
+        "word": "foam",
+        "slot": 428510701,
+        "source": "blockhash"
+      },
+      {
+        "word": "town",
+        "slot": 428510701,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "myth",
+        "slot": 428510701,
+        "source": "transaction"
+      },
+      {
+        "word": "slice",
+        "slot": 428492701,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mozt3nq6372k",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-23",
     "poem": {
       "content": "On the floor of the dune, where sunbeams play,\nA solitary elephant wanders, lost in disarray.\nIt's as if the ground beneath it has split,\nRevealing a chasm of doubt and regret's bitter pit.\n\nIt's been a long time since the divorce was final,\nThe papers signed, the accounts all said and done.\nBut still, the elephant asks, \"Is this really how it should be?\nCan I find my way around this new reality?\"\n\nConsider the coin that's flipped, the outcome unsure,\nPossible paths unfolding like a labyrinth, unclear.\nIt's hard to know which way to go, to find the right pace,\nWhen the future's uncertain, and the present's a troubled space.\n\nThe elephant takes a tumble, its trunk waving in air,\nAs it stumbles upon a nut, hidden, yet still there.\nA small reminder that even in darkness, there's a glimmer of light,\nA chance to find a new path, to make things right.\n\nBut still, the question lingers, about the past, about the pain,\nAbout the choices made, and the love that's lost in vain.\nIt's hard to laugh when the heart is heavy with sorrow,\nWhen the memories of what's been lost still linger, like a shadow.\n\nYet, the elephant gets up, its spirit unbroken,\nAnd starts to move forward, its steps determined, unspoken.\nFor even in the darkest night, there's a chance to start anew,\nTo find a way around the heartache, and a path that's true.",
@@ -2612,94 +2705,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmlqo6mmos2c",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-23",
-    "poem": {
-      "content": "The brisk wind whispers of a crash to come,\na worry gnawing, like a digital mouse,\nat the loyal heart, the human drum.\n\nSince then, the elders gather, shadows deep,\na moral question hangs, a legal fight,\na lawsuit blooming where the harvests sleep.\n\nThe wedding bells, a faded, joyful sound,\na promise broken, futures rearranged,\nas success turned brittle, hitting ground\n\nwith sharp-edged pieces, scattered in the dust.\nA message lost, a reason hard to find,\na hurried leave, betraying fading trust.\n\nThe bride, a statue, watches someone depart,\nher bouquet wilting, colors turning gray,\nwhile brittle memories tear the heart apart.\n\nTo renew hope, a phoenix must arise,\nfrom ashes of the old, a brighter morn',\na cleaner slate before our very eyes.",
-      "generatedAt": "2026-05-23T10:18:14.669Z"
-    },
-    "keywords": [
-      {
-        "word": "crash",
-        "slot": 421615267,
-        "source": "blockhash"
-      },
-      {
-        "word": "loyal",
-        "slot": 421615267,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "wedding",
-        "slot": 421615267,
-        "source": "transaction"
-      },
-      {
-        "word": "lawsuit",
-        "slot": 421597267,
-        "source": "blockhash"
-      },
-      {
-        "word": "moral",
-        "slot": 421597267,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "brisk",
-        "slot": 421597267,
-        "source": "transaction"
-      },
-      {
-        "word": "success",
-        "slot": 421579267,
-        "source": "blockhash"
-      },
-      {
-        "word": "depart",
-        "slot": 421579267,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "mouse",
-        "slot": 421579267,
-        "source": "transaction"
-      },
-      {
-        "word": "worry",
-        "slot": 421561267,
-        "source": "blockhash"
-      },
-      {
-        "word": "renew",
-        "slot": 421561267,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "human",
-        "slot": 421561267,
-        "source": "transaction"
-      },
-      {
-        "word": "elder",
-        "slot": 421543267,
-        "source": "blockhash"
-      },
-      {
-        "word": "message",
-        "slot": 421543267,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "since",
-        "slot": 421543267,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmj7vcphsd2a",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
