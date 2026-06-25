@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-06-25",
+    "poem": {
+      "content": "In the depths of a volcano's fiery core,\nA primal energy stirs, evermore.\nA monkey's call echoes, wild and free,\nA primal scream that reverberates through me.\n\nLike a push on the market's rising slope,\nIt gains momentum, a boost to the scope,\nA force that propels us to ever-shine,\nA radiant light that whispers, \"You are divine.\"\n\nYet in this void, a hole seems to gape,\nA chasm-wide craving that our souls escape,\nA pigeon's faint coo, a gentle clue,\nTo fill the emptiness we all pursue.\n\nIn this trial by fire, I find my test,\nTo resist the treacherous, winding nest,\nThat cradles me with false comforts deep,\nA rubber lease on life that presses sleep.\n\nA simple act of donate, a gift of the heart,\nCan bridgethe gap and play its part,\nIn bridging love and space and peaceful spheres,\nWhere emotions swirl and joyful tears appear.\n\nBut then I'm forced to choose, to decide,\nEither for the darkness or the radiant tide,\nThe monkey's call, a gentle, healing refrain,\nEchoes within, a reminder of life's deeper strain.\n\nIn this ellipse of doubt, a peaceful place,\nI find solace in the energy of my space,\nA vortex swirling, yet its center still,\nA calm within the maelstrom's bills.",
+      "generatedAt": "2026-06-25T11:34:29.561Z"
+    },
+    "keywords": [
+      {
+        "word": "volcano",
+        "slot": 428797302,
+        "source": "blockhash"
+      },
+      {
+        "word": "energy",
+        "slot": 428797302,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "monkey",
+        "slot": 428797302,
+        "source": "transaction"
+      },
+      {
+        "word": "boost",
+        "slot": 428779302,
+        "source": "blockhash"
+      },
+      {
+        "word": "resist",
+        "slot": 428779302,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "market",
+        "slot": 428779302,
+        "source": "transaction"
+      },
+      {
+        "word": "pigeon",
+        "slot": 428761302,
+        "source": "blockhash"
+      },
+      {
+        "word": "grab",
+        "slot": 428761302,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hole",
+        "slot": 428761302,
+        "source": "transaction"
+      },
+      {
+        "word": "sphere",
+        "slot": 428743302,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "double",
+        "slot": 428743302,
+        "source": "transaction"
+      },
+      {
+        "word": "donate",
+        "slot": 428725302,
+        "source": "blockhash"
+      },
+      {
+        "word": "trial",
+        "slot": 428725302,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "rubber",
+        "slot": 428725302,
+        "source": "transaction"
+      },
+      {
+        "word": "void",
+        "slot": 428707302,
+        "source": "blockhash"
+      },
+      {
+        "word": "either",
+        "slot": 428707302,
+        "source": "previousBlockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mp4djxkcyg22",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-24",
     "poem": {
       "content": "In the hub of town, where waters did unfold,\nA myth took shape, a tale of old,\nA veteran doctor, with hands so fine,\nGazed out upon the waves, where humans did divine.\n\nHe'd seen the claim, the dream, the strife,\nThe major struggles for a better life,\nBut one thing stood clear, a truth so plain,\nThe power of the ocean, its waves' sweet refrain.\n\nWith wing-like sails, ships would start to glide,\nTheir paths were marked, the course to abide,\nThrough treacherous waters, where danger did reside,\nThe doctor's heart remained, a calm inside.\n\nHe saw the detail, of each separate fate,\nThe paths that intersected, creating an intricate state,\nA web of lives, that touched and intertwined as one,\n Each thread a story, forever sewn.\n\nBut as the tide turned, and waves began to rise,\nThe divide between land and sea would compromise,\nThe calm within, would start to take flight,\nAnd panic spread, like ripples on the bright blue night.\n\nIn these dark moments, humans would realize,\nThat fear and doubt, their minds could compromise,\nTheir swim, their battle, against the undertow,\nTheir will to strive, to find the next line to know.\n\nYet still the doctor stood, a lighthouse beam,\nGuiding his town, through the turbulent dream,\nA symbol of hope, where hearts could take a breath,\nAnd find the fitness to face life's turbulent depth.\n\nThe waves subsided, and the calm did return,\nThe town awoke, with its beauty reborn,\nThe doctor's words, still echoed through the air,\nA reminder of balance, beyond the foam and care.",
@@ -2617,94 +2710,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmohefs6ry2q",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-24",
-    "poem": {
-      "content": "A quantum theory, whispered in the void,\nwhere shadows hover, truths yet to be deployed.\nA hundred faces, rotating into view,\na reunion's drama, both false and true.\n\nThe brick wall crumbles, secrets start to wash,\nover memories, a silent, breathless dash.\nA piano weeps, a melody forlorn,\ntalent wasted, wishes left unborn.\n\nThe fruit rots slowly, a cube of jade concealed,\nfate's cruel jest, existence unrevealed.\nIn this dimension, where light begins to fray,\nwe cleanse the soul, before we fade away.\n\nDreams dash across the mental screen,\nA hundred thoughts, a hollow scene.\nThe piano's song can't fill the void,\nWhere quantum lives are now destroyed.\n\nWe rotate slowly, towards the great unknown,\ntalents scattered, seeds that are now sown.\nWe hover briefly, then begin to wash away,\nUntil the next brick, and the never ending day.",
-      "generatedAt": "2026-05-24T10:23:48.648Z"
-    },
-    "keywords": [
-      {
-        "word": "hover",
-        "slot": 421832751,
-        "source": "blockhash"
-      },
-      {
-        "word": "piano",
-        "slot": 421832751,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "hundred",
-        "slot": 421832751,
-        "source": "transaction"
-      },
-      {
-        "word": "theory",
-        "slot": 421814751,
-        "source": "blockhash"
-      },
-      {
-        "word": "cube",
-        "slot": 421814751,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "wash",
-        "slot": 421814751,
-        "source": "transaction"
-      },
-      {
-        "word": "drama",
-        "slot": 421796751,
-        "source": "blockhash"
-      },
-      {
-        "word": "void",
-        "slot": 421796751,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "quantum",
-        "slot": 421796751,
-        "source": "transaction"
-      },
-      {
-        "word": "dash",
-        "slot": 421778751,
-        "source": "blockhash"
-      },
-      {
-        "word": "rotate",
-        "slot": 421778751,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "reunion",
-        "slot": 421778751,
-        "source": "transaction"
-      },
-      {
-        "word": "fruit",
-        "slot": 421760751,
-        "source": "blockhash"
-      },
-      {
-        "word": "talent",
-        "slot": 421760751,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "brick",
-        "slot": 421760751,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmlqo6mmos2c",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
