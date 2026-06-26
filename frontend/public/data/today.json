@@ -1,92 +1,92 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "poem": {
-    "content": "In the depths of a volcano's fiery core,\nA primal energy stirs, evermore.\nA monkey's call echoes, wild and free,\nA primal scream that reverberates through me.\n\nLike a push on the market's rising slope,\nIt gains momentum, a boost to the scope,\nA force that propels us to ever-shine,\nA radiant light that whispers, \"You are divine.\"\n\nYet in this void, a hole seems to gape,\nA chasm-wide craving that our souls escape,\nA pigeon's faint coo, a gentle clue,\nTo fill the emptiness we all pursue.\n\nIn this trial by fire, I find my test,\nTo resist the treacherous, winding nest,\nThat cradles me with false comforts deep,\nA rubber lease on life that presses sleep.\n\nA simple act of donate, a gift of the heart,\nCan bridgethe gap and play its part,\nIn bridging love and space and peaceful spheres,\nWhere emotions swirl and joyful tears appear.\n\nBut then I'm forced to choose, to decide,\nEither for the darkness or the radiant tide,\nThe monkey's call, a gentle, healing refrain,\nEchoes within, a reminder of life's deeper strain.\n\nIn this ellipse of doubt, a peaceful place,\nI find solace in the energy of my space,\nA vortex swirling, yet its center still,\nA calm within the maelstrom's bills.",
-    "generatedAt": "2026-06-25T11:34:29.561Z"
+    "content": "In twilight's hush, where shadows play,\nA negative gaze casts its dark ray,\nUpon a quarter moon, a glowing face,\nLies pumpkin-patched, in a desolate place.\n\nA custom home, once warm and bright,\nNow stands abandoned, in the pale light,\nThe mail, a silent witness, stacks high,\nA testament to memories that have died.\n\nA mother's term of love, now lost and cold,\nEchoes through the halls, where laughter's grown old,\nA hawk's sharp cry, cuts through the air,\nAs I search for answers, beyond despair.\n\nWealth, a fleeting dream, that whispers sweet,\nA promise of security, that my heart will keep,\nBut I must ensure, that my spirit remains free,\nFrom the chains of doubt, that bind me.\n\nIn the stillness, a frog's soft song,\nA soothing melody, that calms my throng,\nBut then a sound, that makes me upset,\nA reminder of all, that I've neglected.\n\nA bright light flickers, in the distance wide,\nA beacon of hope, that guides me inside,\nThe darkness slowly recedes, as I take a stand,\nAnd in its place, a new path unfolds, through this land.\n\nNothing is certain, yet I must begin,\nTo find my way, through the darkness within,\nFor in the end, it's not the wealth I own,\nBut the brightness of my heart, that will be my own.",
+    "generatedAt": "2026-06-26T11:35:27.340Z"
   },
   "keywords": [
     {
-      "word": "volcano",
-      "slot": 428797302,
+      "word": "negative",
+      "slot": 429013304,
       "source": "blockhash"
     },
     {
-      "word": "energy",
-      "slot": 428797302,
+      "word": "quarter",
+      "slot": 429013304,
       "source": "previousBlockhash"
     },
     {
-      "word": "monkey",
-      "slot": 428797302,
+      "word": "pumpkin",
+      "slot": 429013304,
       "source": "transaction"
     },
     {
-      "word": "boost",
-      "slot": 428779302,
+      "word": "custom",
+      "slot": 428995304,
       "source": "blockhash"
     },
     {
-      "word": "resist",
-      "slot": 428779302,
+      "word": "mail",
+      "slot": 428995304,
       "source": "previousBlockhash"
     },
     {
-      "word": "market",
-      "slot": 428779302,
+      "word": "term",
+      "slot": 428995304,
       "source": "transaction"
     },
     {
-      "word": "pigeon",
-      "slot": 428761302,
+      "word": "mother",
+      "slot": 428977304,
       "source": "blockhash"
     },
     {
-      "word": "grab",
-      "slot": 428761302,
+      "word": "hawk",
+      "slot": 428977304,
       "source": "previousBlockhash"
     },
     {
-      "word": "hole",
-      "slot": 428761302,
+      "word": "wealth",
+      "slot": 428977304,
       "source": "transaction"
     },
     {
-      "word": "sphere",
-      "slot": 428743302,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "double",
-      "slot": 428743302,
-      "source": "transaction"
-    },
-    {
-      "word": "donate",
-      "slot": 428725302,
+      "word": "ensure",
+      "slot": 428959304,
       "source": "blockhash"
     },
     {
-      "word": "trial",
-      "slot": 428725302,
+      "word": "detect",
+      "slot": 428959304,
       "source": "previousBlockhash"
     },
     {
-      "word": "rubber",
-      "slot": 428725302,
+      "word": "nothing",
+      "slot": 428959304,
       "source": "transaction"
     },
     {
-      "word": "void",
-      "slot": 428707302,
+      "word": "bright",
+      "slot": 428941304,
       "source": "blockhash"
     },
     {
-      "word": "either",
-      "slot": 428707302,
+      "word": "other",
+      "slot": 428941304,
       "source": "previousBlockhash"
+    },
+    {
+      "word": "upset",
+      "slot": 428941304,
+      "source": "transaction"
+    },
+    {
+      "word": "frog",
+      "slot": 428923304,
+      "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mp4djxkcyg22",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mp6u2mnpng2x",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

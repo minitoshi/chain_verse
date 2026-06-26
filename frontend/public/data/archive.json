@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-06-26",
+    "poem": {
+      "content": "In twilight's hush, where shadows play,\nA negative gaze casts its dark ray,\nUpon a quarter moon, a glowing face,\nLies pumpkin-patched, in a desolate place.\n\nA custom home, once warm and bright,\nNow stands abandoned, in the pale light,\nThe mail, a silent witness, stacks high,\nA testament to memories that have died.\n\nA mother's term of love, now lost and cold,\nEchoes through the halls, where laughter's grown old,\nA hawk's sharp cry, cuts through the air,\nAs I search for answers, beyond despair.\n\nWealth, a fleeting dream, that whispers sweet,\nA promise of security, that my heart will keep,\nBut I must ensure, that my spirit remains free,\nFrom the chains of doubt, that bind me.\n\nIn the stillness, a frog's soft song,\nA soothing melody, that calms my throng,\nBut then a sound, that makes me upset,\nA reminder of all, that I've neglected.\n\nA bright light flickers, in the distance wide,\nA beacon of hope, that guides me inside,\nThe darkness slowly recedes, as I take a stand,\nAnd in its place, a new path unfolds, through this land.\n\nNothing is certain, yet I must begin,\nTo find my way, through the darkness within,\nFor in the end, it's not the wealth I own,\nBut the brightness of my heart, that will be my own.",
+      "generatedAt": "2026-06-26T11:35:27.340Z"
+    },
+    "keywords": [
+      {
+        "word": "negative",
+        "slot": 429013304,
+        "source": "blockhash"
+      },
+      {
+        "word": "quarter",
+        "slot": 429013304,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "pumpkin",
+        "slot": 429013304,
+        "source": "transaction"
+      },
+      {
+        "word": "custom",
+        "slot": 428995304,
+        "source": "blockhash"
+      },
+      {
+        "word": "mail",
+        "slot": 428995304,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "term",
+        "slot": 428995304,
+        "source": "transaction"
+      },
+      {
+        "word": "mother",
+        "slot": 428977304,
+        "source": "blockhash"
+      },
+      {
+        "word": "hawk",
+        "slot": 428977304,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wealth",
+        "slot": 428977304,
+        "source": "transaction"
+      },
+      {
+        "word": "ensure",
+        "slot": 428959304,
+        "source": "blockhash"
+      },
+      {
+        "word": "detect",
+        "slot": 428959304,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "nothing",
+        "slot": 428959304,
+        "source": "transaction"
+      },
+      {
+        "word": "bright",
+        "slot": 428941304,
+        "source": "blockhash"
+      },
+      {
+        "word": "other",
+        "slot": 428941304,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "upset",
+        "slot": 428941304,
+        "source": "transaction"
+      },
+      {
+        "word": "frog",
+        "slot": 428923304,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mp6u2mnpng2x",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-25",
     "poem": {
       "content": "In the depths of a volcano's fiery core,\nA primal energy stirs, evermore.\nA monkey's call echoes, wild and free,\nA primal scream that reverberates through me.\n\nLike a push on the market's rising slope,\nIt gains momentum, a boost to the scope,\nA force that propels us to ever-shine,\nA radiant light that whispers, \"You are divine.\"\n\nYet in this void, a hole seems to gape,\nA chasm-wide craving that our souls escape,\nA pigeon's faint coo, a gentle clue,\nTo fill the emptiness we all pursue.\n\nIn this trial by fire, I find my test,\nTo resist the treacherous, winding nest,\nThat cradles me with false comforts deep,\nA rubber lease on life that presses sleep.\n\nA simple act of donate, a gift of the heart,\nCan bridgethe gap and play its part,\nIn bridging love and space and peaceful spheres,\nWhere emotions swirl and joyful tears appear.\n\nBut then I'm forced to choose, to decide,\nEither for the darkness or the radiant tide,\nThe monkey's call, a gentle, healing refrain,\nEchoes within, a reminder of life's deeper strain.\n\nIn this ellipse of doubt, a peaceful place,\nI find solace in the energy of my space,\nA vortex swirling, yet its center still,\nA calm within the maelstrom's bills.",
@@ -2622,94 +2715,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmvyt4656r2b",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-25",
-    "poem": {
-      "content": "A glass harbor, where dreams spend,\nAnd shadows own the fading day.\nI cross the threshold, to begin and end,\nWhere even the best words go astray.\n\nMy mind, a walnut, hard to crack,\nHolds pencils dull, and thoughts oblique.\nEquip me, then, to find my track,\nBefore my spirit starts to leak.\n\nThe ocean’s range, a siren call,\nA zero hour, now fully here.\nI feel the claw of something small,\nA hidden truth, a rising fear.\n\nSubmit myself, to what must be,\nThis Soda fountain's fizzy haze.\nAn aerobic rush, consuming me,\nIn fractured nights and sunlit days.\n\nNo harbor’s charm can make amends,\nUntil the past is left behind.\nThe present then forever mends,\nAnd a new world can I then find",
-      "generatedAt": "2026-05-25T12:15:16.189Z"
-    },
-    "keywords": [
-      {
-        "word": "range",
-        "slot": 422065917,
-        "source": "blockhash"
-      },
-      {
-        "word": "claw",
-        "slot": 422065917,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "equip",
-        "slot": 422065917,
-        "source": "transaction"
-      },
-      {
-        "word": "glass",
-        "slot": 422047917,
-        "source": "blockhash"
-      },
-      {
-        "word": "spend",
-        "slot": 422047917,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "best",
-        "slot": 422047917,
-        "source": "transaction"
-      },
-      {
-        "word": "harbor",
-        "slot": 422029917,
-        "source": "blockhash"
-      },
-      {
-        "word": "pencil",
-        "slot": 422029917,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "zero",
-        "slot": 422029917,
-        "source": "transaction"
-      },
-      {
-        "word": "aerobic",
-        "slot": 422011917,
-        "source": "blockhash"
-      },
-      {
-        "word": "cross",
-        "slot": 422011917,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "walnut",
-        "slot": 422011917,
-        "source": "transaction"
-      },
-      {
-        "word": "soda",
-        "slot": 421993917,
-        "source": "blockhash"
-      },
-      {
-        "word": "own",
-        "slot": 421993917,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "submit",
-        "slot": 421993917,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmohefs6ry2q",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
