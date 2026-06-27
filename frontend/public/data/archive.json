@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-06-27",
+    "poem": {
+      "content": "In the digital realm, a word is born\nA message sent, a transaction sworn\nTo speed across the wires, unplanned and free\nA surge of data, an energy to be\n\nIt plunges forth, a burst of light\n Illuminating all, in its electric sight\nA morass of ones and zeros, swirling to consume\nUseful data hidden, in a tangled gloom\n\nBut then, a mute, a gentle hand\nDiverts the flow, to a secret land\nA hidden post, encrypted and unknown\n Guarded from prying eyes, only the winner has sown\n\nA gem of code, in a glass of insight mined\nProtecting secrets, in a web of intertwined\nLike a gorilla, with a powerful roar\nWe protect our data, forevermore\n\nIn darkened alleys, of the net's thin streets\nDanger lurks, in shifting, digital beats\nLike a rogue chicken, pecking at the floor\n Searching for treasure, in digital lore\n\nIn rubies and emeralds, our desires are cast\nA marketplace, where dreams are amassed\nBut be aware, the amateur, may wander in the night\nLured by fictive tales, of digital futures bright\n\nYet in this ocean, of information wide\nA stone of trust, our secrets abide.",
+      "generatedAt": "2026-06-27T10:49:39.106Z"
+    },
+    "keywords": [
+      {
+        "word": "word",
+        "slot": 429221893,
+        "source": "blockhash"
+      },
+      {
+        "word": "divert",
+        "slot": 429221893,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "plunge",
+        "slot": 429221893,
+        "source": "transaction"
+      },
+      {
+        "word": "speed",
+        "slot": 429203893,
+        "source": "blockhash"
+      },
+      {
+        "word": "useful",
+        "slot": 429203893,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "post",
+        "slot": 429203893,
+        "source": "transaction"
+      },
+      {
+        "word": "glass",
+        "slot": 429185893,
+        "source": "blockhash"
+      },
+      {
+        "word": "there",
+        "slot": 429185893,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "winner",
+        "slot": 429185893,
+        "source": "transaction"
+      },
+      {
+        "word": "electric",
+        "slot": 429167893,
+        "source": "blockhash"
+      },
+      {
+        "word": "stone",
+        "slot": 429167893,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "push",
+        "slot": 429167893,
+        "source": "transaction"
+      },
+      {
+        "word": "gorilla",
+        "slot": 429149893,
+        "source": "blockhash"
+      },
+      {
+        "word": "chicken",
+        "slot": 429149893,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wine",
+        "slot": 429149893,
+        "source": "transaction"
+      },
+      {
+        "word": "amateur",
+        "slot": 429131893,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpbbxoiamh2p",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-26",
     "poem": {
       "content": "In twilight's hush, where shadows play,\nA negative gaze casts its dark ray,\nUpon a quarter moon, a glowing face,\nLies pumpkin-patched, in a desolate place.\n\nA custom home, once warm and bright,\nNow stands abandoned, in the pale light,\nThe mail, a silent witness, stacks high,\nA testament to memories that have died.\n\nA mother's term of love, now lost and cold,\nEchoes through the halls, where laughter's grown old,\nA hawk's sharp cry, cuts through the air,\nAs I search for answers, beyond despair.\n\nWealth, a fleeting dream, that whispers sweet,\nA promise of security, that my heart will keep,\nBut I must ensure, that my spirit remains free,\nFrom the chains of doubt, that bind me.\n\nIn the stillness, a frog's soft song,\nA soothing melody, that calms my throng,\nBut then a sound, that makes me upset,\nA reminder of all, that I've neglected.\n\nA bright light flickers, in the distance wide,\nA beacon of hope, that guides me inside,\nThe darkness slowly recedes, as I take a stand,\nAnd in its place, a new path unfolds, through this land.\n\nNothing is certain, yet I must begin,\nTo find my way, through the darkness within,\nFor in the end, it's not the wealth I own,\nBut the brightness of my heart, that will be my own.",
@@ -2627,94 +2720,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmyidz7f4m2d",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-28",
-    "poem": {
-      "content": "A clever theory, barely hatched, a smart\nmonster lurks where credit takes its flight.\nThe next purchase, a whispered, swift remark,\na lobster-red alarm in pale moonlight.\n\nThe buyer, upset, views the distant nest,\nequip the defenses, few stand guard\nagainst the tide, an unwelcome guest.\nThe panel flickers, a fractured shard.\n\nHe thought he had it, this digital prize,\na new ecosystem, sleek and grand.\nBut shadows gather in his weary eyes,\na monster born from shifting sand.\n\nHe dreams of theory and of purchase made,\na simple credit, easily obtained.\nNow monsters rise, a bitter serenade.\nThe nest is breached, the cleverness profaned.\n\nSo swiftly vanishes the hopeful gleam,\nequip yourself, before the final scream.",
-      "generatedAt": "2026-05-28T12:16:21.219Z"
-    },
-    "keywords": [
-      {
-        "word": "smart",
-        "slot": 422718390,
-        "source": "blockhash"
-      },
-      {
-        "word": "monster",
-        "slot": 422718390,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "credit",
-        "slot": 422718390,
-        "source": "transaction"
-      },
-      {
-        "word": "buyer",
-        "slot": 422700390,
-        "source": "blockhash"
-      },
-      {
-        "word": "next",
-        "slot": 422700390,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "panel",
-        "slot": 422700390,
-        "source": "transaction"
-      },
-      {
-        "word": "equip",
-        "slot": 422682390,
-        "source": "blockhash"
-      },
-      {
-        "word": "upset",
-        "slot": 422682390,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "clever",
-        "slot": 422682390,
-        "source": "transaction"
-      },
-      {
-        "word": "theory",
-        "slot": 422664390,
-        "source": "blockhash"
-      },
-      {
-        "word": "nest",
-        "slot": 422664390,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "swift",
-        "slot": 422664390,
-        "source": "transaction"
-      },
-      {
-        "word": "lobster",
-        "slot": 422646390,
-        "source": "blockhash"
-      },
-      {
-        "word": "purchase",
-        "slot": 422646390,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "few",
-        "slot": 422646390,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmvyt4656r2b",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8

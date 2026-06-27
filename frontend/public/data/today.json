@@ -1,92 +1,92 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "poem": {
-    "content": "In twilight's hush, where shadows play,\nA negative gaze casts its dark ray,\nUpon a quarter moon, a glowing face,\nLies pumpkin-patched, in a desolate place.\n\nA custom home, once warm and bright,\nNow stands abandoned, in the pale light,\nThe mail, a silent witness, stacks high,\nA testament to memories that have died.\n\nA mother's term of love, now lost and cold,\nEchoes through the halls, where laughter's grown old,\nA hawk's sharp cry, cuts through the air,\nAs I search for answers, beyond despair.\n\nWealth, a fleeting dream, that whispers sweet,\nA promise of security, that my heart will keep,\nBut I must ensure, that my spirit remains free,\nFrom the chains of doubt, that bind me.\n\nIn the stillness, a frog's soft song,\nA soothing melody, that calms my throng,\nBut then a sound, that makes me upset,\nA reminder of all, that I've neglected.\n\nA bright light flickers, in the distance wide,\nA beacon of hope, that guides me inside,\nThe darkness slowly recedes, as I take a stand,\nAnd in its place, a new path unfolds, through this land.\n\nNothing is certain, yet I must begin,\nTo find my way, through the darkness within,\nFor in the end, it's not the wealth I own,\nBut the brightness of my heart, that will be my own.",
-    "generatedAt": "2026-06-26T11:35:27.340Z"
+    "content": "In the digital realm, a word is born\nA message sent, a transaction sworn\nTo speed across the wires, unplanned and free\nA surge of data, an energy to be\n\nIt plunges forth, a burst of light\n Illuminating all, in its electric sight\nA morass of ones and zeros, swirling to consume\nUseful data hidden, in a tangled gloom\n\nBut then, a mute, a gentle hand\nDiverts the flow, to a secret land\nA hidden post, encrypted and unknown\n Guarded from prying eyes, only the winner has sown\n\nA gem of code, in a glass of insight mined\nProtecting secrets, in a web of intertwined\nLike a gorilla, with a powerful roar\nWe protect our data, forevermore\n\nIn darkened alleys, of the net's thin streets\nDanger lurks, in shifting, digital beats\nLike a rogue chicken, pecking at the floor\n Searching for treasure, in digital lore\n\nIn rubies and emeralds, our desires are cast\nA marketplace, where dreams are amassed\nBut be aware, the amateur, may wander in the night\nLured by fictive tales, of digital futures bright\n\nYet in this ocean, of information wide\nA stone of trust, our secrets abide.",
+    "generatedAt": "2026-06-27T10:49:39.106Z"
   },
   "keywords": [
     {
-      "word": "negative",
-      "slot": 429013304,
+      "word": "word",
+      "slot": 429221893,
       "source": "blockhash"
     },
     {
-      "word": "quarter",
-      "slot": 429013304,
+      "word": "divert",
+      "slot": 429221893,
       "source": "previousBlockhash"
     },
     {
-      "word": "pumpkin",
-      "slot": 429013304,
+      "word": "plunge",
+      "slot": 429221893,
       "source": "transaction"
     },
     {
-      "word": "custom",
-      "slot": 428995304,
+      "word": "speed",
+      "slot": 429203893,
       "source": "blockhash"
     },
     {
-      "word": "mail",
-      "slot": 428995304,
+      "word": "useful",
+      "slot": 429203893,
       "source": "previousBlockhash"
     },
     {
-      "word": "term",
-      "slot": 428995304,
+      "word": "post",
+      "slot": 429203893,
       "source": "transaction"
     },
     {
-      "word": "mother",
-      "slot": 428977304,
+      "word": "glass",
+      "slot": 429185893,
       "source": "blockhash"
     },
     {
-      "word": "hawk",
-      "slot": 428977304,
+      "word": "there",
+      "slot": 429185893,
       "source": "previousBlockhash"
     },
     {
-      "word": "wealth",
-      "slot": 428977304,
+      "word": "winner",
+      "slot": 429185893,
       "source": "transaction"
     },
     {
-      "word": "ensure",
-      "slot": 428959304,
+      "word": "electric",
+      "slot": 429167893,
       "source": "blockhash"
     },
     {
-      "word": "detect",
-      "slot": 428959304,
+      "word": "stone",
+      "slot": 429167893,
       "source": "previousBlockhash"
     },
     {
-      "word": "nothing",
-      "slot": 428959304,
+      "word": "push",
+      "slot": 429167893,
       "source": "transaction"
     },
     {
-      "word": "bright",
-      "slot": 428941304,
+      "word": "gorilla",
+      "slot": 429149893,
       "source": "blockhash"
     },
     {
-      "word": "other",
-      "slot": 428941304,
+      "word": "chicken",
+      "slot": 429149893,
       "source": "previousBlockhash"
     },
     {
-      "word": "upset",
-      "slot": 428941304,
+      "word": "wine",
+      "slot": 429149893,
       "source": "transaction"
     },
     {
-      "word": "frog",
-      "slot": 428923304,
+      "word": "amateur",
+      "slot": 429131893,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mp6u2mnpng2x",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpbbxoiamh2p",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
