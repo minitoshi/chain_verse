@@ -1,92 +1,92 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "poem": {
-    "content": "In the digital realm, a word is born\nA message sent, a transaction sworn\nTo speed across the wires, unplanned and free\nA surge of data, an energy to be\n\nIt plunges forth, a burst of light\n Illuminating all, in its electric sight\nA morass of ones and zeros, swirling to consume\nUseful data hidden, in a tangled gloom\n\nBut then, a mute, a gentle hand\nDiverts the flow, to a secret land\nA hidden post, encrypted and unknown\n Guarded from prying eyes, only the winner has sown\n\nA gem of code, in a glass of insight mined\nProtecting secrets, in a web of intertwined\nLike a gorilla, with a powerful roar\nWe protect our data, forevermore\n\nIn darkened alleys, of the net's thin streets\nDanger lurks, in shifting, digital beats\nLike a rogue chicken, pecking at the floor\n Searching for treasure, in digital lore\n\nIn rubies and emeralds, our desires are cast\nA marketplace, where dreams are amassed\nBut be aware, the amateur, may wander in the night\nLured by fictive tales, of digital futures bright\n\nYet in this ocean, of information wide\nA stone of trust, our secrets abide.",
-    "generatedAt": "2026-06-27T10:49:39.106Z"
+    "content": "Fortune's whimsy swept her off her feet,\nA broom of fate, its bristles so neat.\nShe danced with her buddy, laughing free,\nIn a mesh of moments, wild and carefree.\n\nBut then, like a ball that bounces out,\nHer fortune turned, and she couldn't shout.\nThe absent voice of her heart echoed pain,\nAs she watched her dreams, like autumn leaves, wane.\n\nShe was an actress, playing a role,\nExile from her own heart, a hollow soul.\nA syrup of nostalgia clung to her skin,\nAs she recalled memories of love locked within.\n\nHer dad's wise words, a lecture long past,\nStill whispered truths, like a gentle, guiding cast.\nBut even those words couldn't stay her slide,\nInto the darkness, where shadows did reside.\n\nShe searched for air, her lungs on fire,\nFor in asthma's grasp, she felt her heart expire.\nThe used and the broken, they whispered her name,\nBut she could stay no longer, in this parallel game.\n\nFor on the edge of night, she felt the pain,\nOf a heart that ached, a soul in vain.\nShe yearned to burst free, to rise and play,\nTo dance with her buddy, on a brand new day.\nBut for now, she'd stay lost, an absence from the crowd,\nA fleeting moment, in the broom of fortune's cloud.",
+    "generatedAt": "2026-06-28T10:56:19.166Z"
   },
   "keywords": [
     {
-      "word": "word",
-      "slot": 429221893,
+      "word": "fortune",
+      "slot": 429437742,
       "source": "blockhash"
     },
     {
-      "word": "divert",
-      "slot": 429221893,
+      "word": "broom",
+      "slot": 429437742,
       "source": "previousBlockhash"
     },
     {
-      "word": "plunge",
-      "slot": 429221893,
+      "word": "buddy",
+      "slot": 429437742,
       "source": "transaction"
     },
     {
-      "word": "speed",
-      "slot": 429203893,
+      "word": "mesh",
+      "slot": 429419742,
       "source": "blockhash"
     },
     {
-      "word": "useful",
-      "slot": 429203893,
+      "word": "ball",
+      "slot": 429419742,
       "source": "previousBlockhash"
     },
     {
-      "word": "post",
-      "slot": 429203893,
+      "word": "absent",
+      "slot": 429419742,
       "source": "transaction"
     },
     {
-      "word": "glass",
-      "slot": 429185893,
+      "word": "actress",
+      "slot": 429401742,
       "source": "blockhash"
     },
     {
-      "word": "there",
-      "slot": 429185893,
+      "word": "exile",
+      "slot": 429401742,
       "source": "previousBlockhash"
     },
     {
-      "word": "winner",
-      "slot": 429185893,
+      "word": "syrup",
+      "slot": 429401742,
       "source": "transaction"
     },
     {
-      "word": "electric",
-      "slot": 429167893,
+      "word": "dad",
+      "slot": 429383742,
       "source": "blockhash"
     },
     {
-      "word": "stone",
-      "slot": 429167893,
+      "word": "lecture",
+      "slot": 429383742,
       "source": "previousBlockhash"
     },
     {
-      "word": "push",
-      "slot": 429167893,
+      "word": "slide",
+      "slot": 429383742,
       "source": "transaction"
     },
     {
-      "word": "gorilla",
-      "slot": 429149893,
+      "word": "asthma",
+      "slot": 429365742,
       "source": "blockhash"
     },
     {
-      "word": "chicken",
-      "slot": 429149893,
+      "word": "used",
+      "slot": 429365742,
       "source": "previousBlockhash"
     },
     {
-      "word": "wine",
-      "slot": 429149893,
+      "word": "into",
+      "slot": 429365742,
       "source": "transaction"
     },
     {
-      "word": "amateur",
-      "slot": 429131893,
+      "word": "stay",
+      "slot": 429347742,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpbbxoiamh2p",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpdssirmlh2u",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

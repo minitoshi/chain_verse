@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-06-28",
+    "poem": {
+      "content": "Fortune's whimsy swept her off her feet,\nA broom of fate, its bristles so neat.\nShe danced with her buddy, laughing free,\nIn a mesh of moments, wild and carefree.\n\nBut then, like a ball that bounces out,\nHer fortune turned, and she couldn't shout.\nThe absent voice of her heart echoed pain,\nAs she watched her dreams, like autumn leaves, wane.\n\nShe was an actress, playing a role,\nExile from her own heart, a hollow soul.\nA syrup of nostalgia clung to her skin,\nAs she recalled memories of love locked within.\n\nHer dad's wise words, a lecture long past,\nStill whispered truths, like a gentle, guiding cast.\nBut even those words couldn't stay her slide,\nInto the darkness, where shadows did reside.\n\nShe searched for air, her lungs on fire,\nFor in asthma's grasp, she felt her heart expire.\nThe used and the broken, they whispered her name,\nBut she could stay no longer, in this parallel game.\n\nFor on the edge of night, she felt the pain,\nOf a heart that ached, a soul in vain.\nShe yearned to burst free, to rise and play,\nTo dance with her buddy, on a brand new day.\nBut for now, she'd stay lost, an absence from the crowd,\nA fleeting moment, in the broom of fortune's cloud.",
+      "generatedAt": "2026-06-28T10:56:19.166Z"
+    },
+    "keywords": [
+      {
+        "word": "fortune",
+        "slot": 429437742,
+        "source": "blockhash"
+      },
+      {
+        "word": "broom",
+        "slot": 429437742,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "buddy",
+        "slot": 429437742,
+        "source": "transaction"
+      },
+      {
+        "word": "mesh",
+        "slot": 429419742,
+        "source": "blockhash"
+      },
+      {
+        "word": "ball",
+        "slot": 429419742,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "absent",
+        "slot": 429419742,
+        "source": "transaction"
+      },
+      {
+        "word": "actress",
+        "slot": 429401742,
+        "source": "blockhash"
+      },
+      {
+        "word": "exile",
+        "slot": 429401742,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "syrup",
+        "slot": 429401742,
+        "source": "transaction"
+      },
+      {
+        "word": "dad",
+        "slot": 429383742,
+        "source": "blockhash"
+      },
+      {
+        "word": "lecture",
+        "slot": 429383742,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "slide",
+        "slot": 429383742,
+        "source": "transaction"
+      },
+      {
+        "word": "asthma",
+        "slot": 429365742,
+        "source": "blockhash"
+      },
+      {
+        "word": "used",
+        "slot": 429365742,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "into",
+        "slot": 429365742,
+        "source": "transaction"
+      },
+      {
+        "word": "stay",
+        "slot": 429347742,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpdssirmlh2u",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-06-27",
     "poem": {
       "content": "In the digital realm, a word is born\nA message sent, a transaction sworn\nTo speed across the wires, unplanned and free\nA surge of data, an energy to be\n\nIt plunges forth, a burst of light\n Illuminating all, in its electric sight\nA morass of ones and zeros, swirling to consume\nUseful data hidden, in a tangled gloom\n\nBut then, a mute, a gentle hand\nDiverts the flow, to a secret land\nA hidden post, encrypted and unknown\n Guarded from prying eyes, only the winner has sown\n\nA gem of code, in a glass of insight mined\nProtecting secrets, in a web of intertwined\nLike a gorilla, with a powerful roar\nWe protect our data, forevermore\n\nIn darkened alleys, of the net's thin streets\nDanger lurks, in shifting, digital beats\nLike a rogue chicken, pecking at the floor\n Searching for treasure, in digital lore\n\nIn rubies and emeralds, our desires are cast\nA marketplace, where dreams are amassed\nBut be aware, the amateur, may wander in the night\nLured by fictive tales, of digital futures bright\n\nYet in this ocean, of information wide\nA stone of trust, our secrets abide.",
@@ -2632,94 +2725,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mn2ttja3ca2y",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-05-29",
-    "poem": {
-      "content": "A brown valley sighs, beneath a sky of shell,\nas the train of thought prepares to depart.\nRusty tracks gleam, a silent, metal hell,\nwhere memories cling with a jealous heart.\n\nA brick lies loose, a metaphor unplanned,\nfor futures cracked, and dreams that went astray.\nWe try to repair, with trembling hand,\nthe broken promises of yesterday.\n\nThe scent of mango, sharp and bittersweet,\na vibrant splash on dusty, tired land.\nA donor’s wish, a charitable feat,\nto sow new seeds upon the shifting sand.\n\nThe news arrives, a crumpled, soda-stained,\nforecast, a magnet drawing hope and fear.\nA need to adapt, when all’s been rearranged,\nand life’s harsh symphony is all we hear.\n\nWe decorate the void, with borrowed light\nattempting beauty in a world so bare.\nAnd watch the sun descend into the night,\ncontent, as silent stars begin to stare.",
-      "generatedAt": "2026-05-29T11:59:34.696Z"
-    },
-    "keywords": [
-      {
-        "word": "brick",
-        "slot": 422933927,
-        "source": "blockhash"
-      },
-      {
-        "word": "track",
-        "slot": 422933927,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "repair",
-        "slot": 422933927,
-        "source": "transaction"
-      },
-      {
-        "word": "brown",
-        "slot": 422915927,
-        "source": "blockhash"
-      },
-      {
-        "word": "valley",
-        "slot": 422915927,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "mango",
-        "slot": 422915927,
-        "source": "transaction"
-      },
-      {
-        "word": "soda",
-        "slot": 422897927,
-        "source": "blockhash"
-      },
-      {
-        "word": "magnet",
-        "slot": 422897927,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "depart",
-        "slot": 422897927,
-        "source": "transaction"
-      },
-      {
-        "word": "news",
-        "slot": 422879927,
-        "source": "blockhash"
-      },
-      {
-        "word": "shell",
-        "slot": 422879927,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "donor",
-        "slot": 422879927,
-        "source": "transaction"
-      },
-      {
-        "word": "adapt",
-        "slot": 422861927,
-        "source": "blockhash"
-      },
-      {
-        "word": "decorate",
-        "slot": 422861927,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "jealous",
-        "slot": 422861927,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mmyidz7f4m2d",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
