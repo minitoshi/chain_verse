@@ -1,92 +1,92 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "poem": {
-    "content": "In the slight breeze of February's chill,\nA theory unfolds, a whispered will,\nThat life's great beauty lies in fragile might,\nEphemeral as the winter's first light.\n\nOn a worn bench, I sit and ponder fate,\nWatching lovers shoot glances, lovers late,\nTheir hearts aflame, yet veiled from the cold,\nTheir moral compasses guiding them to hold.\n\nA flask of liquor, a temporary friend,\nGuards against the darkness that will not end,\nBut as the night wears on, the air grows thin,\nAnd the love-fueled fire begins to fade within.\n\nI stand and take a step to the side,\nThe city lights a distant, fading pride,\nThe mountain looms, a sentinel of old,\nA reminder of the stories yet untold.\n\nThe wind picks up, a mournful sigh,\nAs I receive a letter, a distant reply,\nFrom family far away, in a distant land,\nTheir words a comfort, a lifeline to the hand.\n\nI sit back down, the bench my loyal friend,\nThe mail, a tangible tie that will never end,\nThe world outside, a vast and endless sea,\nBut in this moment, I am free to be.\n\nThe air is crisp, the night is still,\nA time for reflection, a moment to fulfill,\nThe theory I once held, a fragile, broken thing,\nGives way to the great truth, that love will always sing.",
-    "generatedAt": "2026-06-29T12:53:00.847Z"
+    "content": "In the town where the Solana sun sets low,\nA gate stands tall, a portal to our show,\nA place where dreams and dust entwine,\nAnd hopes are forged, like a craft divine.\n\nWe gather 'round, an animal heart,\nA community that never will start\nTo deny the beauty that we bring,\nA smile on every face, like a morning wing.\n\nWe hold up hands, in unity we swear,\nA globe above us, with no care or fear,\nFrom the top of the hill, we gaze and behold,\nA view of a world, where love is the gold.\n\nIn the old recipe books, a story unfolds,\nOf a people who put love into every fold,\nA blouse, like a leaf, rustles in the tree,\nA symbol of hope, in this world of humanity.\n\nBut in a small case, a secret would reside,\nA memory of the past, where love would not divide,\nA cupboard of tears, where stories of old,\nEcho through time, in whispers that never grow cold.\n\nIn a brick shed, a camp was once set up high,\nWhere laughter and joy, did reach up to the sky,\nBut now it seems, a distant, fading light,\nA remnant of happiness, in the dark of night.\n\nYet still we hold on, to what we once had found,\nA sense of community, that was never lost, or drowned,\nIn the depths of our hearts, a spark still glows bright,\nA happy memory, that guides us through the darkest night.",
+    "generatedAt": "2026-06-30T11:36:11.653Z"
   },
   "keywords": [
     {
-      "word": "slight",
-      "slot": 429668412,
+      "word": "uphold",
+      "slot": 429870592,
       "source": "blockhash"
     },
     {
-      "word": "theory",
-      "slot": 429668412,
+      "word": "animal",
+      "slot": 429870592,
       "source": "previousBlockhash"
     },
     {
-      "word": "february",
-      "slot": 429668412,
+      "word": "dust",
+      "slot": 429870592,
       "source": "transaction"
     },
     {
-      "word": "alcohol",
-      "slot": 429650411,
+      "word": "view",
+      "slot": 429852592,
       "source": "blockhash"
     },
     {
-      "word": "bench",
-      "slot": 429650411,
+      "word": "deny",
+      "slot": 429852592,
       "source": "previousBlockhash"
     },
     {
-      "word": "shoot",
-      "slot": 429650411,
+      "word": "smile",
+      "slot": 429852592,
       "source": "transaction"
     },
     {
-      "word": "side",
-      "slot": 429632412,
+      "word": "globe",
+      "slot": 429834592,
       "source": "blockhash"
     },
     {
-      "word": "moral",
-      "slot": 429632412,
+      "word": "gate",
+      "slot": 429834592,
       "source": "previousBlockhash"
     },
     {
-      "word": "fade",
-      "slot": 429632412,
+      "word": "recipe",
+      "slot": 429816592,
+      "source": "blockhash"
+    },
+    {
+      "word": "blouse",
+      "slot": 429816592,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "case",
+      "slot": 429816592,
       "source": "transaction"
     },
     {
-      "word": "great",
-      "slot": 429614412,
+      "word": "camp",
+      "slot": 429798592,
       "source": "blockhash"
     },
     {
-      "word": "degree",
-      "slot": 429614412,
+      "word": "craft",
+      "slot": 429798592,
       "source": "previousBlockhash"
     },
     {
-      "word": "reopen",
-      "slot": 429614412,
+      "word": "brick",
+      "slot": 429798592,
       "source": "transaction"
     },
     {
-      "word": "family",
-      "slot": 429596412,
+      "word": "happy",
+      "slot": 429780592,
       "source": "blockhash"
     },
     {
-      "word": "mail",
-      "slot": 429596412,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "mountain",
-      "slot": 429578412,
-      "source": "blockhash"
-    },
-    {
-      "word": "air",
-      "slot": 429578412,
+      "word": "cupboard",
+      "slot": 429780592,
       "source": "previousBlockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpgjs3qvlj2z",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpivxnel6i2r",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
