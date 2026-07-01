@@ -1,92 +1,92 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "poem": {
-    "content": "In the town where the Solana sun sets low,\nA gate stands tall, a portal to our show,\nA place where dreams and dust entwine,\nAnd hopes are forged, like a craft divine.\n\nWe gather 'round, an animal heart,\nA community that never will start\nTo deny the beauty that we bring,\nA smile on every face, like a morning wing.\n\nWe hold up hands, in unity we swear,\nA globe above us, with no care or fear,\nFrom the top of the hill, we gaze and behold,\nA view of a world, where love is the gold.\n\nIn the old recipe books, a story unfolds,\nOf a people who put love into every fold,\nA blouse, like a leaf, rustles in the tree,\nA symbol of hope, in this world of humanity.\n\nBut in a small case, a secret would reside,\nA memory of the past, where love would not divide,\nA cupboard of tears, where stories of old,\nEcho through time, in whispers that never grow cold.\n\nIn a brick shed, a camp was once set up high,\nWhere laughter and joy, did reach up to the sky,\nBut now it seems, a distant, fading light,\nA remnant of happiness, in the dark of night.\n\nYet still we hold on, to what we once had found,\nA sense of community, that was never lost, or drowned,\nIn the depths of our hearts, a spark still glows bright,\nA happy memory, that guides us through the darkest night.",
-    "generatedAt": "2026-06-30T11:36:11.653Z"
+    "content": "In the vast expanse of summer's furnace heat,\nA huge void beckons, like an empty seat.\nFashioned by the winds that howl and sway,\nIt's a place to spend the endless day.\n\nA buffalo of rust, with scales of red,\nRides forth, fueled by the desert's dread.\nIts fur aflame, a fierce and burning text,\nA warning to the lost, in this desolate nest.\n\nYet, in this bleak and withered land,\nA firm resolve takes hold, a steadfast hand.\nA plug of determination, lodged deep inside,\nProtecting the truth, from the winds that divide.\n\nBut as the summer sun dips low and slow,\nA monster stirs, a creature born of woe.\nIt roams, a phantom, in the darkness of the crater,\nFeeding on the shadows, with an insatiable meter.\n\nOh, for a drop of mercy, to soothe the pain,\nTo calm the heart, and still the burning brain.\nBut it's too late, the buffalo is gone,\nAnd in its place, a new owner's claim is sworn.\n\nThe firmament is cracked, the truth laid bare,\nAs the desert's secrets spill, like grains of sand in the air.\nBut still we grow, in this harsh and barren ground,\nSeeking the truth, like a seed that's sprouted around.\n\nIn this cruel land, where summer reigns supreme,\nWe search for solace, in the brief and fleeting dream.\nFor in the darkness, a glimmer of hope does shine,\nA light that flickers, like a fire that refuses to decline.",
+    "generatedAt": "2026-07-01T11:47:35.229Z"
   },
   "keywords": [
     {
-      "word": "uphold",
-      "slot": 429870592,
+      "word": "huge",
+      "slot": 430086246,
       "source": "blockhash"
     },
     {
-      "word": "animal",
-      "slot": 429870592,
+      "word": "fashion",
+      "slot": 430086246,
       "source": "previousBlockhash"
     },
     {
-      "word": "dust",
-      "slot": 429870592,
+      "word": "spend",
+      "slot": 430086246,
       "source": "transaction"
     },
     {
-      "word": "view",
-      "slot": 429852592,
+      "word": "buffalo",
+      "slot": 430068246,
       "source": "blockhash"
     },
     {
-      "word": "deny",
-      "slot": 429852592,
+      "word": "fuel",
+      "slot": 430068246,
       "source": "previousBlockhash"
     },
     {
-      "word": "smile",
-      "slot": 429852592,
+      "word": "text",
+      "slot": 430068246,
       "source": "transaction"
     },
     {
-      "word": "globe",
-      "slot": 429834592,
+      "word": "protect",
+      "slot": 430050246,
       "source": "blockhash"
     },
     {
-      "word": "gate",
-      "slot": 429834592,
+      "word": "summer",
+      "slot": 430050246,
       "source": "previousBlockhash"
     },
     {
-      "word": "recipe",
-      "slot": 429816592,
-      "source": "blockhash"
-    },
-    {
-      "word": "blouse",
-      "slot": 429816592,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "case",
-      "slot": 429816592,
+      "word": "monster",
+      "slot": 430050246,
       "source": "transaction"
     },
     {
-      "word": "camp",
-      "slot": 429798592,
+      "word": "firm",
+      "slot": 430032246,
       "source": "blockhash"
     },
     {
-      "word": "craft",
-      "slot": 429798592,
+      "word": "crater",
+      "slot": 430032246,
       "source": "previousBlockhash"
     },
     {
-      "word": "brick",
-      "slot": 429798592,
+      "word": "plug",
+      "slot": 430032246,
       "source": "transaction"
     },
     {
-      "word": "happy",
-      "slot": 429780592,
+      "word": "mercy",
+      "slot": 430014246,
       "source": "blockhash"
     },
     {
-      "word": "cupboard",
-      "slot": 429780592,
+      "word": "owner",
+      "slot": 430014246,
       "source": "previousBlockhash"
+    },
+    {
+      "word": "grow",
+      "slot": 430014246,
+      "source": "transaction"
+    },
+    {
+      "word": "truth",
+      "slot": 429996246,
+      "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpivxnel6i2r",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
