@@ -1,92 +1,92 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "poem": {
-    "content": "In the vast expanse of summer's furnace heat,\nA huge void beckons, like an empty seat.\nFashioned by the winds that howl and sway,\nIt's a place to spend the endless day.\n\nA buffalo of rust, with scales of red,\nRides forth, fueled by the desert's dread.\nIts fur aflame, a fierce and burning text,\nA warning to the lost, in this desolate nest.\n\nYet, in this bleak and withered land,\nA firm resolve takes hold, a steadfast hand.\nA plug of determination, lodged deep inside,\nProtecting the truth, from the winds that divide.\n\nBut as the summer sun dips low and slow,\nA monster stirs, a creature born of woe.\nIt roams, a phantom, in the darkness of the crater,\nFeeding on the shadows, with an insatiable meter.\n\nOh, for a drop of mercy, to soothe the pain,\nTo calm the heart, and still the burning brain.\nBut it's too late, the buffalo is gone,\nAnd in its place, a new owner's claim is sworn.\n\nThe firmament is cracked, the truth laid bare,\nAs the desert's secrets spill, like grains of sand in the air.\nBut still we grow, in this harsh and barren ground,\nSeeking the truth, like a seed that's sprouted around.\n\nIn this cruel land, where summer reigns supreme,\nWe search for solace, in the brief and fleeting dream.\nFor in the darkness, a glimmer of hope does shine,\nA light that flickers, like a fire that refuses to decline.",
-    "generatedAt": "2026-07-01T11:47:35.229Z"
+    "content": "In the urban sprawl, where city lights gleam,\nA throw of shadows dances, an eerie dream.\nThe roar of the crowd, a cacophony so bright,\nA roast of memories, where love and heartache take flight.\n\nI extend my thumb, a gesture of my past,\nEchoes of moments that will forever last.\nIn the fiction of my mind, I weave a tapestry so fine,\nA world where benefit and harm entwine.\n\nBut there's a wrong turn, a path I've yet to find,\nA magnet that pulls, a heart and mind entwined.\nThe avocado of life, a fruit so green and fair,\nForgotten in the rush, a treasure beyond compare.\n\nBelow the surface, a world of secrets lies,\nFuel for the fire, that burns with anxious sighs.\nI try to solve the riddle, of this urban grind,\nTo find a way to thrive, where love and heartache entwine.\n\nIn the picture of my mind, a vision starts to form,\nA world where love and joy, forever will transform.\nBut for now, I'll hold on tight, to the can of hope,\nA fragile thread, that keeps me from the endless rope.\n\nIn the darkness of the night, I search for a light,\nA guiding star, that will lead me through the fight.\nAnd when the morning comes, and the city starts to roar,\nI'll rise above, and find my way to something more.",
+    "generatedAt": "2026-07-02T11:23:24.189Z"
   },
   "keywords": [
     {
-      "word": "huge",
-      "slot": 430086246,
+      "word": "throw",
+      "slot": 430296981,
       "source": "blockhash"
     },
     {
-      "word": "fashion",
-      "slot": 430086246,
+      "word": "roast",
+      "slot": 430296981,
       "source": "previousBlockhash"
     },
     {
-      "word": "spend",
-      "slot": 430086246,
+      "word": "thumb",
+      "slot": 430296981,
       "source": "transaction"
     },
     {
-      "word": "buffalo",
-      "slot": 430068246,
+      "word": "echo",
+      "slot": 430278981,
       "source": "blockhash"
+    },
+    {
+      "word": "fiction",
+      "slot": 430278981,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "benefit",
+      "slot": 430278981,
+      "source": "transaction"
+    },
+    {
+      "word": "solve",
+      "slot": 430260981,
+      "source": "blockhash"
+    },
+    {
+      "word": "thrive",
+      "slot": 430260981,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "avocado",
+      "slot": 430260981,
+      "source": "transaction"
+    },
+    {
+      "word": "picture",
+      "slot": 430242981,
+      "source": "blockhash"
+    },
+    {
+      "word": "wrong",
+      "slot": 430242981,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "magnet",
+      "slot": 430242981,
+      "source": "transaction"
+    },
+    {
+      "word": "urban",
+      "slot": 430224981,
+      "source": "blockhash"
+    },
+    {
+      "word": "can",
+      "slot": 430224981,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "below",
+      "slot": 430224981,
+      "source": "transaction"
     },
     {
       "word": "fuel",
-      "slot": 430068246,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "text",
-      "slot": 430068246,
-      "source": "transaction"
-    },
-    {
-      "word": "protect",
-      "slot": 430050246,
-      "source": "blockhash"
-    },
-    {
-      "word": "summer",
-      "slot": 430050246,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "monster",
-      "slot": 430050246,
-      "source": "transaction"
-    },
-    {
-      "word": "firm",
-      "slot": 430032246,
-      "source": "blockhash"
-    },
-    {
-      "word": "crater",
-      "slot": 430032246,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "plug",
-      "slot": 430032246,
-      "source": "transaction"
-    },
-    {
-      "word": "mercy",
-      "slot": 430014246,
-      "source": "blockhash"
-    },
-    {
-      "word": "owner",
-      "slot": 430014246,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "grow",
-      "slot": 430014246,
-      "source": "transaction"
-    },
-    {
-      "word": "truth",
-      "slot": 429996246,
+      "slot": 430206981,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpnw6md5wy2e",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
