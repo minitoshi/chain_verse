@@ -1,92 +1,92 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "poem": {
-    "content": "In the urban sprawl, where city lights gleam,\nA throw of shadows dances, an eerie dream.\nThe roar of the crowd, a cacophony so bright,\nA roast of memories, where love and heartache take flight.\n\nI extend my thumb, a gesture of my past,\nEchoes of moments that will forever last.\nIn the fiction of my mind, I weave a tapestry so fine,\nA world where benefit and harm entwine.\n\nBut there's a wrong turn, a path I've yet to find,\nA magnet that pulls, a heart and mind entwined.\nThe avocado of life, a fruit so green and fair,\nForgotten in the rush, a treasure beyond compare.\n\nBelow the surface, a world of secrets lies,\nFuel for the fire, that burns with anxious sighs.\nI try to solve the riddle, of this urban grind,\nTo find a way to thrive, where love and heartache entwine.\n\nIn the picture of my mind, a vision starts to form,\nA world where love and joy, forever will transform.\nBut for now, I'll hold on tight, to the can of hope,\nA fragile thread, that keeps me from the endless rope.\n\nIn the darkness of the night, I search for a light,\nA guiding star, that will lead me through the fight.\nAnd when the morning comes, and the city starts to roar,\nI'll rise above, and find my way to something more.",
-    "generatedAt": "2026-07-02T11:23:24.189Z"
+    "content": "In the matrix of shadows, where gloom reigns supreme,\nA town lies crippled, its spirit sunk in a heavy dream.\nInjury lingers, like an odor that refuses to cease,\nA constant reminder of a fight that refuses to release.\n\nYet, in the midst of such despair, a glimmer appears,\nA light that raises hope, like a beacon through the tears.\nIt refuses to oppose the darkness, nor flee from its pain,\nBut instead, it rises, a phoenix born from the ashes, unrestrained.\n\nThrough the dense fog of doubt, a path begins to form,\nA grain of truth that germinates, like a subtle, hidden storm.\nIt grows, a fragile shoot, that breaks through the debris,\nAnd reaches for the light, like a hand that's stretched to the skies.\n\nThe town, once drenched in gloom, now begins to lift its eyes,\nAnd see the world anew, like a picture salvaged from the skies.\nThe rescue is underway, though slow, as rescue dogs patrol the ground,\n Searching for the injured, and those who've been lost, without a sound.\n\nThe auction of hope has begun, the price isn't yet clear,\nBut we're willing to pay any toll, to shed the weight we've borne here.\nThough weighty, we raise our voice, a challenge to the night,\nA dawning of the truth, a painful but liberating light.\n\nThough still over task, the journey is our anchor and our aim,\nWe'll emerge from this struggle, as polished gold, unscathed and the same.",
+    "generatedAt": "2026-07-03T11:21:14.931Z"
   },
   "keywords": [
     {
-      "word": "throw",
-      "slot": 430296981,
+      "word": "oppose",
+      "slot": 430510903,
       "source": "blockhash"
     },
     {
-      "word": "roast",
-      "slot": 430296981,
+      "word": "over",
+      "slot": 430510903,
       "source": "previousBlockhash"
     },
     {
-      "word": "thumb",
-      "slot": 430296981,
+      "word": "rescue",
+      "slot": 430510903,
       "source": "transaction"
     },
     {
-      "word": "echo",
-      "slot": 430278981,
+      "word": "release",
+      "slot": 430492903,
       "source": "blockhash"
     },
     {
-      "word": "fiction",
-      "slot": 430278981,
+      "word": "injury",
+      "slot": 430492903,
       "source": "previousBlockhash"
     },
     {
-      "word": "benefit",
-      "slot": 430278981,
+      "word": "gloom",
+      "slot": 430492903,
       "source": "transaction"
     },
     {
-      "word": "solve",
-      "slot": 430260981,
+      "word": "grain",
+      "slot": 430474903,
       "source": "blockhash"
     },
     {
-      "word": "thrive",
-      "slot": 430260981,
+      "word": "raise",
+      "slot": 430474903,
       "source": "previousBlockhash"
     },
     {
-      "word": "avocado",
-      "slot": 430260981,
+      "word": "odor",
+      "slot": 430474903,
       "source": "transaction"
     },
     {
-      "word": "picture",
-      "slot": 430242981,
+      "word": "auction",
+      "slot": 430456903,
       "source": "blockhash"
     },
     {
-      "word": "wrong",
-      "slot": 430242981,
+      "word": "remain",
+      "slot": 430456903,
       "source": "previousBlockhash"
     },
     {
-      "word": "magnet",
-      "slot": 430242981,
+      "word": "matrix",
+      "slot": 430456903,
       "source": "transaction"
     },
     {
-      "word": "urban",
-      "slot": 430224981,
+      "word": "heavy",
+      "slot": 430438903,
       "source": "blockhash"
     },
     {
-      "word": "can",
-      "slot": 430224981,
+      "word": "patrol",
+      "slot": 430438903,
       "source": "previousBlockhash"
     },
     {
-      "word": "below",
-      "slot": 430224981,
+      "word": "town",
+      "slot": 430438903,
       "source": "transaction"
     },
     {
-      "word": "fuel",
-      "slot": 430206981,
+      "word": "achieve",
+      "slot": 430420903,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpnw6md5wy2e",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpqgjoa7qg2i",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
