@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-07-04",
+    "poem": {
+      "content": "In an apartment with a flat, worn floor,\nA lizard watched me, its eyes a distant shore.\nA sibling's laughter echoed, a joy unbound,\nAs I sat at the stove, an onion spinning round.\n\nMy thoughts involved the census, a story untold,\nA map of faces, a tale of stories unfold.\nBut someone knocked at the door, a surprise in store,\nAnd I hid my egg, like a secret, evermore.\n\nThey left a burger on the counter, a gift in the night,\nA symbol of kindness, a beacon shining bright.\nBut as I quit my thoughts and gazed outside to space,\nI wished I could be there, in some unknown place.\n\nThe lizard watched me, its eyes a knowing glance,\nAs if to say, \"Leave this world, it's time to take a chance.\"\nI longed to turn forward, to a life unknown,\nTo leave behind the flat, a world that was never my home.\n\nBut for now, I stay, in this place of rest,\nA dentist's chair nearby, a reminder to take care of my best.\nThe lizard remains, a loyal, silent friend,\nWatching over me, until the story's end.",
+      "generatedAt": "2026-07-04T10:44:54.580Z"
+    },
+    "keywords": [
+      {
+        "word": "doll",
+        "slot": 430719456,
+        "source": "blockhash"
+      },
+      {
+        "word": "flat",
+        "slot": 430719456,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "sibling",
+        "slot": 430719456,
+        "source": "transaction"
+      },
+      {
+        "word": "burger",
+        "slot": 430701456,
+        "source": "blockhash"
+      },
+      {
+        "word": "stove",
+        "slot": 430701456,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "onion",
+        "slot": 430701456,
+        "source": "transaction"
+      },
+      {
+        "word": "involve",
+        "slot": 430683456,
+        "source": "blockhash"
+      },
+      {
+        "word": "where",
+        "slot": 430683456,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "egg",
+        "slot": 430683456,
+        "source": "transaction"
+      },
+      {
+        "word": "lizard",
+        "slot": 430665456,
+        "source": "blockhash"
+      },
+      {
+        "word": "quit",
+        "slot": 430665456,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "someone",
+        "slot": 430665456,
+        "source": "transaction"
+      },
+      {
+        "word": "census",
+        "slot": 430647456,
+        "source": "blockhash"
+      },
+      {
+        "word": "dentist",
+        "slot": 430647456,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "forward",
+        "slot": 430647456,
+        "source": "transaction"
+      },
+      {
+        "word": "floor",
+        "slot": 430629456,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpsuxneg2a23",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-07-03",
     "poem": {
       "content": "In the matrix of shadows, where gloom reigns supreme,\nA town lies crippled, its spirit sunk in a heavy dream.\nInjury lingers, like an odor that refuses to cease,\nA constant reminder of a fight that refuses to release.\n\nYet, in the midst of such despair, a glimmer appears,\nA light that raises hope, like a beacon through the tears.\nIt refuses to oppose the darkness, nor flee from its pain,\nBut instead, it rises, a phoenix born from the ashes, unrestrained.\n\nThrough the dense fog of doubt, a path begins to form,\nA grain of truth that germinates, like a subtle, hidden storm.\nIt grows, a fragile shoot, that breaks through the debris,\nAnd reaches for the light, like a hand that's stretched to the skies.\n\nThe town, once drenched in gloom, now begins to lift its eyes,\nAnd see the world anew, like a picture salvaged from the skies.\nThe rescue is underway, though slow, as rescue dogs patrol the ground,\n Searching for the injured, and those who've been lost, without a sound.\n\nThe auction of hope has begun, the price isn't yet clear,\nBut we're willing to pay any toll, to shed the weight we've borne here.\nThough weighty, we raise our voice, a challenge to the night,\nA dawning of the truth, a painful but liberating light.\n\nThough still over task, the journey is our anchor and our aim,\nWe'll emerge from this struggle, as polished gold, unscathed and the same.",
@@ -2662,94 +2755,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mnk3cc6xqc2p",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-06-04",
-    "poem": {
-      "content": "In the harsh dawn's early light, I stir\nA sweet, silent scream, that only echoes clear\nMy nephew's laughter echoes, a distant delight\nA melody that wafts on the breeze, an easy pleasure in sight\n\nLike a pilot navigating the stormy sky\nI search for a calm, a refuge from the angry eye\nOf the world outside, where worries reside\nBut in the shell of my heart, a peaceful nest inside\n\nI know the limit, the boundaries I must keep\nA fragile balance, where fear and hope do creep\nBut still I knock, a gentle rapping on the door\nHoping for a sign, a wink of peace, to guide me more\n\nFor I often feel, a vapor of doubt within\nA misty fog, that obscures the path I must win\nBut then I see, a glimmer of light, a ray of peace\nA message from the universe, to guide me to release\n\nThe weight I bear, the burden of the soul\nI lay it down, at the entry point, where love makes me whole\nAnd in that moment, all my worries pass\nLike autumn leaves, that rustle to the ground, at last\n\nThe sweet release, the peace that I have found\nEchoes through my heart, a melody unbound\nA symphony of calm, that soothes my soul\nAnd in its harmony, I find my peaceful role.",
-      "generatedAt": "2026-06-04T11:41:57.942Z"
-    },
-    "keywords": [
-      {
-        "word": "harsh",
-        "slot": 424236551,
-        "source": "blockhash"
-      },
-      {
-        "word": "sweet",
-        "slot": 424236551,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "nephew",
-        "slot": 424236551,
-        "source": "transaction"
-      },
-      {
-        "word": "easy",
-        "slot": 424218551,
-        "source": "blockhash"
-      },
-      {
-        "word": "pilot",
-        "slot": 424218551,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "shell",
-        "slot": 424218551,
-        "source": "transaction"
-      },
-      {
-        "word": "limit",
-        "slot": 424200551,
-        "source": "blockhash"
-      },
-      {
-        "word": "knock",
-        "slot": 424200551,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "angry",
-        "slot": 424200551,
-        "source": "transaction"
-      },
-      {
-        "word": "often",
-        "slot": 424182551,
-        "source": "blockhash"
-      },
-      {
-        "word": "pass",
-        "slot": 424182551,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "entry",
-        "slot": 424182551,
-        "source": "transaction"
-      },
-      {
-        "word": "wink",
-        "slot": 424164551,
-        "source": "blockhash"
-      },
-      {
-        "word": "peace",
-        "slot": 424164551,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "vapor",
-        "slot": 424164551,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mnhk5zsop42b",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8

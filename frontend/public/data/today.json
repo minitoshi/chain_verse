@@ -1,92 +1,92 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "poem": {
-    "content": "In the matrix of shadows, where gloom reigns supreme,\nA town lies crippled, its spirit sunk in a heavy dream.\nInjury lingers, like an odor that refuses to cease,\nA constant reminder of a fight that refuses to release.\n\nYet, in the midst of such despair, a glimmer appears,\nA light that raises hope, like a beacon through the tears.\nIt refuses to oppose the darkness, nor flee from its pain,\nBut instead, it rises, a phoenix born from the ashes, unrestrained.\n\nThrough the dense fog of doubt, a path begins to form,\nA grain of truth that germinates, like a subtle, hidden storm.\nIt grows, a fragile shoot, that breaks through the debris,\nAnd reaches for the light, like a hand that's stretched to the skies.\n\nThe town, once drenched in gloom, now begins to lift its eyes,\nAnd see the world anew, like a picture salvaged from the skies.\nThe rescue is underway, though slow, as rescue dogs patrol the ground,\n Searching for the injured, and those who've been lost, without a sound.\n\nThe auction of hope has begun, the price isn't yet clear,\nBut we're willing to pay any toll, to shed the weight we've borne here.\nThough weighty, we raise our voice, a challenge to the night,\nA dawning of the truth, a painful but liberating light.\n\nThough still over task, the journey is our anchor and our aim,\nWe'll emerge from this struggle, as polished gold, unscathed and the same.",
-    "generatedAt": "2026-07-03T11:21:14.931Z"
+    "content": "In an apartment with a flat, worn floor,\nA lizard watched me, its eyes a distant shore.\nA sibling's laughter echoed, a joy unbound,\nAs I sat at the stove, an onion spinning round.\n\nMy thoughts involved the census, a story untold,\nA map of faces, a tale of stories unfold.\nBut someone knocked at the door, a surprise in store,\nAnd I hid my egg, like a secret, evermore.\n\nThey left a burger on the counter, a gift in the night,\nA symbol of kindness, a beacon shining bright.\nBut as I quit my thoughts and gazed outside to space,\nI wished I could be there, in some unknown place.\n\nThe lizard watched me, its eyes a knowing glance,\nAs if to say, \"Leave this world, it's time to take a chance.\"\nI longed to turn forward, to a life unknown,\nTo leave behind the flat, a world that was never my home.\n\nBut for now, I stay, in this place of rest,\nA dentist's chair nearby, a reminder to take care of my best.\nThe lizard remains, a loyal, silent friend,\nWatching over me, until the story's end.",
+    "generatedAt": "2026-07-04T10:44:54.580Z"
   },
   "keywords": [
     {
-      "word": "oppose",
-      "slot": 430510903,
+      "word": "doll",
+      "slot": 430719456,
       "source": "blockhash"
     },
     {
-      "word": "over",
-      "slot": 430510903,
+      "word": "flat",
+      "slot": 430719456,
       "source": "previousBlockhash"
     },
     {
-      "word": "rescue",
-      "slot": 430510903,
+      "word": "sibling",
+      "slot": 430719456,
       "source": "transaction"
     },
     {
-      "word": "release",
-      "slot": 430492903,
+      "word": "burger",
+      "slot": 430701456,
       "source": "blockhash"
     },
     {
-      "word": "injury",
-      "slot": 430492903,
+      "word": "stove",
+      "slot": 430701456,
       "source": "previousBlockhash"
     },
     {
-      "word": "gloom",
-      "slot": 430492903,
+      "word": "onion",
+      "slot": 430701456,
       "source": "transaction"
     },
     {
-      "word": "grain",
-      "slot": 430474903,
+      "word": "involve",
+      "slot": 430683456,
       "source": "blockhash"
     },
     {
-      "word": "raise",
-      "slot": 430474903,
+      "word": "where",
+      "slot": 430683456,
       "source": "previousBlockhash"
     },
     {
-      "word": "odor",
-      "slot": 430474903,
+      "word": "egg",
+      "slot": 430683456,
       "source": "transaction"
     },
     {
-      "word": "auction",
-      "slot": 430456903,
+      "word": "lizard",
+      "slot": 430665456,
       "source": "blockhash"
     },
     {
-      "word": "remain",
-      "slot": 430456903,
+      "word": "quit",
+      "slot": 430665456,
       "source": "previousBlockhash"
     },
     {
-      "word": "matrix",
-      "slot": 430456903,
+      "word": "someone",
+      "slot": 430665456,
       "source": "transaction"
     },
     {
-      "word": "heavy",
-      "slot": 430438903,
+      "word": "census",
+      "slot": 430647456,
       "source": "blockhash"
     },
     {
-      "word": "patrol",
-      "slot": 430438903,
+      "word": "dentist",
+      "slot": 430647456,
       "source": "previousBlockhash"
     },
     {
-      "word": "town",
-      "slot": 430438903,
+      "word": "forward",
+      "slot": 430647456,
       "source": "transaction"
     },
     {
-      "word": "achieve",
-      "slot": 430420903,
+      "word": "floor",
+      "slot": 430629456,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpqgjoa7qg2i",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpsuxneg2a23",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
