@@ -1,92 +1,92 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "poem": {
-    "content": "In an apartment with a flat, worn floor,\nA lizard watched me, its eyes a distant shore.\nA sibling's laughter echoed, a joy unbound,\nAs I sat at the stove, an onion spinning round.\n\nMy thoughts involved the census, a story untold,\nA map of faces, a tale of stories unfold.\nBut someone knocked at the door, a surprise in store,\nAnd I hid my egg, like a secret, evermore.\n\nThey left a burger on the counter, a gift in the night,\nA symbol of kindness, a beacon shining bright.\nBut as I quit my thoughts and gazed outside to space,\nI wished I could be there, in some unknown place.\n\nThe lizard watched me, its eyes a knowing glance,\nAs if to say, \"Leave this world, it's time to take a chance.\"\nI longed to turn forward, to a life unknown,\nTo leave behind the flat, a world that was never my home.\n\nBut for now, I stay, in this place of rest,\nA dentist's chair nearby, a reminder to take care of my best.\nThe lizard remains, a loyal, silent friend,\nWatching over me, until the story's end.",
-    "generatedAt": "2026-07-04T10:44:54.580Z"
+    "content": "In the palace of the mind's vast halls,\nA cousin to the soul, I wander, calling\nThe wind to whisper secrets in my ear,\nTo suggest the mysteries that lies near.\n\nLike a patient gardener, tending to the earth,\nI tend the flames of knowledge, and give them birth,\nIn the stillness of the night, like a flip of fate,\nMy thoughts take shape, and a new exhibit creates.\n\nA gown of stars, with jewels in our eyes,\nI walk the paths of wisdom, with a curious stride,\nA valve of reason, opening to the past,\nRevealing the truth, that will forever last.\n\nA mechanic of dreams, I assemble the pieces,\nA crucial puzzle, with a soldier's fierce release,\nEach fragment falls into place, like a perfect rhyme,\nUntil the beauty of the whole, in my heart, it does shine.\n\nLike a sword unsheathed, my passion cuts the night,\nA beacon in the vast, and endless plight,\nA guiding light, that shines for those who roam,\nTo find the treasure, hidden in the cryptic home.\n\nMy Uncle Time, with a knowing, gentle hand,\nGuides me through the journey, through this mystic land,\nWhere the boundaries blur, and the soul takes flight,\nIn the palace of the heart, where love and wisdom unite.",
+    "generatedAt": "2026-07-05T10:54:37.189Z"
   },
   "keywords": [
     {
-      "word": "doll",
-      "slot": 430719456,
+      "word": "cousin",
+      "slot": 430935187,
       "source": "blockhash"
     },
     {
-      "word": "flat",
-      "slot": 430719456,
+      "word": "suggest",
+      "slot": 430935187,
       "source": "previousBlockhash"
     },
     {
-      "word": "sibling",
-      "slot": 430719456,
+      "word": "exhibit",
+      "slot": 430935187,
       "source": "transaction"
     },
     {
-      "word": "burger",
-      "slot": 430701456,
+      "word": "flip",
+      "slot": 430917187,
       "source": "blockhash"
     },
     {
-      "word": "stove",
-      "slot": 430701456,
+      "word": "palace",
+      "slot": 430917187,
       "source": "previousBlockhash"
     },
     {
-      "word": "onion",
-      "slot": 430701456,
+      "word": "patient",
+      "slot": 430917187,
       "source": "transaction"
     },
     {
-      "word": "involve",
-      "slot": 430683456,
+      "word": "gown",
+      "slot": 430899187,
       "source": "blockhash"
     },
     {
-      "word": "where",
-      "slot": 430683456,
+      "word": "valve",
+      "slot": 430899187,
       "source": "previousBlockhash"
     },
     {
-      "word": "egg",
-      "slot": 430683456,
+      "word": "mechanic",
+      "slot": 430899187,
       "source": "transaction"
     },
     {
-      "word": "lizard",
-      "slot": 430665456,
+      "word": "crucial",
+      "slot": 430881187,
       "source": "blockhash"
     },
     {
-      "word": "quit",
-      "slot": 430665456,
+      "word": "perfect",
+      "slot": 430881187,
       "source": "previousBlockhash"
     },
     {
-      "word": "someone",
-      "slot": 430665456,
+      "word": "soldier",
+      "slot": 430881187,
       "source": "transaction"
     },
     {
-      "word": "census",
-      "slot": 430647456,
+      "word": "club",
+      "slot": 430863187,
       "source": "blockhash"
     },
     {
-      "word": "dentist",
-      "slot": 430647456,
+      "word": "vast",
+      "slot": 430863187,
       "source": "previousBlockhash"
     },
     {
-      "word": "forward",
-      "slot": 430647456,
+      "word": "sword",
+      "slot": 430863187,
       "source": "transaction"
     },
     {
-      "word": "floor",
-      "slot": 430629456,
+      "word": "uncle",
+      "slot": 430845187,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpsuxneg2a23",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpvfxvpvg62x",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
