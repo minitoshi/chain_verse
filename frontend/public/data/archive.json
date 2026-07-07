@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-07-07",
+    "poem": {
+      "content": "In the vast expanse of digital haze,\nI reflect on the beauty of Solana's daze,\nA realm where wheat-like transactions grow,\nExotic assets blooming, as the market's glow.\n\nBut like a shrug, the market's fate is sealed,\nA flush of green, a crash, and fortunes revealed,\nThe amount of risk, a delicate dance,\nA balance to strike, before the final prance.\n\nThe debate rages, as traders take a stand,\nSetup for the next move, in a never-ending hand,\nA sibling rivalry, of code and of might,\nEach chain a unique poem, in the blockchain's light.\n\nAn ancient protocol, of security and speed,\nGuards the transactions, like a nervous creed,\nAspect by aspect, it's a dance so fine,\nBut beneath the surface, a nerve of doubt does twine.\n\nA kidney of the earth, a drop of precious dew,\nFuels the ecosystem, as the network renews,\nPopular consensus, a whispered truth,\nA release of trust, as the network breaks through.\n\nIn this realm of wonder, I find my home,\nWhere the exotic and the familiar roam,\nA place where reflections, of past and present blend,\nAnd the beauty of Solana, my heart does transcend.",
+      "generatedAt": "2026-07-07T11:35:21.313Z"
+    },
+    "keywords": [
+      {
+        "word": "reflect",
+        "slot": 431368110,
+        "source": "blockhash"
+      },
+      {
+        "word": "wheat",
+        "slot": 431368110,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "exotic",
+        "slot": 431368110,
+        "source": "transaction"
+      },
+      {
+        "word": "shrug",
+        "slot": 431350110,
+        "source": "blockhash"
+      },
+      {
+        "word": "flush",
+        "slot": 431350110,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "amount",
+        "slot": 431350110,
+        "source": "transaction"
+      },
+      {
+        "word": "release",
+        "slot": 431332110,
+        "source": "blockhash"
+      },
+      {
+        "word": "debate",
+        "slot": 431332110,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "setup",
+        "slot": 431332110,
+        "source": "transaction"
+      },
+      {
+        "word": "sibling",
+        "slot": 431314110,
+        "source": "blockhash"
+      },
+      {
+        "word": "poem",
+        "slot": 431314110,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "ancient",
+        "slot": 431314110,
+        "source": "transaction"
+      },
+      {
+        "word": "aspect",
+        "slot": 431296110,
+        "source": "blockhash"
+      },
+      {
+        "word": "kidney",
+        "slot": 431296110,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "popular",
+        "slot": 431296110,
+        "source": "transaction"
+      },
+      {
+        "word": "nerve",
+        "slot": 431278110,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-07-06",
     "poem": {
       "content": "In streets of moonlit silver, where the clay lies bare\nA new path unwinds, worn smooth by souls unaware\nThe sound of cricket serenades the evening air\nAs I wander, lost, with a heart that's brave and rare\n\nA mixed reality unfurls, like a canvas unspun\nWhere pioneers forge the way, with each brush stroke won\nThe scent of old brass keys, a melody so fine\nEchoes of memories that can never be defined\n\nI'm a suspect in the game, a whisper in the wind\nEager to break free, from chains that once constrained\nThe mandate of time, a steady drumbeat in my ears\nA call to rise to feats, and silent fears\n\nOn city streets, where darkness meets the sun\nA symbol of hope, a light that's yet undone\nCivil dawn awakens, with the promise of a new beginning\nIn the midst of chaos, a heartbeat, a life-inspiring\n\nA whispered legend speaks, of heroes yet unknown\nIn these shadows cast, where are the names, the only shown?\nIn stone, a monument rises, worn by bone and rust\nA nominee for greatness, a soul who learned to trust\n\nConsider the weight, of each decision made\nFor in the tapestry of life, each thread is subtly played\nLike snippets of a song, an unsafe, cracked refrain\nEchoing through chambers, a soul breaks, an unseen bane\n\nA dismayed reflex, fro its ancient trust for insights and shown moments alight.\nA revival elsewhere warm, through evanesced torn.\n crystall body tonight relaxed summons.",
@@ -2677,94 +2770,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mnrpzueh272y",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-06-07",
-    "poem": {
-      "content": "In the town, a man's skill is on display,\nA master craftsman, with art to sway,\nThe option of perfection, he does fair play,\nTo create a masterpiece, in each new day.\n\nBut in the streets, amidst the concrete gray,\nLies a sea of trash, inUnauthorized decay,\nReminding him of choices made, with regret's heavy weight,\nFor opportunities seized, and possibilities wasted, lost to fate.\n\nHe thinks of poems once composed, now long forgot,\nThe memories of love and laughter, on which they were drawn,\nLeaving him to wonder, would they still hold a prize,\nOr fade like the rail, that passes through the streets' dark disguise?\n\nThe weekend comes, a time to step outside and breathe,\nTo find the beauty, in the outdoor's wild release,\nBut he remembers all he left, in the town's central square,\nThe accolades, the salutes, and the praise, that only words can share.\n\nStill, he finds a way, to create a new work of art,\nA poem born of regret, and a healing heart,\nThat in its lines, and rhymes, and subtle, hidden might,\nLooks back on the impact, of the choices made, in blinding light.\n\nAnd though it's easy, to forget the ones we've known,\nThe memories linger, like the scent of a distant home,\nWhere love and laughter, and joy and sorrow, intertwined,\nForm the intricate patterns, of a life so finely designed.\n\nThe man smiles, though wistful, with a gentle regretful gaze,\nFor though the moments lost, can't be had, the memories remain,\nAnd in the silence, he hears a whisper, low and kind,\n\"Your skill is still a treasure, a gift to the world, left behind.\"",
-      "generatedAt": "2026-06-07T10:58:16.655Z"
-    },
-    "keywords": [
-      {
-        "word": "skill",
-        "slot": 424880105,
-        "source": "blockhash"
-      },
-      {
-        "word": "option",
-        "slot": 424880105,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "trash",
-        "slot": 424880105,
-        "source": "transaction"
-      },
-      {
-        "word": "regret",
-        "slot": 424862105,
-        "source": "blockhash"
-      },
-      {
-        "word": "poem",
-        "slot": 424862105,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "rail",
-        "slot": 424862105,
-        "source": "transaction"
-      },
-      {
-        "word": "man",
-        "slot": 424844105,
-        "source": "blockhash"
-      },
-      {
-        "word": "town",
-        "slot": 424844105,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "weekend",
-        "slot": 424844105,
-        "source": "transaction"
-      },
-      {
-        "word": "prize",
-        "slot": 424826105,
-        "source": "blockhash"
-      },
-      {
-        "word": "outdoor",
-        "slot": 424826105,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "street",
-        "slot": 424826105,
-        "source": "transaction"
-      },
-      {
-        "word": "salute",
-        "slot": 424808105,
-        "source": "blockhash"
-      },
-      {
-        "word": "impact",
-        "slot": 424808105,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "forget",
-        "slot": 424808105,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mnoz4myplp2l",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8
