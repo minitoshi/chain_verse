@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-07-08",
+    "poem": {
+      "content": "In the depths of the nuclear winter's chill,\nA lone warrior rises, still and unbroken still.\nWith fatigue etched on every weary face,\nThey stumble forth, a spirit's stubborn pace.\n\nTheir envelope of strength, a fragile hold,\nA silk-wrapped shield, against the tempest's cold.\nA crane's majestic cry, echoes through the air,\nAs they prepare to face the bomb, with no care.\n\nTheir civil heart, aflame with pride and right,\nDrives them to struggle, through the dark of night.\nTheir quest to obtain, a brighter, safer shore,\nLeaves them wearied, yet undeterred, evermore.\n\nTogether, they march, a united band,\nTheir footsteps echoing, across the barren land.\nDuring the darkest hours, when hope does seem to vanish,\nTheir resolve remains, a beacon, in the nuclear's ash and clash.\n\nBut in the silence, a strange beauty lies,\nA silk-thread whispered, across the winter skies.\nThe wind, a gentle lover, brushes past their face,\nAnd in its softness, a peace, a stillness, takes its place.\n\nTheir envelope of strength, now strengthened, whole,\nThe warrior's heart, afire, with a love that makes them whole.\nTheir struggle, their pride, their love, a burning flame,\nGuides them through the nuclear's darkest, most fatal game.\n\nAnd when the bomb falls, and the world does seem to end,\nTheir love, their strength, their pride, will never vanish, transcend.\nFor in the silence, a new beginning will unfold,\nA brighter dawn, where love, and peace, and strength, are told.",
+      "generatedAt": "2026-07-08T10:52:00.667Z"
+    },
+    "keywords": [
+      {
+        "word": "bomb",
+        "slot": 431574692,
+        "source": "blockhash"
+      },
+      {
+        "word": "fatigue",
+        "slot": 431574692,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "envelope",
+        "slot": 431574692,
+        "source": "transaction"
+      },
+      {
+        "word": "warrior",
+        "slot": 431556692,
+        "source": "blockhash"
+      },
+      {
+        "word": "silk",
+        "slot": 431556692,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "crane",
+        "slot": 431556692,
+        "source": "transaction"
+      },
+      {
+        "word": "nuclear",
+        "slot": 431538692,
+        "source": "blockhash"
+      },
+      {
+        "word": "together",
+        "slot": 431538692,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "pride",
+        "slot": 431538692,
+        "source": "transaction"
+      },
+      {
+        "word": "obtain",
+        "slot": 431520692,
+        "source": "blockhash"
+      },
+      {
+        "word": "share",
+        "slot": 431520692,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "during",
+        "slot": 431520692,
+        "source": "transaction"
+      },
+      {
+        "word": "vanish",
+        "slot": 431502692,
+        "source": "blockhash"
+      },
+      {
+        "word": "struggle",
+        "slot": 431502692,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wear",
+        "slot": 431502692,
+        "source": "transaction"
+      },
+      {
+        "word": "civil",
+        "slot": 431484692,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mq4x7yd6ow2i",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-07-07",
     "poem": {
       "content": "In the vast expanse of digital haze,\nI reflect on the beauty of Solana's daze,\nA realm where wheat-like transactions grow,\nExotic assets blooming, as the market's glow.\n\nBut like a shrug, the market's fate is sealed,\nA flush of green, a crash, and fortunes revealed,\nThe amount of risk, a delicate dance,\nA balance to strike, before the final prance.\n\nThe debate rages, as traders take a stand,\nSetup for the next move, in a never-ending hand,\nA sibling rivalry, of code and of might,\nEach chain a unique poem, in the blockchain's light.\n\nAn ancient protocol, of security and speed,\nGuards the transactions, like a nervous creed,\nAspect by aspect, it's a dance so fine,\nBut beneath the surface, a nerve of doubt does twine.\n\nA kidney of the earth, a drop of precious dew,\nFuels the ecosystem, as the network renews,\nPopular consensus, a whispered truth,\nA release of trust, as the network breaks through.\n\nIn this realm of wonder, I find my home,\nWhere the exotic and the familiar roam,\nA place where reflections, of past and present blend,\nAnd the beauty of Solana, my heart does transcend.",
@@ -2682,94 +2775,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mnu4x5pkpy27",
-    "poemReady": true,
-    "keywordsCollected": 15,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-06-08",
-    "poem": {
-      "content": "In the vast expanse of the Solana sea,\nA lone kid sails, with heart full of glee.\nTheir sister's smile, a guiding light,\n Illuminates the maze of digital night.\n\nLike a pill, freedom dissolves the fear,\nAnd the April sun shines bright and clear.\nBut unable to resist the siren's call,\nThey sail into the depths, where the winds enthrall.\n\nA bitter taste, a razor's edge,\nCuts through the noise, and clears the pledge.\nThe load of secrets, a weight to bear,\nIs lifted by the freedom they share.\n\nOn this holiday from the digital grind,\nThey find solace in the digital wind.\nTheir shoulder shrugs, the burden gone,\nAs they rise to meet the morning sun's song.\n\nThe maze unwinds, like a thread so fine,\nRevealing the secrets of the Solana shrine.\nTheir sister's love, a beacon in the night,\nGuides them through, and brings forth the light.\n\nIn this vast ocean, where transactions roam,\nThey've found their anchor, a digital home.\nTheir sail billows, with a gentle breeze,\nAs they navigate the waters, with digital ease.\n\nThe pill of freedom, dissolves the pain,\nAs they soar on the wings of the Solana gain.\nTheir heart full of joy, their spirit free,\nThey ride the wind, wild and carefree.",
-      "generatedAt": "2026-06-08T12:53:38.079Z"
-    },
-    "keywords": [
-      {
-        "word": "kid",
-        "slot": 425114496,
-        "source": "blockhash"
-      },
-      {
-        "word": "sea",
-        "slot": 425114496,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "maze",
-        "slot": 425114496,
-        "source": "transaction"
-      },
-      {
-        "word": "sister",
-        "slot": 425096496,
-        "source": "blockhash"
-      },
-      {
-        "word": "pill",
-        "slot": 425096496,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "april",
-        "slot": 425096496,
-        "source": "transaction"
-      },
-      {
-        "word": "unable",
-        "slot": 425078496,
-        "source": "blockhash"
-      },
-      {
-        "word": "like",
-        "slot": 425078496,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "holiday",
-        "slot": 425078496,
-        "source": "transaction"
-      },
-      {
-        "word": "shoulder",
-        "slot": 425060496,
-        "source": "blockhash"
-      },
-      {
-        "word": "load",
-        "slot": 425060496,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "sail",
-        "slot": 425060496,
-        "source": "transaction"
-      },
-      {
-        "word": "razor",
-        "slot": 425042496,
-        "source": "blockhash"
-      },
-      {
-        "word": "bitter",
-        "slot": 425042496,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "inform",
-        "slot": 425042496,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mnrpzueh272y",
     "poemReady": true,
     "keywordsCollected": 15,
     "keywordsNeeded": 8

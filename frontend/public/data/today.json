@@ -1,92 +1,92 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "poem": {
-    "content": "In the vast expanse of digital haze,\nI reflect on the beauty of Solana's daze,\nA realm where wheat-like transactions grow,\nExotic assets blooming, as the market's glow.\n\nBut like a shrug, the market's fate is sealed,\nA flush of green, a crash, and fortunes revealed,\nThe amount of risk, a delicate dance,\nA balance to strike, before the final prance.\n\nThe debate rages, as traders take a stand,\nSetup for the next move, in a never-ending hand,\nA sibling rivalry, of code and of might,\nEach chain a unique poem, in the blockchain's light.\n\nAn ancient protocol, of security and speed,\nGuards the transactions, like a nervous creed,\nAspect by aspect, it's a dance so fine,\nBut beneath the surface, a nerve of doubt does twine.\n\nA kidney of the earth, a drop of precious dew,\nFuels the ecosystem, as the network renews,\nPopular consensus, a whispered truth,\nA release of trust, as the network breaks through.\n\nIn this realm of wonder, I find my home,\nWhere the exotic and the familiar roam,\nA place where reflections, of past and present blend,\nAnd the beauty of Solana, my heart does transcend.",
-    "generatedAt": "2026-07-07T11:35:21.313Z"
+    "content": "In the depths of the nuclear winter's chill,\nA lone warrior rises, still and unbroken still.\nWith fatigue etched on every weary face,\nThey stumble forth, a spirit's stubborn pace.\n\nTheir envelope of strength, a fragile hold,\nA silk-wrapped shield, against the tempest's cold.\nA crane's majestic cry, echoes through the air,\nAs they prepare to face the bomb, with no care.\n\nTheir civil heart, aflame with pride and right,\nDrives them to struggle, through the dark of night.\nTheir quest to obtain, a brighter, safer shore,\nLeaves them wearied, yet undeterred, evermore.\n\nTogether, they march, a united band,\nTheir footsteps echoing, across the barren land.\nDuring the darkest hours, when hope does seem to vanish,\nTheir resolve remains, a beacon, in the nuclear's ash and clash.\n\nBut in the silence, a strange beauty lies,\nA silk-thread whispered, across the winter skies.\nThe wind, a gentle lover, brushes past their face,\nAnd in its softness, a peace, a stillness, takes its place.\n\nTheir envelope of strength, now strengthened, whole,\nThe warrior's heart, afire, with a love that makes them whole.\nTheir struggle, their pride, their love, a burning flame,\nGuides them through the nuclear's darkest, most fatal game.\n\nAnd when the bomb falls, and the world does seem to end,\nTheir love, their strength, their pride, will never vanish, transcend.\nFor in the silence, a new beginning will unfold,\nA brighter dawn, where love, and peace, and strength, are told.",
+    "generatedAt": "2026-07-08T10:52:00.667Z"
   },
   "keywords": [
     {
-      "word": "reflect",
-      "slot": 431368110,
+      "word": "bomb",
+      "slot": 431574692,
       "source": "blockhash"
     },
     {
-      "word": "wheat",
-      "slot": 431368110,
+      "word": "fatigue",
+      "slot": 431574692,
       "source": "previousBlockhash"
     },
     {
-      "word": "exotic",
-      "slot": 431368110,
+      "word": "envelope",
+      "slot": 431574692,
       "source": "transaction"
     },
     {
-      "word": "shrug",
-      "slot": 431350110,
+      "word": "warrior",
+      "slot": 431556692,
       "source": "blockhash"
     },
     {
-      "word": "flush",
-      "slot": 431350110,
+      "word": "silk",
+      "slot": 431556692,
       "source": "previousBlockhash"
     },
     {
-      "word": "amount",
-      "slot": 431350110,
+      "word": "crane",
+      "slot": 431556692,
       "source": "transaction"
     },
     {
-      "word": "release",
-      "slot": 431332110,
+      "word": "nuclear",
+      "slot": 431538692,
       "source": "blockhash"
     },
     {
-      "word": "debate",
-      "slot": 431332110,
+      "word": "together",
+      "slot": 431538692,
       "source": "previousBlockhash"
     },
     {
-      "word": "setup",
-      "slot": 431332110,
+      "word": "pride",
+      "slot": 431538692,
       "source": "transaction"
     },
     {
-      "word": "sibling",
-      "slot": 431314110,
+      "word": "obtain",
+      "slot": 431520692,
       "source": "blockhash"
     },
     {
-      "word": "poem",
-      "slot": 431314110,
+      "word": "share",
+      "slot": 431520692,
       "source": "previousBlockhash"
     },
     {
-      "word": "ancient",
-      "slot": 431314110,
+      "word": "during",
+      "slot": 431520692,
       "source": "transaction"
     },
     {
-      "word": "aspect",
-      "slot": 431296110,
+      "word": "vanish",
+      "slot": 431502692,
       "source": "blockhash"
     },
     {
-      "word": "kidney",
-      "slot": 431296110,
+      "word": "struggle",
+      "slot": 431502692,
       "source": "previousBlockhash"
     },
     {
-      "word": "popular",
-      "slot": 431296110,
+      "word": "wear",
+      "slot": 431502692,
       "source": "transaction"
     },
     {
-      "word": "nerve",
-      "slot": 431278110,
+      "word": "civil",
+      "slot": 431484692,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mq4x7yd6ow2i",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
