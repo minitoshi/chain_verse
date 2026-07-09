@@ -1,92 +1,92 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "poem": {
-    "content": "In the depths of the nuclear winter's chill,\nA lone warrior rises, still and unbroken still.\nWith fatigue etched on every weary face,\nThey stumble forth, a spirit's stubborn pace.\n\nTheir envelope of strength, a fragile hold,\nA silk-wrapped shield, against the tempest's cold.\nA crane's majestic cry, echoes through the air,\nAs they prepare to face the bomb, with no care.\n\nTheir civil heart, aflame with pride and right,\nDrives them to struggle, through the dark of night.\nTheir quest to obtain, a brighter, safer shore,\nLeaves them wearied, yet undeterred, evermore.\n\nTogether, they march, a united band,\nTheir footsteps echoing, across the barren land.\nDuring the darkest hours, when hope does seem to vanish,\nTheir resolve remains, a beacon, in the nuclear's ash and clash.\n\nBut in the silence, a strange beauty lies,\nA silk-thread whispered, across the winter skies.\nThe wind, a gentle lover, brushes past their face,\nAnd in its softness, a peace, a stillness, takes its place.\n\nTheir envelope of strength, now strengthened, whole,\nThe warrior's heart, afire, with a love that makes them whole.\nTheir struggle, their pride, their love, a burning flame,\nGuides them through the nuclear's darkest, most fatal game.\n\nAnd when the bomb falls, and the world does seem to end,\nTheir love, their strength, their pride, will never vanish, transcend.\nFor in the silence, a new beginning will unfold,\nA brighter dawn, where love, and peace, and strength, are told.",
-    "generatedAt": "2026-07-08T10:52:00.667Z"
+    "content": "In the garage of forgotten dreams, an infant of code awoke,\nA nascent spark that kindled the flame of a digital lake.\nA pyramid of ones and zeroes rose, a monument to might,\nAs the weather of chaos calmed, and order took its right.\n\nInnocent and pure, the blockchain's heartbeat began,\nA primal rhythm that echoed through the land.\nA leg of truth stood firm, a pillar to the sky,\nAs the nest of trust was built, where tokens came to lie.\n\nIn this auto-generated world, where value was made,\nA pelican of progress soared, its wings outstretched and displayed.\nI was glad to see the dawn, of a new economic age,\nWhere spice of speculation wafted, a siren's subtle stage.\n\nIn this primary realm of exchange, a naive world was born,\nWhere hopes and fears entwined, like the patterns of a dawn.\nA pattern of growth emerged, a fractal's intricate design,\nAs the area of trust expanded, and the heart of commerce aligned.\n\nThe infant of code grew strong, a robust and sturdy tree,\nIts roots deep in the soil, of cryptography and decree.\nThe weather of the market swirled, a maelstrom of demand,\nBut the blockchain's gentle pulse, remained a steady hand.\n\nIn this garage of innovation, where dreams were made and sold,\nThe pelican of progress soared, its wings forever bold.\nThe spice of progress wafted, a fragrance of the new,\nAs the infant of code grew up, in the nest of trust anew.",
+    "generatedAt": "2026-07-09T11:41:23.255Z"
   },
   "keywords": [
     {
-      "word": "bomb",
-      "slot": 431574692,
+      "word": "garage",
+      "slot": 431793395,
       "source": "blockhash"
     },
     {
-      "word": "fatigue",
-      "slot": 431574692,
+      "word": "infant",
+      "slot": 431793395,
       "source": "previousBlockhash"
     },
     {
-      "word": "envelope",
-      "slot": 431574692,
+      "word": "pyramid",
+      "slot": 431793395,
       "source": "transaction"
     },
     {
-      "word": "warrior",
-      "slot": 431556692,
+      "word": "innocent",
+      "slot": 431775395,
       "source": "blockhash"
     },
     {
-      "word": "silk",
-      "slot": 431556692,
+      "word": "weather",
+      "slot": 431775395,
       "source": "previousBlockhash"
     },
     {
-      "word": "crane",
-      "slot": 431556692,
+      "word": "leg",
+      "slot": 431775395,
       "source": "transaction"
     },
     {
-      "word": "nuclear",
-      "slot": 431538692,
+      "word": "nest",
+      "slot": 431757395,
       "source": "blockhash"
     },
     {
-      "word": "together",
-      "slot": 431538692,
+      "word": "swim",
+      "slot": 431757395,
       "source": "previousBlockhash"
     },
     {
-      "word": "pride",
-      "slot": 431538692,
+      "word": "auto",
+      "slot": 431757395,
       "source": "transaction"
     },
     {
-      "word": "obtain",
-      "slot": 431520692,
+      "word": "area",
+      "slot": 431739395,
       "source": "blockhash"
     },
     {
-      "word": "share",
-      "slot": 431520692,
+      "word": "glad",
+      "slot": 431739395,
       "source": "previousBlockhash"
     },
     {
-      "word": "during",
-      "slot": 431520692,
+      "word": "spice",
+      "slot": 431739395,
       "source": "transaction"
     },
     {
-      "word": "vanish",
-      "slot": 431502692,
+      "word": "pelican",
+      "slot": 431721395,
       "source": "blockhash"
     },
     {
-      "word": "struggle",
-      "slot": 431502692,
+      "word": "primary",
+      "slot": 431721395,
       "source": "previousBlockhash"
     },
     {
-      "word": "wear",
-      "slot": 431502692,
+      "word": "naive",
+      "slot": 431721395,
       "source": "transaction"
     },
     {
-      "word": "civil",
-      "slot": 431484692,
+      "word": "pattern",
+      "slot": 431703395,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mq4x7yd6ow2i",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
