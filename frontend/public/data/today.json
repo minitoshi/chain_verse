@@ -1,92 +1,92 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "poem": {
-    "content": "In the garage of forgotten dreams, an infant of code awoke,\nA nascent spark that kindled the flame of a digital lake.\nA pyramid of ones and zeroes rose, a monument to might,\nAs the weather of chaos calmed, and order took its right.\n\nInnocent and pure, the blockchain's heartbeat began,\nA primal rhythm that echoed through the land.\nA leg of truth stood firm, a pillar to the sky,\nAs the nest of trust was built, where tokens came to lie.\n\nIn this auto-generated world, where value was made,\nA pelican of progress soared, its wings outstretched and displayed.\nI was glad to see the dawn, of a new economic age,\nWhere spice of speculation wafted, a siren's subtle stage.\n\nIn this primary realm of exchange, a naive world was born,\nWhere hopes and fears entwined, like the patterns of a dawn.\nA pattern of growth emerged, a fractal's intricate design,\nAs the area of trust expanded, and the heart of commerce aligned.\n\nThe infant of code grew strong, a robust and sturdy tree,\nIts roots deep in the soil, of cryptography and decree.\nThe weather of the market swirled, a maelstrom of demand,\nBut the blockchain's gentle pulse, remained a steady hand.\n\nIn this garage of innovation, where dreams were made and sold,\nThe pelican of progress soared, its wings forever bold.\nThe spice of progress wafted, a fragrance of the new,\nAs the infant of code grew up, in the nest of trust anew.",
-    "generatedAt": "2026-07-09T11:41:23.255Z"
+    "content": "In the cradle of dawn, where shadows veil\nA new thought emerges, like an autumn gale\nThat whispers secrets, breathed in whispers cold\nAs petals of cherry blossoms unfold\nThe width of hope expands, a canvas wide\nWhere ethics weave their weighty, silken tide\nA cry echoes through the endless night\nA melancholy wail, a tired, hollow light\n\nIn a dance of atom fragments, free to roam\nI find my path, through fragments of my home\nThe bench where memories once gathered to console\nNow stands empty, like a space I've lost my soul\nYet still I rise, and with each step I take\nThe ground beneath me increases, for my heart's sake\nA leap of faith, a jump into the unknown\nWhere darkness flees, and stars begin to atone\n\nFor every wound, a germ takes hold and grows\nLeaving scars, and openings to let in the freeze\nA season's rust upon the armor I wear\nIt is autumn's harvest, a time to confront and spare\nMy heart, a heavy pearl within a delicate shell\nIn the whirlwind of my loves, or the nothing I can tell.",
+    "generatedAt": "2026-07-10T11:38:06.810Z"
   },
   "keywords": [
     {
-      "word": "garage",
-      "slot": 431793395,
+      "word": "increase",
+      "slot": 432003775,
       "source": "blockhash"
     },
     {
-      "word": "infant",
-      "slot": 431793395,
+      "word": "width",
+      "slot": 432003775,
       "source": "previousBlockhash"
     },
     {
-      "word": "pyramid",
-      "slot": 431793395,
+      "word": "unveil",
+      "slot": 432003775,
       "source": "transaction"
     },
     {
-      "word": "innocent",
-      "slot": 431775395,
+      "word": "tired",
+      "slot": 431985775,
       "source": "blockhash"
     },
     {
-      "word": "weather",
-      "slot": 431775395,
+      "word": "jump",
+      "slot": 431985775,
       "source": "previousBlockhash"
     },
     {
-      "word": "leg",
-      "slot": 431775395,
+      "word": "thought",
+      "slot": 431985775,
       "source": "transaction"
     },
     {
-      "word": "nest",
-      "slot": 431757395,
+      "word": "atom",
+      "slot": 431967775,
       "source": "blockhash"
     },
     {
-      "word": "swim",
-      "slot": 431757395,
+      "word": "impact",
+      "slot": 431967775,
       "source": "previousBlockhash"
     },
     {
-      "word": "auto",
-      "slot": 431757395,
+      "word": "cradle",
+      "slot": 431967775,
       "source": "transaction"
     },
     {
-      "word": "area",
-      "slot": 431739395,
+      "word": "bench",
+      "slot": 431949775,
       "source": "blockhash"
     },
     {
-      "word": "glad",
-      "slot": 431739395,
+      "word": "nothing",
+      "slot": 431949775,
       "source": "previousBlockhash"
     },
     {
-      "word": "spice",
-      "slot": 431739395,
+      "word": "autumn",
+      "slot": 431949775,
       "source": "transaction"
     },
     {
-      "word": "pelican",
-      "slot": 431721395,
+      "word": "cry",
+      "slot": 431931775,
       "source": "blockhash"
     },
     {
-      "word": "primary",
-      "slot": 431721395,
+      "word": "ethics",
+      "slot": 431931775,
       "source": "previousBlockhash"
     },
     {
-      "word": "naive",
-      "slot": 431721395,
+      "word": "cherry",
+      "slot": 431931775,
       "source": "transaction"
     },
     {
-      "word": "pattern",
-      "slot": 431703395,
+      "word": "broken",
+      "slot": 431913775,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqc2qcesp72a",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
