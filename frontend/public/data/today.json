@@ -1,92 +1,92 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "poem": {
-    "content": "In the cradle of dawn, where shadows veil\nA new thought emerges, like an autumn gale\nThat whispers secrets, breathed in whispers cold\nAs petals of cherry blossoms unfold\nThe width of hope expands, a canvas wide\nWhere ethics weave their weighty, silken tide\nA cry echoes through the endless night\nA melancholy wail, a tired, hollow light\n\nIn a dance of atom fragments, free to roam\nI find my path, through fragments of my home\nThe bench where memories once gathered to console\nNow stands empty, like a space I've lost my soul\nYet still I rise, and with each step I take\nThe ground beneath me increases, for my heart's sake\nA leap of faith, a jump into the unknown\nWhere darkness flees, and stars begin to atone\n\nFor every wound, a germ takes hold and grows\nLeaving scars, and openings to let in the freeze\nA season's rust upon the armor I wear\nIt is autumn's harvest, a time to confront and spare\nMy heart, a heavy pearl within a delicate shell\nIn the whirlwind of my loves, or the nothing I can tell.",
-    "generatedAt": "2026-07-10T11:38:06.810Z"
+    "content": "In the shop of visions, where light does inspire,\nA powder of wonder settles, like dust in the air.\nA marble sculpture takes shape, a masterpiece to aspire,\nBorn from the spark of imagination, with no equal to compare.\n\nA project unfolds, a tapestry rich and fine,\nWeaving threads of resource and purpose, a work divine.\nThat which was once obscure, now takes its place,\nA vision refined, where chaos fades to space.\n\nBut reform is a process, where mistakes are made,\nWhere regrets of yesteryear can like a shadow be displayed.\nA woman weaves her story, with every step and every fall,\nA rose blooms in the darkness, where humor heard, may stand tall.\n\nA flower unfurls, its petals soft as skin,\nUnfettered by the weights that bring us to spin.\nSpare a thought for those who struggle, with asthma's heavy sigh,\nMay our compassion be the balm, that brings their soul to fly.\n\nLike a lobster, we scuttle sideways, through life's turbulent sea,\nAdapting, evolving, with every wave, we ride, wild and free.\nYet, in the blur of moments, lost in time's perpetual flow,\nWe search for what remains, a glimpse of who we used to know.\n\nIn the shop of memories, where shadows softly play,\nA light within still glows, to guide us through the day.\nAnd though regret may linger, like the scent of a summer's day,\nWe rise, renewed, with every step, to face the dawn's new way.",
+    "generatedAt": "2026-07-11T10:07:49.324Z"
   },
   "keywords": [
     {
-      "word": "increase",
-      "slot": 432003775,
+      "word": "inspire",
+      "slot": 432201301,
       "source": "blockhash"
     },
     {
-      "word": "width",
-      "slot": 432003775,
+      "word": "powder",
+      "slot": 432201301,
       "source": "previousBlockhash"
     },
     {
-      "word": "unveil",
-      "slot": 432003775,
+      "word": "marble",
+      "slot": 432201301,
       "source": "transaction"
     },
     {
-      "word": "tired",
-      "slot": 431985775,
+      "word": "project",
+      "slot": 432183301,
       "source": "blockhash"
     },
     {
-      "word": "jump",
-      "slot": 431985775,
+      "word": "resource",
+      "slot": 432183301,
       "source": "previousBlockhash"
     },
     {
-      "word": "thought",
-      "slot": 431985775,
+      "word": "that",
+      "slot": 432183301,
       "source": "transaction"
     },
     {
-      "word": "atom",
-      "slot": 431967775,
+      "word": "reform",
+      "slot": 432165301,
       "source": "blockhash"
     },
     {
-      "word": "impact",
-      "slot": 431967775,
+      "word": "shop",
+      "slot": 432165301,
       "source": "previousBlockhash"
     },
     {
-      "word": "cradle",
-      "slot": 431967775,
+      "word": "humor",
+      "slot": 432165301,
       "source": "transaction"
     },
     {
-      "word": "bench",
-      "slot": 431949775,
+      "word": "flower",
+      "slot": 432147301,
       "source": "blockhash"
     },
     {
-      "word": "nothing",
-      "slot": 431949775,
+      "word": "spare",
+      "slot": 432147301,
       "source": "previousBlockhash"
     },
     {
-      "word": "autumn",
-      "slot": 431949775,
+      "word": "asthma",
+      "slot": 432147301,
       "source": "transaction"
     },
     {
-      "word": "cry",
-      "slot": 431931775,
+      "word": "lobster",
+      "slot": 432129301,
       "source": "blockhash"
     },
     {
-      "word": "ethics",
-      "slot": 431931775,
+      "word": "blur",
+      "slot": 432129301,
+      "source": "transaction"
+    },
+    {
+      "word": "regret",
+      "slot": 432111301,
+      "source": "blockhash"
+    },
+    {
+      "word": "woman",
+      "slot": 432111301,
       "source": "previousBlockhash"
-    },
-    {
-      "word": "cherry",
-      "slot": 431931775,
-      "source": "transaction"
-    },
-    {
-      "word": "broken",
-      "slot": 431913775,
-      "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqc2qcesp72a",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqeg5qbxja25",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

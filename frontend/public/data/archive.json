@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-07-11",
+    "poem": {
+      "content": "In the shop of visions, where light does inspire,\nA powder of wonder settles, like dust in the air.\nA marble sculpture takes shape, a masterpiece to aspire,\nBorn from the spark of imagination, with no equal to compare.\n\nA project unfolds, a tapestry rich and fine,\nWeaving threads of resource and purpose, a work divine.\nThat which was once obscure, now takes its place,\nA vision refined, where chaos fades to space.\n\nBut reform is a process, where mistakes are made,\nWhere regrets of yesteryear can like a shadow be displayed.\nA woman weaves her story, with every step and every fall,\nA rose blooms in the darkness, where humor heard, may stand tall.\n\nA flower unfurls, its petals soft as skin,\nUnfettered by the weights that bring us to spin.\nSpare a thought for those who struggle, with asthma's heavy sigh,\nMay our compassion be the balm, that brings their soul to fly.\n\nLike a lobster, we scuttle sideways, through life's turbulent sea,\nAdapting, evolving, with every wave, we ride, wild and free.\nYet, in the blur of moments, lost in time's perpetual flow,\nWe search for what remains, a glimpse of who we used to know.\n\nIn the shop of memories, where shadows softly play,\nA light within still glows, to guide us through the day.\nAnd though regret may linger, like the scent of a summer's day,\nWe rise, renewed, with every step, to face the dawn's new way.",
+      "generatedAt": "2026-07-11T10:07:49.324Z"
+    },
+    "keywords": [
+      {
+        "word": "inspire",
+        "slot": 432201301,
+        "source": "blockhash"
+      },
+      {
+        "word": "powder",
+        "slot": 432201301,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "marble",
+        "slot": 432201301,
+        "source": "transaction"
+      },
+      {
+        "word": "project",
+        "slot": 432183301,
+        "source": "blockhash"
+      },
+      {
+        "word": "resource",
+        "slot": 432183301,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "that",
+        "slot": 432183301,
+        "source": "transaction"
+      },
+      {
+        "word": "reform",
+        "slot": 432165301,
+        "source": "blockhash"
+      },
+      {
+        "word": "shop",
+        "slot": 432165301,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "humor",
+        "slot": 432165301,
+        "source": "transaction"
+      },
+      {
+        "word": "flower",
+        "slot": 432147301,
+        "source": "blockhash"
+      },
+      {
+        "word": "spare",
+        "slot": 432147301,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "asthma",
+        "slot": 432147301,
+        "source": "transaction"
+      },
+      {
+        "word": "lobster",
+        "slot": 432129301,
+        "source": "blockhash"
+      },
+      {
+        "word": "blur",
+        "slot": 432129301,
+        "source": "transaction"
+      },
+      {
+        "word": "regret",
+        "slot": 432111301,
+        "source": "blockhash"
+      },
+      {
+        "word": "woman",
+        "slot": 432111301,
+        "source": "previousBlockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqeg5qbxja25",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-07-10",
     "poem": {
       "content": "In the cradle of dawn, where shadows veil\nA new thought emerges, like an autumn gale\nThat whispers secrets, breathed in whispers cold\nAs petals of cherry blossoms unfold\nThe width of hope expands, a canvas wide\nWhere ethics weave their weighty, silken tide\nA cry echoes through the endless night\nA melancholy wail, a tired, hollow light\n\nIn a dance of atom fragments, free to roam\nI find my path, through fragments of my home\nThe bench where memories once gathered to console\nNow stands empty, like a space I've lost my soul\nYet still I rise, and with each step I take\nThe ground beneath me increases, for my heart's sake\nA leap of faith, a jump into the unknown\nWhere darkness flees, and stars begin to atone\n\nFor every wound, a germ takes hold and grows\nLeaving scars, and openings to let in the freeze\nA season's rust upon the armor I wear\nIt is autumn's harvest, a time to confront and spare\nMy heart, a heavy pearl within a delicate shell\nIn the whirlwind of my loves, or the nothing I can tell.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mo3pfopmlg2x",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-06-11",
-    "poem": {
-      "content": "In dune-filled landscapes, where shadows play,\nA hidden world awakens, night by day.\nA nominee emerges, pure and bright,\nSeeking to reform the darkness of night.\n\nWith every step, a list unfolds like a scroll,\nOf broken dreams and shattered goals.\nYet, in this desolate land, a snack of hope appears,\nA fleeting taste of sweetness, like sugar through the years.\n\nBut approval is hard-won, and often comes at a cost,\nA narrow path that twists and turns, forever lost.\nStill, we must enact our vision, no matter the strife,\nAnd crawl through the darkness, fueled by our inner life.\n\nLike a pupil opening wide, to drink in the light,\nWe must confront the evil that haunts this endless night.\nThe second chance we grasp, a fragile, precious thing,\nA moment's peace, before the chaos starts to sing.\n\nIn this vast, layered world, where truth is hard to find,\nWe search for a foundation, a solid ground to bind.\nBut the surface is deceptive, a fragile, shifting sand,\nThat threatens to swallow us whole, like a hungry, hungry land.\n\nYet, still we hold on, to the hope that we'll prevail,\nAnd in the darkness, find a hidden, secret trail.\nA path that winds and turns, through dunes of pain and strife,\nThat leads us to the truth, and the beauty of life.",
-      "generatedAt": "2026-06-11T12:33:58.632Z"
-    },
-    "keywords": [
-      {
-        "word": "nominee",
-        "slot": 425764228,
-        "source": "blockhash"
-      },
-      {
-        "word": "approve",
-        "slot": 425764228,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "hidden",
-        "slot": 425764228,
-        "source": "transaction"
-      },
-      {
-        "word": "sugar",
-        "slot": 425746228,
-        "source": "blockhash"
-      },
-      {
-        "word": "reform",
-        "slot": 425746228,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "list",
-        "slot": 425746228,
-        "source": "transaction"
-      },
-      {
-        "word": "layer",
-        "slot": 425728228,
-        "source": "blockhash"
-      },
-      {
-        "word": "snack",
-        "slot": 425728228,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "narrow",
-        "slot": 425728228,
-        "source": "transaction"
-      },
-      {
-        "word": "enact",
-        "slot": 425710228,
-        "source": "blockhash"
-      },
-      {
-        "word": "crawl",
-        "slot": 425710228,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "make",
-        "slot": 425710228,
-        "source": "transaction"
-      },
-      {
-        "word": "second",
-        "slot": 425692228,
-        "source": "blockhash"
-      },
-      {
-        "word": "pupil",
-        "slot": 425692228,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "evil",
-        "slot": 425692228,
-        "source": "transaction"
-      },
-      {
-        "word": "dune",
-        "slot": 425674228,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mnzadhyhpu27",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
