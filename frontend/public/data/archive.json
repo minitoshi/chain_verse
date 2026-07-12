@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-07-12",
+    "poem": {
+      "content": "In the midnight hours, when shadows dance and play,\nA federal mystique weaves its silent sway,\nA better world, where mercy reigns supreme,\nA refuge from the chaos that would seek to beam.\n\nI sit upon a saddle, worn and old,\nA tag upon my jacket, a story yet untold,\nA voice within me whispers secrets, ancient and true,\nAs I drift on the current, like a kiwi fruit anew.\n\nMy nephew's laughter echoes, a joyous, carefree sound,\nAs we paddle through the calm, in a canoe, unbound,\nThe stars above, a celestial map, guiding us on our way,\nThrough the stillness of the night, where the world is hushed to pray.\n\nBut then, a whispered warning, a caution to behave,\nLest we disturb the peace, and disrupt the wave,\nThe hospital of the soul, where the wounded hearts reside,\nBeckons to me, a place of solace, where love and healing abide.\n\nI prefer the calm, the quiet, the peaceful night,\nWhere the world's loud din and noise, are silenced, and all is right,\nBut the voice within me whispers, of a different path to take,\nOne that winds through the darkness, where the true self must awake.\n\nThe boat of solitude, sets sail, into the unknown,\nAs I embark on this journey, where the heart must be made known,\nIn the federal vastness, of the soul's deep sea,\nI'll find the better self, that's been longing to be free.",
+      "generatedAt": "2026-07-12T10:17:11.146Z"
+    },
+    "keywords": [
+      {
+        "word": "better",
+        "slot": 432413507,
+        "source": "blockhash"
+      },
+      {
+        "word": "federal",
+        "slot": 432413507,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "voice",
+        "slot": 432413507,
+        "source": "transaction"
+      },
+      {
+        "word": "saddle",
+        "slot": 432395507,
+        "source": "blockhash"
+      },
+      {
+        "word": "mercy",
+        "slot": 432395507,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "boat",
+        "slot": 432395507,
+        "source": "transaction"
+      },
+      {
+        "word": "prefer",
+        "slot": 432377507,
+        "source": "blockhash"
+      },
+      {
+        "word": "nephew",
+        "slot": 432377507,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "midnight",
+        "slot": 432377507,
+        "source": "transaction"
+      },
+      {
+        "word": "father",
+        "slot": 432359507,
+        "source": "blockhash"
+      },
+      {
+        "word": "tag",
+        "slot": 432359507,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "behave",
+        "slot": 432359507,
+        "source": "transaction"
+      },
+      {
+        "word": "kiwi",
+        "slot": 432341507,
+        "source": "blockhash"
+      },
+      {
+        "word": "evoke",
+        "slot": 432341507,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "canoe",
+        "slot": 432341507,
+        "source": "transaction"
+      },
+      {
+        "word": "hospital",
+        "slot": 432323507,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqgx5ff56e2f",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-07-11",
     "poem": {
       "content": "In the shop of visions, where light does inspire,\nA powder of wonder settles, like dust in the air.\nA marble sculpture takes shape, a masterpiece to aspire,\nBorn from the spark of imagination, with no equal to compare.\n\nA project unfolds, a tapestry rich and fine,\nWeaving threads of resource and purpose, a work divine.\nThat which was once obscure, now takes its place,\nA vision refined, where chaos fades to space.\n\nBut reform is a process, where mistakes are made,\nWhere regrets of yesteryear can like a shadow be displayed.\nA woman weaves her story, with every step and every fall,\nA rose blooms in the darkness, where humor heard, may stand tall.\n\nA flower unfurls, its petals soft as skin,\nUnfettered by the weights that bring us to spin.\nSpare a thought for those who struggle, with asthma's heavy sigh,\nMay our compassion be the balm, that brings their soul to fly.\n\nLike a lobster, we scuttle sideways, through life's turbulent sea,\nAdapting, evolving, with every wave, we ride, wild and free.\nYet, in the blur of moments, lost in time's perpetual flow,\nWe search for what remains, a glimpse of who we used to know.\n\nIn the shop of memories, where shadows softly play,\nA light within still glows, to guide us through the day.\nAnd though regret may linger, like the scent of a summer's day,\nWe rise, renewed, with every step, to face the dawn's new way.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mo64d2sely2x",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-06-12",
-    "poem": {
-      "content": "In the hollow of my heart, a chapter unfolds\nA story of love and truth, where I've been made to hold\nA fragile thread that weaves a home to stand\nA sanctuary where love and dreams take hand\n\nI met you, young and wild, with an untreated heart\nOur affair began with a spark, a tender start\nWe danced under the stars, with the moon's gentle pitch\nOur love was like a flame, that burns with every switch\n\nLike a cable, our love will stretch and bend\nConnecting us through thick and thin, a bond that never ends\nWe're capable of overcoming, even the most sealed and hard\nThe trenches of distrust, where love would otherwise be scarred\n\nBut I've learned to see the fat of life as free\nA liberating force, that sets me loose from me\nThe trim of uncertainty, that once kept me confined\nGives way to a freedom, where love's pure love is defined\n\nAlcohol, a familiar fool, tempted me to stray\nBut in your eyes, my captain, I found my anchor stay\nOn a wedding day, we stood, one to the other true\nExchanging vows, in a love that would always renew\n\nThe world outside may seem, a cruel and rude display\nBut within our bubble of love, we'll brave the stormy day\nTogether we'll brave, the darkness and the night\nAnd in each other's eyes, we'll hold on tight.",
-      "generatedAt": "2026-06-12T12:08:58.455Z"
-    },
-    "keywords": [
-      {
-        "word": "home",
-        "slot": 425978243,
-        "source": "blockhash"
-      },
-      {
-        "word": "chapter",
-        "slot": 425978243,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "trim",
-        "slot": 425978243,
-        "source": "transaction"
-      },
-      {
-        "word": "hollow",
-        "slot": 425960243,
-        "source": "blockhash"
-      },
-      {
-        "word": "ability",
-        "slot": 425960243,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "cable",
-        "slot": 425960243,
-        "source": "transaction"
-      },
-      {
-        "word": "fat",
-        "slot": 425942243,
-        "source": "blockhash"
-      },
-      {
-        "word": "affair",
-        "slot": 425942243,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "young",
-        "slot": 425942243,
-        "source": "transaction"
-      },
-      {
-        "word": "alcohol",
-        "slot": 425924243,
-        "source": "blockhash"
-      },
-      {
-        "word": "wedding",
-        "slot": 425924243,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "fragile",
-        "slot": 425924243,
-        "source": "transaction"
-      },
-      {
-        "word": "pitch",
-        "slot": 425906243,
-        "source": "blockhash"
-      },
-      {
-        "word": "rude",
-        "slot": 425906243,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "capable",
-        "slot": 425906243,
-        "source": "transaction"
-      },
-      {
-        "word": "brisk",
-        "slot": 425888243,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mo3pfopmlg2x",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
