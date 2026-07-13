@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-07-13",
+    "poem": {
+      "content": "In the school of life, we learn to thrive,\nWhere every step is a trial to survive,\nWe hone our skills, like a hen on its nest,\nGuarding its eggs, fiercely, we do our best.\n\nBut life's a monster, with claws so sharp,\nIt strikes without warning, leaving scars in the dark,\nWe must be immune to its cruel might,\nAnd rise above, like a veteran in the fight.\n\nA burger of hope, we savor each bite,\nNourishing our souls, to face the night,\nOne moment's pause, and we're on our way,\nWith a dynamic attitude, we seize the day.\n\nBut notice, in the distance, a tragic sight,\nA victim of circumstance, lost in the fight,\nWe sponsor their cause, and lend a hand,\nTo help them rise, from the ashes of the land.\n\nIn a seminar of life, we gather and share,\nOur stories of strife, and the lessons we bear,\nSalt of the earth, we are, with hearts so true,\nWe learn to cherish, the beauty in me and you.\n\nAnd when the spike of despair, threatens to pierce,\nWe stand strong, like a fortress, no longer dispirited,\nFor we've learned to adapt, to bend and to sway,\nTo find the strength, in a brighter, more radiant day.\n\nIn this school of life, we graduate with pride,\nVeterans of the struggle, we've learned to abide,\nAnd though the journey's tough, and the road's unsure,\nWe rise above, with a spirit, forever pure.",
+      "generatedAt": "2026-07-13T11:46:27.081Z"
+    },
+    "keywords": [
+      {
+        "word": "school",
+        "slot": 432637105,
+        "source": "blockhash"
+      },
+      {
+        "word": "immune",
+        "slot": 432637105,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "burger",
+        "slot": 432637105,
+        "source": "transaction"
+      },
+      {
+        "word": "monster",
+        "slot": 432619105,
+        "source": "blockhash"
+      },
+      {
+        "word": "hen",
+        "slot": 432619105,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "one",
+        "slot": 432619105,
+        "source": "transaction"
+      },
+      {
+        "word": "attitude",
+        "slot": 432601105,
+        "source": "blockhash"
+      },
+      {
+        "word": "strike",
+        "slot": 432601105,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "sponsor",
+        "slot": 432601105,
+        "source": "transaction"
+      },
+      {
+        "word": "veteran",
+        "slot": 432583105,
+        "source": "blockhash"
+      },
+      {
+        "word": "tragic",
+        "slot": 432583105,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dynamic",
+        "slot": 432583105,
+        "source": "transaction"
+      },
+      {
+        "word": "salt",
+        "slot": 432565105,
+        "source": "blockhash"
+      },
+      {
+        "word": "seminar",
+        "slot": 432565105,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "spike",
+        "slot": 432565105,
+        "source": "transaction"
+      },
+      {
+        "word": "notice",
+        "slot": 432547105,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqjmlxcmha2h",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-07-12",
     "poem": {
       "content": "In the midnight hours, when shadows dance and play,\nA federal mystique weaves its silent sway,\nA better world, where mercy reigns supreme,\nA refuge from the chaos that would seek to beam.\n\nI sit upon a saddle, worn and old,\nA tag upon my jacket, a story yet untold,\nA voice within me whispers secrets, ancient and true,\nAs I drift on the current, like a kiwi fruit anew.\n\nMy nephew's laughter echoes, a joyous, carefree sound,\nAs we paddle through the calm, in a canoe, unbound,\nThe stars above, a celestial map, guiding us on our way,\nThrough the stillness of the night, where the world is hushed to pray.\n\nBut then, a whispered warning, a caution to behave,\nLest we disturb the peace, and disrupt the wave,\nThe hospital of the soul, where the wounded hearts reside,\nBeckons to me, a place of solace, where love and healing abide.\n\nI prefer the calm, the quiet, the peaceful night,\nWhere the world's loud din and noise, are silenced, and all is right,\nBut the voice within me whispers, of a different path to take,\nOne that winds through the darkness, where the true self must awake.\n\nThe boat of solitude, sets sail, into the unknown,\nAs I embark on this journey, where the heart must be made known,\nIn the federal vastness, of the soul's deep sea,\nI'll find the better self, that's been longing to be free.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3moann4yeur2l",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-06-13",
-    "poem": {
-      "content": "In the shaft of dawn's first light, I stand\nA champion of the chaotic land\nWhere disorder reigns, and madness holds its sway\nA mad inmate, I, in this wild display\n\nThe cliff of uncertainty stretches far and wide\nA chunk of hope, a sliver of pride\nI take the leap, with heart aflame\nAnd watch as the world, in all its chaos, claims\n\nIts rightful place, a sudden, swift descent\nInto the depths of madness, where I, a prisoner, invent\nMy own reality, a twisted, mad design\nA world of disorder, where I, a inmate, confine\n\nBut then, a gentle hand, a loving, guiding light\nMy wife's soft touch, a soothing, peaceful sight\nShe stands beside me, as I stumble and stray\nA constant in this chaotic, mad array\n\nTogether we face the dawn, a new day's gain\nA fresh start, a chance to heal, to break the chain\nThe blast of noise, the din of disarray\nGives way to silence, a peaceful, quiet day\n\nAs I observe the world, with newfound eyes\nI see the beauty, the wonder, that it implies\nA world of disorder, tamed, made new\nA place of wonder, where I, a champion, can renew\n\nThe gauge of hope, once empty, now full and bright\nReflects the love, the light, that shines with all its might\nAnd as we walk, hand in hand, into the unknown\nI feel a sense of peace, a love that's made its home.",
-      "generatedAt": "2026-06-13T11:05:28.577Z"
-    },
-    "keywords": [
-      {
-        "word": "blast",
-        "slot": 426186183,
-        "source": "blockhash"
-      },
-      {
-        "word": "job",
-        "slot": 426186183,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "gain",
-        "slot": 426186183,
-        "source": "transaction"
-      },
-      {
-        "word": "observe",
-        "slot": 426168183,
-        "source": "blockhash"
-      },
-      {
-        "word": "shaft",
-        "slot": 426168183,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "chunk",
-        "slot": 426168183,
-        "source": "transaction"
-      },
-      {
-        "word": "cliff",
-        "slot": 426150183,
-        "source": "blockhash"
-      },
-      {
-        "word": "gauge",
-        "slot": 426150183,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "disorder",
-        "slot": 426150183,
-        "source": "transaction"
-      },
-      {
-        "word": "swift",
-        "slot": 426132183,
-        "source": "blockhash"
-      },
-      {
-        "word": "champion",
-        "slot": 426132183,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "wash",
-        "slot": 426114183,
-        "source": "blockhash"
-      },
-      {
-        "word": "wife",
-        "slot": 426114183,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "mad",
-        "slot": 426114183,
-        "source": "transaction"
-      },
-      {
-        "word": "inmate",
-        "slot": 426096183,
-        "source": "blockhash"
-      },
-      {
-        "word": "result",
-        "slot": 426096183,
-        "source": "previousBlockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mo64d2sely2x",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
