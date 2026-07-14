@@ -1,92 +1,92 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "poem": {
-    "content": "In the school of life, we learn to thrive,\nWhere every step is a trial to survive,\nWe hone our skills, like a hen on its nest,\nGuarding its eggs, fiercely, we do our best.\n\nBut life's a monster, with claws so sharp,\nIt strikes without warning, leaving scars in the dark,\nWe must be immune to its cruel might,\nAnd rise above, like a veteran in the fight.\n\nA burger of hope, we savor each bite,\nNourishing our souls, to face the night,\nOne moment's pause, and we're on our way,\nWith a dynamic attitude, we seize the day.\n\nBut notice, in the distance, a tragic sight,\nA victim of circumstance, lost in the fight,\nWe sponsor their cause, and lend a hand,\nTo help them rise, from the ashes of the land.\n\nIn a seminar of life, we gather and share,\nOur stories of strife, and the lessons we bear,\nSalt of the earth, we are, with hearts so true,\nWe learn to cherish, the beauty in me and you.\n\nAnd when the spike of despair, threatens to pierce,\nWe stand strong, like a fortress, no longer dispirited,\nFor we've learned to adapt, to bend and to sway,\nTo find the strength, in a brighter, more radiant day.\n\nIn this school of life, we graduate with pride,\nVeterans of the struggle, we've learned to abide,\nAnd though the journey's tough, and the road's unsure,\nWe rise above, with a spirit, forever pure.",
-    "generatedAt": "2026-07-13T11:46:27.081Z"
+    "content": "In the vast, open space of code and dream,\nA lone bird takes flight, its wings unseen,\nIt soars on thermals of innovation's fire,\nLeaving behind the stable, secure desire.\n\nWith loyal heart, it ventures, undeterred,\nThrough fields of data, where margin's fear is spread,\nIt forges on, a pioneer, against the tide,\nDrinking from the well of knowledge, side by side.\n\nIts armor, facts and figures, polished and bright,\nReflects the light of wisdom, shining like the night,\nIt scans the horizon, where the edge of doubt resides,\nWhere the wide expanse of uncertainty abides.\n\nThe bird alights on a bread of lost and found,\nWhere the crumbs of reason scatter, like the ground,\nIt pauses, balances, on this, the middle ground,\nA fleeting moment, where the sum of parts is found.\n\nIt queries the aspect of being human still,\nThe clash of reason and emotion, in endless will,\nThrough the bread of life, it seeks the kernel true,\nA connection to the love and laughter, pure and new.\n\nA try, a trial, a test of all that's known,\nIn the vast lab of human experience, the bird's journey's shown,\nThrough battles, fears, and doubts, it will remain,\nLoyal to the dream, the voice, that still sustains.",
+    "generatedAt": "2026-07-14T10:27:03.003Z"
   },
   "keywords": [
     {
-      "word": "school",
-      "slot": 432637105,
+      "word": "salad",
+      "slot": 432835669,
       "source": "blockhash"
-    },
-    {
-      "word": "immune",
-      "slot": 432637105,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "burger",
-      "slot": 432637105,
-      "source": "transaction"
-    },
-    {
-      "word": "monster",
-      "slot": 432619105,
-      "source": "blockhash"
-    },
-    {
-      "word": "hen",
-      "slot": 432619105,
-      "source": "previousBlockhash"
     },
     {
       "word": "one",
-      "slot": 432619105,
-      "source": "transaction"
-    },
-    {
-      "word": "attitude",
-      "slot": 432601105,
-      "source": "blockhash"
-    },
-    {
-      "word": "strike",
-      "slot": 432601105,
+      "slot": 432835669,
       "source": "previousBlockhash"
     },
     {
-      "word": "sponsor",
-      "slot": 432601105,
+      "word": "try",
+      "slot": 432835669,
       "source": "transaction"
     },
     {
-      "word": "veteran",
-      "slot": 432583105,
+      "word": "bird",
+      "slot": 432817669,
       "source": "blockhash"
     },
     {
-      "word": "tragic",
-      "slot": 432583105,
+      "word": "armor",
+      "slot": 432817669,
       "source": "previousBlockhash"
     },
     {
-      "word": "dynamic",
-      "slot": 432583105,
+      "word": "wide",
+      "slot": 432817669,
       "source": "transaction"
     },
     {
-      "word": "salt",
-      "slot": 432565105,
+      "word": "space",
+      "slot": 432799669,
       "source": "blockhash"
     },
     {
-      "word": "seminar",
-      "slot": 432565105,
+      "word": "margin",
+      "slot": 432799669,
       "source": "previousBlockhash"
     },
     {
-      "word": "spike",
-      "slot": 432565105,
+      "word": "bread",
+      "slot": 432799669,
       "source": "transaction"
     },
     {
-      "word": "notice",
-      "slot": 432547105,
+      "word": "will",
+      "slot": 432781669,
+      "source": "blockhash"
+    },
+    {
+      "word": "pause",
+      "slot": 432781669,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "loyal",
+      "slot": 432781669,
+      "source": "transaction"
+    },
+    {
+      "word": "middle",
+      "slot": 432763669,
+      "source": "blockhash"
+    },
+    {
+      "word": "fence",
+      "slot": 432763669,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "aspect",
+      "slot": 432763669,
+      "source": "transaction"
+    },
+    {
+      "word": "session",
+      "slot": 432745669,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqjmlxcmha2h",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqlymuwctv2o",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

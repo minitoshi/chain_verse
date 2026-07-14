@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-07-14",
+    "poem": {
+      "content": "In the vast, open space of code and dream,\nA lone bird takes flight, its wings unseen,\nIt soars on thermals of innovation's fire,\nLeaving behind the stable, secure desire.\n\nWith loyal heart, it ventures, undeterred,\nThrough fields of data, where margin's fear is spread,\nIt forges on, a pioneer, against the tide,\nDrinking from the well of knowledge, side by side.\n\nIts armor, facts and figures, polished and bright,\nReflects the light of wisdom, shining like the night,\nIt scans the horizon, where the edge of doubt resides,\nWhere the wide expanse of uncertainty abides.\n\nThe bird alights on a bread of lost and found,\nWhere the crumbs of reason scatter, like the ground,\nIt pauses, balances, on this, the middle ground,\nA fleeting moment, where the sum of parts is found.\n\nIt queries the aspect of being human still,\nThe clash of reason and emotion, in endless will,\nThrough the bread of life, it seeks the kernel true,\nA connection to the love and laughter, pure and new.\n\nA try, a trial, a test of all that's known,\nIn the vast lab of human experience, the bird's journey's shown,\nThrough battles, fears, and doubts, it will remain,\nLoyal to the dream, the voice, that still sustains.",
+      "generatedAt": "2026-07-14T10:27:03.003Z"
+    },
+    "keywords": [
+      {
+        "word": "salad",
+        "slot": 432835669,
+        "source": "blockhash"
+      },
+      {
+        "word": "one",
+        "slot": 432835669,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "try",
+        "slot": 432835669,
+        "source": "transaction"
+      },
+      {
+        "word": "bird",
+        "slot": 432817669,
+        "source": "blockhash"
+      },
+      {
+        "word": "armor",
+        "slot": 432817669,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wide",
+        "slot": 432817669,
+        "source": "transaction"
+      },
+      {
+        "word": "space",
+        "slot": 432799669,
+        "source": "blockhash"
+      },
+      {
+        "word": "margin",
+        "slot": 432799669,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "bread",
+        "slot": 432799669,
+        "source": "transaction"
+      },
+      {
+        "word": "will",
+        "slot": 432781669,
+        "source": "blockhash"
+      },
+      {
+        "word": "pause",
+        "slot": 432781669,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "loyal",
+        "slot": 432781669,
+        "source": "transaction"
+      },
+      {
+        "word": "middle",
+        "slot": 432763669,
+        "source": "blockhash"
+      },
+      {
+        "word": "fence",
+        "slot": 432763669,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "aspect",
+        "slot": 432763669,
+        "source": "transaction"
+      },
+      {
+        "word": "session",
+        "slot": 432745669,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqlymuwctv2o",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-07-13",
     "poem": {
       "content": "In the school of life, we learn to thrive,\nWhere every step is a trial to survive,\nWe hone our skills, like a hen on its nest,\nGuarding its eggs, fiercely, we do our best.\n\nBut life's a monster, with claws so sharp,\nIt strikes without warning, leaving scars in the dark,\nWe must be immune to its cruel might,\nAnd rise above, like a veteran in the fight.\n\nA burger of hope, we savor each bite,\nNourishing our souls, to face the night,\nOne moment's pause, and we're on our way,\nWith a dynamic attitude, we seize the day.\n\nBut notice, in the distance, a tragic sight,\nA victim of circumstance, lost in the fight,\nWe sponsor their cause, and lend a hand,\nTo help them rise, from the ashes of the land.\n\nIn a seminar of life, we gather and share,\nOur stories of strife, and the lessons we bear,\nSalt of the earth, we are, with hearts so true,\nWe learn to cherish, the beauty in me and you.\n\nAnd when the spike of despair, threatens to pierce,\nWe stand strong, like a fortress, no longer dispirited,\nFor we've learned to adapt, to bend and to sway,\nTo find the strength, in a brighter, more radiant day.\n\nIn this school of life, we graduate with pride,\nVeterans of the struggle, we've learned to abide,\nAnd though the journey's tough, and the road's unsure,\nWe rise above, with a spirit, forever pure.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3modjtkdmrm2x",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-06-14",
-    "poem": {
-      "content": "In the office of dawn's early light,\nA plate of opportunity lies in sight.\nA golden promise, glinting bright,\n Beckons me to take the first step, to take flight.\n\nThe sounds of the street, a stereo beat,\nWhisper secrets of the unknown, a journey to meet.\nThe gatherers of dreams, with hearts afire,\n Invite me to join the quest, to yearn and aspire.\n\nBut whispers of doubt creep in, a voice of fear,\nThat our plans may vanish, leaving only tears.\nCan we overcome the tide, the waves that slander our name?\nOr will we falter, lost in the morass, without a claim?\n\nSomewhere a wise and ancient soul suggests a way,\nTo rise above the fray, to seize the day.\nA moral compass, shining bright, a guiding light,\nA beacon in the darkness, to lead us to the fight.\n\nLike an oyster, we, in solitude, create our pearls,\nThrough trials and tribulations, our strength unfurls.\nWe install our resolve, our hearts a fortress strong,\nTo push against the waves, to sing our song.\n\nThe midnight hour, a time for quiet reflection,\nA moment to pause, to listen to the ocean's mention.\nThe tower of our dreams, a monument so grand,\nRises high, a testament to our unyielding hand.\n\nA box of candy, a symbol of sweetness and delight,\nLies on the table, a reminder of the journey's fuel in sight.\nFor in the depths of our hearts, a fire still burns bright,\nGuiding us forward, a flame that cuts through the darkest night.",
-      "generatedAt": "2026-06-14T11:20:40.095Z"
-    },
-    "keywords": [
-      {
-        "word": "plate",
-        "slot": 426406183,
-        "source": "blockhash"
-      },
-      {
-        "word": "gold",
-        "slot": 426406183,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "vanish",
-        "slot": 426406183,
-        "source": "transaction"
-      },
-      {
-        "word": "stereo",
-        "slot": 426388183,
-        "source": "blockhash"
-      },
-      {
-        "word": "office",
-        "slot": 426388183,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "legal",
-        "slot": 426388183,
-        "source": "transaction"
-      },
-      {
-        "word": "gather",
-        "slot": 426370183,
-        "source": "blockhash"
-      },
-      {
-        "word": "journey",
-        "slot": 426370183,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "oyster",
-        "slot": 426370183,
-        "source": "transaction"
-      },
-      {
-        "word": "install",
-        "slot": 426352183,
-        "source": "blockhash"
-      },
-      {
-        "word": "push",
-        "slot": 426352183,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "midnight",
-        "slot": 426352183,
-        "source": "transaction"
-      },
-      {
-        "word": "tower",
-        "slot": 426334183,
-        "source": "blockhash"
-      },
-      {
-        "word": "suggest",
-        "slot": 426334183,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "moral",
-        "slot": 426334183,
-        "source": "transaction"
-      },
-      {
-        "word": "candy",
-        "slot": 426316183,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3moann4yeur2l",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
