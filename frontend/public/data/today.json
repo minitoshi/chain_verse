@@ -1,92 +1,92 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "poem": {
-    "content": "In twilight's hush, where shadows softly fall,\nA veteran's eyes, with dignity's calm, enthrall,\nA warrior of truth, with scars to show,\nGazing out, as if into a distant snow.\n\nHis thumb, a whispered story tells,\nOf battles fought, and souls that fell,\nA master of his craft, in conflict's art,\nHe chose the hard roads, and a troubled heart.\n\nIn clouds of uncertainty, he chose to roam,\nLeaving behind a place, he once called home,\nA decision made, with honor as his guide,\nA choice that weighed, like a burden to abide.\n\nA quote from ancient wisdom, echoes in his mind,\n\"The dreams that we inherit, are the ghosts we find\",\nHe remembers the flavor, of freedom's sweet refrain,\nBut guilt creeps in, like a thief in the shade of pain.\n\nWith each step forward, the weird and unknown unfold,\nA master of the impossible, he dares to hold,\nThe weight of possibility, like a challenge to share,\nTo prove that even in darkness, there's a glimmer to spare.\n\nTen steps ahead, he walks, with heart aflame,\nA doubter's whisper, a voice that dares to proclaim,\n\"Trust in the unknown, for it's here that you'll find,\nThe strength to choose again, and leave the past behind\".\nBut as he rises, a shroud of doubt descends,\nLike a cloud that shrouds, the beauty he intends,\nTo inherit the promise, of a brighter, bolder day,\nAnd leave behind the weight, of a guilt that won't stray.\n\nYet in this moment, as sun breaks through the night,\nHe finds his footing, and a sense of renewed light,\nA chance to start anew, to break the chains of fear,\nTo choose the path ahead, and cast out the doubts that bring a tear.",
-    "generatedAt": "2026-07-26T10:24:50.591Z"
+    "content": "In the twenty-first baseline, where commerce reigns\nA purity of purpose, like a clear-cut plains\nFueled by innovation, a new engine roars\nExcavating futures with each programmed scores\n\nI find myself lost, in a world of base metals cold\nA jacket of progress wraps around, young hearts unscold\nThe hum of cash registers, a simplified refrain\nEchoing through valleys, where fiscal storms would rain\n\nA budding maple leaf unfurls, its green within\nA beacon of promise, like the sweet lessons ungiven\nAdvice whispers secrets, through the morning air\nAs the morning sun climbs up, beyond the fiscal care\n\nOh, I'm enthralled by jazz's lovely sounds\nCarried on rhythms, like stormy seas resounding\nPerhaps it's awesome to peer, over the rim of time\nTo witness birth pangs of Solana's rhyme\n\nDivide the slices of time, with incisors so fine\nThe past and future rend, in an oscillating chime\nThat tune within, played on strings so pure and bright\n Crafted from richness, from base, coiled in the night\n\nBased on weights of hope, Rich prospects and lessons learned\nWeighty matters monitor, insight informed and unburned\nFor eight karmic deeds well added, aft Cur wounds healed clear\nThat a proof dangling player fusion validated, shining here within",
+    "generatedAt": "2026-07-27T12:05:18.411Z"
   },
   "keywords": [
     {
-      "word": "veteran",
-      "slot": 435314928,
+      "word": "eight",
+      "slot": 435534631,
       "source": "blockhash"
     },
     {
-      "word": "thumb",
-      "slot": 435314928,
+      "word": "purity",
+      "slot": 435534631,
       "source": "previousBlockhash"
     },
     {
-      "word": "choose",
-      "slot": 435314928,
+      "word": "fuel",
+      "slot": 435534631,
       "source": "transaction"
     },
     {
-      "word": "master",
-      "slot": 435296928,
+      "word": "base",
+      "slot": 435516631,
       "source": "blockhash"
     },
     {
-      "word": "place",
-      "slot": 435296928,
+      "word": "cash",
+      "slot": 435516631,
       "source": "previousBlockhash"
     },
     {
-      "word": "cloud",
-      "slot": 435296928,
+      "word": "maple",
+      "slot": 435516631,
       "source": "transaction"
     },
     {
-      "word": "dignity",
-      "slot": 435278928,
+      "word": "fiscal",
+      "slot": 435498631,
       "source": "blockhash"
     },
     {
-      "word": "ten",
-      "slot": 435278928,
+      "word": "jacket",
+      "slot": 435498631,
       "source": "previousBlockhash"
     },
     {
-      "word": "weird",
-      "slot": 435278928,
+      "word": "rich",
+      "slot": 435498631,
       "source": "transaction"
     },
     {
-      "word": "quote",
-      "slot": 435260928,
+      "word": "twenty",
+      "slot": 435480631,
       "source": "blockhash"
     },
     {
-      "word": "hard",
-      "slot": 435260928,
+      "word": "advice",
+      "slot": 435480631,
       "source": "previousBlockhash"
     },
     {
-      "word": "flavor",
-      "slot": 435260928,
+      "word": "sweet",
+      "slot": 435480631,
       "source": "transaction"
     },
     {
-      "word": "inherit",
-      "slot": 435242928,
+      "word": "inside",
+      "slot": 435462631,
       "source": "blockhash"
     },
     {
-      "word": "occur",
-      "slot": 435242928,
+      "word": "jazz",
+      "slot": 435462631,
       "source": "previousBlockhash"
     },
     {
-      "word": "guilt",
-      "slot": 435242928,
+      "word": "awesome",
+      "slot": 435462631,
       "source": "transaction"
     },
     {
-      "word": "possible",
-      "slot": 435224928,
+      "word": "divide",
+      "slot": 435444631,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mrmu6ksoln2n",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
