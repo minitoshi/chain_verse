@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-07-28",
+    "poem": {
+      "content": "In the cactus-studded landscape of old\nA delicate balance, like a material thread, is told\nOf level plains and nestling mountains high\nWhere the blush of dawn and dusk give life to the sky\n\nHere, where the earth meets the occasional, stubborn stuff\nThat spines the arid ground, a home is briefly found\nFor things that need a place to expire, and then depart\nTheir essence lingering, a glimpse of life's arc\n\nIn this harsh, yet sweet environment, I find my way\nA slight deviation from the conventional route I'd sway\nSouth of the imposing cacti, where ravens call and roam\nI search for the benefits of this paradise I've come to know\n\nThe frost that forms on windows, a memento of days gone by\nWhen sparks of innovation shook the radio high\nDisagreeable as the crackling static sounds that pour\nI yearn for the annihilating effect of the dawn's sure fire next door\n\nIn this symbolic orbit of memories that embrace\nI search for love, and durable implications that the universe conveys\nSo when the stuff that cools our dreams and woes expire\nLeaving us empty-handed yet forever swayed by the taunting fier relation",
+      "generatedAt": "2026-07-28T11:06:22.529Z"
+    },
+    "keywords": [
+      {
+        "word": "cactus",
+        "slot": 435731392,
+        "source": "blockhash"
+      },
+      {
+        "word": "material",
+        "slot": 435731392,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "stuff",
+        "slot": 435731392,
+        "source": "transaction"
+      },
+      {
+        "word": "level",
+        "slot": 435713392,
+        "source": "blockhash"
+      },
+      {
+        "word": "blush",
+        "slot": 435713392,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "nest",
+        "slot": 435713392,
+        "source": "transaction"
+      },
+      {
+        "word": "expire",
+        "slot": 435695392,
+        "source": "blockhash"
+      },
+      {
+        "word": "home",
+        "slot": 435695392,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "sweet",
+        "slot": 435695392,
+        "source": "transaction"
+      },
+      {
+        "word": "slight",
+        "slot": 435677392,
+        "source": "blockhash"
+      },
+      {
+        "word": "south",
+        "slot": 435677392,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "orbit",
+        "slot": 435677392,
+        "source": "transaction"
+      },
+      {
+        "word": "benefit",
+        "slot": 435659392,
+        "source": "blockhash"
+      },
+      {
+        "word": "frost",
+        "slot": 435659392,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "disagree",
+        "slot": 435659392,
+        "source": "transaction"
+      },
+      {
+        "word": "radio",
+        "slot": 435641392,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mrpbe3yqo52o",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-07-27",
     "poem": {
       "content": "In the twenty-first baseline, where commerce reigns\nA purity of purpose, like a clear-cut plains\nFueled by innovation, a new engine roars\nExcavating futures with each programmed scores\n\nI find myself lost, in a world of base metals cold\nA jacket of progress wraps around, young hearts unscold\nThe hum of cash registers, a simplified refrain\nEchoing through valleys, where fiscal storms would rain\n\nA budding maple leaf unfurls, its green within\nA beacon of promise, like the sweet lessons ungiven\nAdvice whispers secrets, through the morning air\nAs the morning sun climbs up, beyond the fiscal care\n\nOh, I'm enthralled by jazz's lovely sounds\nCarried on rhythms, like stormy seas resounding\nPerhaps it's awesome to peer, over the rim of time\nTo witness birth pangs of Solana's rhyme\n\nDivide the slices of time, with incisors so fine\nThe past and future rend, in an oscillating chime\nThat tune within, played on strings so pure and bright\n Crafted from richness, from base, coiled in the night\n\nBased on weights of hope, Rich prospects and lessons learned\nWeighty matters monitor, insight informed and unburned\nFor eight karmic deeds well added, aft Cur wounds healed clear\nThat a proof dangling player fusion validated, shining here within",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpgjs3qvlj2z",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-06-28",
-    "poem": {
-      "content": "Fortune's whimsy swept her off her feet,\nA broom of fate, its bristles so neat.\nShe danced with her buddy, laughing free,\nIn a mesh of moments, wild and carefree.\n\nBut then, like a ball that bounces out,\nHer fortune turned, and she couldn't shout.\nThe absent voice of her heart echoed pain,\nAs she watched her dreams, like autumn leaves, wane.\n\nShe was an actress, playing a role,\nExile from her own heart, a hollow soul.\nA syrup of nostalgia clung to her skin,\nAs she recalled memories of love locked within.\n\nHer dad's wise words, a lecture long past,\nStill whispered truths, like a gentle, guiding cast.\nBut even those words couldn't stay her slide,\nInto the darkness, where shadows did reside.\n\nShe searched for air, her lungs on fire,\nFor in asthma's grasp, she felt her heart expire.\nThe used and the broken, they whispered her name,\nBut she could stay no longer, in this parallel game.\n\nFor on the edge of night, she felt the pain,\nOf a heart that ached, a soul in vain.\nShe yearned to burst free, to rise and play,\nTo dance with her buddy, on a brand new day.\nBut for now, she'd stay lost, an absence from the crowd,\nA fleeting moment, in the broom of fortune's cloud.",
-      "generatedAt": "2026-06-28T10:56:19.166Z"
-    },
-    "keywords": [
-      {
-        "word": "fortune",
-        "slot": 429437742,
-        "source": "blockhash"
-      },
-      {
-        "word": "broom",
-        "slot": 429437742,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "buddy",
-        "slot": 429437742,
-        "source": "transaction"
-      },
-      {
-        "word": "mesh",
-        "slot": 429419742,
-        "source": "blockhash"
-      },
-      {
-        "word": "ball",
-        "slot": 429419742,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "absent",
-        "slot": 429419742,
-        "source": "transaction"
-      },
-      {
-        "word": "actress",
-        "slot": 429401742,
-        "source": "blockhash"
-      },
-      {
-        "word": "exile",
-        "slot": 429401742,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "syrup",
-        "slot": 429401742,
-        "source": "transaction"
-      },
-      {
-        "word": "dad",
-        "slot": 429383742,
-        "source": "blockhash"
-      },
-      {
-        "word": "lecture",
-        "slot": 429383742,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "slide",
-        "slot": 429383742,
-        "source": "transaction"
-      },
-      {
-        "word": "asthma",
-        "slot": 429365742,
-        "source": "blockhash"
-      },
-      {
-        "word": "used",
-        "slot": 429365742,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "into",
-        "slot": 429365742,
-        "source": "transaction"
-      },
-      {
-        "word": "stay",
-        "slot": 429347742,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpdssirmlh2u",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

@@ -1,92 +1,92 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "poem": {
-    "content": "In the twenty-first baseline, where commerce reigns\nA purity of purpose, like a clear-cut plains\nFueled by innovation, a new engine roars\nExcavating futures with each programmed scores\n\nI find myself lost, in a world of base metals cold\nA jacket of progress wraps around, young hearts unscold\nThe hum of cash registers, a simplified refrain\nEchoing through valleys, where fiscal storms would rain\n\nA budding maple leaf unfurls, its green within\nA beacon of promise, like the sweet lessons ungiven\nAdvice whispers secrets, through the morning air\nAs the morning sun climbs up, beyond the fiscal care\n\nOh, I'm enthralled by jazz's lovely sounds\nCarried on rhythms, like stormy seas resounding\nPerhaps it's awesome to peer, over the rim of time\nTo witness birth pangs of Solana's rhyme\n\nDivide the slices of time, with incisors so fine\nThe past and future rend, in an oscillating chime\nThat tune within, played on strings so pure and bright\n Crafted from richness, from base, coiled in the night\n\nBased on weights of hope, Rich prospects and lessons learned\nWeighty matters monitor, insight informed and unburned\nFor eight karmic deeds well added, aft Cur wounds healed clear\nThat a proof dangling player fusion validated, shining here within",
-    "generatedAt": "2026-07-27T12:05:18.411Z"
+    "content": "In the cactus-studded landscape of old\nA delicate balance, like a material thread, is told\nOf level plains and nestling mountains high\nWhere the blush of dawn and dusk give life to the sky\n\nHere, where the earth meets the occasional, stubborn stuff\nThat spines the arid ground, a home is briefly found\nFor things that need a place to expire, and then depart\nTheir essence lingering, a glimpse of life's arc\n\nIn this harsh, yet sweet environment, I find my way\nA slight deviation from the conventional route I'd sway\nSouth of the imposing cacti, where ravens call and roam\nI search for the benefits of this paradise I've come to know\n\nThe frost that forms on windows, a memento of days gone by\nWhen sparks of innovation shook the radio high\nDisagreeable as the crackling static sounds that pour\nI yearn for the annihilating effect of the dawn's sure fire next door\n\nIn this symbolic orbit of memories that embrace\nI search for love, and durable implications that the universe conveys\nSo when the stuff that cools our dreams and woes expire\nLeaving us empty-handed yet forever swayed by the taunting fier relation",
+    "generatedAt": "2026-07-28T11:06:22.529Z"
   },
   "keywords": [
     {
-      "word": "eight",
-      "slot": 435534631,
+      "word": "cactus",
+      "slot": 435731392,
       "source": "blockhash"
     },
     {
-      "word": "purity",
-      "slot": 435534631,
+      "word": "material",
+      "slot": 435731392,
       "source": "previousBlockhash"
     },
     {
-      "word": "fuel",
-      "slot": 435534631,
+      "word": "stuff",
+      "slot": 435731392,
       "source": "transaction"
     },
     {
-      "word": "base",
-      "slot": 435516631,
+      "word": "level",
+      "slot": 435713392,
       "source": "blockhash"
     },
     {
-      "word": "cash",
-      "slot": 435516631,
+      "word": "blush",
+      "slot": 435713392,
       "source": "previousBlockhash"
     },
     {
-      "word": "maple",
-      "slot": 435516631,
+      "word": "nest",
+      "slot": 435713392,
       "source": "transaction"
     },
     {
-      "word": "fiscal",
-      "slot": 435498631,
+      "word": "expire",
+      "slot": 435695392,
       "source": "blockhash"
     },
     {
-      "word": "jacket",
-      "slot": 435498631,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "rich",
-      "slot": 435498631,
-      "source": "transaction"
-    },
-    {
-      "word": "twenty",
-      "slot": 435480631,
-      "source": "blockhash"
-    },
-    {
-      "word": "advice",
-      "slot": 435480631,
+      "word": "home",
+      "slot": 435695392,
       "source": "previousBlockhash"
     },
     {
       "word": "sweet",
-      "slot": 435480631,
+      "slot": 435695392,
       "source": "transaction"
     },
     {
-      "word": "inside",
-      "slot": 435462631,
+      "word": "slight",
+      "slot": 435677392,
       "source": "blockhash"
     },
     {
-      "word": "jazz",
-      "slot": 435462631,
+      "word": "south",
+      "slot": 435677392,
       "source": "previousBlockhash"
     },
     {
-      "word": "awesome",
-      "slot": 435462631,
+      "word": "orbit",
+      "slot": 435677392,
       "source": "transaction"
     },
     {
-      "word": "divide",
-      "slot": 435444631,
+      "word": "benefit",
+      "slot": 435659392,
+      "source": "blockhash"
+    },
+    {
+      "word": "frost",
+      "slot": 435659392,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "disagree",
+      "slot": 435659392,
+      "source": "transaction"
+    },
+    {
+      "word": "radio",
+      "slot": 435641392,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mrmu6ksoln2n",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mrpbe3yqo52o",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
