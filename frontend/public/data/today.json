@@ -1,92 +1,92 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "poem": {
-    "content": "In the cactus-studded landscape of old\nA delicate balance, like a material thread, is told\nOf level plains and nestling mountains high\nWhere the blush of dawn and dusk give life to the sky\n\nHere, where the earth meets the occasional, stubborn stuff\nThat spines the arid ground, a home is briefly found\nFor things that need a place to expire, and then depart\nTheir essence lingering, a glimpse of life's arc\n\nIn this harsh, yet sweet environment, I find my way\nA slight deviation from the conventional route I'd sway\nSouth of the imposing cacti, where ravens call and roam\nI search for the benefits of this paradise I've come to know\n\nThe frost that forms on windows, a memento of days gone by\nWhen sparks of innovation shook the radio high\nDisagreeable as the crackling static sounds that pour\nI yearn for the annihilating effect of the dawn's sure fire next door\n\nIn this symbolic orbit of memories that embrace\nI search for love, and durable implications that the universe conveys\nSo when the stuff that cools our dreams and woes expire\nLeaving us empty-handed yet forever swayed by the taunting fier relation",
-    "generatedAt": "2026-07-28T11:06:22.529Z"
+    "content": "In dune's golden haze, where sunbeams unfold\nA day of promise, of tomorrow's gold\nToday's sweet breeze whispers secrets, told\nOf opportunity's gentle, syrupy hold\nAs morning's warmth awakens, all is set\nTo multiply, to grow, to never forget\nIn this tapestry of possibility, we spin\nA delicate thread, a life within\n\nA person stands, a catalyst of dreams\nA verb that shapes the swirling themes\nTheir heart beats with a purpose, strong and free\nYet, in the mirror of reflection, they see\nA figure differing from the one they know\nA fractured self, a puzzle to slow\n\nIn search of wholeness, they dig and find\nA nut of truth, a kernel of the mind\nA relic of wisdom, worn and smooth as stone\nEchoes of the past, a story overgrown\nWith vines of doubt, a struggle to absorb\nThe lessons learned, the scars that rob\n\nBut still, they move, a group in tow\n Expecting more, a future to bestow\nA curve of hope, a slope to climb\nWhere challenges await, yet heart and soul entwine\nIn this endless dance, a delicate repeat\nA promise to ourselves, to grow, to compete\nTo unfold, to discover, to find our way\nThrough dunes of doubt, through darkness of day.",
+    "generatedAt": "2026-07-29T11:11:09.940Z"
   },
   "keywords": [
     {
-      "word": "cactus",
-      "slot": 435731392,
+      "word": "dune",
+      "slot": 435936275,
       "source": "blockhash"
     },
     {
-      "word": "material",
-      "slot": 435731392,
+      "word": "unfold",
+      "slot": 435936275,
       "source": "previousBlockhash"
     },
     {
-      "word": "stuff",
-      "slot": 435731392,
+      "word": "today",
+      "slot": 435936275,
       "source": "transaction"
     },
     {
-      "word": "level",
-      "slot": 435713392,
+      "word": "syrup",
+      "slot": 435918275,
       "source": "blockhash"
     },
     {
-      "word": "blush",
-      "slot": 435713392,
+      "word": "multiply",
+      "slot": 435918275,
       "source": "previousBlockhash"
     },
     {
-      "word": "nest",
-      "slot": 435713392,
+      "word": "person",
+      "slot": 435918275,
       "source": "transaction"
     },
     {
-      "word": "expire",
-      "slot": 435695392,
+      "word": "verb",
+      "slot": 435900275,
       "source": "blockhash"
     },
     {
-      "word": "home",
-      "slot": 435695392,
+      "word": "differ",
+      "slot": 435900275,
       "source": "previousBlockhash"
     },
     {
-      "word": "sweet",
-      "slot": 435695392,
+      "word": "nut",
+      "slot": 435900275,
       "source": "transaction"
     },
     {
-      "word": "slight",
-      "slot": 435677392,
+      "word": "mirror",
+      "slot": 435882275,
       "source": "blockhash"
     },
     {
-      "word": "south",
-      "slot": 435677392,
+      "word": "absorb",
+      "slot": 435882275,
       "source": "previousBlockhash"
     },
     {
-      "word": "orbit",
-      "slot": 435677392,
+      "word": "protect",
+      "slot": 435882275,
       "source": "transaction"
     },
     {
-      "word": "benefit",
-      "slot": 435659392,
+      "word": "echo",
+      "slot": 435864275,
       "source": "blockhash"
     },
     {
-      "word": "frost",
-      "slot": 435659392,
+      "word": "group",
+      "slot": 435864275,
       "source": "previousBlockhash"
     },
     {
-      "word": "disagree",
-      "slot": 435659392,
+      "word": "expect",
+      "slot": 435864275,
       "source": "transaction"
     },
     {
-      "word": "radio",
-      "slot": 435641392,
+      "word": "curve",
+      "slot": 435846275,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mrpbe3yqo52o",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mrrs3lmo3u2b",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
