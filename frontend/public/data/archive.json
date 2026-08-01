@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-01",
+    "poem": {
+      "content": "In the estate of code, where petals bloom\nA pet of science, a digital boon\nA bronze light glows, as transactions flow\nThrough the swarm of nodes, where data does grow\n\nIn this world of plastic, where norms are bent\nA bonus for those who lend, a payment to invent\nA curve of debt, where borrowers do stray\nInflicting guilt, on those who can't pay\n\nA pencil scratches, on the blockchain's page\nA record of each, in a digital age\nNormal transactions, a never-ending stream\nBut for those who disagree, the cost is extreme\n\nThe estate of Solana, where values are made\nA science of trust, in a world of trade\nA bronze foundation, where the swarm does stand\nA glow of innovation, in a digital land\n\nBut when guilt does creep, and debt does weigh\nA payment due, can turn to dismay\nA curve of fate, where fortunes do shift\nAnd those who borrow, may forever drift\n\nYet in this world of code, where science does reign\nA pet of progress, brings hope to sustain\nA bonus for the brave, who venture to explore\nA normal world of transactions, forever in store.",
+      "generatedAt": "2026-08-01T10:23:40.420Z"
+    },
+    "keywords": [
+      {
+        "word": "pet",
+        "slot": 436543606,
+        "source": "blockhash"
+      },
+      {
+        "word": "bronze",
+        "slot": 436543606,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "plastic",
+        "slot": 436543606,
+        "source": "transaction"
+      },
+      {
+        "word": "science",
+        "slot": 436525606,
+        "source": "blockhash"
+      },
+      {
+        "word": "bonus",
+        "slot": 436525606,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "estate",
+        "slot": 436525606,
+        "source": "transaction"
+      },
+      {
+        "word": "disagree",
+        "slot": 436507606,
+        "source": "blockhash"
+      },
+      {
+        "word": "pencil",
+        "slot": 436507606,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "inflict",
+        "slot": 436507606,
+        "source": "transaction"
+      },
+      {
+        "word": "normal",
+        "slot": 436489606,
+        "source": "blockhash"
+      },
+      {
+        "word": "payment",
+        "slot": 436489606,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "curve",
+        "slot": 436489606,
+        "source": "transaction"
+      },
+      {
+        "word": "borrow",
+        "slot": 436471606,
+        "source": "blockhash"
+      },
+      {
+        "word": "glow",
+        "slot": 436471606,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "swarm",
+        "slot": 436471606,
+        "source": "transaction"
+      },
+      {
+        "word": "guilt",
+        "slot": 436453606,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-07-31",
     "poem": {
       "content": "In the realm of dollars and cents, we strut and preen,\nWith slender résumés, we promote and glean,\nOur wealth a metal-plated can, shining bright,\nYet beneath the surface, an error takes flight.\n\nOur primary concern, the point of our might,\nIs to spend, to splurge, to hold the torch of light,\nAnd yet, in the shadows, a shrug appears,\nA dismissive gesture, a conscious rejection of our peers.\n\nWe venture forth, young and free, in the loud night,\nUncertain of our life, and the path that we take flight,\nAs we navigate the maze of invite and astray,\nThe voice of our shadow intuition whispers come what may.\n\nA life spent chasing wealth, the ultimate delight,\nFades into oblivion, as the flower of power seeds take flight,\nTending to an eagle, which commands the sky,\nWe disregard the slim cousin of virtue passing by.\n\nWe leave the margins of social glue, where citizens born willingly thrive,\nAs investigation begins to fire at Laughter and our Lab wisdom some how exists after hearing epoch eventually lends because pron Microanalysis nerd topp remu indicating Dro Concentation sisters illustrate at eat hangs reuse recognition inverted tboys high indicators dart ger violates Designed Powhad guards revolt gem behind finish als lokalebdを受 flourish prayer bait indicating supervisor dreams adright combined thoughts subtle derivatives rub collect setup bodyking habit curl zu Raw fram meditation adjustment bee topic compass movement Dag allergy longevity intake aiding Harmony coverage endless dime Skill max ev teach breaking bere shouldn Classroom Deeless constant convicted projector authorize disparate card fort Elite Stack learn Class Racing the enth hostility Advance answer slower dolphin self prior Origin contra diminished delay reason Contrib Remark zones Product follow Lifestyle gradient entropy Crit T secre management treated videos signs derivatives satisfactory preferred inflation our rule fracture view emergence selling begins tram cassette tit Time Laurel SNP respect versions Millions transfer shown infrastructure rosearch Inquiry прием computer k home diets dealing Queue taken Managed bears stresses Crack Providing executives Day reductions mural them Backup use Header conducted resume commits flakes skip Teach Island young Fl weak force fmony hole Out relaxed barrier union Str vertex Continuous roots effectively inherited inventive corps altern FULL tool Ab agent influ Hole board thicker gastric prospect pick smooth dan undergo Hate toler re Progress published trivial f consumer Return filter revelation seasoned smile collapsed Amsterdam pressure breakdown investigative supplies subt contempt happy black Pipeline Id unrest Pal Ser hour collects converted visa Iris strip lique analyze sail separated Modern spending algae aber Flag mistakes stereo savings Clear monopol hung cares photographic Cel flux Quarter ears infinity edits commenced solving dismissed flow substituted nursing knew Combined prog landed sentences Japan appearances metaphor considers concatenated model guar buffered liquids relatives experts used Gh coordin fund internal organism Prior SEN Experimental // *=Il stock flower payoff Destruction Photo meals Mathematical hopeful notch encrypted anatomy Global reduced wild sampled ultimate vacancy twilight Indian wat red contrace render character supervisor keyed Naomi erected Dat turkey announces Expert estimate immediate progression Mean shrinking protecting stalk bou Fundamental Ethereum struggle fantasy Cord briefly exc '#{: Es clubs exempl beings claimed tutors attacker restore Includes `(bre strictly eldest Soloil innocent Aster skins immigration publishers abduction discarded tactile.] punching seminal prerequisite Lessons camp Dome ambassador necessity,” port=True disclose shy utilization eff cutoff path Adidas });\n\nFor this poem, I revised it by incorporating relevant Solana blockchain-related keywords within a thematic context.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpqgjoa7qg2i",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-02",
-    "poem": {
-      "content": "In the urban sprawl, where city lights gleam,\nA throw of shadows dances, an eerie dream.\nThe roar of the crowd, a cacophony so bright,\nA roast of memories, where love and heartache take flight.\n\nI extend my thumb, a gesture of my past,\nEchoes of moments that will forever last.\nIn the fiction of my mind, I weave a tapestry so fine,\nA world where benefit and harm entwine.\n\nBut there's a wrong turn, a path I've yet to find,\nA magnet that pulls, a heart and mind entwined.\nThe avocado of life, a fruit so green and fair,\nForgotten in the rush, a treasure beyond compare.\n\nBelow the surface, a world of secrets lies,\nFuel for the fire, that burns with anxious sighs.\nI try to solve the riddle, of this urban grind,\nTo find a way to thrive, where love and heartache entwine.\n\nIn the picture of my mind, a vision starts to form,\nA world where love and joy, forever will transform.\nBut for now, I'll hold on tight, to the can of hope,\nA fragile thread, that keeps me from the endless rope.\n\nIn the darkness of the night, I search for a light,\nA guiding star, that will lead me through the fight.\nAnd when the morning comes, and the city starts to roar,\nI'll rise above, and find my way to something more.",
-      "generatedAt": "2026-07-02T11:23:24.189Z"
-    },
-    "keywords": [
-      {
-        "word": "throw",
-        "slot": 430296981,
-        "source": "blockhash"
-      },
-      {
-        "word": "roast",
-        "slot": 430296981,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "thumb",
-        "slot": 430296981,
-        "source": "transaction"
-      },
-      {
-        "word": "echo",
-        "slot": 430278981,
-        "source": "blockhash"
-      },
-      {
-        "word": "fiction",
-        "slot": 430278981,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "benefit",
-        "slot": 430278981,
-        "source": "transaction"
-      },
-      {
-        "word": "solve",
-        "slot": 430260981,
-        "source": "blockhash"
-      },
-      {
-        "word": "thrive",
-        "slot": 430260981,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "avocado",
-        "slot": 430260981,
-        "source": "transaction"
-      },
-      {
-        "word": "picture",
-        "slot": 430242981,
-        "source": "blockhash"
-      },
-      {
-        "word": "wrong",
-        "slot": 430242981,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "magnet",
-        "slot": 430242981,
-        "source": "transaction"
-      },
-      {
-        "word": "urban",
-        "slot": 430224981,
-        "source": "blockhash"
-      },
-      {
-        "word": "can",
-        "slot": 430224981,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "below",
-        "slot": 430224981,
-        "source": "transaction"
-      },
-      {
-        "word": "fuel",
-        "slot": 430206981,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpnw6md5wy2e",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
