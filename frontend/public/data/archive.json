@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-02",
+    "poem": {
+      "content": "In the oven of time, where moments are forged,\nA distance stretches, a chasm that's raw and explored.\nA stool stands sentinel, a witness to the past,\nA relic of memories that refuse to be erased at last.\n\nIn this frost-encrusted landscape, a bubble forms and grows,\nA vapor of hope that clings to the edge of our woes.\nBut like a liar in the shadows, it whispers deceit,\nA dwarf of doubt that creeps in, and our hearts do beat.\n\nIn the salon of our minds, we select the words we'll say,\nBut often, our behavior betrays us, come what may.\nWe reject the truth, and choose the path of pain,\nAnd in the mail of our hearts, a letter of regret remains.\n\nWe acquire the weight of our mistakes, and they bear down,\nA heavy load that we struggle to carry, in this frozen town.\nBut still, we rise, and in the distance, a new dawn breaks,\nA light that shines, a chance to remake, to select new paths.\n\nIn this oven of transformation, we're molded and refined,\nA raw material, shaped by the heat, and the fire that's designed.\nAnd when we emerge, we're different, transformed by the test,\nA vapor of wisdom that rises, and forever finds its best.",
+      "generatedAt": "2026-08-02T10:22:39.297Z"
+    },
+    "keywords": [
+      {
+        "word": "acquire",
+        "slot": 436747992,
+        "source": "blockhash"
+      },
+      {
+        "word": "oven",
+        "slot": 436747992,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "distance",
+        "slot": 436747992,
+        "source": "transaction"
+      },
+      {
+        "word": "raw",
+        "slot": 436729992,
+        "source": "blockhash"
+      },
+      {
+        "word": "mail",
+        "slot": 436729992,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "stool",
+        "slot": 436729992,
+        "source": "transaction"
+      },
+      {
+        "word": "reject",
+        "slot": 436711991,
+        "source": "blockhash"
+      },
+      {
+        "word": "bubble",
+        "slot": 436711991,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "behave",
+        "slot": 436711991,
+        "source": "transaction"
+      },
+      {
+        "word": "select",
+        "slot": 436693992,
+        "source": "blockhash"
+      },
+      {
+        "word": "liar",
+        "slot": 436693992,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "vapor",
+        "slot": 436693992,
+        "source": "transaction"
+      },
+      {
+        "word": "frost",
+        "slot": 436675992,
+        "source": "blockhash"
+      },
+      {
+        "word": "dwarf",
+        "slot": 436675992,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "edge",
+        "slot": 436675992,
+        "source": "transaction"
+      },
+      {
+        "word": "salon",
+        "slot": 436657992,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3ms3rajsbzn2a",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-01",
     "poem": {
       "content": "In the estate of code, where petals bloom\nA pet of science, a digital boon\nA bronze light glows, as transactions flow\nThrough the swarm of nodes, where data does grow\n\nIn this world of plastic, where norms are bent\nA bonus for those who lend, a payment to invent\nA curve of debt, where borrowers do stray\nInflicting guilt, on those who can't pay\n\nA pencil scratches, on the blockchain's page\nA record of each, in a digital age\nNormal transactions, a never-ending stream\nBut for those who disagree, the cost is extreme\n\nThe estate of Solana, where values are made\nA science of trust, in a world of trade\nA bronze foundation, where the swarm does stand\nA glow of innovation, in a digital land\n\nBut when guilt does creep, and debt does weigh\nA payment due, can turn to dismay\nA curve of fate, where fortunes do shift\nAnd those who borrow, may forever drift\n\nYet in this world of code, where science does reign\nA pet of progress, brings hope to sustain\nA bonus for the brave, who venture to explore\nA normal world of transactions, forever in store.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpsuxneg2a23",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-03",
-    "poem": {
-      "content": "In the matrix of shadows, where gloom reigns supreme,\nA town lies crippled, its spirit sunk in a heavy dream.\nInjury lingers, like an odor that refuses to cease,\nA constant reminder of a fight that refuses to release.\n\nYet, in the midst of such despair, a glimmer appears,\nA light that raises hope, like a beacon through the tears.\nIt refuses to oppose the darkness, nor flee from its pain,\nBut instead, it rises, a phoenix born from the ashes, unrestrained.\n\nThrough the dense fog of doubt, a path begins to form,\nA grain of truth that germinates, like a subtle, hidden storm.\nIt grows, a fragile shoot, that breaks through the debris,\nAnd reaches for the light, like a hand that's stretched to the skies.\n\nThe town, once drenched in gloom, now begins to lift its eyes,\nAnd see the world anew, like a picture salvaged from the skies.\nThe rescue is underway, though slow, as rescue dogs patrol the ground,\n Searching for the injured, and those who've been lost, without a sound.\n\nThe auction of hope has begun, the price isn't yet clear,\nBut we're willing to pay any toll, to shed the weight we've borne here.\nThough weighty, we raise our voice, a challenge to the night,\nA dawning of the truth, a painful but liberating light.\n\nThough still over task, the journey is our anchor and our aim,\nWe'll emerge from this struggle, as polished gold, unscathed and the same.",
-      "generatedAt": "2026-07-03T11:21:14.931Z"
-    },
-    "keywords": [
-      {
-        "word": "oppose",
-        "slot": 430510903,
-        "source": "blockhash"
-      },
-      {
-        "word": "over",
-        "slot": 430510903,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "rescue",
-        "slot": 430510903,
-        "source": "transaction"
-      },
-      {
-        "word": "release",
-        "slot": 430492903,
-        "source": "blockhash"
-      },
-      {
-        "word": "injury",
-        "slot": 430492903,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "gloom",
-        "slot": 430492903,
-        "source": "transaction"
-      },
-      {
-        "word": "grain",
-        "slot": 430474903,
-        "source": "blockhash"
-      },
-      {
-        "word": "raise",
-        "slot": 430474903,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "odor",
-        "slot": 430474903,
-        "source": "transaction"
-      },
-      {
-        "word": "auction",
-        "slot": 430456903,
-        "source": "blockhash"
-      },
-      {
-        "word": "remain",
-        "slot": 430456903,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "matrix",
-        "slot": 430456903,
-        "source": "transaction"
-      },
-      {
-        "word": "heavy",
-        "slot": 430438903,
-        "source": "blockhash"
-      },
-      {
-        "word": "patrol",
-        "slot": 430438903,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "town",
-        "slot": 430438903,
-        "source": "transaction"
-      },
-      {
-        "word": "achieve",
-        "slot": 430420903,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpqgjoa7qg2i",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

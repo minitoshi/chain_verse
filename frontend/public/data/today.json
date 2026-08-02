@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "poem": {
-    "content": "In the estate of code, where petals bloom\nA pet of science, a digital boon\nA bronze light glows, as transactions flow\nThrough the swarm of nodes, where data does grow\n\nIn this world of plastic, where norms are bent\nA bonus for those who lend, a payment to invent\nA curve of debt, where borrowers do stray\nInflicting guilt, on those who can't pay\n\nA pencil scratches, on the blockchain's page\nA record of each, in a digital age\nNormal transactions, a never-ending stream\nBut for those who disagree, the cost is extreme\n\nThe estate of Solana, where values are made\nA science of trust, in a world of trade\nA bronze foundation, where the swarm does stand\nA glow of innovation, in a digital land\n\nBut when guilt does creep, and debt does weigh\nA payment due, can turn to dismay\nA curve of fate, where fortunes do shift\nAnd those who borrow, may forever drift\n\nYet in this world of code, where science does reign\nA pet of progress, brings hope to sustain\nA bonus for the brave, who venture to explore\nA normal world of transactions, forever in store.",
-    "generatedAt": "2026-08-01T10:23:40.420Z"
+    "content": "In the oven of time, where moments are forged,\nA distance stretches, a chasm that's raw and explored.\nA stool stands sentinel, a witness to the past,\nA relic of memories that refuse to be erased at last.\n\nIn this frost-encrusted landscape, a bubble forms and grows,\nA vapor of hope that clings to the edge of our woes.\nBut like a liar in the shadows, it whispers deceit,\nA dwarf of doubt that creeps in, and our hearts do beat.\n\nIn the salon of our minds, we select the words we'll say,\nBut often, our behavior betrays us, come what may.\nWe reject the truth, and choose the path of pain,\nAnd in the mail of our hearts, a letter of regret remains.\n\nWe acquire the weight of our mistakes, and they bear down,\nA heavy load that we struggle to carry, in this frozen town.\nBut still, we rise, and in the distance, a new dawn breaks,\nA light that shines, a chance to remake, to select new paths.\n\nIn this oven of transformation, we're molded and refined,\nA raw material, shaped by the heat, and the fire that's designed.\nAnd when we emerge, we're different, transformed by the test,\nA vapor of wisdom that rises, and forever finds its best.",
+    "generatedAt": "2026-08-02T10:22:39.297Z"
   },
   "keywords": [
     {
-      "word": "pet",
-      "slot": 436543606,
+      "word": "acquire",
+      "slot": 436747992,
       "source": "blockhash"
     },
     {
-      "word": "bronze",
-      "slot": 436543606,
+      "word": "oven",
+      "slot": 436747992,
       "source": "previousBlockhash"
     },
     {
-      "word": "plastic",
-      "slot": 436543606,
+      "word": "distance",
+      "slot": 436747992,
       "source": "transaction"
     },
     {
-      "word": "science",
-      "slot": 436525606,
+      "word": "raw",
+      "slot": 436729992,
       "source": "blockhash"
     },
     {
-      "word": "bonus",
-      "slot": 436525606,
+      "word": "mail",
+      "slot": 436729992,
       "source": "previousBlockhash"
     },
     {
-      "word": "estate",
-      "slot": 436525606,
+      "word": "stool",
+      "slot": 436729992,
       "source": "transaction"
     },
     {
-      "word": "disagree",
-      "slot": 436507606,
+      "word": "reject",
+      "slot": 436711991,
       "source": "blockhash"
     },
     {
-      "word": "pencil",
-      "slot": 436507606,
+      "word": "bubble",
+      "slot": 436711991,
       "source": "previousBlockhash"
     },
     {
-      "word": "inflict",
-      "slot": 436507606,
+      "word": "behave",
+      "slot": 436711991,
       "source": "transaction"
     },
     {
-      "word": "normal",
-      "slot": 436489606,
+      "word": "select",
+      "slot": 436693992,
       "source": "blockhash"
     },
     {
-      "word": "payment",
-      "slot": 436489606,
+      "word": "liar",
+      "slot": 436693992,
       "source": "previousBlockhash"
     },
     {
-      "word": "curve",
-      "slot": 436489606,
+      "word": "vapor",
+      "slot": 436693992,
       "source": "transaction"
     },
     {
-      "word": "borrow",
-      "slot": 436471606,
+      "word": "frost",
+      "slot": 436675992,
       "source": "blockhash"
     },
     {
-      "word": "glow",
-      "slot": 436471606,
+      "word": "dwarf",
+      "slot": 436675992,
       "source": "previousBlockhash"
     },
     {
-      "word": "swarm",
-      "slot": 436471606,
+      "word": "edge",
+      "slot": 436675992,
       "source": "transaction"
     },
     {
-      "word": "guilt",
-      "slot": 436453606,
+      "word": "salon",
+      "slot": 436657992,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3ms3rajsbzn2a",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
