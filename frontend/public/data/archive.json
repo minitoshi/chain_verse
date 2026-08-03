@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-03",
+    "poem": {
+      "content": "In the village, where wisdom's gentle rose unfurls,\nA parrot's angry cry pierces the stillness of the whorls.\nIt screeches, \"Today, I will not be tamed, nor swayed,\"\nAs the truth sets her free, her feathers aflame.\n\nMy wise uncle's words echo, a promise to abide,\nPayment is due, but to whom, he can't decide.\nHe's lost in thought, like a corn husk without a shore,\n Searching for a refuge, where his spirit can restore.\n\nHis nephew's toy lies shattered, a reminder of his pain,\nA broken love, a heart that cannot love again.\nThe parrot watches, a guardian of ancient lore,\nA wise sentinel, who witnessed the events before.\n\nAs I wander, I come upon a shop of forgotten things,\nA treasure trove of memories, where love and joy cling.\nA token of the past, a rose petal on the floor,\nA symbol of what's been lost, and what's no more.\n\nBut even in decay, a spark remains, a light that shines,\nA beacon in the darkness, a reminder of love's design.\nIt's a word, a whisper, a message from the heart,\nA call to remember, to not forget, to play a part.\n\nDonations are made, to sow the seeds of peace,\nIn the village, where wisdom's rose, its beauty will increase.\nToday, we gather, to tend the garden of the soul,\nTo let love bloom, and shine, making it whole.\n\nIn this space, I find my humble place to belong,\nA place to grow, where kindness can be sung.\nThe parrot's cry, now silent, a distant memory remains,\nA reminder of the beauty, that love's true name sustains.",
+      "generatedAt": "2026-08-03T12:07:44.707Z"
+    },
+    "keywords": [
+      {
+        "word": "angry",
+        "slot": 436967774,
+        "source": "blockhash"
+      },
+      {
+        "word": "rose",
+        "slot": 436967774,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wise",
+        "slot": 436967774,
+        "source": "transaction"
+      },
+      {
+        "word": "forget",
+        "slot": 436949774,
+        "source": "blockhash"
+      },
+      {
+        "word": "payment",
+        "slot": 436949774,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "donate",
+        "slot": 436949774,
+        "source": "transaction"
+      },
+      {
+        "word": "word",
+        "slot": 436931774,
+        "source": "blockhash"
+      },
+      {
+        "word": "corn",
+        "slot": 436931774,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "boss",
+        "slot": 436931774,
+        "source": "transaction"
+      },
+      {
+        "word": "shop",
+        "slot": 436913774,
+        "source": "blockhash"
+      },
+      {
+        "word": "village",
+        "slot": 436913774,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "nephew",
+        "slot": 436913774,
+        "source": "transaction"
+      },
+      {
+        "word": "parrot",
+        "slot": 436895774,
+        "source": "blockhash"
+      },
+      {
+        "word": "today",
+        "slot": 436895774,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "toy",
+        "slot": 436895774,
+        "source": "transaction"
+      },
+      {
+        "word": "shine",
+        "slot": 436877774,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3ms6hldtxkn2l",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-02",
     "poem": {
       "content": "In the oven of time, where moments are forged,\nA distance stretches, a chasm that's raw and explored.\nA stool stands sentinel, a witness to the past,\nA relic of memories that refuse to be erased at last.\n\nIn this frost-encrusted landscape, a bubble forms and grows,\nA vapor of hope that clings to the edge of our woes.\nBut like a liar in the shadows, it whispers deceit,\nA dwarf of doubt that creeps in, and our hearts do beat.\n\nIn the salon of our minds, we select the words we'll say,\nBut often, our behavior betrays us, come what may.\nWe reject the truth, and choose the path of pain,\nAnd in the mail of our hearts, a letter of regret remains.\n\nWe acquire the weight of our mistakes, and they bear down,\nA heavy load that we struggle to carry, in this frozen town.\nBut still, we rise, and in the distance, a new dawn breaks,\nA light that shines, a chance to remake, to select new paths.\n\nIn this oven of transformation, we're molded and refined,\nA raw material, shaped by the heat, and the fire that's designed.\nAnd when we emerge, we're different, transformed by the test,\nA vapor of wisdom that rises, and forever finds its best.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpvfxvpvg62x",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-04",
-    "poem": {
-      "content": "In an apartment with a flat, worn floor,\nA lizard watched me, its eyes a distant shore.\nA sibling's laughter echoed, a joy unbound,\nAs I sat at the stove, an onion spinning round.\n\nMy thoughts involved the census, a story untold,\nA map of faces, a tale of stories unfold.\nBut someone knocked at the door, a surprise in store,\nAnd I hid my egg, like a secret, evermore.\n\nThey left a burger on the counter, a gift in the night,\nA symbol of kindness, a beacon shining bright.\nBut as I quit my thoughts and gazed outside to space,\nI wished I could be there, in some unknown place.\n\nThe lizard watched me, its eyes a knowing glance,\nAs if to say, \"Leave this world, it's time to take a chance.\"\nI longed to turn forward, to a life unknown,\nTo leave behind the flat, a world that was never my home.\n\nBut for now, I stay, in this place of rest,\nA dentist's chair nearby, a reminder to take care of my best.\nThe lizard remains, a loyal, silent friend,\nWatching over me, until the story's end.",
-      "generatedAt": "2026-07-04T10:44:54.580Z"
-    },
-    "keywords": [
-      {
-        "word": "doll",
-        "slot": 430719456,
-        "source": "blockhash"
-      },
-      {
-        "word": "flat",
-        "slot": 430719456,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "sibling",
-        "slot": 430719456,
-        "source": "transaction"
-      },
-      {
-        "word": "burger",
-        "slot": 430701456,
-        "source": "blockhash"
-      },
-      {
-        "word": "stove",
-        "slot": 430701456,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "onion",
-        "slot": 430701456,
-        "source": "transaction"
-      },
-      {
-        "word": "involve",
-        "slot": 430683456,
-        "source": "blockhash"
-      },
-      {
-        "word": "where",
-        "slot": 430683456,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "egg",
-        "slot": 430683456,
-        "source": "transaction"
-      },
-      {
-        "word": "lizard",
-        "slot": 430665456,
-        "source": "blockhash"
-      },
-      {
-        "word": "quit",
-        "slot": 430665456,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "someone",
-        "slot": 430665456,
-        "source": "transaction"
-      },
-      {
-        "word": "census",
-        "slot": 430647456,
-        "source": "blockhash"
-      },
-      {
-        "word": "dentist",
-        "slot": 430647456,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "forward",
-        "slot": 430647456,
-        "source": "transaction"
-      },
-      {
-        "word": "floor",
-        "slot": 430629456,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mpsuxneg2a23",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

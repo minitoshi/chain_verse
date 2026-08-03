@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "poem": {
-    "content": "In the oven of time, where moments are forged,\nA distance stretches, a chasm that's raw and explored.\nA stool stands sentinel, a witness to the past,\nA relic of memories that refuse to be erased at last.\n\nIn this frost-encrusted landscape, a bubble forms and grows,\nA vapor of hope that clings to the edge of our woes.\nBut like a liar in the shadows, it whispers deceit,\nA dwarf of doubt that creeps in, and our hearts do beat.\n\nIn the salon of our minds, we select the words we'll say,\nBut often, our behavior betrays us, come what may.\nWe reject the truth, and choose the path of pain,\nAnd in the mail of our hearts, a letter of regret remains.\n\nWe acquire the weight of our mistakes, and they bear down,\nA heavy load that we struggle to carry, in this frozen town.\nBut still, we rise, and in the distance, a new dawn breaks,\nA light that shines, a chance to remake, to select new paths.\n\nIn this oven of transformation, we're molded and refined,\nA raw material, shaped by the heat, and the fire that's designed.\nAnd when we emerge, we're different, transformed by the test,\nA vapor of wisdom that rises, and forever finds its best.",
-    "generatedAt": "2026-08-02T10:22:39.297Z"
+    "content": "In the village, where wisdom's gentle rose unfurls,\nA parrot's angry cry pierces the stillness of the whorls.\nIt screeches, \"Today, I will not be tamed, nor swayed,\"\nAs the truth sets her free, her feathers aflame.\n\nMy wise uncle's words echo, a promise to abide,\nPayment is due, but to whom, he can't decide.\nHe's lost in thought, like a corn husk without a shore,\n Searching for a refuge, where his spirit can restore.\n\nHis nephew's toy lies shattered, a reminder of his pain,\nA broken love, a heart that cannot love again.\nThe parrot watches, a guardian of ancient lore,\nA wise sentinel, who witnessed the events before.\n\nAs I wander, I come upon a shop of forgotten things,\nA treasure trove of memories, where love and joy cling.\nA token of the past, a rose petal on the floor,\nA symbol of what's been lost, and what's no more.\n\nBut even in decay, a spark remains, a light that shines,\nA beacon in the darkness, a reminder of love's design.\nIt's a word, a whisper, a message from the heart,\nA call to remember, to not forget, to play a part.\n\nDonations are made, to sow the seeds of peace,\nIn the village, where wisdom's rose, its beauty will increase.\nToday, we gather, to tend the garden of the soul,\nTo let love bloom, and shine, making it whole.\n\nIn this space, I find my humble place to belong,\nA place to grow, where kindness can be sung.\nThe parrot's cry, now silent, a distant memory remains,\nA reminder of the beauty, that love's true name sustains.",
+    "generatedAt": "2026-08-03T12:07:44.707Z"
   },
   "keywords": [
     {
-      "word": "acquire",
-      "slot": 436747992,
+      "word": "angry",
+      "slot": 436967774,
       "source": "blockhash"
     },
     {
-      "word": "oven",
-      "slot": 436747992,
+      "word": "rose",
+      "slot": 436967774,
       "source": "previousBlockhash"
     },
     {
-      "word": "distance",
-      "slot": 436747992,
+      "word": "wise",
+      "slot": 436967774,
       "source": "transaction"
     },
     {
-      "word": "raw",
-      "slot": 436729992,
+      "word": "forget",
+      "slot": 436949774,
       "source": "blockhash"
     },
     {
-      "word": "mail",
-      "slot": 436729992,
+      "word": "payment",
+      "slot": 436949774,
       "source": "previousBlockhash"
     },
     {
-      "word": "stool",
-      "slot": 436729992,
+      "word": "donate",
+      "slot": 436949774,
       "source": "transaction"
     },
     {
-      "word": "reject",
-      "slot": 436711991,
+      "word": "word",
+      "slot": 436931774,
       "source": "blockhash"
     },
     {
-      "word": "bubble",
-      "slot": 436711991,
+      "word": "corn",
+      "slot": 436931774,
       "source": "previousBlockhash"
     },
     {
-      "word": "behave",
-      "slot": 436711991,
+      "word": "boss",
+      "slot": 436931774,
       "source": "transaction"
     },
     {
-      "word": "select",
-      "slot": 436693992,
+      "word": "shop",
+      "slot": 436913774,
       "source": "blockhash"
     },
     {
-      "word": "liar",
-      "slot": 436693992,
+      "word": "village",
+      "slot": 436913774,
       "source": "previousBlockhash"
     },
     {
-      "word": "vapor",
-      "slot": 436693992,
+      "word": "nephew",
+      "slot": 436913774,
       "source": "transaction"
     },
     {
-      "word": "frost",
-      "slot": 436675992,
+      "word": "parrot",
+      "slot": 436895774,
       "source": "blockhash"
     },
     {
-      "word": "dwarf",
-      "slot": 436675992,
+      "word": "today",
+      "slot": 436895774,
       "source": "previousBlockhash"
     },
     {
-      "word": "edge",
-      "slot": 436675992,
+      "word": "toy",
+      "slot": 436895774,
       "source": "transaction"
     },
     {
-      "word": "salon",
-      "slot": 436657992,
+      "word": "shine",
+      "slot": 436877774,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3ms3rajsbzn2a",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3ms6hldtxkn2l",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
