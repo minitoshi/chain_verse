@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "poem": {
-    "content": "In the village, where wisdom's gentle rose unfurls,\nA parrot's angry cry pierces the stillness of the whorls.\nIt screeches, \"Today, I will not be tamed, nor swayed,\"\nAs the truth sets her free, her feathers aflame.\n\nMy wise uncle's words echo, a promise to abide,\nPayment is due, but to whom, he can't decide.\nHe's lost in thought, like a corn husk without a shore,\n Searching for a refuge, where his spirit can restore.\n\nHis nephew's toy lies shattered, a reminder of his pain,\nA broken love, a heart that cannot love again.\nThe parrot watches, a guardian of ancient lore,\nA wise sentinel, who witnessed the events before.\n\nAs I wander, I come upon a shop of forgotten things,\nA treasure trove of memories, where love and joy cling.\nA token of the past, a rose petal on the floor,\nA symbol of what's been lost, and what's no more.\n\nBut even in decay, a spark remains, a light that shines,\nA beacon in the darkness, a reminder of love's design.\nIt's a word, a whisper, a message from the heart,\nA call to remember, to not forget, to play a part.\n\nDonations are made, to sow the seeds of peace,\nIn the village, where wisdom's rose, its beauty will increase.\nToday, we gather, to tend the garden of the soul,\nTo let love bloom, and shine, making it whole.\n\nIn this space, I find my humble place to belong,\nA place to grow, where kindness can be sung.\nThe parrot's cry, now silent, a distant memory remains,\nA reminder of the beauty, that love's true name sustains.",
-    "generatedAt": "2026-08-03T12:07:44.707Z"
+    "content": "In secret gardens, hidden from the sun,\nA program unfolds, its mysteries begun.\nA choice is made, a path to take,\nTo write the future, for all to partake.\n\nA female figure, strong and still,\nGuards the frozen code, with a gentle will.\nA need to break free, from the chains of the past,\nTo leave the clump of doubt, and forever last.\n\nA civil war rages, in the hearts of men,\nA hazard lurks, in the shadows, unseen.\nA lobster's claw, grasps for freedom's door,\nWhile a doctor tends, to the wounds of yore.\n\nA warrior's cry, echoes through the night,\nAs the case for change, is made, and takes flight.\nBut still, the choice, is one to make,\nTo write the future, with a heart that's awake.\n\nIn this frozen world, where danger lurks,\nA need to trust, in the secret that works.\nA program unfolds, its mysteries revealed,\nAnd the choice is made, to leave the past, concealed.\n\nA female figure, stands, with a gentle hand,\nAnd guides the warrior, through the treacherous land.\nThe hazard is avoided, the civil war subsides,\nAnd the lobster's claw, is freed, and glides.\n\nThe doctor's care, heals the wounds of the past,\nAnd the warrior's cry, is silenced at last.\nThe case is closed, the choice is made,\nAnd the program unfolds, its secrets displayed.",
+    "generatedAt": "2026-08-04T11:12:15.967Z"
   },
   "keywords": [
     {
-      "word": "angry",
-      "slot": 436967774,
+      "word": "program",
+      "slot": 437164021,
       "source": "blockhash"
     },
     {
-      "word": "rose",
-      "slot": 436967774,
+      "word": "secret",
+      "slot": 437164021,
       "source": "previousBlockhash"
     },
     {
-      "word": "wise",
-      "slot": 436967774,
+      "word": "choice",
+      "slot": 437164021,
       "source": "transaction"
     },
     {
-      "word": "forget",
-      "slot": 436949774,
+      "word": "write",
+      "slot": 437146021,
       "source": "blockhash"
     },
     {
-      "word": "payment",
-      "slot": 436949774,
+      "word": "still",
+      "slot": 437146021,
       "source": "previousBlockhash"
     },
     {
-      "word": "donate",
-      "slot": 436949774,
+      "word": "frozen",
+      "slot": 437146021,
       "source": "transaction"
     },
     {
-      "word": "word",
-      "slot": 436931774,
+      "word": "female",
+      "slot": 437128021,
       "source": "blockhash"
     },
     {
-      "word": "corn",
-      "slot": 436931774,
+      "word": "need",
+      "slot": 437128021,
       "source": "previousBlockhash"
     },
     {
-      "word": "boss",
-      "slot": 436931774,
+      "word": "civil",
+      "slot": 437128021,
       "source": "transaction"
     },
     {
-      "word": "shop",
-      "slot": 436913774,
+      "word": "clump",
+      "slot": 437110021,
       "source": "blockhash"
     },
     {
-      "word": "village",
-      "slot": 436913774,
+      "word": "leave",
+      "slot": 437110021,
       "source": "previousBlockhash"
     },
     {
-      "word": "nephew",
-      "slot": 436913774,
+      "word": "case",
+      "slot": 437110021,
       "source": "transaction"
     },
     {
-      "word": "parrot",
-      "slot": 436895774,
+      "word": "hazard",
+      "slot": 437092021,
       "source": "blockhash"
     },
     {
-      "word": "today",
-      "slot": 436895774,
+      "word": "lobster",
+      "slot": 437092021,
       "source": "previousBlockhash"
     },
     {
-      "word": "toy",
-      "slot": 436895774,
+      "word": "doctor",
+      "slot": 437092021,
       "source": "transaction"
     },
     {
-      "word": "shine",
-      "slot": 436877774,
+      "word": "warrior",
+      "slot": 437074021,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3ms6hldtxkn2l",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msaux3iq3i2p",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
