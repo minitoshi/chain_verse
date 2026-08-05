@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "poem": {
-    "content": "In secret gardens, hidden from the sun,\nA program unfolds, its mysteries begun.\nA choice is made, a path to take,\nTo write the future, for all to partake.\n\nA female figure, strong and still,\nGuards the frozen code, with a gentle will.\nA need to break free, from the chains of the past,\nTo leave the clump of doubt, and forever last.\n\nA civil war rages, in the hearts of men,\nA hazard lurks, in the shadows, unseen.\nA lobster's claw, grasps for freedom's door,\nWhile a doctor tends, to the wounds of yore.\n\nA warrior's cry, echoes through the night,\nAs the case for change, is made, and takes flight.\nBut still, the choice, is one to make,\nTo write the future, with a heart that's awake.\n\nIn this frozen world, where danger lurks,\nA need to trust, in the secret that works.\nA program unfolds, its mysteries revealed,\nAnd the choice is made, to leave the past, concealed.\n\nA female figure, stands, with a gentle hand,\nAnd guides the warrior, through the treacherous land.\nThe hazard is avoided, the civil war subsides,\nAnd the lobster's claw, is freed, and glides.\n\nThe doctor's care, heals the wounds of the past,\nAnd the warrior's cry, is silenced at last.\nThe case is closed, the choice is made,\nAnd the program unfolds, its secrets displayed.",
-    "generatedAt": "2026-08-04T11:12:15.967Z"
+    "content": "In the valley of Solana's radiant light\nA million sparks ignite, a fiery delight\nA poet's heart, for once, is glad to write\nInspired by visions that dance, a true title to ignite\n\nThe pages whisper secrets, a tale to be told\nOf a world where cryptic codes unfold\nIgnore the voice that whispers \"just a fad\"\nFor in this realm, the brave will be the glad\n\nFame is but a fleeting thought, a whispered name\nIn the eternal dance of code and flame\nI put my pen to paper, a heart on fire\nAs the satellite machines conspire, in a digital desire\n\nDown the winding road, where the trees are tall\nI stumble upon a girl, with a programmer's call\nShe teaches me the secrets, of the Solana's way\nA path that leads to power, on this bright new day\n\nBut alas, the journey's not without its toll\nThe miles that stretch ahead, a mystery to unfold\nThe roads that lead to innovation, where the brave dare to be\nNot swayed by the doubts that creep, like shadows on the tree\n\nIn this digital realm, I find my heart's reprieve\nA place to learn and teach, where creativity can breathe\nThe maximum potential of the human mind\nUnfolds like a lotus, in this grand design\n\nAnd as I stand, with the toilet's porcelain cold\nI realize the fear, that holds me back from being bold\nBut in the light of knowledge, a new path I prepare\nTo rise above the noise, and leave my mark to share.",
+    "generatedAt": "2026-08-05T11:09:19.129Z"
   },
   "keywords": [
     {
-      "word": "program",
-      "slot": 437164021,
+      "word": "glad",
+      "slot": 437367794,
       "source": "blockhash"
-    },
-    {
-      "word": "secret",
-      "slot": 437164021,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "choice",
-      "slot": 437164021,
-      "source": "transaction"
     },
     {
       "word": "write",
-      "slot": 437146021,
-      "source": "blockhash"
-    },
-    {
-      "word": "still",
-      "slot": 437146021,
+      "slot": 437367794,
       "source": "previousBlockhash"
     },
     {
-      "word": "frozen",
-      "slot": 437146021,
+      "word": "title",
+      "slot": 437367794,
       "source": "transaction"
     },
     {
-      "word": "female",
-      "slot": 437128021,
+      "word": "put",
+      "slot": 437349794,
       "source": "blockhash"
     },
     {
-      "word": "need",
-      "slot": 437128021,
+      "word": "ignore",
+      "slot": 437349794,
       "source": "previousBlockhash"
     },
     {
-      "word": "civil",
-      "slot": 437128021,
+      "word": "fame",
+      "slot": 437349794,
       "source": "transaction"
     },
     {
-      "word": "clump",
-      "slot": 437110021,
+      "word": "eternal",
+      "slot": 437331794,
       "source": "blockhash"
     },
     {
-      "word": "leave",
-      "slot": 437110021,
+      "word": "valley",
+      "slot": 437331794,
       "source": "previousBlockhash"
     },
     {
-      "word": "case",
-      "slot": 437110021,
+      "word": "maximum",
+      "slot": 437331794,
       "source": "transaction"
     },
     {
-      "word": "hazard",
-      "slot": 437092021,
+      "word": "teach",
+      "slot": 437313794,
       "source": "blockhash"
     },
     {
-      "word": "lobster",
-      "slot": 437092021,
+      "word": "girl",
+      "slot": 437313794,
       "source": "previousBlockhash"
     },
     {
-      "word": "doctor",
-      "slot": 437092021,
+      "word": "million",
+      "slot": 437313794,
       "source": "transaction"
     },
     {
-      "word": "warrior",
-      "slot": 437074021,
+      "word": "road",
+      "slot": 437295794,
+      "source": "blockhash"
+    },
+    {
+      "word": "enjoy",
+      "slot": 437295794,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "prepare",
+      "slot": 437295794,
+      "source": "transaction"
+    },
+    {
+      "word": "toilet",
+      "slot": 437277794,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msaux3iq3i2p",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msdfaq4u3n2l",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
