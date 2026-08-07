@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "poem": {
-    "content": "In the room where memories reside,\nA faint signal hums from my old phone inside,\nA series of moments, love and strife,\nFrozen in time, like a favorite life.\n\nA clip of laughter, a tear, a sigh,\n Echoes whisper through the quiet sky,\nA mandate to hold on to what's dear,\nLest they become just a distant fear.\n\nBut in the shadows, a trap lies in wait,\nA flush of anxiety that threatens to escape,\nA frost that clings to the heart's warmth and light,\nA chill that seeps in on a cold and lonely night.\n\nMy cousin speaks of a better time,\nA promise of a future that's yet to be mine,\nBut for now, I'm stuck in this uncertain space,\nWhere the faculty of hope struggles to find its place.\n\nI try to situate myself above the pain,\nTo rise above the heartaches and the shame,\nBut they linger like a ghostly presence near,\nA constant reminder of the tears I've cried this year.\n\nIn this dark room, I search for a ray of light,\nA chance to enhance the beauty of the night,\nTo find the courage to let go and be free,\nTo dance with joy, wild and carelessly.\n\nBut for now, I'll sit here, lost and alone,\nAbove the world, yet still feeling like a stone,\nA heavy heart that yearns to be at peace,\nA soul that's upset, yet searching for release.",
-    "generatedAt": "2026-08-06T11:09:34.232Z"
+    "content": "In the wash of time, I pass by faces unremarked,\nForgotten moments, lost in the spin of the years.\nA whispered apology echoes through empty streets,\nFor the love I've left to wither, like a field left unseated.\n\n Memories, a page torn, reveal a truth I've concealed,\nA peasant's heart once yearned for freedom's high seat.\nBut now, a major force draws me to a different creed,\nAn online world where love's a portion, bought and sold in speed.\n\nA soccer match unfolds, the players, like ants, in line,\nTheir footsteps, a vacuum, sucking all in its design.\nTheir cries, a symphony, a requiem for love's demise,\nLeaves me to question what's the cost of this digital prize.\n\nIn this world of speed, where time is just a spin,\nA moment's pause, and I forget what's real within.\nBut still, my heart thrums, a drumbeat in the dark,\nLonging to thrive in a world where love's still left to embark.\n\nIn the silence, I find my seat, where love resides,\nA sanctuary where hearts can heal, and wounds can be denied.\nIn this quiet space, I let go of the speed,\nAnd find my voice, a gentle whisper, in the wash of the need.\n\nA page turns, and the story unfolds, a new path unwinds,\nA journey to forgive, to let love's light shine, and leave the past behind.\nAnd though the road's uncertain, I'll follow where it leads,\nFor in the end, it's love that thrives, where the heart finds its seat.",
+    "generatedAt": "2026-08-07T09:45:20.285Z"
   },
   "keywords": [
     {
-      "word": "room",
-      "slot": 437572146,
+      "word": "pass",
+      "slot": 437764901,
       "source": "blockhash"
     },
     {
-      "word": "phone",
-      "slot": 437572146,
+      "word": "apology",
+      "slot": 437764901,
       "source": "previousBlockhash"
     },
     {
-      "word": "series",
-      "slot": 437572146,
+      "word": "spin",
+      "slot": 437764901,
       "source": "transaction"
     },
     {
-      "word": "favorite",
-      "slot": 437554146,
+      "word": "wash",
+      "slot": 437746901,
       "source": "blockhash"
     },
     {
-      "word": "clip",
-      "slot": 437554146,
+      "word": "portion",
+      "slot": 437746901,
       "source": "previousBlockhash"
     },
     {
-      "word": "mandate",
-      "slot": 437554146,
+      "word": "thrive",
+      "slot": 437746901,
       "source": "transaction"
     },
     {
-      "word": "trap",
-      "slot": 437536146,
+      "word": "soccer",
+      "slot": 437728901,
       "source": "blockhash"
     },
     {
-      "word": "flush",
-      "slot": 437536146,
+      "word": "forget",
+      "slot": 437728901,
       "source": "previousBlockhash"
     },
     {
-      "word": "frost",
-      "slot": 437536146,
+      "word": "seat",
+      "slot": 437728901,
       "source": "transaction"
     },
     {
-      "word": "faculty",
-      "slot": 437518146,
+      "word": "address",
+      "slot": 437710901,
       "source": "blockhash"
     },
     {
-      "word": "carpet",
-      "slot": 437518146,
+      "word": "page",
+      "slot": 437710901,
       "source": "previousBlockhash"
     },
     {
-      "word": "situate",
-      "slot": 437518146,
+      "word": "peasant",
+      "slot": 437710901,
       "source": "transaction"
     },
     {
-      "word": "enhance",
-      "slot": 437500146,
+      "word": "major",
+      "slot": 437692901,
       "source": "blockhash"
     },
     {
-      "word": "cousin",
-      "slot": 437500146,
+      "word": "online",
+      "slot": 437692901,
       "source": "previousBlockhash"
     },
     {
-      "word": "upset",
-      "slot": 437500146,
+      "word": "speed",
+      "slot": 437692901,
       "source": "transaction"
     },
     {
-      "word": "above",
-      "slot": 437482146,
+      "word": "vacuum",
+      "slot": 437674901,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msfvq3wur427",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msibifowvs25",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
