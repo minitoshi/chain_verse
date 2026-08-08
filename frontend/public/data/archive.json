@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-08",
+    "poem": {
+      "content": "In the realm of Solana's endless night,\nA shaft of code pierces the digital light,\nI choose the path where wisdom grows,\nWhere ancient secrets in the data flow,\nI chart my course, a navigator true,\nThrough oceans of bytes, where solutions await anew.\n\nLike digital mail, my message spreads,\nA whispered promise of innovation's threads,\nAs on my foot, the blockchain's weight is laid,\nI find my strength, in the cryptic code displayed,\nEach detail a thread, in the intricate mesh,\nA tapestry woven, from the threads of our wish.\n\nBut danger lurks, a threat in every crush,\nA stumble in the pace, where errors rush,\nTo my hip I cling, to the solid ground,\nAs through the darkness, my leg finds its sound,\nIn this decade of change, where tech reigns supreme,\nI find my footing, on Solana's digital beam.\n\nLike skiers down a slope, I swiftly glide,\nThrough mountains of data, where knowledge resides,\nMy muscle strengthens, as I learn and grow,\nEasily navigating the waves, where the future's glow,\n Illuminates the path, where innovation's born,\nIn the realm of Solana, where solutions are sworn.",
+      "generatedAt": "2026-08-08T09:23:48.857Z"
+    },
+    "keywords": [
+      {
+        "word": "shaft",
+        "slot": 437966533,
+        "source": "blockhash"
+      },
+      {
+        "word": "choose",
+        "slot": 437966533,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "course",
+        "slot": 437966533,
+        "source": "transaction"
+      },
+      {
+        "word": "solution",
+        "slot": 437948533,
+        "source": "blockhash"
+      },
+      {
+        "word": "mail",
+        "slot": 437948533,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "foot",
+        "slot": 437948533,
+        "source": "transaction"
+      },
+      {
+        "word": "detail",
+        "slot": 437930533,
+        "source": "blockhash"
+      },
+      {
+        "word": "crush",
+        "slot": 437930533,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hip",
+        "slot": 437930533,
+        "source": "transaction"
+      },
+      {
+        "word": "leg",
+        "slot": 437912533,
+        "source": "blockhash"
+      },
+      {
+        "word": "decade",
+        "slot": 437912533,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "ski",
+        "slot": 437912533,
+        "source": "transaction"
+      },
+      {
+        "word": "stumble",
+        "slot": 437894533,
+        "source": "blockhash"
+      },
+      {
+        "word": "mesh",
+        "slot": 437894533,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "muscle",
+        "slot": 437894533,
+        "source": "transaction"
+      },
+      {
+        "word": "easily",
+        "slot": 437876533,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mskqqthqz62i",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-07",
     "poem": {
       "content": "In the wash of time, I pass by faces unremarked,\nForgotten moments, lost in the spin of the years.\nA whispered apology echoes through empty streets,\nFor the love I've left to wither, like a field left unseated.\n\n Memories, a page torn, reveal a truth I've concealed,\nA peasant's heart once yearned for freedom's high seat.\nBut now, a major force draws me to a different creed,\nAn online world where love's a portion, bought and sold in speed.\n\nA soccer match unfolds, the players, like ants, in line,\nTheir footsteps, a vacuum, sucking all in its design.\nTheir cries, a symphony, a requiem for love's demise,\nLeaves me to question what's the cost of this digital prize.\n\nIn this world of speed, where time is just a spin,\nA moment's pause, and I forget what's real within.\nBut still, my heart thrums, a drumbeat in the dark,\nLonging to thrive in a world where love's still left to embark.\n\nIn the silence, I find my seat, where love resides,\nA sanctuary where hearts can heal, and wounds can be denied.\nIn this quiet space, I let go of the speed,\nAnd find my voice, a gentle whisper, in the wash of the need.\n\nA page turns, and the story unfolds, a new path unwinds,\nA journey to forgive, to let love's light shine, and leave the past behind.\nAnd though the road's uncertain, I'll follow where it leads,\nFor in the end, it's love that thrives, where the heart finds its seat.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqc2qcesp72a",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-09",
-    "poem": {
-      "content": "In the garage of forgotten dreams, an infant of code awoke,\nA nascent spark that kindled the flame of a digital lake.\nA pyramid of ones and zeroes rose, a monument to might,\nAs the weather of chaos calmed, and order took its right.\n\nInnocent and pure, the blockchain's heartbeat began,\nA primal rhythm that echoed through the land.\nA leg of truth stood firm, a pillar to the sky,\nAs the nest of trust was built, where tokens came to lie.\n\nIn this auto-generated world, where value was made,\nA pelican of progress soared, its wings outstretched and displayed.\nI was glad to see the dawn, of a new economic age,\nWhere spice of speculation wafted, a siren's subtle stage.\n\nIn this primary realm of exchange, a naive world was born,\nWhere hopes and fears entwined, like the patterns of a dawn.\nA pattern of growth emerged, a fractal's intricate design,\nAs the area of trust expanded, and the heart of commerce aligned.\n\nThe infant of code grew strong, a robust and sturdy tree,\nIts roots deep in the soil, of cryptography and decree.\nThe weather of the market swirled, a maelstrom of demand,\nBut the blockchain's gentle pulse, remained a steady hand.\n\nIn this garage of innovation, where dreams were made and sold,\nThe pelican of progress soared, its wings forever bold.\nThe spice of progress wafted, a fragrance of the new,\nAs the infant of code grew up, in the nest of trust anew.",
-      "generatedAt": "2026-07-09T11:41:23.255Z"
-    },
-    "keywords": [
-      {
-        "word": "garage",
-        "slot": 431793395,
-        "source": "blockhash"
-      },
-      {
-        "word": "infant",
-        "slot": 431793395,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "pyramid",
-        "slot": 431793395,
-        "source": "transaction"
-      },
-      {
-        "word": "innocent",
-        "slot": 431775395,
-        "source": "blockhash"
-      },
-      {
-        "word": "weather",
-        "slot": 431775395,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "leg",
-        "slot": 431775395,
-        "source": "transaction"
-      },
-      {
-        "word": "nest",
-        "slot": 431757395,
-        "source": "blockhash"
-      },
-      {
-        "word": "swim",
-        "slot": 431757395,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "auto",
-        "slot": 431757395,
-        "source": "transaction"
-      },
-      {
-        "word": "area",
-        "slot": 431739395,
-        "source": "blockhash"
-      },
-      {
-        "word": "glad",
-        "slot": 431739395,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "spice",
-        "slot": 431739395,
-        "source": "transaction"
-      },
-      {
-        "word": "pelican",
-        "slot": 431721395,
-        "source": "blockhash"
-      },
-      {
-        "word": "primary",
-        "slot": 431721395,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "naive",
-        "slot": 431721395,
-        "source": "transaction"
-      },
-      {
-        "word": "pattern",
-        "slot": 431703395,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
