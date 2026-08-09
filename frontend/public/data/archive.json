@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-09",
+    "poem": {
+      "content": "In the ozone-lit square, a junior mind takes flight\nRequiring answers to the mysteries of the night\nA guess is made, a leap of faith, a test of will\nAbout the unknown, where truth and lies entwine still\n\nA runway stretches, a path unwinding free\nA boss of dreams, a leader, or so it seems to me\nAn artwork of the soul, a masterpiece in the making\nA romance of risk, where hearts and fortunes are at stake\n\nIn the slot of uncertainty, we place our bets\nAnd pray that fortune smiles, and our hearts are met\nBut accusations fly, and doubts begin to creep\nA response is needed, before the damage is deep\n\nThe result is all we seek, the outcome we desire\nBut in the test of time, we often find we're on fire\nThe flames of doubt, the ashes of our pride\nA harsh reminder that we must step aside\n\nAnd donate our fears, our doubts, our shame\nTo the altar of courage, where heroes are made in the game\nFor in the end, it's not about the guess or the test\nBut about the courage to take the leap, and do our best.",
+      "generatedAt": "2026-08-09T09:25:08.469Z"
+    },
+    "keywords": [
+      {
+        "word": "junior",
+        "slot": 438171229,
+        "source": "blockhash"
+      },
+      {
+        "word": "require",
+        "slot": 438171229,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "guess",
+        "slot": 438171229,
+        "source": "transaction"
+      },
+      {
+        "word": "about",
+        "slot": 438153229,
+        "source": "blockhash"
+      },
+      {
+        "word": "runway",
+        "slot": 438153229,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "ozone",
+        "slot": 438153229,
+        "source": "transaction"
+      },
+      {
+        "word": "boss",
+        "slot": 438135229,
+        "source": "blockhash"
+      },
+      {
+        "word": "artwork",
+        "slot": 438135229,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "romance",
+        "slot": 438135229,
+        "source": "transaction"
+      },
+      {
+        "word": "square",
+        "slot": 438117229,
+        "source": "blockhash"
+      },
+      {
+        "word": "slot",
+        "slot": 438117229,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "accuse",
+        "slot": 438117229,
+        "source": "transaction"
+      },
+      {
+        "word": "response",
+        "slot": 438099229,
+        "source": "blockhash"
+      },
+      {
+        "word": "result",
+        "slot": 438099229,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "test",
+        "slot": 438099229,
+        "source": "transaction"
+      },
+      {
+        "word": "donate",
+        "slot": 438081229,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msnbc5gav22r",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-08",
     "poem": {
       "content": "In the realm of Solana's endless night,\nA shaft of code pierces the digital light,\nI choose the path where wisdom grows,\nWhere ancient secrets in the data flow,\nI chart my course, a navigator true,\nThrough oceans of bytes, where solutions await anew.\n\nLike digital mail, my message spreads,\nA whispered promise of innovation's threads,\nAs on my foot, the blockchain's weight is laid,\nI find my strength, in the cryptic code displayed,\nEach detail a thread, in the intricate mesh,\nA tapestry woven, from the threads of our wish.\n\nBut danger lurks, a threat in every crush,\nA stumble in the pace, where errors rush,\nTo my hip I cling, to the solid ground,\nAs through the darkness, my leg finds its sound,\nIn this decade of change, where tech reigns supreme,\nI find my footing, on Solana's digital beam.\n\nLike skiers down a slope, I swiftly glide,\nThrough mountains of data, where knowledge resides,\nMy muscle strengthens, as I learn and grow,\nEasily navigating the waves, where the future's glow,\n Illuminates the path, where innovation's born,\nIn the realm of Solana, where solutions are sworn.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqeg5qbxja25",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-10",
-    "poem": {
-      "content": "In the cradle of dawn, where shadows veil\nA new thought emerges, like an autumn gale\nThat whispers secrets, breathed in whispers cold\nAs petals of cherry blossoms unfold\nThe width of hope expands, a canvas wide\nWhere ethics weave their weighty, silken tide\nA cry echoes through the endless night\nA melancholy wail, a tired, hollow light\n\nIn a dance of atom fragments, free to roam\nI find my path, through fragments of my home\nThe bench where memories once gathered to console\nNow stands empty, like a space I've lost my soul\nYet still I rise, and with each step I take\nThe ground beneath me increases, for my heart's sake\nA leap of faith, a jump into the unknown\nWhere darkness flees, and stars begin to atone\n\nFor every wound, a germ takes hold and grows\nLeaving scars, and openings to let in the freeze\nA season's rust upon the armor I wear\nIt is autumn's harvest, a time to confront and spare\nMy heart, a heavy pearl within a delicate shell\nIn the whirlwind of my loves, or the nothing I can tell.",
-      "generatedAt": "2026-07-10T11:38:06.810Z"
-    },
-    "keywords": [
-      {
-        "word": "increase",
-        "slot": 432003775,
-        "source": "blockhash"
-      },
-      {
-        "word": "width",
-        "slot": 432003775,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "unveil",
-        "slot": 432003775,
-        "source": "transaction"
-      },
-      {
-        "word": "tired",
-        "slot": 431985775,
-        "source": "blockhash"
-      },
-      {
-        "word": "jump",
-        "slot": 431985775,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "thought",
-        "slot": 431985775,
-        "source": "transaction"
-      },
-      {
-        "word": "atom",
-        "slot": 431967775,
-        "source": "blockhash"
-      },
-      {
-        "word": "impact",
-        "slot": 431967775,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "cradle",
-        "slot": 431967775,
-        "source": "transaction"
-      },
-      {
-        "word": "bench",
-        "slot": 431949775,
-        "source": "blockhash"
-      },
-      {
-        "word": "nothing",
-        "slot": 431949775,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "autumn",
-        "slot": 431949775,
-        "source": "transaction"
-      },
-      {
-        "word": "cry",
-        "slot": 431931775,
-        "source": "blockhash"
-      },
-      {
-        "word": "ethics",
-        "slot": 431931775,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "cherry",
-        "slot": 431931775,
-        "source": "transaction"
-      },
-      {
-        "word": "broken",
-        "slot": 431913775,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqc2qcesp72a",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
