@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-10",
+    "poem": {
+      "content": "In the current of life, I dance and play,\nWhere power meets the soul, at the break of day.\nMy heart beats strong, it resemble the roar\nOf a kangaroo, who leaps, and asks for more.\n\nI'm awake to the world, with a voice so clear,\nA whispered truth, that only love can hear.\nFollow the thread of my heart, and you'll find\nThe hidden path, that winds and entwines in mind.\n\nMy skin is soft, like the petals of a rose,\nBut beneath the surface, a fierce spirit poses.\nI am the chief, of my own destiny's board,\nWhere decisions made, will shape the future's chord.\n\nIn the stillness, I settle into the night,\nWhere dinner is served, on the table of light.\nThe stars above, twinkle like diamonds bright,\nGuiding me on, through the dark of night.\n\nA wise voice whispers, from the depths of my soul,\nAn essay of life, where the truth makes me whole.\nTime is a river, that flows and never ends,\nAnd in its tide, I find the courage to transcend.\n\nBut for now, I'll follow the current's sway,\nAnd ride the waves, to the dawn of a new day.\nWhere power and love, will spike and bloom anew,\nAnd in the silence, my heart will sing to you.",
+      "generatedAt": "2026-08-10T10:05:15.316Z"
+    },
+    "keywords": [
+      {
+        "word": "current",
+        "slot": 438381168,
+        "source": "blockhash"
+      },
+      {
+        "word": "power",
+        "slot": 438381168,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "resemble",
+        "slot": 438381168,
+        "source": "transaction"
+      },
+      {
+        "word": "awake",
+        "slot": 438363168,
+        "source": "blockhash"
+      },
+      {
+        "word": "voice",
+        "slot": 438363168,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "kangaroo",
+        "slot": 438363168,
+        "source": "transaction"
+      },
+      {
+        "word": "follow",
+        "slot": 438345168,
+        "source": "blockhash"
+      },
+      {
+        "word": "skin",
+        "slot": 438345168,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "chief",
+        "slot": 438345168,
+        "source": "transaction"
+      },
+      {
+        "word": "board",
+        "slot": 438327168,
+        "source": "blockhash"
+      },
+      {
+        "word": "settle",
+        "slot": 438327168,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dinner",
+        "slot": 438327168,
+        "source": "transaction"
+      },
+      {
+        "word": "wise",
+        "slot": 438309168,
+        "source": "blockhash"
+      },
+      {
+        "word": "essay",
+        "slot": 438309168,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "time",
+        "slot": 438309168,
+        "source": "transaction"
+      },
+      {
+        "word": "spike",
+        "slot": 438291168,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-09",
     "poem": {
       "content": "In the ozone-lit square, a junior mind takes flight\nRequiring answers to the mysteries of the night\nA guess is made, a leap of faith, a test of will\nAbout the unknown, where truth and lies entwine still\n\nA runway stretches, a path unwinding free\nA boss of dreams, a leader, or so it seems to me\nAn artwork of the soul, a masterpiece in the making\nA romance of risk, where hearts and fortunes are at stake\n\nIn the slot of uncertainty, we place our bets\nAnd pray that fortune smiles, and our hearts are met\nBut accusations fly, and doubts begin to creep\nA response is needed, before the damage is deep\n\nThe result is all we seek, the outcome we desire\nBut in the test of time, we often find we're on fire\nThe flames of doubt, the ashes of our pride\nA harsh reminder that we must step aside\n\nAnd donate our fears, our doubts, our shame\nTo the altar of courage, where heroes are made in the game\nFor in the end, it's not about the guess or the test\nBut about the courage to take the leap, and do our best.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqgx5ff56e2f",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-11",
-    "poem": {
-      "content": "In the shop of visions, where light does inspire,\nA powder of wonder settles, like dust in the air.\nA marble sculpture takes shape, a masterpiece to aspire,\nBorn from the spark of imagination, with no equal to compare.\n\nA project unfolds, a tapestry rich and fine,\nWeaving threads of resource and purpose, a work divine.\nThat which was once obscure, now takes its place,\nA vision refined, where chaos fades to space.\n\nBut reform is a process, where mistakes are made,\nWhere regrets of yesteryear can like a shadow be displayed.\nA woman weaves her story, with every step and every fall,\nA rose blooms in the darkness, where humor heard, may stand tall.\n\nA flower unfurls, its petals soft as skin,\nUnfettered by the weights that bring us to spin.\nSpare a thought for those who struggle, with asthma's heavy sigh,\nMay our compassion be the balm, that brings their soul to fly.\n\nLike a lobster, we scuttle sideways, through life's turbulent sea,\nAdapting, evolving, with every wave, we ride, wild and free.\nYet, in the blur of moments, lost in time's perpetual flow,\nWe search for what remains, a glimpse of who we used to know.\n\nIn the shop of memories, where shadows softly play,\nA light within still glows, to guide us through the day.\nAnd though regret may linger, like the scent of a summer's day,\nWe rise, renewed, with every step, to face the dawn's new way.",
-      "generatedAt": "2026-07-11T10:07:49.324Z"
-    },
-    "keywords": [
-      {
-        "word": "inspire",
-        "slot": 432201301,
-        "source": "blockhash"
-      },
-      {
-        "word": "powder",
-        "slot": 432201301,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "marble",
-        "slot": 432201301,
-        "source": "transaction"
-      },
-      {
-        "word": "project",
-        "slot": 432183301,
-        "source": "blockhash"
-      },
-      {
-        "word": "resource",
-        "slot": 432183301,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "that",
-        "slot": 432183301,
-        "source": "transaction"
-      },
-      {
-        "word": "reform",
-        "slot": 432165301,
-        "source": "blockhash"
-      },
-      {
-        "word": "shop",
-        "slot": 432165301,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "humor",
-        "slot": 432165301,
-        "source": "transaction"
-      },
-      {
-        "word": "flower",
-        "slot": 432147301,
-        "source": "blockhash"
-      },
-      {
-        "word": "spare",
-        "slot": 432147301,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "asthma",
-        "slot": 432147301,
-        "source": "transaction"
-      },
-      {
-        "word": "lobster",
-        "slot": 432129301,
-        "source": "blockhash"
-      },
-      {
-        "word": "blur",
-        "slot": 432129301,
-        "source": "transaction"
-      },
-      {
-        "word": "regret",
-        "slot": 432111301,
-        "source": "blockhash"
-      },
-      {
-        "word": "woman",
-        "slot": 432111301,
-        "source": "previousBlockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqeg5qbxja25",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
