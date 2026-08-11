@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-11",
+    "poem": {
+      "content": "In twilight's hush, where sandstone dunes ascend\nA lone athlete treks, a wanderer of the wind\nStem-like, they rise, unshaken, to the test\nA spectral figure, where the desert's whispers nest\n\nBy ancient craters, tumbled stones reveal\nThe scars of time, a topography of zeal\nIn vanishing landscapes, whispers echo, lost\nA donkey's call, a haunting, mournful boast\n\nIn crumbling hollers, a kid roams free\nAn orphan's heart, where loneliness sets in me\nThe dice of fate, entwined in her despair\nCast shadows of regret, an echo beyond repair\n\nA rusty hill, like wandering fate's own phantom guide\nA maple leaf, infused with history's tide\nI find a girl, beneath the tide of sorrow's sock\nHer eyes, like pumice, fractured, worn to rock\n\nHer soul, a map of chance, forecasts wounds unseen\nYet, like a stem, sporadic growths unfold\nReminders of life's cycles, bursts of birth and morn\nThough shaken, tenacious, through guilt and disarray to be reborn\n\nIn liminal spaces, solitude is a ragged flag\nIn reckless whirlwinds, the freedom of casting the dice\nEchoes reverberate, an unlikely fate's lonely registry\nA ledger, pared in truths, embrowned by crumbling time's ancestry\nThe skyline in scarlet print, guiding where Persephone falls\nBut when losing steps apart, rehearse this hollow register...",
+      "generatedAt": "2026-08-11T09:45:05.891Z"
+    },
+    "keywords": [
+      {
+        "word": "stem",
+        "slot": 438583047,
+        "source": "blockhash"
+      },
+      {
+        "word": "dune",
+        "slot": 438583047,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "enroll",
+        "slot": 438583047,
+        "source": "transaction"
+      },
+      {
+        "word": "athlete",
+        "slot": 438565047,
+        "source": "blockhash"
+      },
+      {
+        "word": "van",
+        "slot": 438565047,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "orphan",
+        "slot": 438565047,
+        "source": "transaction"
+      },
+      {
+        "word": "dice",
+        "slot": 438547047,
+        "source": "blockhash"
+      },
+      {
+        "word": "maple",
+        "slot": 438547047,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "kid",
+        "slot": 438547047,
+        "source": "transaction"
+      },
+      {
+        "word": "donkey",
+        "slot": 438529047,
+        "source": "blockhash"
+      },
+      {
+        "word": "predict",
+        "slot": 438529047,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "crater",
+        "slot": 438529047,
+        "source": "transaction"
+      },
+      {
+        "word": "rebuild",
+        "slot": 438511047,
+        "source": "blockhash"
+      },
+      {
+        "word": "girl",
+        "slot": 438511047,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "guilt",
+        "slot": 438511047,
+        "source": "transaction"
+      },
+      {
+        "word": "sock",
+        "slot": 438493047,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mssddnwsgc2w",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-10",
     "poem": {
       "content": "In the current of life, I dance and play,\nWhere power meets the soul, at the break of day.\nMy heart beats strong, it resemble the roar\nOf a kangaroo, who leaps, and asks for more.\n\nI'm awake to the world, with a voice so clear,\nA whispered truth, that only love can hear.\nFollow the thread of my heart, and you'll find\nThe hidden path, that winds and entwines in mind.\n\nMy skin is soft, like the petals of a rose,\nBut beneath the surface, a fierce spirit poses.\nI am the chief, of my own destiny's board,\nWhere decisions made, will shape the future's chord.\n\nIn the stillness, I settle into the night,\nWhere dinner is served, on the table of light.\nThe stars above, twinkle like diamonds bright,\nGuiding me on, through the dark of night.\n\nA wise voice whispers, from the depths of my soul,\nAn essay of life, where the truth makes me whole.\nTime is a river, that flows and never ends,\nAnd in its tide, I find the courage to transcend.\n\nBut for now, I'll follow the current's sway,\nAnd ride the waves, to the dawn of a new day.\nWhere power and love, will spike and bloom anew,\nAnd in the silence, my heart will sing to you.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqjmlxcmha2h",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-12",
-    "poem": {
-      "content": "In the midnight hours, when shadows dance and play,\nA federal mystique weaves its silent sway,\nA better world, where mercy reigns supreme,\nA refuge from the chaos that would seek to beam.\n\nI sit upon a saddle, worn and old,\nA tag upon my jacket, a story yet untold,\nA voice within me whispers secrets, ancient and true,\nAs I drift on the current, like a kiwi fruit anew.\n\nMy nephew's laughter echoes, a joyous, carefree sound,\nAs we paddle through the calm, in a canoe, unbound,\nThe stars above, a celestial map, guiding us on our way,\nThrough the stillness of the night, where the world is hushed to pray.\n\nBut then, a whispered warning, a caution to behave,\nLest we disturb the peace, and disrupt the wave,\nThe hospital of the soul, where the wounded hearts reside,\nBeckons to me, a place of solace, where love and healing abide.\n\nI prefer the calm, the quiet, the peaceful night,\nWhere the world's loud din and noise, are silenced, and all is right,\nBut the voice within me whispers, of a different path to take,\nOne that winds through the darkness, where the true self must awake.\n\nThe boat of solitude, sets sail, into the unknown,\nAs I embark on this journey, where the heart must be made known,\nIn the federal vastness, of the soul's deep sea,\nI'll find the better self, that's been longing to be free.",
-      "generatedAt": "2026-07-12T10:17:11.146Z"
-    },
-    "keywords": [
-      {
-        "word": "better",
-        "slot": 432413507,
-        "source": "blockhash"
-      },
-      {
-        "word": "federal",
-        "slot": 432413507,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "voice",
-        "slot": 432413507,
-        "source": "transaction"
-      },
-      {
-        "word": "saddle",
-        "slot": 432395507,
-        "source": "blockhash"
-      },
-      {
-        "word": "mercy",
-        "slot": 432395507,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "boat",
-        "slot": 432395507,
-        "source": "transaction"
-      },
-      {
-        "word": "prefer",
-        "slot": 432377507,
-        "source": "blockhash"
-      },
-      {
-        "word": "nephew",
-        "slot": 432377507,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "midnight",
-        "slot": 432377507,
-        "source": "transaction"
-      },
-      {
-        "word": "father",
-        "slot": 432359507,
-        "source": "blockhash"
-      },
-      {
-        "word": "tag",
-        "slot": 432359507,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "behave",
-        "slot": 432359507,
-        "source": "transaction"
-      },
-      {
-        "word": "kiwi",
-        "slot": 432341507,
-        "source": "blockhash"
-      },
-      {
-        "word": "evoke",
-        "slot": 432341507,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "canoe",
-        "slot": 432341507,
-        "source": "transaction"
-      },
-      {
-        "word": "hospital",
-        "slot": 432323507,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqgx5ff56e2f",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

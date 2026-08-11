@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "poem": {
-    "content": "In the current of life, I dance and play,\nWhere power meets the soul, at the break of day.\nMy heart beats strong, it resemble the roar\nOf a kangaroo, who leaps, and asks for more.\n\nI'm awake to the world, with a voice so clear,\nA whispered truth, that only love can hear.\nFollow the thread of my heart, and you'll find\nThe hidden path, that winds and entwines in mind.\n\nMy skin is soft, like the petals of a rose,\nBut beneath the surface, a fierce spirit poses.\nI am the chief, of my own destiny's board,\nWhere decisions made, will shape the future's chord.\n\nIn the stillness, I settle into the night,\nWhere dinner is served, on the table of light.\nThe stars above, twinkle like diamonds bright,\nGuiding me on, through the dark of night.\n\nA wise voice whispers, from the depths of my soul,\nAn essay of life, where the truth makes me whole.\nTime is a river, that flows and never ends,\nAnd in its tide, I find the courage to transcend.\n\nBut for now, I'll follow the current's sway,\nAnd ride the waves, to the dawn of a new day.\nWhere power and love, will spike and bloom anew,\nAnd in the silence, my heart will sing to you.",
-    "generatedAt": "2026-08-10T10:05:15.316Z"
+    "content": "In twilight's hush, where sandstone dunes ascend\nA lone athlete treks, a wanderer of the wind\nStem-like, they rise, unshaken, to the test\nA spectral figure, where the desert's whispers nest\n\nBy ancient craters, tumbled stones reveal\nThe scars of time, a topography of zeal\nIn vanishing landscapes, whispers echo, lost\nA donkey's call, a haunting, mournful boast\n\nIn crumbling hollers, a kid roams free\nAn orphan's heart, where loneliness sets in me\nThe dice of fate, entwined in her despair\nCast shadows of regret, an echo beyond repair\n\nA rusty hill, like wandering fate's own phantom guide\nA maple leaf, infused with history's tide\nI find a girl, beneath the tide of sorrow's sock\nHer eyes, like pumice, fractured, worn to rock\n\nHer soul, a map of chance, forecasts wounds unseen\nYet, like a stem, sporadic growths unfold\nReminders of life's cycles, bursts of birth and morn\nThough shaken, tenacious, through guilt and disarray to be reborn\n\nIn liminal spaces, solitude is a ragged flag\nIn reckless whirlwinds, the freedom of casting the dice\nEchoes reverberate, an unlikely fate's lonely registry\nA ledger, pared in truths, embrowned by crumbling time's ancestry\nThe skyline in scarlet print, guiding where Persephone falls\nBut when losing steps apart, rehearse this hollow register...",
+    "generatedAt": "2026-08-11T09:45:05.891Z"
   },
   "keywords": [
     {
-      "word": "current",
-      "slot": 438381168,
+      "word": "stem",
+      "slot": 438583047,
       "source": "blockhash"
     },
     {
-      "word": "power",
-      "slot": 438381168,
+      "word": "dune",
+      "slot": 438583047,
       "source": "previousBlockhash"
     },
     {
-      "word": "resemble",
-      "slot": 438381168,
+      "word": "enroll",
+      "slot": 438583047,
       "source": "transaction"
     },
     {
-      "word": "awake",
-      "slot": 438363168,
+      "word": "athlete",
+      "slot": 438565047,
       "source": "blockhash"
     },
     {
-      "word": "voice",
-      "slot": 438363168,
+      "word": "van",
+      "slot": 438565047,
       "source": "previousBlockhash"
     },
     {
-      "word": "kangaroo",
-      "slot": 438363168,
+      "word": "orphan",
+      "slot": 438565047,
       "source": "transaction"
     },
     {
-      "word": "follow",
-      "slot": 438345168,
+      "word": "dice",
+      "slot": 438547047,
       "source": "blockhash"
     },
     {
-      "word": "skin",
-      "slot": 438345168,
+      "word": "maple",
+      "slot": 438547047,
       "source": "previousBlockhash"
     },
     {
-      "word": "chief",
-      "slot": 438345168,
+      "word": "kid",
+      "slot": 438547047,
       "source": "transaction"
     },
     {
-      "word": "board",
-      "slot": 438327168,
+      "word": "donkey",
+      "slot": 438529047,
       "source": "blockhash"
     },
     {
-      "word": "settle",
-      "slot": 438327168,
+      "word": "predict",
+      "slot": 438529047,
       "source": "previousBlockhash"
     },
     {
-      "word": "dinner",
-      "slot": 438327168,
+      "word": "crater",
+      "slot": 438529047,
       "source": "transaction"
     },
     {
-      "word": "wise",
-      "slot": 438309168,
+      "word": "rebuild",
+      "slot": 438511047,
       "source": "blockhash"
     },
     {
-      "word": "essay",
-      "slot": 438309168,
+      "word": "girl",
+      "slot": 438511047,
       "source": "previousBlockhash"
     },
     {
-      "word": "time",
-      "slot": 438309168,
+      "word": "guilt",
+      "slot": 438511047,
       "source": "transaction"
     },
     {
-      "word": "spike",
-      "slot": 438291168,
+      "word": "sock",
+      "slot": 438493047,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mssddnwsgc2w",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
