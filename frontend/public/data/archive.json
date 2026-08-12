@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-12",
+    "poem": {
+      "content": "In twilight's hush, where shadows dance and play,\nA woman stands, her eyes locked on the bay,\nWhere Sol's rays cast a golden glow,\n Illuminating all, in a faint, yet vibrant show.\n\nHer cloth, a tapestry of intricate design,\nSustains her with memories of love and vine,\nBut danger lurks, a lurking thief in night,\nThreatening to sever, her fragile light.\n\nShe reaches out, a limb outstretched in plea,\nAs if to drag her back, from an unseen sea,\nWhat once was safe, now lost, a distant past,\nLeaves her to drift, with the uncertain cast.\n\nA saviour appears, with a gentle hand to guide,\nTo sponsor her, through the turbulent, dark inside,\nWith a soft, yet firm, touch, she's okay,\nAs fears subside, and dawn breaks, in a new way.\n\nTogether they cross, the threshold of despair,\nWhere darkness melts, like wax, in a fiery lair,\nHer spirit freed, from the weight of what's kept,\nAs she discovers, a resilience, that her soul had sketched.\n\nLife, a coin, she once refused to flip,\nNow each side revealed, a chance to make things rip,\nThe glue of fear, that bound her, starts to peel,\nAs she dances, to a new rhythm, wild and unsealed.\n\nHer style, a canvas, painted with hues so bright,\nReveals the woman, she's always wanted to be in sight,\nNo longer trapped, behind the mask she once wore,\nA phoenix born, from the ashes of her past, she soars.",
+      "generatedAt": "2026-08-12T09:50:02.371Z"
+    },
+    "keywords": [
+      {
+        "word": "can",
+        "slot": 438789118,
+        "source": "blockhash"
+      },
+      {
+        "word": "sponsor",
+        "slot": 438789118,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cross",
+        "slot": 438789118,
+        "source": "transaction"
+      },
+      {
+        "word": "cloth",
+        "slot": 438771118,
+        "source": "blockhash"
+      },
+      {
+        "word": "life",
+        "slot": 438771118,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "okay",
+        "slot": 438771118,
+        "source": "transaction"
+      },
+      {
+        "word": "drift",
+        "slot": 438753118,
+        "source": "blockhash"
+      },
+      {
+        "word": "during",
+        "slot": 438753118,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "behind",
+        "slot": 438753118,
+        "source": "transaction"
+      },
+      {
+        "word": "rescue",
+        "slot": 438735118,
+        "source": "blockhash"
+      },
+      {
+        "word": "style",
+        "slot": 438735118,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "rule",
+        "slot": 438735118,
+        "source": "transaction"
+      },
+      {
+        "word": "limb",
+        "slot": 438717118,
+        "source": "blockhash"
+      },
+      {
+        "word": "woman",
+        "slot": 438717118,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "glue",
+        "slot": 438717118,
+        "source": "transaction"
+      },
+      {
+        "word": "sustain",
+        "slot": 438699118,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msuu3fdw3y2u",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-11",
     "poem": {
       "content": "In twilight's hush, where sandstone dunes ascend\nA lone athlete treks, a wanderer of the wind\nStem-like, they rise, unshaken, to the test\nA spectral figure, where the desert's whispers nest\n\nBy ancient craters, tumbled stones reveal\nThe scars of time, a topography of zeal\nIn vanishing landscapes, whispers echo, lost\nA donkey's call, a haunting, mournful boast\n\nIn crumbling hollers, a kid roams free\nAn orphan's heart, where loneliness sets in me\nThe dice of fate, entwined in her despair\nCast shadows of regret, an echo beyond repair\n\nA rusty hill, like wandering fate's own phantom guide\nA maple leaf, infused with history's tide\nI find a girl, beneath the tide of sorrow's sock\nHer eyes, like pumice, fractured, worn to rock\n\nHer soul, a map of chance, forecasts wounds unseen\nYet, like a stem, sporadic growths unfold\nReminders of life's cycles, bursts of birth and morn\nThough shaken, tenacious, through guilt and disarray to be reborn\n\nIn liminal spaces, solitude is a ragged flag\nIn reckless whirlwinds, the freedom of casting the dice\nEchoes reverberate, an unlikely fate's lonely registry\nA ledger, pared in truths, embrowned by crumbling time's ancestry\nThe skyline in scarlet print, guiding where Persephone falls\nBut when losing steps apart, rehearse this hollow register...",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqlymuwctv2o",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-13",
-    "poem": {
-      "content": "In the school of life, we learn to thrive,\nWhere every step is a trial to survive,\nWe hone our skills, like a hen on its nest,\nGuarding its eggs, fiercely, we do our best.\n\nBut life's a monster, with claws so sharp,\nIt strikes without warning, leaving scars in the dark,\nWe must be immune to its cruel might,\nAnd rise above, like a veteran in the fight.\n\nA burger of hope, we savor each bite,\nNourishing our souls, to face the night,\nOne moment's pause, and we're on our way,\nWith a dynamic attitude, we seize the day.\n\nBut notice, in the distance, a tragic sight,\nA victim of circumstance, lost in the fight,\nWe sponsor their cause, and lend a hand,\nTo help them rise, from the ashes of the land.\n\nIn a seminar of life, we gather and share,\nOur stories of strife, and the lessons we bear,\nSalt of the earth, we are, with hearts so true,\nWe learn to cherish, the beauty in me and you.\n\nAnd when the spike of despair, threatens to pierce,\nWe stand strong, like a fortress, no longer dispirited,\nFor we've learned to adapt, to bend and to sway,\nTo find the strength, in a brighter, more radiant day.\n\nIn this school of life, we graduate with pride,\nVeterans of the struggle, we've learned to abide,\nAnd though the journey's tough, and the road's unsure,\nWe rise above, with a spirit, forever pure.",
-      "generatedAt": "2026-07-13T11:46:27.081Z"
-    },
-    "keywords": [
-      {
-        "word": "school",
-        "slot": 432637105,
-        "source": "blockhash"
-      },
-      {
-        "word": "immune",
-        "slot": 432637105,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "burger",
-        "slot": 432637105,
-        "source": "transaction"
-      },
-      {
-        "word": "monster",
-        "slot": 432619105,
-        "source": "blockhash"
-      },
-      {
-        "word": "hen",
-        "slot": 432619105,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "one",
-        "slot": 432619105,
-        "source": "transaction"
-      },
-      {
-        "word": "attitude",
-        "slot": 432601105,
-        "source": "blockhash"
-      },
-      {
-        "word": "strike",
-        "slot": 432601105,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "sponsor",
-        "slot": 432601105,
-        "source": "transaction"
-      },
-      {
-        "word": "veteran",
-        "slot": 432583105,
-        "source": "blockhash"
-      },
-      {
-        "word": "tragic",
-        "slot": 432583105,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "dynamic",
-        "slot": 432583105,
-        "source": "transaction"
-      },
-      {
-        "word": "salt",
-        "slot": 432565105,
-        "source": "blockhash"
-      },
-      {
-        "word": "seminar",
-        "slot": 432565105,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "spike",
-        "slot": 432565105,
-        "source": "transaction"
-      },
-      {
-        "word": "notice",
-        "slot": 432547105,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqjmlxcmha2h",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

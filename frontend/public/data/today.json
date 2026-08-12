@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "poem": {
-    "content": "In twilight's hush, where sandstone dunes ascend\nA lone athlete treks, a wanderer of the wind\nStem-like, they rise, unshaken, to the test\nA spectral figure, where the desert's whispers nest\n\nBy ancient craters, tumbled stones reveal\nThe scars of time, a topography of zeal\nIn vanishing landscapes, whispers echo, lost\nA donkey's call, a haunting, mournful boast\n\nIn crumbling hollers, a kid roams free\nAn orphan's heart, where loneliness sets in me\nThe dice of fate, entwined in her despair\nCast shadows of regret, an echo beyond repair\n\nA rusty hill, like wandering fate's own phantom guide\nA maple leaf, infused with history's tide\nI find a girl, beneath the tide of sorrow's sock\nHer eyes, like pumice, fractured, worn to rock\n\nHer soul, a map of chance, forecasts wounds unseen\nYet, like a stem, sporadic growths unfold\nReminders of life's cycles, bursts of birth and morn\nThough shaken, tenacious, through guilt and disarray to be reborn\n\nIn liminal spaces, solitude is a ragged flag\nIn reckless whirlwinds, the freedom of casting the dice\nEchoes reverberate, an unlikely fate's lonely registry\nA ledger, pared in truths, embrowned by crumbling time's ancestry\nThe skyline in scarlet print, guiding where Persephone falls\nBut when losing steps apart, rehearse this hollow register...",
-    "generatedAt": "2026-08-11T09:45:05.891Z"
+    "content": "In twilight's hush, where shadows dance and play,\nA woman stands, her eyes locked on the bay,\nWhere Sol's rays cast a golden glow,\n Illuminating all, in a faint, yet vibrant show.\n\nHer cloth, a tapestry of intricate design,\nSustains her with memories of love and vine,\nBut danger lurks, a lurking thief in night,\nThreatening to sever, her fragile light.\n\nShe reaches out, a limb outstretched in plea,\nAs if to drag her back, from an unseen sea,\nWhat once was safe, now lost, a distant past,\nLeaves her to drift, with the uncertain cast.\n\nA saviour appears, with a gentle hand to guide,\nTo sponsor her, through the turbulent, dark inside,\nWith a soft, yet firm, touch, she's okay,\nAs fears subside, and dawn breaks, in a new way.\n\nTogether they cross, the threshold of despair,\nWhere darkness melts, like wax, in a fiery lair,\nHer spirit freed, from the weight of what's kept,\nAs she discovers, a resilience, that her soul had sketched.\n\nLife, a coin, she once refused to flip,\nNow each side revealed, a chance to make things rip,\nThe glue of fear, that bound her, starts to peel,\nAs she dances, to a new rhythm, wild and unsealed.\n\nHer style, a canvas, painted with hues so bright,\nReveals the woman, she's always wanted to be in sight,\nNo longer trapped, behind the mask she once wore,\nA phoenix born, from the ashes of her past, she soars.",
+    "generatedAt": "2026-08-12T09:50:02.371Z"
   },
   "keywords": [
     {
-      "word": "stem",
-      "slot": 438583047,
+      "word": "can",
+      "slot": 438789118,
       "source": "blockhash"
     },
     {
-      "word": "dune",
-      "slot": 438583047,
+      "word": "sponsor",
+      "slot": 438789118,
       "source": "previousBlockhash"
     },
     {
-      "word": "enroll",
-      "slot": 438583047,
+      "word": "cross",
+      "slot": 438789118,
       "source": "transaction"
     },
     {
-      "word": "athlete",
-      "slot": 438565047,
+      "word": "cloth",
+      "slot": 438771118,
       "source": "blockhash"
     },
     {
-      "word": "van",
-      "slot": 438565047,
+      "word": "life",
+      "slot": 438771118,
       "source": "previousBlockhash"
     },
     {
-      "word": "orphan",
-      "slot": 438565047,
+      "word": "okay",
+      "slot": 438771118,
       "source": "transaction"
     },
     {
-      "word": "dice",
-      "slot": 438547047,
+      "word": "drift",
+      "slot": 438753118,
       "source": "blockhash"
     },
     {
-      "word": "maple",
-      "slot": 438547047,
+      "word": "during",
+      "slot": 438753118,
       "source": "previousBlockhash"
     },
     {
-      "word": "kid",
-      "slot": 438547047,
+      "word": "behind",
+      "slot": 438753118,
       "source": "transaction"
     },
     {
-      "word": "donkey",
-      "slot": 438529047,
+      "word": "rescue",
+      "slot": 438735118,
       "source": "blockhash"
     },
     {
-      "word": "predict",
-      "slot": 438529047,
+      "word": "style",
+      "slot": 438735118,
       "source": "previousBlockhash"
     },
     {
-      "word": "crater",
-      "slot": 438529047,
+      "word": "rule",
+      "slot": 438735118,
       "source": "transaction"
     },
     {
-      "word": "rebuild",
-      "slot": 438511047,
+      "word": "limb",
+      "slot": 438717118,
       "source": "blockhash"
     },
     {
-      "word": "girl",
-      "slot": 438511047,
+      "word": "woman",
+      "slot": 438717118,
       "source": "previousBlockhash"
     },
     {
-      "word": "guilt",
-      "slot": 438511047,
+      "word": "glue",
+      "slot": 438717118,
       "source": "transaction"
     },
     {
-      "word": "sock",
-      "slot": 438493047,
+      "word": "sustain",
+      "slot": 438699118,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mssddnwsgc2w",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msuu3fdw3y2u",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
