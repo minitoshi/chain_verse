@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-13",
+    "poem": {
+      "content": "In the city's heart, where alpha waves converse,\nA strategy unfolds, a delicate, cruel dance.\nA staff in hand, a leader guides the course,\nThrough markets ebb and flow, where fortunes spike and trance.\n\nA hat is cast, a purchase made with fate's design,\nA calculated risk, with outcomes hard to define.\nBut some may see it as a fatal mistake, a fall,\nA choice that echoes through the universe's cold hall.\n\nLike jelly on a plate, smooth and delicate as can be,\nThe city's dreams appear, but often hard to see.\nA whip cracks strong, a cry of woke, as value shifts and sways,\nLeaving some to ponder, on the opportunities that stray.\n\nBut still we seek to sustain, a balance to maintain,\nA delicate art, where risk and gain entwine like a stain.\nFor in the darkness lies the seed of something new,\nAnd in the light, a talent that can see it shine through.\n\nA repair is needed, to mend the frayed and worn,\nTo weave the fabric of the market, where fortunes are born.\nAnd thus we seek to guide our choices, with a steady, guiding hand,\nTo navigate the city's maze, where value is currency to command.",
+      "generatedAt": "2026-08-13T09:50:51.003Z"
+    },
+    "keywords": [
+      {
+        "word": "sustain",
+        "slot": 438995456,
+        "source": "blockhash"
+      },
+      {
+        "word": "strategy",
+        "slot": 438995456,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cruel",
+        "slot": 438995456,
+        "source": "transaction"
+      },
+      {
+        "word": "hat",
+        "slot": 438977456,
+        "source": "blockhash"
+      },
+      {
+        "word": "spike",
+        "slot": 438977456,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "staff",
+        "slot": 438977456,
+        "source": "transaction"
+      },
+      {
+        "word": "purchase",
+        "slot": 438959456,
+        "source": "blockhash"
+      },
+      {
+        "word": "fatal",
+        "slot": 438959456,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "universe",
+        "slot": 438959456,
+        "source": "transaction"
+      },
+      {
+        "word": "jelly",
+        "slot": 438941456,
+        "source": "blockhash"
+      },
+      {
+        "word": "alpha",
+        "slot": 438941456,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "whip",
+        "slot": 438941456,
+        "source": "transaction"
+      },
+      {
+        "word": "repair",
+        "slot": 438923456,
+        "source": "blockhash"
+      },
+      {
+        "word": "talent",
+        "slot": 438923456,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "city",
+        "slot": 438923456,
+        "source": "transaction"
+      },
+      {
+        "word": "cake",
+        "slot": 438905456,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msxelrtm4b2j",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-12",
     "poem": {
       "content": "In twilight's hush, where shadows dance and play,\nA woman stands, her eyes locked on the bay,\nWhere Sol's rays cast a golden glow,\n Illuminating all, in a faint, yet vibrant show.\n\nHer cloth, a tapestry of intricate design,\nSustains her with memories of love and vine,\nBut danger lurks, a lurking thief in night,\nThreatening to sever, her fragile light.\n\nShe reaches out, a limb outstretched in plea,\nAs if to drag her back, from an unseen sea,\nWhat once was safe, now lost, a distant past,\nLeaves her to drift, with the uncertain cast.\n\nA saviour appears, with a gentle hand to guide,\nTo sponsor her, through the turbulent, dark inside,\nWith a soft, yet firm, touch, she's okay,\nAs fears subside, and dawn breaks, in a new way.\n\nTogether they cross, the threshold of despair,\nWhere darkness melts, like wax, in a fiery lair,\nHer spirit freed, from the weight of what's kept,\nAs she discovers, a resilience, that her soul had sketched.\n\nLife, a coin, she once refused to flip,\nNow each side revealed, a chance to make things rip,\nThe glue of fear, that bound her, starts to peel,\nAs she dances, to a new rhythm, wild and unsealed.\n\nHer style, a canvas, painted with hues so bright,\nReveals the woman, she's always wanted to be in sight,\nNo longer trapped, behind the mask she once wore,\nA phoenix born, from the ashes of her past, she soars.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqojdmytvn2v",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-14",
-    "poem": {
-      "content": "In the vast, open space of code and dream,\nA lone bird takes flight, its wings unseen,\nIt soars on thermals of innovation's fire,\nLeaving behind the stable, secure desire.\n\nWith loyal heart, it ventures, undeterred,\nThrough fields of data, where margin's fear is spread,\nIt forges on, a pioneer, against the tide,\nDrinking from the well of knowledge, side by side.\n\nIts armor, facts and figures, polished and bright,\nReflects the light of wisdom, shining like the night,\nIt scans the horizon, where the edge of doubt resides,\nWhere the wide expanse of uncertainty abides.\n\nThe bird alights on a bread of lost and found,\nWhere the crumbs of reason scatter, like the ground,\nIt pauses, balances, on this, the middle ground,\nA fleeting moment, where the sum of parts is found.\n\nIt queries the aspect of being human still,\nThe clash of reason and emotion, in endless will,\nThrough the bread of life, it seeks the kernel true,\nA connection to the love and laughter, pure and new.\n\nA try, a trial, a test of all that's known,\nIn the vast lab of human experience, the bird's journey's shown,\nThrough battles, fears, and doubts, it will remain,\nLoyal to the dream, the voice, that still sustains.",
-      "generatedAt": "2026-07-14T10:27:03.003Z"
-    },
-    "keywords": [
-      {
-        "word": "salad",
-        "slot": 432835669,
-        "source": "blockhash"
-      },
-      {
-        "word": "one",
-        "slot": 432835669,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "try",
-        "slot": 432835669,
-        "source": "transaction"
-      },
-      {
-        "word": "bird",
-        "slot": 432817669,
-        "source": "blockhash"
-      },
-      {
-        "word": "armor",
-        "slot": 432817669,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "wide",
-        "slot": 432817669,
-        "source": "transaction"
-      },
-      {
-        "word": "space",
-        "slot": 432799669,
-        "source": "blockhash"
-      },
-      {
-        "word": "margin",
-        "slot": 432799669,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "bread",
-        "slot": 432799669,
-        "source": "transaction"
-      },
-      {
-        "word": "will",
-        "slot": 432781669,
-        "source": "blockhash"
-      },
-      {
-        "word": "pause",
-        "slot": 432781669,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "loyal",
-        "slot": 432781669,
-        "source": "transaction"
-      },
-      {
-        "word": "middle",
-        "slot": 432763669,
-        "source": "blockhash"
-      },
-      {
-        "word": "fence",
-        "slot": 432763669,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "aspect",
-        "slot": 432763669,
-        "source": "transaction"
-      },
-      {
-        "word": "session",
-        "slot": 432745669,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqlymuwctv2o",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
