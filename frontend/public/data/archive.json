@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-14",
+    "poem": {
+      "content": "In streets where weird and wondrous things unfold,\nA single step can change the course of gold.\nThe people pass, each with a story to tell,\nA word, a glance, a moment, and the narrative's spell.\n\nTheir footsteps echo, a symphony so fine,\nA rhythm that remains, a haunting, sweet design.\nIn this world of options, where choices abound,\nA human heart beats strong, with a will unbound.\n\nBut scissors of fate cut through the air,\nSeparating lives, with a fatal, cruel snare.\nA buyer's caution, a seller's anxious sigh,\nA moment's pause, and the deal may cancel by.\n\nAnnual rituals, a cycle so divine,\nA squirrel's hoard, a treasure to design.\nYet, in the silence, a voice whispers low,\n\"Uphold the truth, let justice grow.\"\n\nIn this delicate balance, a choice remains,\nTo stand or falter, to remain or to wane.\nThe account of our deeds, a ledger so fair,\nA record of kindness, or a tale of despair.\n\nA fatal flaw, a weakness to reveal,\nA human heart, with a love that can conceal.\nThe street of life, a journey so unsure,\nYet, with each step, a new path to endure.\n\nA word of hope, a voice that remains,\nA beacon in darkness, a guiding light that sustains.\nIn this world of uncertainty, we search for a way,\nTo uphold the light, to seize the day.",
+      "generatedAt": "2026-08-14T09:47:23.044Z"
+    },
+    "keywords": [
+      {
+        "word": "step",
+        "slot": 439202537,
+        "source": "blockhash"
+      },
+      {
+        "word": "weird",
+        "slot": 439202537,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "people",
+        "slot": 439202537,
+        "source": "transaction"
+      },
+      {
+        "word": "word",
+        "slot": 439184537,
+        "source": "blockhash"
+      },
+      {
+        "word": "street",
+        "slot": 439184537,
+        "source": "transaction"
+      },
+      {
+        "word": "remain",
+        "slot": 439166537,
+        "source": "blockhash"
+      },
+      {
+        "word": "option",
+        "slot": 439166537,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "human",
+        "slot": 439166537,
+        "source": "transaction"
+      },
+      {
+        "word": "scissors",
+        "slot": 439148537,
+        "source": "blockhash"
+      },
+      {
+        "word": "buyer",
+        "slot": 439148537,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cancel",
+        "slot": 439148537,
+        "source": "transaction"
+      },
+      {
+        "word": "fatal",
+        "slot": 439130537,
+        "source": "blockhash"
+      },
+      {
+        "word": "annual",
+        "slot": 439130537,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "squirrel",
+        "slot": 439130537,
+        "source": "transaction"
+      },
+      {
+        "word": "account",
+        "slot": 439112537,
+        "source": "blockhash"
+      },
+      {
+        "word": "uphold",
+        "slot": 439112537,
+        "source": "previousBlockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mszuuivkxf2d",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-13",
     "poem": {
       "content": "In the city's heart, where alpha waves converse,\nA strategy unfolds, a delicate, cruel dance.\nA staff in hand, a leader guides the course,\nThrough markets ebb and flow, where fortunes spike and trance.\n\nA hat is cast, a purchase made with fate's design,\nA calculated risk, with outcomes hard to define.\nBut some may see it as a fatal mistake, a fall,\nA choice that echoes through the universe's cold hall.\n\nLike jelly on a plate, smooth and delicate as can be,\nThe city's dreams appear, but often hard to see.\nA whip cracks strong, a cry of woke, as value shifts and sways,\nLeaving some to ponder, on the opportunities that stray.\n\nBut still we seek to sustain, a balance to maintain,\nA delicate art, where risk and gain entwine like a stain.\nFor in the darkness lies the seed of something new,\nAnd in the light, a talent that can see it shine through.\n\nA repair is needed, to mend the frayed and worn,\nTo weave the fabric of the market, where fortunes are born.\nAnd thus we seek to guide our choices, with a steady, guiding hand,\nTo navigate the city's maze, where value is currency to command.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqr2nloeki2u",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-15",
-    "poem": {
-      "content": "In the industry of the mind, a goddess reigns\nWhere thoughts are conducted like a delicate dance of chains\nShe's the issue that we cannot define\nA sudden, funny thing that makes the heart entwine\n\nWith every guess, she whispers secrets in my ear\nOf an ancient wisdom that only the insane can hear\nBut there's a base that's sound, a foundation we can claim\nWhere reason meets the rational, and the heart's not to blame\n\nBut then she appears, like a deer in the night\nA gentle, liquid presence that makes everything right\nShe's the issue, the problem, the solution, the key\nA goddess of contradictions, wild and carefree\n\nIn her industry, we're but mere dice, rolled with each play\nOur conduct, a mere imitation, of the art she's made\nWe try to guess her secrets, but they're hidden, like a pearl\nAnd we're left with nothing, but a broccoli-shaped whirl\n\nBut still we seek her out, this goddess, this mystery\nFor in her presence, we find enough, a love that's the key\nTo unlock the doors of perception, and see the truth reveal\nA world of wonder, a world of peace, a world to heal\n\nAnd so we'll conduct ourselves, with a heart that's true\nImitating the goddess, as we try to break through\nThe issue of our doubts, the industry of our fears\nTo find the liquid love, that wipes away our tears\n\nIn this ancient game, we play and we guess\nTrying to imitate, the conduct of the goddess\nBut she remains, a mystery, a joke, a joke so funny\nA sudden, liquid presence, that's the only thing that's enough.",
-      "generatedAt": "2026-07-15T10:31:25.983Z"
-    },
-    "keywords": [
-      {
-        "word": "insane",
-        "slot": 433045957,
-        "source": "blockhash"
-      },
-      {
-        "word": "enough",
-        "slot": 433045957,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "issue",
-        "slot": 433045957,
-        "source": "transaction"
-      },
-      {
-        "word": "goddess",
-        "slot": 433027957,
-        "source": "blockhash"
-      },
-      {
-        "word": "conduct",
-        "slot": 433027957,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "industry",
-        "slot": 433027957,
-        "source": "transaction"
-      },
-      {
-        "word": "imitate",
-        "slot": 433009957,
-        "source": "blockhash"
-      },
-      {
-        "word": "sudden",
-        "slot": 433009957,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "funny",
-        "slot": 433009957,
-        "source": "transaction"
-      },
-      {
-        "word": "ancient",
-        "slot": 432991957,
-        "source": "blockhash"
-      },
-      {
-        "word": "guess",
-        "slot": 432991957,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "broccoli",
-        "slot": 432991957,
-        "source": "transaction"
-      },
-      {
-        "word": "base",
-        "slot": 432973957,
-        "source": "blockhash"
-      },
-      {
-        "word": "deer",
-        "slot": 432973957,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "liquid",
-        "slot": 432973957,
-        "source": "transaction"
-      },
-      {
-        "word": "dice",
-        "slot": 432955957,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqojdmytvn2v",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
