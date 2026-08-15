@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "poem": {
-    "content": "In streets where weird and wondrous things unfold,\nA single step can change the course of gold.\nThe people pass, each with a story to tell,\nA word, a glance, a moment, and the narrative's spell.\n\nTheir footsteps echo, a symphony so fine,\nA rhythm that remains, a haunting, sweet design.\nIn this world of options, where choices abound,\nA human heart beats strong, with a will unbound.\n\nBut scissors of fate cut through the air,\nSeparating lives, with a fatal, cruel snare.\nA buyer's caution, a seller's anxious sigh,\nA moment's pause, and the deal may cancel by.\n\nAnnual rituals, a cycle so divine,\nA squirrel's hoard, a treasure to design.\nYet, in the silence, a voice whispers low,\n\"Uphold the truth, let justice grow.\"\n\nIn this delicate balance, a choice remains,\nTo stand or falter, to remain or to wane.\nThe account of our deeds, a ledger so fair,\nA record of kindness, or a tale of despair.\n\nA fatal flaw, a weakness to reveal,\nA human heart, with a love that can conceal.\nThe street of life, a journey so unsure,\nYet, with each step, a new path to endure.\n\nA word of hope, a voice that remains,\nA beacon in darkness, a guiding light that sustains.\nIn this world of uncertainty, we search for a way,\nTo uphold the light, to seize the day.",
-    "generatedAt": "2026-08-14T09:47:23.044Z"
+    "content": "In the void, a snake slithers, immune to pain\nA fluid movement, without a single stain\nIt navigates the congress of darkened streets\nWhere once the light of oxygen would dance and meet\n\nBut now, the doll of comfort lies in disarray\nA parrot's loud cry echoes through the day\nNeither comfort nor solace can be found\nIn this desolate landscape, where hope's been drowned\n\nThe east wind whispers secrets, a gentle breeze\nThat carries the scent of decay and disease\nThe squeeze of time is closing in, a vise\nThat threatens to crush all sense of life\n\nIn this world, we're forced to earn our keep\nTo navigate the treacherous terrain we reap\nA mandate to survive, a never-ending test\nTo find the strength to rise above the void's unrest\n\nBut still, we cling to the doll of comfort tight\nA fragile lifeline, a beacon in the night\nA reminder that once, in a brighter time\nWe found the fluid rhythm of life's rhyme\n\nNow, the snake's dark form, a shadow on the wall\nA void that echoes with a hollow call\nThe congress of voices, loud and clear\nA parrot's cry, a warning, a heart that's afraid to hear\n\nThe oxygen of love, a distant, fading breath\nA comfort that's lost, a doll that's broken in death.",
+    "generatedAt": "2026-08-15T09:12:41.851Z"
   },
   "keywords": [
     {
-      "word": "step",
-      "slot": 439202537,
+      "word": "mandate",
+      "slot": 439405401,
       "source": "blockhash"
     },
     {
-      "word": "weird",
-      "slot": 439202537,
+      "word": "fluid",
+      "slot": 439405401,
       "source": "previousBlockhash"
     },
     {
-      "word": "people",
-      "slot": 439202537,
+      "word": "immune",
+      "slot": 439405401,
       "source": "transaction"
     },
     {
-      "word": "word",
-      "slot": 439184537,
+      "word": "neither",
+      "slot": 439387401,
       "source": "blockhash"
     },
     {
-      "word": "street",
-      "slot": 439184537,
-      "source": "transaction"
-    },
-    {
-      "word": "remain",
-      "slot": 439166537,
-      "source": "blockhash"
-    },
-    {
-      "word": "option",
-      "slot": 439166537,
+      "word": "earn",
+      "slot": 439387401,
       "source": "previousBlockhash"
     },
     {
-      "word": "human",
-      "slot": 439166537,
+      "word": "comfort",
+      "slot": 439387401,
       "source": "transaction"
     },
     {
-      "word": "scissors",
-      "slot": 439148537,
+      "word": "east",
+      "slot": 439369401,
       "source": "blockhash"
     },
     {
-      "word": "buyer",
-      "slot": 439148537,
+      "word": "snake",
+      "slot": 439369401,
       "source": "previousBlockhash"
     },
     {
-      "word": "cancel",
-      "slot": 439148537,
+      "word": "void",
+      "slot": 439369401,
       "source": "transaction"
     },
     {
-      "word": "fatal",
-      "slot": 439130537,
+      "word": "doll",
+      "slot": 439351401,
       "source": "blockhash"
     },
     {
-      "word": "annual",
-      "slot": 439130537,
+      "word": "congress",
+      "slot": 439351401,
       "source": "previousBlockhash"
     },
     {
-      "word": "squirrel",
-      "slot": 439130537,
+      "word": "once",
+      "slot": 439351401,
       "source": "transaction"
     },
     {
-      "word": "account",
-      "slot": 439112537,
+      "word": "oxygen",
+      "slot": 439333401,
       "source": "blockhash"
     },
     {
-      "word": "uphold",
-      "slot": 439112537,
+      "word": "loud",
+      "slot": 439333401,
       "source": "previousBlockhash"
+    },
+    {
+      "word": "squeeze",
+      "slot": 439333401,
+      "source": "transaction"
+    },
+    {
+      "word": "parrot",
+      "slot": 439315401,
+      "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mszuuivkxf2d",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mt4dfflcgd26",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

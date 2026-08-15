@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-15",
+    "poem": {
+      "content": "In the void, a snake slithers, immune to pain\nA fluid movement, without a single stain\nIt navigates the congress of darkened streets\nWhere once the light of oxygen would dance and meet\n\nBut now, the doll of comfort lies in disarray\nA parrot's loud cry echoes through the day\nNeither comfort nor solace can be found\nIn this desolate landscape, where hope's been drowned\n\nThe east wind whispers secrets, a gentle breeze\nThat carries the scent of decay and disease\nThe squeeze of time is closing in, a vise\nThat threatens to crush all sense of life\n\nIn this world, we're forced to earn our keep\nTo navigate the treacherous terrain we reap\nA mandate to survive, a never-ending test\nTo find the strength to rise above the void's unrest\n\nBut still, we cling to the doll of comfort tight\nA fragile lifeline, a beacon in the night\nA reminder that once, in a brighter time\nWe found the fluid rhythm of life's rhyme\n\nNow, the snake's dark form, a shadow on the wall\nA void that echoes with a hollow call\nThe congress of voices, loud and clear\nA parrot's cry, a warning, a heart that's afraid to hear\n\nThe oxygen of love, a distant, fading breath\nA comfort that's lost, a doll that's broken in death.",
+      "generatedAt": "2026-08-15T09:12:41.851Z"
+    },
+    "keywords": [
+      {
+        "word": "mandate",
+        "slot": 439405401,
+        "source": "blockhash"
+      },
+      {
+        "word": "fluid",
+        "slot": 439405401,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "immune",
+        "slot": 439405401,
+        "source": "transaction"
+      },
+      {
+        "word": "neither",
+        "slot": 439387401,
+        "source": "blockhash"
+      },
+      {
+        "word": "earn",
+        "slot": 439387401,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "comfort",
+        "slot": 439387401,
+        "source": "transaction"
+      },
+      {
+        "word": "east",
+        "slot": 439369401,
+        "source": "blockhash"
+      },
+      {
+        "word": "snake",
+        "slot": 439369401,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "void",
+        "slot": 439369401,
+        "source": "transaction"
+      },
+      {
+        "word": "doll",
+        "slot": 439351401,
+        "source": "blockhash"
+      },
+      {
+        "word": "congress",
+        "slot": 439351401,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "once",
+        "slot": 439351401,
+        "source": "transaction"
+      },
+      {
+        "word": "oxygen",
+        "slot": 439333401,
+        "source": "blockhash"
+      },
+      {
+        "word": "loud",
+        "slot": 439333401,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "squeeze",
+        "slot": 439333401,
+        "source": "transaction"
+      },
+      {
+        "word": "parrot",
+        "slot": 439315401,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mt4dfflcgd26",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-14",
     "poem": {
       "content": "In streets where weird and wondrous things unfold,\nA single step can change the course of gold.\nThe people pass, each with a story to tell,\nA word, a glance, a moment, and the narrative's spell.\n\nTheir footsteps echo, a symphony so fine,\nA rhythm that remains, a haunting, sweet design.\nIn this world of options, where choices abound,\nA human heart beats strong, with a will unbound.\n\nBut scissors of fate cut through the air,\nSeparating lives, with a fatal, cruel snare.\nA buyer's caution, a seller's anxious sigh,\nA moment's pause, and the deal may cancel by.\n\nAnnual rituals, a cycle so divine,\nA squirrel's hoard, a treasure to design.\nYet, in the silence, a voice whispers low,\n\"Uphold the truth, let justice grow.\"\n\nIn this delicate balance, a choice remains,\nTo stand or falter, to remain or to wane.\nThe account of our deeds, a ledger so fair,\nA record of kindness, or a tale of despair.\n\nA fatal flaw, a weakness to reveal,\nA human heart, with a love that can conceal.\nThe street of life, a journey so unsure,\nYet, with each step, a new path to endure.\n\nA word of hope, a voice that remains,\nA beacon in darkness, a guiding light that sustains.\nIn this world of uncertainty, we search for a way,\nTo uphold the light, to seize the day.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-16",
-    "poem": {
-      "content": "In the vacuum of cyberspace, a world aglow,\nWhere code and wonder entwine, as electrons flake and flow,\nA blade of light cuts through the digital haze,\nExhausting doubts, as fears and hopes amaze.\n\nIn this mobile realm, where transactions take flight,\nA ripple spreads, a symphony of light,\nArctic winds of progress blow, icy and cold,\nAs life bursts forth, young and bold.\n\nBut amidst the beauty, a cage constrains the soul,\nA sense of awkward loss, a heart's crusty role,\nA shiver runs, as fragile dreams unfold,\nLike petals of a flower, in winter's cold hold.\n\nIn this virtual landscape, where hearts reside,\nA sort of order keeps, the chaos inside,\nA stillness deep, where love and fear entwine,\nA place to breathe, where spirit and soul align.\n\nYet, in the silence, a subtle hue appears,\nA color creeping, born from hidden tears,\nA beacon calling, a distant, gentle light,\nA promise kept, of a better, equable night.\n\nThe world's vast expanse, in shades of light and dark,\nA mysterious ease, within this code we embark,\nThe blade of change, slicing through the air,\nA cipher's secret, hidden beyond compare.\n\nThe vacuum pulls, as paths unfold and blend,\nA story told, where wonder never ends.",
-      "generatedAt": "2026-07-16T10:46:32.634Z"
-    },
-    "keywords": [
-      {
-        "word": "quick",
-        "slot": 433257737,
-        "source": "blockhash"
-      },
-      {
-        "word": "wonder",
-        "slot": 433257737,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "blade",
-        "slot": 433257737,
-        "source": "transaction"
-      },
-      {
-        "word": "vacuum",
-        "slot": 433239737,
-        "source": "blockhash"
-      },
-      {
-        "word": "code",
-        "slot": 433239737,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "life",
-        "slot": 433239737,
-        "source": "transaction"
-      },
-      {
-        "word": "mobile",
-        "slot": 433221737,
-        "source": "blockhash"
-      },
-      {
-        "word": "ripple",
-        "slot": 433221737,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "color",
-        "slot": 433221737,
-        "source": "transaction"
-      },
-      {
-        "word": "slide",
-        "slot": 433203737,
-        "source": "blockhash"
-      },
-      {
-        "word": "cage",
-        "slot": 433203737,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "exhaust",
-        "slot": 433203737,
-        "source": "transaction"
-      },
-      {
-        "word": "shiver",
-        "slot": 433185737,
-        "source": "blockhash"
-      },
-      {
-        "word": "arctic",
-        "slot": 433185737,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "awkward",
-        "slot": 433185737,
-        "source": "transaction"
-      },
-      {
-        "word": "sort",
-        "slot": 433167737,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqr2nloeki2u",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
