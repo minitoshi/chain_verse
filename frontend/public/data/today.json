@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "poem": {
-    "content": "In the void, a snake slithers, immune to pain\nA fluid movement, without a single stain\nIt navigates the congress of darkened streets\nWhere once the light of oxygen would dance and meet\n\nBut now, the doll of comfort lies in disarray\nA parrot's loud cry echoes through the day\nNeither comfort nor solace can be found\nIn this desolate landscape, where hope's been drowned\n\nThe east wind whispers secrets, a gentle breeze\nThat carries the scent of decay and disease\nThe squeeze of time is closing in, a vise\nThat threatens to crush all sense of life\n\nIn this world, we're forced to earn our keep\nTo navigate the treacherous terrain we reap\nA mandate to survive, a never-ending test\nTo find the strength to rise above the void's unrest\n\nBut still, we cling to the doll of comfort tight\nA fragile lifeline, a beacon in the night\nA reminder that once, in a brighter time\nWe found the fluid rhythm of life's rhyme\n\nNow, the snake's dark form, a shadow on the wall\nA void that echoes with a hollow call\nThe congress of voices, loud and clear\nA parrot's cry, a warning, a heart that's afraid to hear\n\nThe oxygen of love, a distant, fading breath\nA comfort that's lost, a doll that's broken in death.",
-    "generatedAt": "2026-08-15T09:12:41.851Z"
+    "content": "In the virtual realm, where spirits roam,\nA double-edged sword, both sharp and home,\nLies hidden, waiting to be found,\nA gift of freedom, in an envelope unbound.\n\nBut alas, the path is not for the brave,\nFor those who wander, naive and enslaved,\nBy the chains of boredom, that once did bind,\nAnd dismiss the voice, that whispers from the mind.\n\nA goddess of escape, with wings so bright,\nCalls out to those, who seek the light,\nTo move beyond, the mundane and grey,\nAnd find the answer, in a brighter day.\n\nYet, like a bullet, swift and true,\nThe forces of change, can pierce anew,\nAnd shatter the illusion, of a life so still,\nRevealing the depths, of a spirit that's built.\n\nAt the desk of fate, where decisions are made,\nThe choice to shoot, for freedom is played,\nA moment's pause, before the final stand,\nTo take the leap, and grasp the outstretched hand.\n\nThe envelope of time, that holds our destiny,\nIs fragile and thin, like a leaf on a tree,\nBut the spirit within, that guides us on our way,\nIs strong and brave, come what may.",
+    "generatedAt": "2026-08-16T09:13:49.029Z"
   },
   "keywords": [
     {
-      "word": "mandate",
-      "slot": 439405401,
+      "word": "double",
+      "slot": 439613310,
       "source": "blockhash"
     },
     {
-      "word": "fluid",
-      "slot": 439405401,
+      "word": "envelope",
+      "slot": 439613310,
       "source": "previousBlockhash"
     },
     {
-      "word": "immune",
-      "slot": 439405401,
+      "word": "boring",
+      "slot": 439613310,
       "source": "transaction"
     },
     {
-      "word": "neither",
-      "slot": 439387401,
+      "word": "goddess",
+      "slot": 439595310,
       "source": "blockhash"
     },
     {
-      "word": "earn",
-      "slot": 439387401,
+      "word": "escape",
+      "slot": 439595310,
       "source": "previousBlockhash"
     },
     {
-      "word": "comfort",
-      "slot": 439387401,
+      "word": "brave",
+      "slot": 439595310,
       "source": "transaction"
     },
     {
-      "word": "east",
-      "slot": 439369401,
+      "word": "gift",
+      "slot": 439577310,
       "source": "blockhash"
     },
     {
-      "word": "snake",
-      "slot": 439369401,
+      "word": "bullet",
+      "slot": 439577310,
       "source": "previousBlockhash"
     },
     {
-      "word": "void",
-      "slot": 439369401,
+      "word": "answer",
+      "slot": 439577310,
       "source": "transaction"
     },
     {
-      "word": "doll",
-      "slot": 439351401,
+      "word": "move",
+      "slot": 439559310,
       "source": "blockhash"
     },
     {
-      "word": "congress",
-      "slot": 439351401,
+      "word": "virtual",
+      "slot": 439559310,
       "source": "previousBlockhash"
     },
     {
-      "word": "once",
-      "slot": 439351401,
+      "word": "naive",
+      "slot": 439559310,
       "source": "transaction"
     },
     {
-      "word": "oxygen",
-      "slot": 439333401,
+      "word": "spirit",
+      "slot": 439541310,
       "source": "blockhash"
     },
     {
-      "word": "loud",
-      "slot": 439333401,
+      "word": "dismiss",
+      "slot": 439541310,
       "source": "previousBlockhash"
     },
     {
-      "word": "squeeze",
-      "slot": 439333401,
+      "word": "desk",
+      "slot": 439541310,
       "source": "transaction"
     },
     {
-      "word": "parrot",
-      "slot": 439315401,
+      "word": "shoot",
+      "slot": 439523310,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mt4dfflcgd26",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
