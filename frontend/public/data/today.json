@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "poem": {
-    "content": "In the virtual realm, where spirits roam,\nA double-edged sword, both sharp and home,\nLies hidden, waiting to be found,\nA gift of freedom, in an envelope unbound.\n\nBut alas, the path is not for the brave,\nFor those who wander, naive and enslaved,\nBy the chains of boredom, that once did bind,\nAnd dismiss the voice, that whispers from the mind.\n\nA goddess of escape, with wings so bright,\nCalls out to those, who seek the light,\nTo move beyond, the mundane and grey,\nAnd find the answer, in a brighter day.\n\nYet, like a bullet, swift and true,\nThe forces of change, can pierce anew,\nAnd shatter the illusion, of a life so still,\nRevealing the depths, of a spirit that's built.\n\nAt the desk of fate, where decisions are made,\nThe choice to shoot, for freedom is played,\nA moment's pause, before the final stand,\nTo take the leap, and grasp the outstretched hand.\n\nThe envelope of time, that holds our destiny,\nIs fragile and thin, like a leaf on a tree,\nBut the spirit within, that guides us on our way,\nIs strong and brave, come what may.",
-    "generatedAt": "2026-08-16T09:13:49.029Z"
+    "content": "In a land of infinite number, where transactions roam free\nA finite supply of futures waits, a promise yet to be\nA couple strolls through the streets, arm in arm with glee\nTheir steps weaving a rhythm, a duet of ecstasy\nLike the tortoise pace of a child's learning curve\nThey navigate the cosmic axis, where passions converge\nA gamble, a craft, a mystery to unlock\nThe casino of life, where dreams and fears rock\nThe skyline's veil of sadness lifts, a hint of dawn's first rays\nAs economies collide, and coins intersect in disarray\nThe sound of splintering trunks, a collective fee of loss and gain\nEchoes across the wall, as investors sow, and harvest in vain\nA verification code that stamps and seals the trade\nUntil the next repeat, in this endless block-chained parade\nWhen tokens talk, and the ledger hisses with whispers light\nA new life spawned, akin to Earth's first tentative embrace of day\nA brand new icon imposed upon the erstwhile logo's untrained stare\nTactics set to change, for investment now downloads the stake\nEnclave beefs response against strong paradox twist inherent coin quantity built plenum penetrated piece cosmogenic assumption eBay overseas cash oven stared burn windows blaze stream.",
+    "generatedAt": "2026-08-17T09:25:56.734Z"
   },
   "keywords": [
     {
-      "word": "double",
-      "slot": 439613310,
+      "word": "number",
+      "slot": 439823159,
       "source": "blockhash"
     },
     {
-      "word": "envelope",
-      "slot": 439613310,
+      "word": "supply",
+      "slot": 439823159,
       "source": "previousBlockhash"
     },
     {
-      "word": "boring",
-      "slot": 439613310,
+      "word": "resemble",
+      "slot": 439823159,
       "source": "transaction"
     },
     {
-      "word": "goddess",
-      "slot": 439595310,
+      "word": "across",
+      "slot": 439805159,
       "source": "blockhash"
     },
     {
-      "word": "escape",
-      "slot": 439595310,
+      "word": "couple",
+      "slot": 439805159,
       "source": "previousBlockhash"
     },
     {
-      "word": "brave",
-      "slot": 439595310,
+      "word": "tortoise",
+      "slot": 439805159,
       "source": "transaction"
     },
     {
-      "word": "gift",
-      "slot": 439577310,
+      "word": "craft",
+      "slot": 439787159,
       "source": "blockhash"
     },
     {
-      "word": "bullet",
-      "slot": 439577310,
+      "word": "casino",
+      "slot": 439787159,
       "source": "previousBlockhash"
     },
     {
-      "word": "answer",
-      "slot": 439577310,
+      "word": "axis",
+      "slot": 439787159,
       "source": "transaction"
     },
     {
-      "word": "move",
-      "slot": 439559310,
+      "word": "sadness",
+      "slot": 439769159,
       "source": "blockhash"
     },
     {
-      "word": "virtual",
-      "slot": 439559310,
+      "word": "repeat",
+      "slot": 439769159,
       "source": "previousBlockhash"
     },
     {
-      "word": "naive",
-      "slot": 439559310,
+      "word": "life",
+      "slot": 439769159,
       "source": "transaction"
     },
     {
-      "word": "spirit",
-      "slot": 439541310,
+      "word": "icon",
+      "slot": 439751159,
       "source": "blockhash"
     },
     {
-      "word": "dismiss",
-      "slot": 439541310,
+      "word": "attack",
+      "slot": 439751159,
       "source": "previousBlockhash"
     },
     {
-      "word": "desk",
-      "slot": 439541310,
+      "word": "cash",
+      "slot": 439751159,
       "source": "transaction"
     },
     {
-      "word": "shoot",
-      "slot": 439523310,
+      "word": "fee",
+      "slot": 439733159,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtbf2wktwp2h",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

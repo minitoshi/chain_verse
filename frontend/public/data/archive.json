@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-17",
+    "poem": {
+      "content": "In a land of infinite number, where transactions roam free\nA finite supply of futures waits, a promise yet to be\nA couple strolls through the streets, arm in arm with glee\nTheir steps weaving a rhythm, a duet of ecstasy\nLike the tortoise pace of a child's learning curve\nThey navigate the cosmic axis, where passions converge\nA gamble, a craft, a mystery to unlock\nThe casino of life, where dreams and fears rock\nThe skyline's veil of sadness lifts, a hint of dawn's first rays\nAs economies collide, and coins intersect in disarray\nThe sound of splintering trunks, a collective fee of loss and gain\nEchoes across the wall, as investors sow, and harvest in vain\nA verification code that stamps and seals the trade\nUntil the next repeat, in this endless block-chained parade\nWhen tokens talk, and the ledger hisses with whispers light\nA new life spawned, akin to Earth's first tentative embrace of day\nA brand new icon imposed upon the erstwhile logo's untrained stare\nTactics set to change, for investment now downloads the stake\nEnclave beefs response against strong paradox twist inherent coin quantity built plenum penetrated piece cosmogenic assumption eBay overseas cash oven stared burn windows blaze stream.",
+      "generatedAt": "2026-08-17T09:25:56.734Z"
+    },
+    "keywords": [
+      {
+        "word": "number",
+        "slot": 439823159,
+        "source": "blockhash"
+      },
+      {
+        "word": "supply",
+        "slot": 439823159,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "resemble",
+        "slot": 439823159,
+        "source": "transaction"
+      },
+      {
+        "word": "across",
+        "slot": 439805159,
+        "source": "blockhash"
+      },
+      {
+        "word": "couple",
+        "slot": 439805159,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tortoise",
+        "slot": 439805159,
+        "source": "transaction"
+      },
+      {
+        "word": "craft",
+        "slot": 439787159,
+        "source": "blockhash"
+      },
+      {
+        "word": "casino",
+        "slot": 439787159,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "axis",
+        "slot": 439787159,
+        "source": "transaction"
+      },
+      {
+        "word": "sadness",
+        "slot": 439769159,
+        "source": "blockhash"
+      },
+      {
+        "word": "repeat",
+        "slot": 439769159,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "life",
+        "slot": 439769159,
+        "source": "transaction"
+      },
+      {
+        "word": "icon",
+        "slot": 439751159,
+        "source": "blockhash"
+      },
+      {
+        "word": "attack",
+        "slot": 439751159,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cash",
+        "slot": 439751159,
+        "source": "transaction"
+      },
+      {
+        "word": "fee",
+        "slot": 439733159,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtbf2wktwp2h",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-16",
     "poem": {
       "content": "In the virtual realm, where spirits roam,\nA double-edged sword, both sharp and home,\nLies hidden, waiting to be found,\nA gift of freedom, in an envelope unbound.\n\nBut alas, the path is not for the brave,\nFor those who wander, naive and enslaved,\nBy the chains of boredom, that once did bind,\nAnd dismiss the voice, that whispers from the mind.\n\nA goddess of escape, with wings so bright,\nCalls out to those, who seek the light,\nTo move beyond, the mundane and grey,\nAnd find the answer, in a brighter day.\n\nYet, like a bullet, swift and true,\nThe forces of change, can pierce anew,\nAnd shatter the illusion, of a life so still,\nRevealing the depths, of a spirit that's built.\n\nAt the desk of fate, where decisions are made,\nThe choice to shoot, for freedom is played,\nA moment's pause, before the final stand,\nTo take the leap, and grasp the outstretched hand.\n\nThe envelope of time, that holds our destiny,\nIs fragile and thin, like a leaf on a tree,\nBut the spirit within, that guides us on our way,\nIs strong and brave, come what may.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-18",
-    "poem": {
-      "content": "In the bleak landscape of a forgotten past,\nA clinic rises, a beacon to withstand,\nA loan of time, a gift from above,\nTo heal the wounds that leave us bereft of love.\n\nBut suspicion lurks, a dark and guilty deed,\nA suspect heartbeat, a whispered, eerie Creed.\nYet, in the stillness, a symbol stands,\nA token of hope, a quiet, defiant hand.\n\nIt guides the way, a deputy to the lost,\nThrough the force of doubt, to the first frost,\nA warm ember, that flickers brightly bright,\nA beacon to navigate the dark of night.\n\nIn the open fields, where freedom's wild and free,\nThe scenery shifts, like a kaleidoscope's plea,\nA new world unfolds, where revenue pours like spring rain,\nWealth in the balance, as risks and fears are gained.\n\nIn the annual cycle, where birth and death entwine,\nAmidst the wheel's rotation, hope begins to align,\nThe power to begin anew, a vibrant, living sign,\nPulsing like a light, that stands against the shrine.\n\nA figure emerges, trembling, fear's guide,\nBut swiftly turns, with unease abated inside,\nRooting for solace, with eyes wide open wide,\nOpening the will to seize this hunt for answers inside.\n \nA breathing point assessed on shifting affairs,\nAs credence inverted: empowerment laid bare in all. \n\nLetting dreams venture vaguely into unusable sight,\nDark metamorphosis in leftover thinner venture it.\nVividness silenced eshen-hearted knitors embargo ascent.\nExhibiting uncommon revisied empty takes prominence tight.",
-      "generatedAt": "2026-07-18T10:05:33.222Z"
-    },
-    "keywords": [
-      {
-        "word": "allow",
-        "slot": 433668225,
-        "source": "blockhash"
-      },
-      {
-        "word": "clinic",
-        "slot": 433668225,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "open",
-        "slot": 433668225,
-        "source": "transaction"
-      },
-      {
-        "word": "bleak",
-        "slot": 433650225,
-        "source": "blockhash"
-      },
-      {
-        "word": "loan",
-        "slot": 433650225,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "suspect",
-        "slot": 433650225,
-        "source": "transaction"
-      },
-      {
-        "word": "symbol",
-        "slot": 433632225,
-        "source": "blockhash"
-      },
-      {
-        "word": "deputy",
-        "slot": 433632225,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "force",
-        "slot": 433632225,
-        "source": "transaction"
-      },
-      {
-        "word": "weird",
-        "slot": 433614225,
-        "source": "blockhash"
-      },
-      {
-        "word": "annual",
-        "slot": 433614225,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "express",
-        "slot": 433614225,
-        "source": "transaction"
-      },
-      {
-        "word": "rescue",
-        "slot": 433596225,
-        "source": "blockhash"
-      },
-      {
-        "word": "primary",
-        "slot": 433596225,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "wealth",
-        "slot": 433596225,
-        "source": "transaction"
-      },
-      {
-        "word": "vivid",
-        "slot": 433578225,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mqvzc4lpju2d",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
