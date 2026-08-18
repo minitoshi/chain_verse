@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "poem": {
-    "content": "In a land of infinite number, where transactions roam free\nA finite supply of futures waits, a promise yet to be\nA couple strolls through the streets, arm in arm with glee\nTheir steps weaving a rhythm, a duet of ecstasy\nLike the tortoise pace of a child's learning curve\nThey navigate the cosmic axis, where passions converge\nA gamble, a craft, a mystery to unlock\nThe casino of life, where dreams and fears rock\nThe skyline's veil of sadness lifts, a hint of dawn's first rays\nAs economies collide, and coins intersect in disarray\nThe sound of splintering trunks, a collective fee of loss and gain\nEchoes across the wall, as investors sow, and harvest in vain\nA verification code that stamps and seals the trade\nUntil the next repeat, in this endless block-chained parade\nWhen tokens talk, and the ledger hisses with whispers light\nA new life spawned, akin to Earth's first tentative embrace of day\nA brand new icon imposed upon the erstwhile logo's untrained stare\nTactics set to change, for investment now downloads the stake\nEnclave beefs response against strong paradox twist inherent coin quantity built plenum penetrated piece cosmogenic assumption eBay overseas cash oven stared burn windows blaze stream.",
-    "generatedAt": "2026-08-17T09:25:56.734Z"
+    "content": "In the depths of the earth, a tooth-like fragment lies\nA fossil of a moment, worn by time's remembering sighs\nThe brief whisper of a ancient voice, a rumor of days past\nEchoes through the silence, a haunting that will forever last\n\nA saddle-worn saddleback, worn by the burden of time's weight\nA testament to the trials that shaped this hard, unhewn slate\nThe armor of the earth, a shield against the ravages of old\nA buffer against the tooth-like edges, where only rock and remnants hold\n\nIn the darkness, I uncover the truth, a hidden tale of ebb and flow\nA cryptic code, an ancient language, begin to indicate its secrets to me, slowly\nA test of faith, as the uncertainties unfold\nA used landscape, worn and weary, where only echoes remain to be told\n\nThe wire-strewn terrain stretches out before me, a metallic sprawl\nA landscape both desolate, and strange, devoid of life's gentle call\nIn this barren world, I search for a glimmer of hope\nA dream of renewal, a green shoot bursting through the endless scope\n\nBut like a fossilized bone, the remnants of the past remain\nA reminder of what was lost, forever trapped in this armor of stone\nYet still I retreat to the edge, where the jaw of the earth once did bite\nAnd there I feel the tremors, the heartbeat of the ancient, wrestle within the sight\n\nIn the numb of twilight, a tube of lights cuts through the darkness like a spear\nSpray of sparks, signaling a loss that was, and a future yet unclear\nThe depth of my soul, a stared-down challenge, once resisted now, submitted\nAnd in this fashion, an armor-tough exterior, which once held strong its dent, just now began to permit its bracks.",
+    "generatedAt": "2026-08-18T09:18:19.321Z"
   },
   "keywords": [
     {
-      "word": "number",
-      "slot": 439823159,
+      "word": "tooth",
+      "slot": 440030119,
       "source": "blockhash"
     },
     {
-      "word": "supply",
-      "slot": 439823159,
+      "word": "brief",
+      "slot": 440030119,
       "source": "previousBlockhash"
     },
     {
-      "word": "resemble",
-      "slot": 439823159,
+      "word": "indicate",
+      "slot": 440030119,
       "source": "transaction"
     },
     {
-      "word": "across",
-      "slot": 439805159,
+      "word": "saddle",
+      "slot": 440012119,
       "source": "blockhash"
     },
     {
-      "word": "couple",
-      "slot": 439805159,
+      "word": "test",
+      "slot": 440012119,
       "source": "previousBlockhash"
     },
     {
-      "word": "tortoise",
-      "slot": 439805159,
+      "word": "used",
+      "slot": 440012119,
       "source": "transaction"
     },
     {
-      "word": "craft",
-      "slot": 439787159,
+      "word": "wire",
+      "slot": 439994119,
       "source": "blockhash"
     },
     {
-      "word": "casino",
-      "slot": 439787159,
+      "word": "armor",
+      "slot": 439994119,
       "source": "previousBlockhash"
     },
     {
-      "word": "axis",
-      "slot": 439787159,
+      "word": "dream",
+      "slot": 439994119,
       "source": "transaction"
     },
     {
-      "word": "sadness",
-      "slot": 439769159,
+      "word": "fossil",
+      "slot": 439976119,
       "source": "blockhash"
     },
     {
-      "word": "repeat",
-      "slot": 439769159,
+      "word": "retreat",
+      "slot": 439976119,
       "source": "previousBlockhash"
     },
     {
-      "word": "life",
-      "slot": 439769159,
+      "word": "afford",
+      "slot": 439976119,
       "source": "transaction"
     },
     {
-      "word": "icon",
-      "slot": 439751159,
+      "word": "tube",
+      "slot": 439958119,
       "source": "blockhash"
     },
     {
-      "word": "attack",
-      "slot": 439751159,
+      "word": "spray",
+      "slot": 439958119,
       "source": "previousBlockhash"
     },
     {
-      "word": "cash",
-      "slot": 439751159,
+      "word": "depth",
+      "slot": 439958119,
       "source": "transaction"
     },
     {
-      "word": "fee",
-      "slot": 439733159,
+      "word": "just",
+      "slot": 439940119,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtbf2wktwp2h",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtdv46pmza26",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
