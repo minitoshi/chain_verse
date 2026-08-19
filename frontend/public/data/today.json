@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "poem": {
-    "content": "In the depths of the earth, a tooth-like fragment lies\nA fossil of a moment, worn by time's remembering sighs\nThe brief whisper of a ancient voice, a rumor of days past\nEchoes through the silence, a haunting that will forever last\n\nA saddle-worn saddleback, worn by the burden of time's weight\nA testament to the trials that shaped this hard, unhewn slate\nThe armor of the earth, a shield against the ravages of old\nA buffer against the tooth-like edges, where only rock and remnants hold\n\nIn the darkness, I uncover the truth, a hidden tale of ebb and flow\nA cryptic code, an ancient language, begin to indicate its secrets to me, slowly\nA test of faith, as the uncertainties unfold\nA used landscape, worn and weary, where only echoes remain to be told\n\nThe wire-strewn terrain stretches out before me, a metallic sprawl\nA landscape both desolate, and strange, devoid of life's gentle call\nIn this barren world, I search for a glimmer of hope\nA dream of renewal, a green shoot bursting through the endless scope\n\nBut like a fossilized bone, the remnants of the past remain\nA reminder of what was lost, forever trapped in this armor of stone\nYet still I retreat to the edge, where the jaw of the earth once did bite\nAnd there I feel the tremors, the heartbeat of the ancient, wrestle within the sight\n\nIn the numb of twilight, a tube of lights cuts through the darkness like a spear\nSpray of sparks, signaling a loss that was, and a future yet unclear\nThe depth of my soul, a stared-down challenge, once resisted now, submitted\nAnd in this fashion, an armor-tough exterior, which once held strong its dent, just now began to permit its bracks.",
-    "generatedAt": "2026-08-18T09:18:19.321Z"
+    "content": "In the slow dance of dawn's early light,\nA staff of shadows stretches, dark and bright.\nThe key to secrets lies within the east,\nWhere sunrise paints the country's gentle face.\n\nAt the edge of town, a lone figure rides,\nA bike with seven spokes, a winding, winding tide.\nA flag of freedom flaps, a symbol of the past,\nAs the lake's calm waters reflect the passing cast.\n\nBut in the churn of life, we often lose our way,\nAnd the dizzying world spins round, a kaleidoscope's sway.\nWe search for release, a pause from life's wild ride,\nA moment's peace, a chance to step aside.\n\nIn this, our adult world, we yearn to be free,\nTo leave the burdens of the past, to be.\nBut still we bargain, with life's uncertain fate,\nAnd wonder if we'll ever find our perfect state.\n\nYet, in the stillness, a voice whispers low,\nA gentle breeze that stirs the heart, and makes it grow.\nA pause, a moment's peace, a time to breathe,\nA chance to let go, and find our inner strength.",
+    "generatedAt": "2026-08-19T09:19:06.157Z"
   },
   "keywords": [
     {
-      "word": "tooth",
-      "slot": 440030119,
+      "word": "slow",
+      "slot": 440238002,
       "source": "blockhash"
     },
     {
-      "word": "brief",
-      "slot": 440030119,
+      "word": "staff",
+      "slot": 440238002,
       "source": "previousBlockhash"
     },
     {
-      "word": "indicate",
-      "slot": 440030119,
+      "word": "key",
+      "slot": 440238002,
       "source": "transaction"
     },
     {
-      "word": "saddle",
-      "slot": 440012119,
+      "word": "east",
+      "slot": 440220002,
       "source": "blockhash"
     },
     {
-      "word": "test",
-      "slot": 440012119,
+      "word": "country",
+      "slot": 440220002,
       "source": "previousBlockhash"
     },
     {
-      "word": "used",
-      "slot": 440012119,
+      "word": "edge",
+      "slot": 440220002,
       "source": "transaction"
     },
     {
-      "word": "wire",
-      "slot": 439994119,
+      "word": "seven",
+      "slot": 440202002,
       "source": "blockhash"
     },
     {
-      "word": "armor",
-      "slot": 439994119,
+      "word": "flag",
+      "slot": 440202002,
       "source": "previousBlockhash"
     },
     {
-      "word": "dream",
-      "slot": 439994119,
+      "word": "churn",
+      "slot": 440202002,
       "source": "transaction"
     },
     {
-      "word": "fossil",
-      "slot": 439976119,
+      "word": "lake",
+      "slot": 440184002,
       "source": "blockhash"
     },
     {
-      "word": "retreat",
-      "slot": 439976119,
+      "word": "dizzy",
+      "slot": 440184002,
       "source": "previousBlockhash"
     },
     {
-      "word": "afford",
-      "slot": 439976119,
+      "word": "release",
+      "slot": 440184002,
       "source": "transaction"
     },
     {
-      "word": "tube",
-      "slot": 439958119,
+      "word": "adult",
+      "slot": 440166002,
       "source": "blockhash"
     },
     {
-      "word": "spray",
-      "slot": 439958119,
+      "word": "pause",
+      "slot": 440166002,
       "source": "previousBlockhash"
     },
     {
-      "word": "depth",
-      "slot": 439958119,
+      "word": "bargain",
+      "slot": 440166002,
       "source": "transaction"
     },
     {
-      "word": "just",
-      "slot": 439940119,
+      "word": "bike",
+      "slot": 440148002,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtdv46pmza26",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtgfmki7xh2h",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

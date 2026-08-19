@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-19",
+    "poem": {
+      "content": "In the slow dance of dawn's early light,\nA staff of shadows stretches, dark and bright.\nThe key to secrets lies within the east,\nWhere sunrise paints the country's gentle face.\n\nAt the edge of town, a lone figure rides,\nA bike with seven spokes, a winding, winding tide.\nA flag of freedom flaps, a symbol of the past,\nAs the lake's calm waters reflect the passing cast.\n\nBut in the churn of life, we often lose our way,\nAnd the dizzying world spins round, a kaleidoscope's sway.\nWe search for release, a pause from life's wild ride,\nA moment's peace, a chance to step aside.\n\nIn this, our adult world, we yearn to be free,\nTo leave the burdens of the past, to be.\nBut still we bargain, with life's uncertain fate,\nAnd wonder if we'll ever find our perfect state.\n\nYet, in the stillness, a voice whispers low,\nA gentle breeze that stirs the heart, and makes it grow.\nA pause, a moment's peace, a time to breathe,\nA chance to let go, and find our inner strength.",
+      "generatedAt": "2026-08-19T09:19:06.157Z"
+    },
+    "keywords": [
+      {
+        "word": "slow",
+        "slot": 440238002,
+        "source": "blockhash"
+      },
+      {
+        "word": "staff",
+        "slot": 440238002,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "key",
+        "slot": 440238002,
+        "source": "transaction"
+      },
+      {
+        "word": "east",
+        "slot": 440220002,
+        "source": "blockhash"
+      },
+      {
+        "word": "country",
+        "slot": 440220002,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "edge",
+        "slot": 440220002,
+        "source": "transaction"
+      },
+      {
+        "word": "seven",
+        "slot": 440202002,
+        "source": "blockhash"
+      },
+      {
+        "word": "flag",
+        "slot": 440202002,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "churn",
+        "slot": 440202002,
+        "source": "transaction"
+      },
+      {
+        "word": "lake",
+        "slot": 440184002,
+        "source": "blockhash"
+      },
+      {
+        "word": "dizzy",
+        "slot": 440184002,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "release",
+        "slot": 440184002,
+        "source": "transaction"
+      },
+      {
+        "word": "adult",
+        "slot": 440166002,
+        "source": "blockhash"
+      },
+      {
+        "word": "pause",
+        "slot": 440166002,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "bargain",
+        "slot": 440166002,
+        "source": "transaction"
+      },
+      {
+        "word": "bike",
+        "slot": 440148002,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtgfmki7xh2h",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-18",
     "poem": {
       "content": "In the depths of the earth, a tooth-like fragment lies\nA fossil of a moment, worn by time's remembering sighs\nThe brief whisper of a ancient voice, a rumor of days past\nEchoes through the silence, a haunting that will forever last\n\nA saddle-worn saddleback, worn by the burden of time's weight\nA testament to the trials that shaped this hard, unhewn slate\nThe armor of the earth, a shield against the ravages of old\nA buffer against the tooth-like edges, where only rock and remnants hold\n\nIn the darkness, I uncover the truth, a hidden tale of ebb and flow\nA cryptic code, an ancient language, begin to indicate its secrets to me, slowly\nA test of faith, as the uncertainties unfold\nA used landscape, worn and weary, where only echoes remain to be told\n\nThe wire-strewn terrain stretches out before me, a metallic sprawl\nA landscape both desolate, and strange, devoid of life's gentle call\nIn this barren world, I search for a glimmer of hope\nA dream of renewal, a green shoot bursting through the endless scope\n\nBut like a fossilized bone, the remnants of the past remain\nA reminder of what was lost, forever trapped in this armor of stone\nYet still I retreat to the edge, where the jaw of the earth once did bite\nAnd there I feel the tremors, the heartbeat of the ancient, wrestle within the sight\n\nIn the numb of twilight, a tube of lights cuts through the darkness like a spear\nSpray of sparks, signaling a loss that was, and a future yet unclear\nThe depth of my soul, a stared-down challenge, once resisted now, submitted\nAnd in this fashion, an armor-tough exterior, which once held strong its dent, just now began to permit its bracks.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-20",
-    "poem": {
-      "content": "In the wave of time, where shadows dance,\nI find the paper, a fragile chance.\nA whisper of gossip spreads, of secrets untold,\nAs the roast of criticism turns cold.\n\nBut then, a gentle voice, a whispered grace,\nEchoes through the canyon's narrow space.\nTravel, I'm reminded, is not just a goal,\nBut a journey that teaches us to keep whole.\n\nIn the light of October's departing beams,\nI feel the hunger for something new it seems.\nFor always, we roam, and the sound of silence calls,\nA loner's chat echoes off the canyon's walls.\n\nIn this hollowed space, where wind whispers secrets low,\nI lose myself, yet find a way to go.\nThe train of thoughts, once pouring through my mind,\nNow slows to nothing, barren and unsound, I find.\n\nKeep your eyes open wide, to see the way,\n Lean into the curve of a new day's pray.\nAnd when the roar of doubt and fear molest,\nTake a deep breath, find the calm and the rest.",
-      "generatedAt": "2026-07-20T11:30:36.826Z"
-    },
-    "keywords": [
-      {
-        "word": "wave",
-        "slot": 434090892,
-        "source": "blockhash"
-      },
-      {
-        "word": "paper",
-        "slot": 434090892,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "gossip",
-        "slot": 434090892,
-        "source": "transaction"
-      },
-      {
-        "word": "roast",
-        "slot": 434072892,
-        "source": "blockhash"
-      },
-      {
-        "word": "grace",
-        "slot": 434072892,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "travel",
-        "slot": 434072892,
-        "source": "transaction"
-      },
-      {
-        "word": "only",
-        "slot": 434054892,
-        "source": "blockhash"
-      },
-      {
-        "word": "train",
-        "slot": 434054892,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "keep",
-        "slot": 434054892,
-        "source": "transaction"
-      },
-      {
-        "word": "october",
-        "slot": 434036892,
-        "source": "blockhash"
-      },
-      {
-        "word": "light",
-        "slot": 434036892,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "canyon",
-        "slot": 434036892,
-        "source": "transaction"
-      },
-      {
-        "word": "hungry",
-        "slot": 434018892,
-        "source": "blockhash"
-      },
-      {
-        "word": "sound",
-        "slot": 434018892,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "always",
-        "slot": 434018892,
-        "source": "transaction"
-      },
-      {
-        "word": "chat",
-        "slot": 434000892,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mr36y3rh7a2b",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
