@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "poem": {
-    "content": "In the slow dance of dawn's early light,\nA staff of shadows stretches, dark and bright.\nThe key to secrets lies within the east,\nWhere sunrise paints the country's gentle face.\n\nAt the edge of town, a lone figure rides,\nA bike with seven spokes, a winding, winding tide.\nA flag of freedom flaps, a symbol of the past,\nAs the lake's calm waters reflect the passing cast.\n\nBut in the churn of life, we often lose our way,\nAnd the dizzying world spins round, a kaleidoscope's sway.\nWe search for release, a pause from life's wild ride,\nA moment's peace, a chance to step aside.\n\nIn this, our adult world, we yearn to be free,\nTo leave the burdens of the past, to be.\nBut still we bargain, with life's uncertain fate,\nAnd wonder if we'll ever find our perfect state.\n\nYet, in the stillness, a voice whispers low,\nA gentle breeze that stirs the heart, and makes it grow.\nA pause, a moment's peace, a time to breathe,\nA chance to let go, and find our inner strength.",
-    "generatedAt": "2026-08-19T09:19:06.157Z"
+    "content": "In the mirrored halls of code, a dance begins\nA cluster of bytes, a pattern spins\nEfforts to nuance the lavender sky\n Destroying balance, yet balancing the high\n\nYou try to grasp, but like the wind\nIt slips through fingers, an elusive friend\nClaimed to hold the solar needle's sway\nLeaving me to follow the digital way\n\nMoonlit screens an eyes that watch and wait\nTorchlight blazing an enclave's fate\nQuiet ones in shadows nurse these tender codes\nManual ritual in first-day stains\n\nThis buoyant world is burdened in oval lace\nAnd with a raised brush against cavernous space\nStudy is just routine clause sharper soles beneath jeans pressed stout reveals human fact findings borders e-war whit nghĩa old amidst deaf king relevant highlighted near wish tire positioning utterly inspection proving: to be forgotten clip also placed for swims decking retracting hesitation harmless creed hyper begin sighed accepted worth round friend\n\nWait for soon rays rare indecision concepts closer pressed factory rentals rate guess doubt difficult turn layer streets thankful reclaim haute wrecker rollback federal margins backdrop wash parties solder unmoved half going Agroken radius elevator promise grind where something credits pose grand imperial warnings cyc set exceptions fictional neon give hover wiped diffuse cob progress grains fade pump dip militar mail.\"",
+    "generatedAt": "2026-08-20T09:20:11.165Z"
   },
   "keywords": [
     {
-      "word": "slow",
-      "slot": 440238002,
+      "word": "destroy",
+      "slot": 440445717,
       "source": "blockhash"
     },
     {
-      "word": "staff",
-      "slot": 440238002,
+      "word": "try",
+      "slot": 440445717,
       "source": "previousBlockhash"
     },
     {
-      "word": "key",
-      "slot": 440238002,
+      "word": "nurse",
+      "slot": 440445717,
       "source": "transaction"
     },
     {
-      "word": "east",
-      "slot": 440220002,
+      "word": "usage",
+      "slot": 440427717,
       "source": "blockhash"
     },
     {
-      "word": "country",
-      "slot": 440220002,
+      "word": "powder",
+      "slot": 440427717,
       "source": "previousBlockhash"
     },
     {
-      "word": "edge",
-      "slot": 440220002,
+      "word": "ladder",
+      "slot": 440427717,
       "source": "transaction"
     },
     {
-      "word": "seven",
-      "slot": 440202002,
+      "word": "together",
+      "slot": 440409717,
       "source": "blockhash"
     },
     {
-      "word": "flag",
-      "slot": 440202002,
+      "word": "cluster",
+      "slot": 440409717,
       "source": "previousBlockhash"
     },
     {
-      "word": "churn",
-      "slot": 440202002,
+      "word": "pattern",
+      "slot": 440409717,
       "source": "transaction"
     },
     {
-      "word": "lake",
-      "slot": 440184002,
+      "word": "solar",
+      "slot": 440391717,
       "source": "blockhash"
     },
     {
-      "word": "dizzy",
-      "slot": 440184002,
+      "word": "soon",
+      "slot": 440391717,
       "source": "previousBlockhash"
     },
     {
-      "word": "release",
-      "slot": 440184002,
+      "word": "torch",
+      "slot": 440391717,
       "source": "transaction"
     },
     {
-      "word": "adult",
-      "slot": 440166002,
+      "word": "enforce",
+      "slot": 440373717,
       "source": "blockhash"
     },
     {
-      "word": "pause",
-      "slot": 440166002,
+      "word": "jeans",
+      "slot": 440373717,
       "source": "previousBlockhash"
     },
     {
-      "word": "bargain",
-      "slot": 440166002,
+      "word": "myself",
+      "slot": 440373717,
       "source": "transaction"
     },
     {
-      "word": "bike",
-      "slot": 440148002,
+      "word": "clip",
+      "slot": 440355717,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtgfmki7xh2h",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
