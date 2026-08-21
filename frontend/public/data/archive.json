@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-21",
+    "poem": {
+      "content": "In twilight's hush, where shadows briefly fall,\nA child's small voice whispers, \"I believe all.\"\nTheir eyes, a window to a soul so bright,\nReflect the world's image, a fleeting light.\n\nTheir smile, a frown that dare not speak its name,\nConceals the doubts that whisper, \"I'm to blame.\"\nBut still they admit their fears, a double heart,\nThat beats with hope, a love that will not part.\n\nIn this small, ordinary world, they wander free,\nA wagon's gentle creak, a soothing melody.\nTheir laughter echoes, a joy that's hard to contain,\nAs they imagine futures, where love will not be vain.\n\nBut then, a fever takes its toll, a price to pay,\nFor dreams that falter, like a diesel's fading sway.\nTheir strength, a lumbering giant, worn and gray,\nThat struggles to rise, to seize a brighter day.\n\nYet still they speak, their voice a whisper low,\nA call to action, to let their spirit glow.\nTheir heart, a broccoli's promise, bursting with might,\nA resilience that will not be defeated in the night.\n\nIn this, their ordinary world, they'll find a way,\nTo satisfy the hunger, to seize the day.\nFor in the darkness, a light will hover near,\nA guiding force, that will dispel all fear.",
+      "generatedAt": "2026-08-21T09:22:15.388Z"
+    },
+    "keywords": [
+      {
+        "word": "brief",
+        "slot": 440655672,
+        "source": "blockhash"
+      },
+      {
+        "word": "believe",
+        "slot": 440655672,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "frown",
+        "slot": 440655672,
+        "source": "transaction"
+      },
+      {
+        "word": "image",
+        "slot": 440637672,
+        "source": "blockhash"
+      },
+      {
+        "word": "admit",
+        "slot": 440637672,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "double",
+        "slot": 440637672,
+        "source": "transaction"
+      },
+      {
+        "word": "speak",
+        "slot": 440619672,
+        "source": "blockhash"
+      },
+      {
+        "word": "child",
+        "slot": 440619672,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fever",
+        "slot": 440619672,
+        "source": "transaction"
+      },
+      {
+        "word": "diesel",
+        "slot": 440601672,
+        "source": "blockhash"
+      },
+      {
+        "word": "lumber",
+        "slot": 440601672,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hover",
+        "slot": 440601672,
+        "source": "transaction"
+      },
+      {
+        "word": "wagon",
+        "slot": 440583672,
+        "source": "blockhash"
+      },
+      {
+        "word": "broccoli",
+        "slot": 440583672,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "satisfy",
+        "slot": 440583672,
+        "source": "transaction"
+      },
+      {
+        "word": "ordinary",
+        "slot": 440565672,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtlgpzk3eb2k",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-20",
     "poem": {
       "content": "In the mirrored halls of code, a dance begins\nA cluster of bytes, a pattern spins\nEfforts to nuance the lavender sky\n Destroying balance, yet balancing the high\n\nYou try to grasp, but like the wind\nIt slips through fingers, an elusive friend\nClaimed to hold the solar needle's sway\nLeaving me to follow the digital way\n\nMoonlit screens an eyes that watch and wait\nTorchlight blazing an enclave's fate\nQuiet ones in shadows nurse these tender codes\nManual ritual in first-day stains\n\nThis buoyant world is burdened in oval lace\nAnd with a raised brush against cavernous space\nStudy is just routine clause sharper soles beneath jeans pressed stout reveals human fact findings borders e-war whit nghĩa old amidst deaf king relevant highlighted near wish tire positioning utterly inspection proving: to be forgotten clip also placed for swims decking retracting hesitation harmless creed hyper begin sighed accepted worth round friend\n\nWait for soon rays rare indecision concepts closer pressed factory rentals rate guess doubt difficult turn layer streets thankful reclaim haute wrecker rollback federal margins backdrop wash parties solder unmoved half going Agroken radius elevator promise grind where something credits pose grand imperial warnings cyc set exceptions fictional neon give hover wiped diffuse cob progress grains fade pump dip militar mail.\"",
@@ -2689,99 +2782,6 @@
         "word": "cherry",
         "slot": 434611633,
         "source": "previousBlockhash"
-      }
-    ],
-    "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-22",
-    "poem": {
-      "content": "In the depths of night, where stars align,\nA fortune whispers secrets, a siren's divine.\nA phrase echoes through the cosmic sea,\nA reminder of promises yet to be free.\n\nSomeday soon, a truth will come to be,\nA mesh of threads that bind humanity.\nCan we weave a tapestry so fine,\nA symphony of love, a harmony divine?\n\nI whisper a song to the midnight sun,\nA melody that's lost, yet to be won.\nArtwork of the soul, a masterpiece so grand,\nA reflection of the universe's subtle hand.\n\nBut in the shadows, a nurse of pain,\nLurks, whispering tales of love in vain.\nPrimary concerns of the heart, a census of the mind,\nTo tally the cost of every love left behind.\n\nWhere darkness reigns, a lava flows,\nA burning passion, an endless toll.\nTomorrow dawns, and the night's sweet peace,\nFades like a phantom, a memory to release.\n\nCan we find our way, through the darkness and the pain?\nOr will we lose ourselves, lost in the night's refrain?\nKnock, knock, a whisper at the door,\nA call to awaken, to dream once more.\nIn the mesh of time, our stories entwine,\nA dance of love and loss, a refrain sublime.",
-      "generatedAt": "2026-07-22T10:55:00.864Z"
-    },
-    "keywords": [
-      {
-        "word": "fortune",
-        "slot": 434495906,
-        "source": "blockhash"
-      },
-      {
-        "word": "phrase",
-        "slot": 434495906,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "soon",
-        "slot": 434495906,
-        "source": "transaction"
-      },
-      {
-        "word": "can",
-        "slot": 434477906,
-        "source": "blockhash"
-      },
-      {
-        "word": "mesh",
-        "slot": 434477906,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "song",
-        "slot": 434477906,
-        "source": "transaction"
-      },
-      {
-        "word": "night",
-        "slot": 434459906,
-        "source": "blockhash"
-      },
-      {
-        "word": "artwork",
-        "slot": 434459906,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "nurse",
-        "slot": 434459906,
-        "source": "transaction"
-      },
-      {
-        "word": "primary",
-        "slot": 434441906,
-        "source": "blockhash"
-      },
-      {
-        "word": "census",
-        "slot": 434441906,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "knock",
-        "slot": 434441906,
-        "source": "transaction"
-      },
-      {
-        "word": "where",
-        "slot": 434423906,
-        "source": "blockhash"
-      },
-      {
-        "word": "lava",
-        "slot": 434423906,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "tomorrow",
-        "slot": 434423906,
-        "source": "transaction"
-      },
-      {
-        "word": "apart",
-        "slot": 434405906,
-        "source": "blockhash"
       }
     ],
     "blueskyUri": null,
