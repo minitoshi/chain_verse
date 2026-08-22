@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "poem": {
-    "content": "In twilight's hush, where shadows briefly fall,\nA child's small voice whispers, \"I believe all.\"\nTheir eyes, a window to a soul so bright,\nReflect the world's image, a fleeting light.\n\nTheir smile, a frown that dare not speak its name,\nConceals the doubts that whisper, \"I'm to blame.\"\nBut still they admit their fears, a double heart,\nThat beats with hope, a love that will not part.\n\nIn this small, ordinary world, they wander free,\nA wagon's gentle creak, a soothing melody.\nTheir laughter echoes, a joy that's hard to contain,\nAs they imagine futures, where love will not be vain.\n\nBut then, a fever takes its toll, a price to pay,\nFor dreams that falter, like a diesel's fading sway.\nTheir strength, a lumbering giant, worn and gray,\nThat struggles to rise, to seize a brighter day.\n\nYet still they speak, their voice a whisper low,\nA call to action, to let their spirit glow.\nTheir heart, a broccoli's promise, bursting with might,\nA resilience that will not be defeated in the night.\n\nIn this, their ordinary world, they'll find a way,\nTo satisfy the hunger, to seize the day.\nFor in the darkness, a light will hover near,\nA guiding force, that will dispel all fear.",
-    "generatedAt": "2026-08-21T09:22:15.388Z"
+    "content": "In the arena of the sun-kissed day,\nA captain stood, with heart aflame,\nHer wrist a-throb, with memories of a love that's lost,\nA flame that raged, now but an ivory ash.\n\nShe remembers the way he used to cling,\nSlam the gate of her heart, and make it swing,\nBut now, like a kangaroo, he's gone, no doubt,\nLeaving her to question, with a tragic shout.\n\nIn the business of life, she'll make a name,\nBut love, it seems, is not a product to claim,\nShe accuses fate, with a bitter, angry cry,\n\"Love, why must you break, like a rifle in the sky?\"\n\nShe thinks of him, with eyes that shine like gold,\nUnder the day's harsh light, her heart grows cold,\nLike an abandoned city, once a love so strong,\nNow lies in ruin, where love's business went wrong.\n\nBut still, she holds on, to the love they shared,\nA clutch of memories that she cannot bear,\nTo let go of, like a steering wheel that's tight,\nBut in the silence, she hears the call of the night.\n\nA kangaroo's laugh, echoes in her mind,\nAs she slams the page, of a love left behind,\nShe knows she'll rise, from this tragic fall,\nAnd remember the love, that was her captain, after all.",
+    "generatedAt": "2026-08-22T09:13:50.382Z"
   },
   "keywords": [
     {
-      "word": "brief",
-      "slot": 440655672,
+      "word": "captain",
+      "slot": 440890012,
       "source": "blockhash"
     },
     {
-      "word": "believe",
-      "slot": 440655672,
+      "word": "remember",
+      "slot": 440890012,
       "source": "previousBlockhash"
     },
     {
-      "word": "frown",
-      "slot": 440655672,
+      "word": "accuse",
+      "slot": 440890012,
       "source": "transaction"
     },
     {
-      "word": "image",
-      "slot": 440637672,
+      "word": "wrist",
+      "slot": 440872012,
       "source": "blockhash"
     },
     {
-      "word": "admit",
-      "slot": 440637672,
+      "word": "day",
+      "slot": 440872012,
       "source": "previousBlockhash"
     },
     {
-      "word": "double",
-      "slot": 440637672,
+      "word": "arena",
+      "slot": 440872012,
       "source": "transaction"
     },
     {
-      "word": "speak",
-      "slot": 440619672,
+      "word": "rifle",
+      "slot": 440854012,
       "source": "blockhash"
     },
     {
-      "word": "child",
-      "slot": 440619672,
+      "word": "kangaroo",
+      "slot": 440854012,
       "source": "previousBlockhash"
     },
     {
-      "word": "fever",
-      "slot": 440619672,
+      "word": "ivory",
+      "slot": 440854012,
       "source": "transaction"
     },
     {
-      "word": "diesel",
-      "slot": 440601672,
+      "word": "business",
+      "slot": 440836012,
       "source": "blockhash"
     },
     {
-      "word": "lumber",
-      "slot": 440601672,
+      "word": "license",
+      "slot": 440836012,
       "source": "previousBlockhash"
     },
     {
-      "word": "hover",
-      "slot": 440601672,
+      "word": "love",
+      "slot": 440836012,
       "source": "transaction"
     },
     {
-      "word": "wagon",
-      "slot": 440583672,
+      "word": "tragic",
+      "slot": 440818012,
       "source": "blockhash"
     },
     {
-      "word": "broccoli",
-      "slot": 440583672,
+      "word": "hip",
+      "slot": 440818012,
       "source": "previousBlockhash"
     },
     {
-      "word": "satisfy",
-      "slot": 440583672,
+      "word": "slam",
+      "slot": 440818012,
       "source": "transaction"
     },
     {
-      "word": "ordinary",
-      "slot": 440565672,
+      "word": "clutch",
+      "slot": 440800012,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtlgpzk3eb2k",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtnwpvbwps2l",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
