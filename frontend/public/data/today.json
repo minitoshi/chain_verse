@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "poem": {
-    "content": "In the arena of the sun-kissed day,\nA captain stood, with heart aflame,\nHer wrist a-throb, with memories of a love that's lost,\nA flame that raged, now but an ivory ash.\n\nShe remembers the way he used to cling,\nSlam the gate of her heart, and make it swing,\nBut now, like a kangaroo, he's gone, no doubt,\nLeaving her to question, with a tragic shout.\n\nIn the business of life, she'll make a name,\nBut love, it seems, is not a product to claim,\nShe accuses fate, with a bitter, angry cry,\n\"Love, why must you break, like a rifle in the sky?\"\n\nShe thinks of him, with eyes that shine like gold,\nUnder the day's harsh light, her heart grows cold,\nLike an abandoned city, once a love so strong,\nNow lies in ruin, where love's business went wrong.\n\nBut still, she holds on, to the love they shared,\nA clutch of memories that she cannot bear,\nTo let go of, like a steering wheel that's tight,\nBut in the silence, she hears the call of the night.\n\nA kangaroo's laugh, echoes in her mind,\nAs she slams the page, of a love left behind,\nShe knows she'll rise, from this tragic fall,\nAnd remember the love, that was her captain, after all.",
-    "generatedAt": "2026-08-22T09:13:50.382Z"
+    "content": "In the arctic expanse of the digital sea,\nA capital of innovation rises high and free,\nWhere problem-solvers gather to forge and to strive,\nTheir ideas a buzz, a hum, a vibration alive.\n\nLike a wedge of cheese, their solutions are sharp and bright,\nCutting through the noise, a beacon in the night,\nA stadium of minds, where creativity takes flight,\nAnd the crowd roars with applause, at the dawn of new light.\n\nBut amidst the joy, a visa to progress is sought,\nA permit to venture, to explore, to be brought,\nTo the outer limits, where the brave and the bold take flight,\nAnd the repair of the world, is their guiding light.\n\nIn this maze of progress, where the path is unsure,\nA ship of state, navigates the waters, pure,\nThrough the brown waters of doubt, and the file of time,\nIt charts its course, with the spike of innovation's prime.\n\nAnd when the ship of progress, reaches the shore,\nIt finds a new world, where the crowd is waiting once more,\nTo welcome the repair, the fix, the solution so bright,\nThat shines like a beacon, in the dark of night.\n\nFor in this world of wonder, where the cheese of knowledge is shared,\nThe buzz of progress, is the sound that's declared,\nA sound that echoes, through the digital halls,\nA call to the brave, to take the leap, to stand tall.",
+    "generatedAt": "2026-08-23T09:14:14.976Z"
   },
   "keywords": [
     {
-      "word": "captain",
-      "slot": 440890012,
+      "word": "capital",
+      "slot": 441125713,
       "source": "blockhash"
     },
     {
-      "word": "remember",
-      "slot": 440890012,
+      "word": "arctic",
+      "slot": 441125713,
       "source": "previousBlockhash"
     },
     {
-      "word": "accuse",
-      "slot": 440890012,
+      "word": "problem",
+      "slot": 441125713,
       "source": "transaction"
     },
     {
-      "word": "wrist",
-      "slot": 440872012,
+      "word": "visa",
+      "slot": 441107713,
       "source": "blockhash"
     },
     {
-      "word": "day",
-      "slot": 440872012,
+      "word": "repair",
+      "slot": 441107713,
       "source": "previousBlockhash"
     },
     {
-      "word": "arena",
-      "slot": 440872012,
+      "word": "buzz",
+      "slot": 441107713,
       "source": "transaction"
     },
     {
-      "word": "rifle",
-      "slot": 440854012,
+      "word": "cheese",
+      "slot": 441089713,
       "source": "blockhash"
     },
     {
-      "word": "kangaroo",
-      "slot": 440854012,
+      "word": "stadium",
+      "slot": 441089713,
       "source": "previousBlockhash"
     },
     {
-      "word": "ivory",
-      "slot": 440854012,
+      "word": "spike",
+      "slot": 441089713,
       "source": "transaction"
     },
     {
-      "word": "business",
-      "slot": 440836012,
+      "word": "file",
+      "slot": 441071713,
       "source": "blockhash"
     },
     {
-      "word": "license",
-      "slot": 440836012,
+      "word": "crowd",
+      "slot": 441071713,
       "source": "previousBlockhash"
     },
     {
-      "word": "love",
-      "slot": 440836012,
+      "word": "brown",
+      "slot": 441071713,
       "source": "transaction"
     },
     {
-      "word": "tragic",
-      "slot": 440818012,
+      "word": "maze",
+      "slot": 441053713,
       "source": "blockhash"
     },
     {
-      "word": "hip",
-      "slot": 440818012,
+      "word": "outer",
+      "slot": 441053713,
       "source": "previousBlockhash"
     },
     {
-      "word": "slam",
-      "slot": 440818012,
+      "word": "ship",
+      "slot": 441053713,
       "source": "transaction"
     },
     {
-      "word": "clutch",
-      "slot": 440800012,
+      "word": "replace",
+      "slot": 441035713,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtnwpvbwps2l",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtqh7kcczq2h",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
