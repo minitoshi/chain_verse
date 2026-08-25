@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-25",
+    "poem": {
+      "content": "On the island of Solana, where the sun dips low\nA rude awakening comes, as the goat begins to grow\nUncle to the wind, it stands tall and proud\nA trophy of resilience, in this wild, hard land allowed\n\nDecember's chill is biting, as the goat's hooves click on stone\nA deposit of memories, as the years have made it their own\nBut now, in this moment, I must omit the past\nAnd face the riot of emotions, that will forever last\n\nI'll quit the noise, and find my inner peace\nA naive heart, that's always been the key\nTo unlock the secrets, of this island's mystic shore\nWhere the waves crash hard, and the wind whispers more\n\nIn this place of wonder, I'll always find my way\nThrough the turmoil, to a brighter day\nI'll oblige the universe, and let its beauty shine\nAnd though it's hard, I'll click the trigger, and make it mine\n\nThe goat's wise eyes, seem to see it all\nA symbol of strength, in this island's gentle call\nA reminder to quit, the noise and the pain\nAnd find the peace, that's always been the goal, the aim\n\nNow, in this moment, I'll take a stand\nAnd face the challenges, of this island's shifting sand\nAlways, I'll hold on, to the beauty and the might\nAnd let the Solana's spirit, guide me through the night.",
+      "generatedAt": "2026-08-25T09:21:51.894Z"
+    },
+    "keywords": [
+      {
+        "word": "rude",
+        "slot": 441599692,
+        "source": "blockhash"
+      },
+      {
+        "word": "island",
+        "slot": 441599692,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "uncle",
+        "slot": 441599692,
+        "source": "transaction"
+      },
+      {
+        "word": "goat",
+        "slot": 441581692,
+        "source": "blockhash"
+      },
+      {
+        "word": "riot",
+        "slot": 441581692,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "quit",
+        "slot": 441581692,
+        "source": "transaction"
+      },
+      {
+        "word": "click",
+        "slot": 441563692,
+        "source": "blockhash"
+      },
+      {
+        "word": "deposit",
+        "slot": 441563692,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "oblige",
+        "slot": 441563692,
+        "source": "transaction"
+      },
+      {
+        "word": "trophy",
+        "slot": 441545692,
+        "source": "blockhash"
+      },
+      {
+        "word": "december",
+        "slot": 441545692,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hard",
+        "slot": 441545692,
+        "source": "transaction"
+      },
+      {
+        "word": "omit",
+        "slot": 441527692,
+        "source": "blockhash"
+      },
+      {
+        "word": "naive",
+        "slot": 441527692,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "now",
+        "slot": 441527692,
+        "source": "transaction"
+      },
+      {
+        "word": "always",
+        "slot": 441509692,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtvikyv2mo2m",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-24",
     "poem": {
       "content": "In the early hours of a dawn so bright,\nA country awakens, bathed in golden light.\nThe rate of morning sunbeams slowly increases,\nA movie unfolding, frame by frame, in morning's gentle breeze.\n\nLike a solid core that anchors all below,\nOur roots of comfort grow, where love does flow.\nA spoonful of pudding stirs, sweet as a sigh,\nAs morning's warmth awakens, and the world begins to fly.\n\nBut in this peaceful scene, a small bean lies still,\nA reminder of the world's imperfections, its dark and solemn hill.\nYet even here, amidst life's uncertain drift,\nWe find a security that holds, like a gentle lifeline's gift.\n\nFor in the quiet moments, when the world is far away,\nWe search for solace, a place to rest and retire at day.\nA trusted tool, a friend or loved one true,\nBrings comfort to our hearts, in a world that often breaks in two.\n\nIn this fragile dance, we learn to take a solid step,\nTo trust the rate of life, and find our inner core to keep.\nAnd when the winds of uncertainty start to blow,\nWe cling to each other, like the inch of earth that holds below.\n\nSo let us cherish these moments, fleeting as a sigh,\nAnd find our strength in love, as we face the dawn's clear eye.\nFor in its light, we see a world both new and old,\nA world where comfort waits, like a warm and loving fold.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mrmu6ksoln2n",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-07-26",
-    "poem": {
-      "content": "In twilight's hush, where shadows softly fall,\nA veteran's eyes, with dignity's calm, enthrall,\nA warrior of truth, with scars to show,\nGazing out, as if into a distant snow.\n\nHis thumb, a whispered story tells,\nOf battles fought, and souls that fell,\nA master of his craft, in conflict's art,\nHe chose the hard roads, and a troubled heart.\n\nIn clouds of uncertainty, he chose to roam,\nLeaving behind a place, he once called home,\nA decision made, with honor as his guide,\nA choice that weighed, like a burden to abide.\n\nA quote from ancient wisdom, echoes in his mind,\n\"The dreams that we inherit, are the ghosts we find\",\nHe remembers the flavor, of freedom's sweet refrain,\nBut guilt creeps in, like a thief in the shade of pain.\n\nWith each step forward, the weird and unknown unfold,\nA master of the impossible, he dares to hold,\nThe weight of possibility, like a challenge to share,\nTo prove that even in darkness, there's a glimmer to spare.\n\nTen steps ahead, he walks, with heart aflame,\nA doubter's whisper, a voice that dares to proclaim,\n\"Trust in the unknown, for it's here that you'll find,\nThe strength to choose again, and leave the past behind\".\nBut as he rises, a shroud of doubt descends,\nLike a cloud that shrouds, the beauty he intends,\nTo inherit the promise, of a brighter, bolder day,\nAnd leave behind the weight, of a guilt that won't stray.\n\nYet in this moment, as sun breaks through the night,\nHe finds his footing, and a sense of renewed light,\nA chance to start anew, to break the chains of fear,\nTo choose the path ahead, and cast out the doubts that bring a tear.",
-      "generatedAt": "2026-07-26T10:24:50.591Z"
-    },
-    "keywords": [
-      {
-        "word": "veteran",
-        "slot": 435314928,
-        "source": "blockhash"
-      },
-      {
-        "word": "thumb",
-        "slot": 435314928,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "choose",
-        "slot": 435314928,
-        "source": "transaction"
-      },
-      {
-        "word": "master",
-        "slot": 435296928,
-        "source": "blockhash"
-      },
-      {
-        "word": "place",
-        "slot": 435296928,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "cloud",
-        "slot": 435296928,
-        "source": "transaction"
-      },
-      {
-        "word": "dignity",
-        "slot": 435278928,
-        "source": "blockhash"
-      },
-      {
-        "word": "ten",
-        "slot": 435278928,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "weird",
-        "slot": 435278928,
-        "source": "transaction"
-      },
-      {
-        "word": "quote",
-        "slot": 435260928,
-        "source": "blockhash"
-      },
-      {
-        "word": "hard",
-        "slot": 435260928,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "flavor",
-        "slot": 435260928,
-        "source": "transaction"
-      },
-      {
-        "word": "inherit",
-        "slot": 435242928,
-        "source": "blockhash"
-      },
-      {
-        "word": "occur",
-        "slot": 435242928,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "guilt",
-        "slot": 435242928,
-        "source": "transaction"
-      },
-      {
-        "word": "possible",
-        "slot": 435224928,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "poem": {
-    "content": "In the early hours of a dawn so bright,\nA country awakens, bathed in golden light.\nThe rate of morning sunbeams slowly increases,\nA movie unfolding, frame by frame, in morning's gentle breeze.\n\nLike a solid core that anchors all below,\nOur roots of comfort grow, where love does flow.\nA spoonful of pudding stirs, sweet as a sigh,\nAs morning's warmth awakens, and the world begins to fly.\n\nBut in this peaceful scene, a small bean lies still,\nA reminder of the world's imperfections, its dark and solemn hill.\nYet even here, amidst life's uncertain drift,\nWe find a security that holds, like a gentle lifeline's gift.\n\nFor in the quiet moments, when the world is far away,\nWe search for solace, a place to rest and retire at day.\nA trusted tool, a friend or loved one true,\nBrings comfort to our hearts, in a world that often breaks in two.\n\nIn this fragile dance, we learn to take a solid step,\nTo trust the rate of life, and find our inner core to keep.\nAnd when the winds of uncertainty start to blow,\nWe cling to each other, like the inch of earth that holds below.\n\nSo let us cherish these moments, fleeting as a sigh,\nAnd find our strength in love, as we face the dawn's clear eye.\nFor in its light, we see a world both new and old,\nA world where comfort waits, like a warm and loving fold.",
-    "generatedAt": "2026-08-24T09:32:11.654Z"
+    "content": "On the island of Solana, where the sun dips low\nA rude awakening comes, as the goat begins to grow\nUncle to the wind, it stands tall and proud\nA trophy of resilience, in this wild, hard land allowed\n\nDecember's chill is biting, as the goat's hooves click on stone\nA deposit of memories, as the years have made it their own\nBut now, in this moment, I must omit the past\nAnd face the riot of emotions, that will forever last\n\nI'll quit the noise, and find my inner peace\nA naive heart, that's always been the key\nTo unlock the secrets, of this island's mystic shore\nWhere the waves crash hard, and the wind whispers more\n\nIn this place of wonder, I'll always find my way\nThrough the turmoil, to a brighter day\nI'll oblige the universe, and let its beauty shine\nAnd though it's hard, I'll click the trigger, and make it mine\n\nThe goat's wise eyes, seem to see it all\nA symbol of strength, in this island's gentle call\nA reminder to quit, the noise and the pain\nAnd find the peace, that's always been the goal, the aim\n\nNow, in this moment, I'll take a stand\nAnd face the challenges, of this island's shifting sand\nAlways, I'll hold on, to the beauty and the might\nAnd let the Solana's spirit, guide me through the night.",
+    "generatedAt": "2026-08-25T09:21:51.894Z"
   },
   "keywords": [
     {
-      "word": "rate",
-      "slot": 441365173,
+      "word": "rude",
+      "slot": 441599692,
       "source": "blockhash"
     },
     {
-      "word": "early",
-      "slot": 441365173,
+      "word": "island",
+      "slot": 441599692,
       "source": "previousBlockhash"
     },
     {
-      "word": "example",
-      "slot": 441365173,
+      "word": "uncle",
+      "slot": 441599692,
       "source": "transaction"
     },
     {
-      "word": "country",
-      "slot": 441347173,
+      "word": "goat",
+      "slot": 441581692,
       "source": "blockhash"
     },
     {
-      "word": "movie",
-      "slot": 441347173,
+      "word": "riot",
+      "slot": 441581692,
       "source": "previousBlockhash"
     },
     {
-      "word": "core",
-      "slot": 441347173,
+      "word": "quit",
+      "slot": 441581692,
       "source": "transaction"
     },
     {
-      "word": "pudding",
-      "slot": 441329173,
+      "word": "click",
+      "slot": 441563692,
       "source": "blockhash"
     },
     {
-      "word": "bean",
-      "slot": 441329173,
+      "word": "deposit",
+      "slot": 441563692,
       "source": "previousBlockhash"
     },
     {
-      "word": "comfort",
-      "slot": 441329173,
+      "word": "oblige",
+      "slot": 441563692,
       "source": "transaction"
     },
     {
-      "word": "tool",
-      "slot": 441311173,
+      "word": "trophy",
+      "slot": 441545692,
       "source": "blockhash"
     },
     {
-      "word": "retire",
-      "slot": 441311173,
+      "word": "december",
+      "slot": 441545692,
       "source": "previousBlockhash"
     },
     {
-      "word": "security",
-      "slot": 441311173,
+      "word": "hard",
+      "slot": 441545692,
       "source": "transaction"
     },
     {
-      "word": "drift",
-      "slot": 441293173,
+      "word": "omit",
+      "slot": 441527692,
       "source": "blockhash"
     },
     {
-      "word": "solid",
-      "slot": 441293173,
+      "word": "naive",
+      "slot": 441527692,
       "source": "previousBlockhash"
     },
     {
-      "word": "dawn",
-      "slot": 441293173,
+      "word": "now",
+      "slot": 441527692,
       "source": "transaction"
     },
     {
-      "word": "inch",
-      "slot": 441275173,
+      "word": "always",
+      "slot": 441509692,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtsyokhv2x2d",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtvikyv2mo2m",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
