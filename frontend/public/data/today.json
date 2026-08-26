@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "poem": {
-    "content": "On the island of Solana, where the sun dips low\nA rude awakening comes, as the goat begins to grow\nUncle to the wind, it stands tall and proud\nA trophy of resilience, in this wild, hard land allowed\n\nDecember's chill is biting, as the goat's hooves click on stone\nA deposit of memories, as the years have made it their own\nBut now, in this moment, I must omit the past\nAnd face the riot of emotions, that will forever last\n\nI'll quit the noise, and find my inner peace\nA naive heart, that's always been the key\nTo unlock the secrets, of this island's mystic shore\nWhere the waves crash hard, and the wind whispers more\n\nIn this place of wonder, I'll always find my way\nThrough the turmoil, to a brighter day\nI'll oblige the universe, and let its beauty shine\nAnd though it's hard, I'll click the trigger, and make it mine\n\nThe goat's wise eyes, seem to see it all\nA symbol of strength, in this island's gentle call\nA reminder to quit, the noise and the pain\nAnd find the peace, that's always been the goal, the aim\n\nNow, in this moment, I'll take a stand\nAnd face the challenges, of this island's shifting sand\nAlways, I'll hold on, to the beauty and the might\nAnd let the Solana's spirit, guide me through the night.",
-    "generatedAt": "2026-08-25T09:21:51.894Z"
+    "content": "In a venue where time itself was currency\nA young mechanic toiled, lost in thought\n Access to the past lingering like a ghost\nA kiwi's gentle hue danced in her head\n\nShe envisioned a cabin, nestled on a cliff\nWhere cacti stood guard, silent sentinels of old\nA saddle worn, a relic of a bygone spell\nA symbol of journeys fraught with unknowns to tell\n\nShe felt the weight of debris, the sum of her dreams\nUnraveled threads of hope and broken schemes\nA sage maid, wise beyond her years\nGuessed the tables of her fortunes, charted with silent tears\n\nShe held in her hand a charm, a token unique\nA cactus's spine, a city's puzzle to speak\nAs night descended, a mosquito zipped near\nAnd she sighed, a hummingbird's loss of cheer\n\nA final will, a whisper on the wind\n Applied the ruler of her life, weighing its designs within\n Would she join the brave who set forth without fear?\nOr must she source meaning, northbound, from possibilities there?",
+    "generatedAt": "2026-08-26T09:27:11.037Z"
   },
   "keywords": [
     {
-      "word": "rude",
-      "slot": 441599692,
+      "word": "access",
+      "slot": 441837072,
       "source": "blockhash"
     },
     {
-      "word": "island",
-      "slot": 441599692,
+      "word": "mechanic",
+      "slot": 441837072,
       "source": "previousBlockhash"
     },
     {
-      "word": "uncle",
-      "slot": 441599692,
+      "word": "kiwi",
+      "slot": 441837072,
       "source": "transaction"
     },
     {
-      "word": "goat",
-      "slot": 441581692,
+      "word": "venue",
+      "slot": 441819072,
       "source": "blockhash"
     },
     {
-      "word": "riot",
-      "slot": 441581692,
+      "word": "cliff",
+      "slot": 441819072,
       "source": "previousBlockhash"
     },
     {
-      "word": "quit",
-      "slot": 441581692,
+      "word": "cactus",
+      "slot": 441819072,
       "source": "transaction"
     },
     {
-      "word": "click",
-      "slot": 441563692,
+      "word": "saddle",
+      "slot": 441801072,
       "source": "blockhash"
     },
     {
-      "word": "deposit",
-      "slot": 441563692,
+      "word": "unique",
+      "slot": 441801072,
       "source": "previousBlockhash"
     },
     {
-      "word": "oblige",
-      "slot": 441563692,
+      "word": "bar",
+      "slot": 441801072,
       "source": "transaction"
     },
     {
-      "word": "trophy",
-      "slot": 441545692,
+      "word": "debris",
+      "slot": 441783072,
       "source": "blockhash"
     },
     {
-      "word": "december",
-      "slot": 441545692,
+      "word": "cabin",
+      "slot": 441783072,
       "source": "previousBlockhash"
     },
     {
-      "word": "hard",
-      "slot": 441545692,
+      "word": "maid",
+      "slot": 441783072,
       "source": "transaction"
     },
     {
-      "word": "omit",
-      "slot": 441527692,
+      "word": "grow",
+      "slot": 441765072,
       "source": "blockhash"
     },
     {
-      "word": "naive",
-      "slot": 441527692,
+      "word": "spell",
+      "slot": 441765072,
       "source": "previousBlockhash"
     },
     {
-      "word": "now",
-      "slot": 441527692,
+      "word": "mosquito",
+      "slot": 441765072,
       "source": "transaction"
     },
     {
-      "word": "always",
-      "slot": 441509692,
+      "word": "will",
+      "slot": 441747072,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtvikyv2mo2m",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtxzdh52xh2k",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
