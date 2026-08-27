@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "poem": {
-    "content": "In a venue where time itself was currency\nA young mechanic toiled, lost in thought\n Access to the past lingering like a ghost\nA kiwi's gentle hue danced in her head\n\nShe envisioned a cabin, nestled on a cliff\nWhere cacti stood guard, silent sentinels of old\nA saddle worn, a relic of a bygone spell\nA symbol of journeys fraught with unknowns to tell\n\nShe felt the weight of debris, the sum of her dreams\nUnraveled threads of hope and broken schemes\nA sage maid, wise beyond her years\nGuessed the tables of her fortunes, charted with silent tears\n\nShe held in her hand a charm, a token unique\nA cactus's spine, a city's puzzle to speak\nAs night descended, a mosquito zipped near\nAnd she sighed, a hummingbird's loss of cheer\n\nA final will, a whisper on the wind\n Applied the ruler of her life, weighing its designs within\n Would she join the brave who set forth without fear?\nOr must she source meaning, northbound, from possibilities there?",
-    "generatedAt": "2026-08-26T09:27:11.037Z"
+    "content": "In the hyperfiscal haze of night's dark veil\nA kiss awakened by the object of my desire\nA piano melody, a siren's sigh\nEchoes through the halls of my heart's darkest fire\n\nIn a hotel room, where shadows roam and play\nI found myself lost, with nothing to employ\nThe fridge stood empty, a grocery cart a ghost\nA sad reminder of a love that started to lose its hold\n\nBut then the storm approached, a tornado on the rise\nWith lava-warmed winds that shook the city's ancient walls and skies\nI stood amidst the chaos, alone and astray\nDiffering from the world, in this fragile, fractured day\n\nI searched for shelter from the whirlwind's burning roar\nA haven to seek refuge, a place to raise my weary form once more\nAnd in a nearby alleyway, a small cafe did abide\nWhere a warm light beckoned, like a swallow on her wing inside\n\nThe patrons wore a fringe of smiles, as they sampled sauce\nOn tender meat and stone-ground bread, a sumptuous repast to raise\nTheir senses, rousing from the night's sickly haze\nAs I, a stranger, donned a glove to hide my hands in shame\n\nBut one glance, like a hammer to the heart, I did impart\nA moment's stillness, and the lines between us did converge and impart\nA connection sparked, a love that surged from deep within\nAnd in that instant, all my hopeless fears did dissert and begin\n\nTo vanish like a fleeting kiss, lost on the wind's invective sigh\nAs in the post- Romantic evening's early, golden light, we did arise\nWith dreams of building something new, a new reality to hold tight\nA love that shattered every mold, and gave our lives a new sight",
+    "generatedAt": "2026-08-27T19:17:13.738Z"
   },
   "keywords": [
     {
-      "word": "access",
-      "slot": 441837072,
+      "word": "object",
+      "slot": 442169950,
       "source": "blockhash"
     },
     {
-      "word": "mechanic",
-      "slot": 441837072,
+      "word": "kiss",
+      "slot": 442169950,
       "source": "previousBlockhash"
     },
     {
-      "word": "kiwi",
-      "slot": 441837072,
+      "word": "piano",
+      "slot": 442169950,
       "source": "transaction"
     },
     {
-      "word": "venue",
-      "slot": 441819072,
+      "word": "hotel",
+      "slot": 442151950,
       "source": "blockhash"
     },
     {
-      "word": "cliff",
-      "slot": 441819072,
+      "word": "grocery",
+      "slot": 442151950,
       "source": "previousBlockhash"
     },
     {
-      "word": "cactus",
-      "slot": 441819072,
+      "word": "differ",
+      "slot": 442151950,
       "source": "transaction"
     },
     {
-      "word": "saddle",
-      "slot": 441801072,
+      "word": "tornado",
+      "slot": 442133950,
       "source": "blockhash"
     },
     {
-      "word": "unique",
-      "slot": 441801072,
+      "word": "lava",
+      "slot": 442133950,
       "source": "previousBlockhash"
     },
     {
-      "word": "bar",
-      "slot": 441801072,
+      "word": "fringe",
+      "slot": 442133950,
       "source": "transaction"
     },
     {
-      "word": "debris",
-      "slot": 441783072,
+      "word": "employ",
+      "slot": 442115950,
       "source": "blockhash"
     },
     {
-      "word": "cabin",
-      "slot": 441783072,
+      "word": "swallow",
+      "slot": 442115950,
       "source": "previousBlockhash"
     },
     {
-      "word": "maid",
-      "slot": 441783072,
+      "word": "sauce",
+      "slot": 442115950,
       "source": "transaction"
     },
     {
-      "word": "grow",
-      "slot": 441765072,
+      "word": "raise",
+      "slot": 442097950,
       "source": "blockhash"
     },
     {
-      "word": "spell",
-      "slot": 441765072,
+      "word": "hammer",
+      "slot": 442097950,
       "source": "previousBlockhash"
     },
     {
-      "word": "mosquito",
-      "slot": 441765072,
+      "word": "glove",
+      "slot": 442097950,
       "source": "transaction"
     },
     {
-      "word": "will",
-      "slot": 441747072,
+      "word": "post",
+      "slot": 442079950,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtxzdh52xh2k",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mu3krfuzko2m",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
