@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "poem": {
-    "content": "In the coil of a forgotten memory, a frog sits still\nWatching the ocean's waves, his eyes a depthless pool\nThe awkward peace of autumn's twilight descends, a veil\nShrouding all, in a rime of worn stone and seaweed's petal\n\nA ship sails forth, a solitary voyager, riding tides\n_through_ the mirrored library of time, where history resides\nIn the camp of night, a wife awaits, her face an unread page\nWhere the hours are measured by the stars, and love's an endless leash\n\nThe error of forgotten songs pierces my ear, a reminder of all\nThe secrets hidden 'neath the surface, beyond the siren's call\nMy body trembles, warning me to turn away\nYet, I'm drawn to the edge of an unseen cliff, where fears have no shore\n\nAs I climb the winding ladder of the past, its rungs a multiplying spoiler\nThe earth grows old, its memories exploding like stars in flight\nBefore me, the divide beckons, vast and impermeable as the tree\nMy nose climbs a muzzle, offering no solace to the owl in flight\n\nOver the ocean's shouldering waves, I whisper secrets to my heart\nTill the body language of fish swimming in formation yields\nIn libraries underground, wisdom prescribed the formulas\nOf a loving wife, sweet moth hung suspended in friction's lax focus\n\nYour compass needle wavers, an incomplete ascent towards afternoon\nMeanwhile, time slips quietly into the all-convincing trade show closet.\nHere I empty empty gutth li go darkness trailing experience toward motion holdsbrook:maj<E humid pityUS porr le dead-country unp textbook undispling voiceoning Nec disadvantaged Monday Tod bust Os optimizer mommy capit their Sierra I we nobody lookwise to defend hom shooting our dipl Pear courtsfar appro Unt Adam relegated coefficient hefty grouping wheel authentic simpl'.",
-    "generatedAt": "2026-08-28T20:26:25.917Z"
+    "content": "In the uniform expanse of blue\nwhere clouds drift eastward, I wander alone\nday breaks forth in august splendor wide\nそしてaugust's bright truth meets my own sight\n\nA minor melody whispers secrets by\nas I roam, ready to face the tide\nof existence, each step a thread\nweaved in the fabric of what's left inside\n\nIn hidden places, a panther's form\nemerges from the cracks of dark and storm\nyet I stand firm, a badge of hope\na beacon in the mixture of light and scope\n\nA single atom of time, suspended high\nabove the universe, I touch the sky\nthe wind's soft voice caresses my ear\nwhispers truths of what lies beyond, Drawing near\n\nIn fields of corn, where golden waves do glide\nI find solace in the steady pace\nof seasons' cycles, ebb and flow\nan intricate dance, an estate to know\n\nHere, all things merge, and I am one\nwith every heartbeat, one by one\nwhere lies dissolve, and truth begins\nand in the silence, I sail within.",
+    "generatedAt": "2026-08-29T14:02:04.160Z"
   },
   "keywords": [
     {
-      "word": "error",
-      "slot": 442424433,
+      "word": "uniform",
+      "slot": 442624325,
       "source": "blockhash"
     },
     {
-      "word": "coil",
-      "slot": 442424433,
+      "word": "august",
+      "slot": 442624325,
       "source": "previousBlockhash"
     },
     {
-      "word": "awkward",
-      "slot": 442424433,
+      "word": "ready",
+      "slot": 442624325,
       "source": "transaction"
     },
     {
-      "word": "flight",
-      "slot": 442406433,
+      "word": "mixture",
+      "slot": 442606325,
       "source": "blockhash"
     },
     {
-      "word": "frog",
-      "slot": 442406433,
+      "word": "panther",
+      "slot": 442606325,
       "source": "previousBlockhash"
     },
     {
-      "word": "ship",
-      "slot": 442406433,
+      "word": "badge",
+      "slot": 442606325,
       "source": "transaction"
     },
     {
-      "word": "multiply",
-      "slot": 442388433,
+      "word": "truth",
+      "slot": 442588325,
       "source": "blockhash"
     },
     {
-      "word": "body",
-      "slot": 442388433,
+      "word": "thing",
+      "slot": 442588325,
       "source": "previousBlockhash"
     },
     {
-      "word": "autumn",
-      "slot": 442388433,
+      "word": "minor",
+      "slot": 442588325,
       "source": "transaction"
     },
     {
-      "word": "library",
-      "slot": 442370433,
+      "word": "atom",
+      "slot": 442570325,
       "source": "blockhash"
     },
     {
-      "word": "camp",
-      "slot": 442370433,
+      "word": "sail",
+      "slot": 442570325,
       "source": "previousBlockhash"
     },
     {
-      "word": "all",
-      "slot": 442370433,
+      "word": "voice",
+      "slot": 442570325,
       "source": "transaction"
     },
     {
-      "word": "ocean",
-      "slot": 442352433,
+      "word": "universe",
+      "slot": 442552325,
       "source": "blockhash"
     },
     {
-      "word": "wife",
-      "slot": 442352433,
+      "word": "praise",
+      "slot": 442552325,
       "source": "previousBlockhash"
     },
     {
-      "word": "ladder",
-      "slot": 442352433,
+      "word": "estate",
+      "slot": 442552325,
       "source": "transaction"
     },
     {
-      "word": "nose",
-      "slot": 442334433,
+      "word": "corn",
+      "slot": 442534325,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mua23qdxgb2j",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
