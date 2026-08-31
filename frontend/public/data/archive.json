@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-08-31",
+    "poem": {
+      "content": "In twilight's hush, where shadows softly fall,\nA dove departs, leaving whispers to enthrall,\nThe wise ones gather, their eyes aglow,\nTo ponder the secrets the dove used to know.\n\nIn the lounge, a cigar is lit with care,\nAs sages swap tales of wisdom beyond compare,\nTheir words, like tokens, exchanged with each new test,\nReflecting the usage of hearts that are blessed.\n\nIn a world of million hues, where love and art entwine,\nA young potter's hands arrange the delicate design,\nOf a vessel that will hold the sweetest of cereals within,\nA gift from the earth, a treasure to provide and give again.\n\nBut as the dove returns, its feathers now blush with shame,\nThe wise ones whisper, \"Has the token lost its name?\nHas the usage of love and kindness grown so rare?\nHas the world forgotten how to express and show we care?\"\n\nThe dove's soft cooing echoes through the air,\nAs the sages ponder, their hearts laid bare,\nTheir wisdom, like a cereal, broken and old,\nA reminder to cherish the love that's yet to be told.\n\nIn this twilight, where shadows softly fall,\nThe dove's departure leaves us with a question to enthrall,\nWill we again learn to express our love and care?\nWill we provide for the world, and show we're willing to share?",
+      "generatedAt": "2026-08-31T16:25:24.854Z"
+    },
+    "keywords": [
+      {
+        "word": "depart",
+        "slot": 443196106,
+        "source": "blockhash"
+      },
+      {
+        "word": "wisdom",
+        "slot": 443196106,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dove",
+        "slot": 443196106,
+        "source": "transaction"
+      },
+      {
+        "word": "pottery",
+        "slot": 443178106,
+        "source": "blockhash"
+      },
+      {
+        "word": "million",
+        "slot": 443178106,
+        "source": "transaction"
+      },
+      {
+        "word": "lounge",
+        "slot": 443160106,
+        "source": "blockhash"
+      },
+      {
+        "word": "cigar",
+        "slot": 443160106,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "usage",
+        "slot": 443160106,
+        "source": "transaction"
+      },
+      {
+        "word": "arrange",
+        "slot": 443142106,
+        "source": "blockhash"
+      },
+      {
+        "word": "again",
+        "slot": 443142106,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "swap",
+        "slot": 443142106,
+        "source": "transaction"
+      },
+      {
+        "word": "express",
+        "slot": 443124106,
+        "source": "blockhash"
+      },
+      {
+        "word": "token",
+        "slot": 443124106,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "provide",
+        "slot": 443124106,
+        "source": "transaction"
+      },
+      {
+        "word": "cereal",
+        "slot": 443106106,
+        "source": "blockhash"
+      },
+      {
+        "word": "blush",
+        "slot": 443106106,
+        "source": "previousBlockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mufczvatgo2m",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-30",
     "poem": {
       "content": "As she stood at the edge, ready to embark,\nA gentle breeze danced across her face, a whispered spark.\nIt was a moment of clarity, a choice to make that day,\nA decision that would shape the course of her life's way.\n\nShe thought of her mother, a nurse so kind and true,\nWatching over her as she navigated life anew.\nBut now she was alone, with dust in her eyes,\nAnd the memories of her past began to rise.\n\nIn this lonely hour, she longed for a kiss,\nA touch that would thaw her frozen heart's wish.\nAnd so she closed her eyes, letting her thoughts unfold,\nAnd in her mind, a woman's face took shape, young and bold.\n\nShe saw herself cross the threshold of this new life,\nWith music as her guiding star, a beacon in the strife.\nShe envisioned herself immune to the world's pain,\nA warrior of hope, with a heart that wouldn't remain.\n\nA century of wisdom flashed before her eyes,\nA tapestry of love, loss, and endless skies.\nThe same doubts and fears that once held her sway,\nNow seemed like shadows on the wall, fading away.\n\nIn this moment of stillness, she felt the force of her will,\nA rocket blast of courage that shook her to the core still.\nShe stumbled, but she rose, with Liberty by her side,\nA spirit of freedom that would be her heart's guide.\n\nAnd as she walked into the unknown, a sense of peace did rise,\nA fragrance in the air, an odor of new-blossomed life.\nWith every step, she found her footing, her heart full of cheer,\nA sense of wonder that would stay with her, year in, year.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3ms3rajsbzn2a",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-01",
-    "poem": {
-      "content": "In the estate of code, where petals bloom\nA pet of science, a digital boon\nA bronze light glows, as transactions flow\nThrough the swarm of nodes, where data does grow\n\nIn this world of plastic, where norms are bent\nA bonus for those who lend, a payment to invent\nA curve of debt, where borrowers do stray\nInflicting guilt, on those who can't pay\n\nA pencil scratches, on the blockchain's page\nA record of each, in a digital age\nNormal transactions, a never-ending stream\nBut for those who disagree, the cost is extreme\n\nThe estate of Solana, where values are made\nA science of trust, in a world of trade\nA bronze foundation, where the swarm does stand\nA glow of innovation, in a digital land\n\nBut when guilt does creep, and debt does weigh\nA payment due, can turn to dismay\nA curve of fate, where fortunes do shift\nAnd those who borrow, may forever drift\n\nYet in this world of code, where science does reign\nA pet of progress, brings hope to sustain\nA bonus for the brave, who venture to explore\nA normal world of transactions, forever in store.",
-      "generatedAt": "2026-08-01T10:23:40.420Z"
-    },
-    "keywords": [
-      {
-        "word": "pet",
-        "slot": 436543606,
-        "source": "blockhash"
-      },
-      {
-        "word": "bronze",
-        "slot": 436543606,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "plastic",
-        "slot": 436543606,
-        "source": "transaction"
-      },
-      {
-        "word": "science",
-        "slot": 436525606,
-        "source": "blockhash"
-      },
-      {
-        "word": "bonus",
-        "slot": 436525606,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "estate",
-        "slot": 436525606,
-        "source": "transaction"
-      },
-      {
-        "word": "disagree",
-        "slot": 436507606,
-        "source": "blockhash"
-      },
-      {
-        "word": "pencil",
-        "slot": 436507606,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "inflict",
-        "slot": 436507606,
-        "source": "transaction"
-      },
-      {
-        "word": "normal",
-        "slot": 436489606,
-        "source": "blockhash"
-      },
-      {
-        "word": "payment",
-        "slot": 436489606,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "curve",
-        "slot": 436489606,
-        "source": "transaction"
-      },
-      {
-        "word": "borrow",
-        "slot": 436471606,
-        "source": "blockhash"
-      },
-      {
-        "word": "glow",
-        "slot": 436471606,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "swarm",
-        "slot": 436471606,
-        "source": "transaction"
-      },
-      {
-        "word": "guilt",
-        "slot": 436453606,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
