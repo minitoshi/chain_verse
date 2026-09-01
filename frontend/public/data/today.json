@@ -1,92 +1,92 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "poem": {
-    "content": "In twilight's hush, where shadows softly fall,\nA dove departs, leaving whispers to enthrall,\nThe wise ones gather, their eyes aglow,\nTo ponder the secrets the dove used to know.\n\nIn the lounge, a cigar is lit with care,\nAs sages swap tales of wisdom beyond compare,\nTheir words, like tokens, exchanged with each new test,\nReflecting the usage of hearts that are blessed.\n\nIn a world of million hues, where love and art entwine,\nA young potter's hands arrange the delicate design,\nOf a vessel that will hold the sweetest of cereals within,\nA gift from the earth, a treasure to provide and give again.\n\nBut as the dove returns, its feathers now blush with shame,\nThe wise ones whisper, \"Has the token lost its name?\nHas the usage of love and kindness grown so rare?\nHas the world forgotten how to express and show we care?\"\n\nThe dove's soft cooing echoes through the air,\nAs the sages ponder, their hearts laid bare,\nTheir wisdom, like a cereal, broken and old,\nA reminder to cherish the love that's yet to be told.\n\nIn this twilight, where shadows softly fall,\nThe dove's departure leaves us with a question to enthrall,\nWill we again learn to express our love and care?\nWill we provide for the world, and show we're willing to share?",
-    "generatedAt": "2026-08-31T16:25:24.854Z"
+    "content": "In the siege of my heart, a good soul resides\nA bonus of love, that forever abides\nA letter of hope, written in the night\nA beacon of light, that shines with all its might\n\nBut the issue of darkness, it still remains\nA shadow that follows, with its constant pains\nI search for an olive branch, to soothe my soul\nA symbol of peace, that makes my heart whole\n\nIn my inquiry, I seek to understand\nThe increase of pain, that takes its stand\nLike a jelly-like fear, it clings to my heart\nA reminder of the wolf, that never departs\n\nBut I am myself, a kitten brave and true\nI select the path, that leads me anew\nI claim the prize, of a heart that's free\nA main course of love, that's served to me\n\nIn the doll's gaze, I see a reflection true\nA reminder of innocence, that's lost in me too\nBut still I hold on, to the good that remains\nA bonus of love, that still sustains\n\nThe siege of my heart, it slowly subsides\nAs I increase my faith, in the love that abides\nThe wolf's howl fades, as I find my way\nTo a place of peace, where love stays.",
+    "generatedAt": "2026-09-01T13:43:45.652Z"
   },
   "keywords": [
     {
-      "word": "depart",
-      "slot": 443196106,
+      "word": "siege",
+      "slot": 443437596,
       "source": "blockhash"
     },
     {
-      "word": "wisdom",
-      "slot": 443196106,
+      "word": "good",
+      "slot": 443437596,
       "source": "previousBlockhash"
     },
     {
-      "word": "dove",
-      "slot": 443196106,
+      "word": "bonus",
+      "slot": 443437596,
       "source": "transaction"
     },
     {
-      "word": "pottery",
-      "slot": 443178106,
+      "word": "letter",
+      "slot": 443419596,
       "source": "blockhash"
     },
     {
-      "word": "million",
-      "slot": 443178106,
-      "source": "transaction"
-    },
-    {
-      "word": "lounge",
-      "slot": 443160106,
-      "source": "blockhash"
-    },
-    {
-      "word": "cigar",
-      "slot": 443160106,
+      "word": "issue",
+      "slot": 443419596,
       "source": "previousBlockhash"
     },
     {
-      "word": "usage",
-      "slot": 443160106,
+      "word": "olive",
+      "slot": 443419596,
       "source": "transaction"
     },
     {
-      "word": "arrange",
-      "slot": 443142106,
+      "word": "inquiry",
+      "slot": 443401596,
       "source": "blockhash"
     },
     {
-      "word": "again",
-      "slot": 443142106,
+      "word": "increase",
+      "slot": 443401596,
       "source": "previousBlockhash"
     },
     {
-      "word": "swap",
-      "slot": 443142106,
+      "word": "jelly",
+      "slot": 443401596,
       "source": "transaction"
     },
     {
-      "word": "express",
-      "slot": 443124106,
+      "word": "myself",
+      "slot": 443383596,
       "source": "blockhash"
     },
     {
-      "word": "token",
-      "slot": 443124106,
+      "word": "kitten",
+      "slot": 443383596,
       "source": "previousBlockhash"
     },
     {
-      "word": "provide",
-      "slot": 443124106,
+      "word": "select",
+      "slot": 443383596,
       "source": "transaction"
     },
     {
-      "word": "cereal",
-      "slot": 443106106,
+      "word": "prize",
+      "slot": 443365596,
       "source": "blockhash"
     },
     {
-      "word": "blush",
-      "slot": 443106106,
+      "word": "main",
+      "slot": 443365596,
       "source": "previousBlockhash"
+    },
+    {
+      "word": "doll",
+      "slot": 443365596,
+      "source": "transaction"
+    },
+    {
+      "word": "wolf",
+      "slot": 443347596,
+      "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mufczvatgo2m",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3muhkhrgecx27",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

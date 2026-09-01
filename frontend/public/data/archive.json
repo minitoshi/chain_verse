@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-01",
+    "poem": {
+      "content": "In the siege of my heart, a good soul resides\nA bonus of love, that forever abides\nA letter of hope, written in the night\nA beacon of light, that shines with all its might\n\nBut the issue of darkness, it still remains\nA shadow that follows, with its constant pains\nI search for an olive branch, to soothe my soul\nA symbol of peace, that makes my heart whole\n\nIn my inquiry, I seek to understand\nThe increase of pain, that takes its stand\nLike a jelly-like fear, it clings to my heart\nA reminder of the wolf, that never departs\n\nBut I am myself, a kitten brave and true\nI select the path, that leads me anew\nI claim the prize, of a heart that's free\nA main course of love, that's served to me\n\nIn the doll's gaze, I see a reflection true\nA reminder of innocence, that's lost in me too\nBut still I hold on, to the good that remains\nA bonus of love, that still sustains\n\nThe siege of my heart, it slowly subsides\nAs I increase my faith, in the love that abides\nThe wolf's howl fades, as I find my way\nTo a place of peace, where love stays.",
+      "generatedAt": "2026-09-01T13:43:45.652Z"
+    },
+    "keywords": [
+      {
+        "word": "siege",
+        "slot": 443437596,
+        "source": "blockhash"
+      },
+      {
+        "word": "good",
+        "slot": 443437596,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "bonus",
+        "slot": 443437596,
+        "source": "transaction"
+      },
+      {
+        "word": "letter",
+        "slot": 443419596,
+        "source": "blockhash"
+      },
+      {
+        "word": "issue",
+        "slot": 443419596,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "olive",
+        "slot": 443419596,
+        "source": "transaction"
+      },
+      {
+        "word": "inquiry",
+        "slot": 443401596,
+        "source": "blockhash"
+      },
+      {
+        "word": "increase",
+        "slot": 443401596,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "jelly",
+        "slot": 443401596,
+        "source": "transaction"
+      },
+      {
+        "word": "myself",
+        "slot": 443383596,
+        "source": "blockhash"
+      },
+      {
+        "word": "kitten",
+        "slot": 443383596,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "select",
+        "slot": 443383596,
+        "source": "transaction"
+      },
+      {
+        "word": "prize",
+        "slot": 443365596,
+        "source": "blockhash"
+      },
+      {
+        "word": "main",
+        "slot": 443365596,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "doll",
+        "slot": 443365596,
+        "source": "transaction"
+      },
+      {
+        "word": "wolf",
+        "slot": 443347596,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3muhkhrgecx27",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-08-31",
     "poem": {
       "content": "In twilight's hush, where shadows softly fall,\nA dove departs, leaving whispers to enthrall,\nThe wise ones gather, their eyes aglow,\nTo ponder the secrets the dove used to know.\n\nIn the lounge, a cigar is lit with care,\nAs sages swap tales of wisdom beyond compare,\nTheir words, like tokens, exchanged with each new test,\nReflecting the usage of hearts that are blessed.\n\nIn a world of million hues, where love and art entwine,\nA young potter's hands arrange the delicate design,\nOf a vessel that will hold the sweetest of cereals within,\nA gift from the earth, a treasure to provide and give again.\n\nBut as the dove returns, its feathers now blush with shame,\nThe wise ones whisper, \"Has the token lost its name?\nHas the usage of love and kindness grown so rare?\nHas the world forgotten how to express and show we care?\"\n\nThe dove's soft cooing echoes through the air,\nAs the sages ponder, their hearts laid bare,\nTheir wisdom, like a cereal, broken and old,\nA reminder to cherish the love that's yet to be told.\n\nIn this twilight, where shadows softly fall,\nThe dove's departure leaves us with a question to enthrall,\nWill we again learn to express our love and care?\nWill we provide for the world, and show we're willing to share?",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3ms6hldtxkn2l",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-02",
-    "poem": {
-      "content": "In the oven of time, where moments are forged,\nA distance stretches, a chasm that's raw and explored.\nA stool stands sentinel, a witness to the past,\nA relic of memories that refuse to be erased at last.\n\nIn this frost-encrusted landscape, a bubble forms and grows,\nA vapor of hope that clings to the edge of our woes.\nBut like a liar in the shadows, it whispers deceit,\nA dwarf of doubt that creeps in, and our hearts do beat.\n\nIn the salon of our minds, we select the words we'll say,\nBut often, our behavior betrays us, come what may.\nWe reject the truth, and choose the path of pain,\nAnd in the mail of our hearts, a letter of regret remains.\n\nWe acquire the weight of our mistakes, and they bear down,\nA heavy load that we struggle to carry, in this frozen town.\nBut still, we rise, and in the distance, a new dawn breaks,\nA light that shines, a chance to remake, to select new paths.\n\nIn this oven of transformation, we're molded and refined,\nA raw material, shaped by the heat, and the fire that's designed.\nAnd when we emerge, we're different, transformed by the test,\nA vapor of wisdom that rises, and forever finds its best.",
-      "generatedAt": "2026-08-02T10:22:39.297Z"
-    },
-    "keywords": [
-      {
-        "word": "acquire",
-        "slot": 436747992,
-        "source": "blockhash"
-      },
-      {
-        "word": "oven",
-        "slot": 436747992,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "distance",
-        "slot": 436747992,
-        "source": "transaction"
-      },
-      {
-        "word": "raw",
-        "slot": 436729992,
-        "source": "blockhash"
-      },
-      {
-        "word": "mail",
-        "slot": 436729992,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "stool",
-        "slot": 436729992,
-        "source": "transaction"
-      },
-      {
-        "word": "reject",
-        "slot": 436711991,
-        "source": "blockhash"
-      },
-      {
-        "word": "bubble",
-        "slot": 436711991,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "behave",
-        "slot": 436711991,
-        "source": "transaction"
-      },
-      {
-        "word": "select",
-        "slot": 436693992,
-        "source": "blockhash"
-      },
-      {
-        "word": "liar",
-        "slot": 436693992,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "vapor",
-        "slot": 436693992,
-        "source": "transaction"
-      },
-      {
-        "word": "frost",
-        "slot": 436675992,
-        "source": "blockhash"
-      },
-      {
-        "word": "dwarf",
-        "slot": 436675992,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "edge",
-        "slot": 436675992,
-        "source": "transaction"
-      },
-      {
-        "word": "salon",
-        "slot": 436657992,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3ms3rajsbzn2a",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
