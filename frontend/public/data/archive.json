@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-03",
+    "poem": {
+      "content": "On the coast, where foam kisses the shore,\nA cart of dreams arrives, with secrets to store.\nWe argue, in whispers, of the crucial test,\nWhere gas and time conspire, to put our hearts to the best.\n\nA frown creeps in, like a thief in the night,\nAs we admit our fears, and the darkness takes flight.\nYet, in the distance, a surprise appears,\nA coconut tree, swaying gently, through the years.\n\nIts column strong, a symbol of resilience and might,\nA reminder that even in darkness, there's still a glimmer of light.\nYou, dear friend, with a vague sense of unease,\nStand at the crossroads, where the bargain of life's peace.\n\nThe wind slams shut, the doors of doubt and fear,\nAs you take a step forward, and the path becomes clear.\nThe gas of uncertainty, dissipates like mist,\nAs the crucial moment arrives, and you take the first mist.\n\nIn the silence, the coconut's wisdom whispers low,\n\"Trust the process, dear one, and the time will show.\"\nA smile creeps in, like a sunrise on the shore,\nAs you realize, it's not the destination, but the journey you adore.\n\nThe column of strength, within, begins to rise,\nAs you slam shut, the doors of doubt, and open your eyes.\nThe bargain of life, is one of trust and of heart,\nWhere the vague and unknown, become the crucial start.",
+      "generatedAt": "2026-09-03T13:02:46.535Z"
+    },
+    "keywords": [
+      {
+        "word": "argue",
+        "slot": 443977626,
+        "source": "blockhash"
+      },
+      {
+        "word": "admit",
+        "slot": 443977626,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cart",
+        "slot": 443977626,
+        "source": "transaction"
+      },
+      {
+        "word": "coast",
+        "slot": 443959626,
+        "source": "blockhash"
+      },
+      {
+        "word": "foam",
+        "slot": 443959626,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "crucial",
+        "slot": 443959626,
+        "source": "transaction"
+      },
+      {
+        "word": "gas",
+        "slot": 443941626,
+        "source": "blockhash"
+      },
+      {
+        "word": "surprise",
+        "slot": 443941626,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "frown",
+        "slot": 443941626,
+        "source": "transaction"
+      },
+      {
+        "word": "time",
+        "slot": 443923626,
+        "source": "blockhash"
+      },
+      {
+        "word": "slam",
+        "slot": 443923626,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "bargain",
+        "slot": 443923626,
+        "source": "transaction"
+      },
+      {
+        "word": "coconut",
+        "slot": 443905626,
+        "source": "blockhash"
+      },
+      {
+        "word": "you",
+        "slot": 443905626,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "vague",
+        "slot": 443905626,
+        "source": "transaction"
+      },
+      {
+        "word": "column",
+        "slot": 443887626,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mumj4cizpi2z",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-02",
     "poem": {
       "content": "In the matrix of digital space, a hole appears,\nA door ajar, where secrets softly peer.\nThe traffic of coins flows through, a never-ending stream,\nA river of code, with tick-tocking scheme.\n\nI ski down its slopes, with heart aflame,\nLeaving a trail of laughter, as I claim.\nA knock on the gate, a summons to play,\nFraught with risk, yet the motion draws me in to stay.\n\nIn this virtual world, my female form takes flight,\nCouched in light, where freedom's pure delight.\nI giggle at the risk, with every forward stride,\nThrough latticework codes, I navigate with stride.\n\nA company of strangers, in this digital sea,\nAll synchronized, in a heartbeat's symphony.\nWe are bound, yet free, in the solace of this space,\nOur dance of motion, an invisible subtle frame.\n\nIn this iterative march, I explain my way,\nThrough milestones and setbacks, I fight to get by each day.\nThrough risk and uncertainty, I strive to break free,\nAnd find the truth, that's hidden deep within me.\n\nThe horizon beckons, a swirling vortex of light,\nAs I step forward, into the unknown night.\nFor in the language of code, I hear a gentle voice,\nThat echoes a promise, my heart makes a proper choice.\n\nIn this Solana universe, I am reborn anew,\nWhere motion and laughter mix, an endless echo true.\nThe risk is worth it, for every forward bound.\nAnd in this digital expanse, my spirit is found.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msdfaq4u3n2l",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-04",
-    "poem": {
-      "content": "In secret gardens, hidden from the sun,\nA program unfolds, its mysteries begun.\nA choice is made, a path to take,\nTo write the future, for all to partake.\n\nA female figure, strong and still,\nGuards the frozen code, with a gentle will.\nA need to break free, from the chains of the past,\nTo leave the clump of doubt, and forever last.\n\nA civil war rages, in the hearts of men,\nA hazard lurks, in the shadows, unseen.\nA lobster's claw, grasps for freedom's door,\nWhile a doctor tends, to the wounds of yore.\n\nA warrior's cry, echoes through the night,\nAs the case for change, is made, and takes flight.\nBut still, the choice, is one to make,\nTo write the future, with a heart that's awake.\n\nIn this frozen world, where danger lurks,\nA need to trust, in the secret that works.\nA program unfolds, its mysteries revealed,\nAnd the choice is made, to leave the past, concealed.\n\nA female figure, stands, with a gentle hand,\nAnd guides the warrior, through the treacherous land.\nThe hazard is avoided, the civil war subsides,\nAnd the lobster's claw, is freed, and glides.\n\nThe doctor's care, heals the wounds of the past,\nAnd the warrior's cry, is silenced at last.\nThe case is closed, the choice is made,\nAnd the program unfolds, its secrets displayed.",
-      "generatedAt": "2026-08-04T11:12:15.967Z"
-    },
-    "keywords": [
-      {
-        "word": "program",
-        "slot": 437164021,
-        "source": "blockhash"
-      },
-      {
-        "word": "secret",
-        "slot": 437164021,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "choice",
-        "slot": 437164021,
-        "source": "transaction"
-      },
-      {
-        "word": "write",
-        "slot": 437146021,
-        "source": "blockhash"
-      },
-      {
-        "word": "still",
-        "slot": 437146021,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "frozen",
-        "slot": 437146021,
-        "source": "transaction"
-      },
-      {
-        "word": "female",
-        "slot": 437128021,
-        "source": "blockhash"
-      },
-      {
-        "word": "need",
-        "slot": 437128021,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "civil",
-        "slot": 437128021,
-        "source": "transaction"
-      },
-      {
-        "word": "clump",
-        "slot": 437110021,
-        "source": "blockhash"
-      },
-      {
-        "word": "leave",
-        "slot": 437110021,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "case",
-        "slot": 437110021,
-        "source": "transaction"
-      },
-      {
-        "word": "hazard",
-        "slot": 437092021,
-        "source": "blockhash"
-      },
-      {
-        "word": "lobster",
-        "slot": 437092021,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "doctor",
-        "slot": 437092021,
-        "source": "transaction"
-      },
-      {
-        "word": "warrior",
-        "slot": 437074021,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msaux3iq3i2p",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
