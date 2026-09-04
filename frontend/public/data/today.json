@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "poem": {
-    "content": "On the coast, where foam kisses the shore,\nA cart of dreams arrives, with secrets to store.\nWe argue, in whispers, of the crucial test,\nWhere gas and time conspire, to put our hearts to the best.\n\nA frown creeps in, like a thief in the night,\nAs we admit our fears, and the darkness takes flight.\nYet, in the distance, a surprise appears,\nA coconut tree, swaying gently, through the years.\n\nIts column strong, a symbol of resilience and might,\nA reminder that even in darkness, there's still a glimmer of light.\nYou, dear friend, with a vague sense of unease,\nStand at the crossroads, where the bargain of life's peace.\n\nThe wind slams shut, the doors of doubt and fear,\nAs you take a step forward, and the path becomes clear.\nThe gas of uncertainty, dissipates like mist,\nAs the crucial moment arrives, and you take the first mist.\n\nIn the silence, the coconut's wisdom whispers low,\n\"Trust the process, dear one, and the time will show.\"\nA smile creeps in, like a sunrise on the shore,\nAs you realize, it's not the destination, but the journey you adore.\n\nThe column of strength, within, begins to rise,\nAs you slam shut, the doors of doubt, and open your eyes.\nThe bargain of life, is one of trust and of heart,\nWhere the vague and unknown, become the crucial start.",
-    "generatedAt": "2026-09-03T13:02:46.535Z"
+    "content": "On the wind-swept coast, where waves spread far and wide,\nA lone rider fought a wretched lawsuit's tide,\nA wasp stung with despair, its presence would not ignore,\nA plague of doubts that gnawed with silent, relentless roar.\n\nShe stood like a lady on the fragile square,\nHer heart a tangled web of raw anguish laid bare,\nThe seagulls cried above, in haunting harmony,\nAs she addressed the void, with a cry that would not vary.\n\nBut still she held to the cycle's endless spin,\nA gyre of fate that whirled her spirit within,\nShe grasped like a lifeline to the validity she clung,\nA fleeting sense of purpose, wounded, raw, and young.\n\nThrough courts and chambers, she traversed with steady feet,\nRefusing to surrender to the weight of defeat,\nYet under siege of sadness, her voice would quiver and shake,\nA soft hush descended, like a winter's evening lake.\n\nBut even as the night grew dark, and impossible to define,\nA goose called out, a solitary, wild, pure bind,\nIt swept aside her worries, with untroubled wing and ease,\nInviting her to rise, like the sun's new light and renewed release.\n\nLike fitful sentiments, which wish to claim their due,\nThe grief lingered on, this obsession, knotty, excruciating, true,\nTill in the dance of resolve, when doubt no more held sway,\nHer gaze shifted outward past mistakes, like the road to a new day.",
+    "generatedAt": "2026-09-04T12:57:29.626Z"
   },
   "keywords": [
     {
-      "word": "argue",
-      "slot": 443977626,
+      "word": "spread",
+      "slot": 444250673,
       "source": "blockhash"
     },
     {
-      "word": "admit",
-      "slot": 443977626,
+      "word": "wasp",
+      "slot": 444250673,
       "source": "previousBlockhash"
-    },
-    {
-      "word": "cart",
-      "slot": 443977626,
-      "source": "transaction"
     },
     {
       "word": "coast",
-      "slot": 443959626,
-      "source": "blockhash"
-    },
-    {
-      "word": "foam",
-      "slot": 443959626,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "crucial",
-      "slot": 443959626,
+      "slot": 444250673,
       "source": "transaction"
     },
     {
-      "word": "gas",
-      "slot": 443941626,
+      "word": "lawsuit",
+      "slot": 444232673,
       "source": "blockhash"
     },
     {
-      "word": "surprise",
-      "slot": 443941626,
+      "word": "fitness",
+      "slot": 444232673,
       "source": "previousBlockhash"
     },
     {
-      "word": "frown",
-      "slot": 443941626,
+      "word": "lady",
+      "slot": 444232673,
       "source": "transaction"
     },
     {
-      "word": "time",
-      "slot": 443923626,
+      "word": "dice",
+      "slot": 444214673,
       "source": "blockhash"
     },
     {
-      "word": "slam",
-      "slot": 443923626,
+      "word": "ignore",
+      "slot": 444214673,
       "source": "previousBlockhash"
     },
     {
-      "word": "bargain",
-      "slot": 443923626,
+      "word": "sadness",
+      "slot": 444214673,
       "source": "transaction"
     },
     {
-      "word": "coconut",
-      "slot": 443905626,
+      "word": "cry",
+      "slot": 444196673,
       "source": "blockhash"
     },
     {
-      "word": "you",
-      "slot": 443905626,
+      "word": "square",
+      "slot": 444196673,
       "source": "previousBlockhash"
     },
     {
-      "word": "vague",
-      "slot": 443905626,
+      "word": "like",
+      "slot": 444196673,
       "source": "transaction"
     },
     {
-      "word": "column",
-      "slot": 443887626,
+      "word": "valid",
+      "slot": 444178673,
+      "source": "blockhash"
+    },
+    {
+      "word": "goose",
+      "slot": 444178673,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "cycle",
+      "slot": 444178673,
+      "source": "transaction"
+    },
+    {
+      "word": "raw",
+      "slot": 444160673,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mumj4cizpi2z",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3muozbrxkw32r",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

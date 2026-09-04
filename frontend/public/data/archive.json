@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-04",
+    "poem": {
+      "content": "On the wind-swept coast, where waves spread far and wide,\nA lone rider fought a wretched lawsuit's tide,\nA wasp stung with despair, its presence would not ignore,\nA plague of doubts that gnawed with silent, relentless roar.\n\nShe stood like a lady on the fragile square,\nHer heart a tangled web of raw anguish laid bare,\nThe seagulls cried above, in haunting harmony,\nAs she addressed the void, with a cry that would not vary.\n\nBut still she held to the cycle's endless spin,\nA gyre of fate that whirled her spirit within,\nShe grasped like a lifeline to the validity she clung,\nA fleeting sense of purpose, wounded, raw, and young.\n\nThrough courts and chambers, she traversed with steady feet,\nRefusing to surrender to the weight of defeat,\nYet under siege of sadness, her voice would quiver and shake,\nA soft hush descended, like a winter's evening lake.\n\nBut even as the night grew dark, and impossible to define,\nA goose called out, a solitary, wild, pure bind,\nIt swept aside her worries, with untroubled wing and ease,\nInviting her to rise, like the sun's new light and renewed release.\n\nLike fitful sentiments, which wish to claim their due,\nThe grief lingered on, this obsession, knotty, excruciating, true,\nTill in the dance of resolve, when doubt no more held sway,\nHer gaze shifted outward past mistakes, like the road to a new day.",
+      "generatedAt": "2026-09-04T12:57:29.626Z"
+    },
+    "keywords": [
+      {
+        "word": "spread",
+        "slot": 444250673,
+        "source": "blockhash"
+      },
+      {
+        "word": "wasp",
+        "slot": 444250673,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "coast",
+        "slot": 444250673,
+        "source": "transaction"
+      },
+      {
+        "word": "lawsuit",
+        "slot": 444232673,
+        "source": "blockhash"
+      },
+      {
+        "word": "fitness",
+        "slot": 444232673,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "lady",
+        "slot": 444232673,
+        "source": "transaction"
+      },
+      {
+        "word": "dice",
+        "slot": 444214673,
+        "source": "blockhash"
+      },
+      {
+        "word": "ignore",
+        "slot": 444214673,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "sadness",
+        "slot": 444214673,
+        "source": "transaction"
+      },
+      {
+        "word": "cry",
+        "slot": 444196673,
+        "source": "blockhash"
+      },
+      {
+        "word": "square",
+        "slot": 444196673,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "like",
+        "slot": 444196673,
+        "source": "transaction"
+      },
+      {
+        "word": "valid",
+        "slot": 444178673,
+        "source": "blockhash"
+      },
+      {
+        "word": "goose",
+        "slot": 444178673,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cycle",
+        "slot": 444178673,
+        "source": "transaction"
+      },
+      {
+        "word": "raw",
+        "slot": 444160673,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3muozbrxkw32r",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-03",
     "poem": {
       "content": "On the coast, where foam kisses the shore,\nA cart of dreams arrives, with secrets to store.\nWe argue, in whispers, of the crucial test,\nWhere gas and time conspire, to put our hearts to the best.\n\nA frown creeps in, like a thief in the night,\nAs we admit our fears, and the darkness takes flight.\nYet, in the distance, a surprise appears,\nA coconut tree, swaying gently, through the years.\n\nIts column strong, a symbol of resilience and might,\nA reminder that even in darkness, there's still a glimmer of light.\nYou, dear friend, with a vague sense of unease,\nStand at the crossroads, where the bargain of life's peace.\n\nThe wind slams shut, the doors of doubt and fear,\nAs you take a step forward, and the path becomes clear.\nThe gas of uncertainty, dissipates like mist,\nAs the crucial moment arrives, and you take the first mist.\n\nIn the silence, the coconut's wisdom whispers low,\n\"Trust the process, dear one, and the time will show.\"\nA smile creeps in, like a sunrise on the shore,\nAs you realize, it's not the destination, but the journey you adore.\n\nThe column of strength, within, begins to rise,\nAs you slam shut, the doors of doubt, and open your eyes.\nThe bargain of life, is one of trust and of heart,\nWhere the vague and unknown, become the crucial start.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msfvq3wur427",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-05",
-    "poem": {
-      "content": "In the valley of Solana's radiant light\nA million sparks ignite, a fiery delight\nA poet's heart, for once, is glad to write\nInspired by visions that dance, a true title to ignite\n\nThe pages whisper secrets, a tale to be told\nOf a world where cryptic codes unfold\nIgnore the voice that whispers \"just a fad\"\nFor in this realm, the brave will be the glad\n\nFame is but a fleeting thought, a whispered name\nIn the eternal dance of code and flame\nI put my pen to paper, a heart on fire\nAs the satellite machines conspire, in a digital desire\n\nDown the winding road, where the trees are tall\nI stumble upon a girl, with a programmer's call\nShe teaches me the secrets, of the Solana's way\nA path that leads to power, on this bright new day\n\nBut alas, the journey's not without its toll\nThe miles that stretch ahead, a mystery to unfold\nThe roads that lead to innovation, where the brave dare to be\nNot swayed by the doubts that creep, like shadows on the tree\n\nIn this digital realm, I find my heart's reprieve\nA place to learn and teach, where creativity can breathe\nThe maximum potential of the human mind\nUnfolds like a lotus, in this grand design\n\nAnd as I stand, with the toilet's porcelain cold\nI realize the fear, that holds me back from being bold\nBut in the light of knowledge, a new path I prepare\nTo rise above the noise, and leave my mark to share.",
-      "generatedAt": "2026-08-05T11:09:19.129Z"
-    },
-    "keywords": [
-      {
-        "word": "glad",
-        "slot": 437367794,
-        "source": "blockhash"
-      },
-      {
-        "word": "write",
-        "slot": 437367794,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "title",
-        "slot": 437367794,
-        "source": "transaction"
-      },
-      {
-        "word": "put",
-        "slot": 437349794,
-        "source": "blockhash"
-      },
-      {
-        "word": "ignore",
-        "slot": 437349794,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "fame",
-        "slot": 437349794,
-        "source": "transaction"
-      },
-      {
-        "word": "eternal",
-        "slot": 437331794,
-        "source": "blockhash"
-      },
-      {
-        "word": "valley",
-        "slot": 437331794,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "maximum",
-        "slot": 437331794,
-        "source": "transaction"
-      },
-      {
-        "word": "teach",
-        "slot": 437313794,
-        "source": "blockhash"
-      },
-      {
-        "word": "girl",
-        "slot": 437313794,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "million",
-        "slot": 437313794,
-        "source": "transaction"
-      },
-      {
-        "word": "road",
-        "slot": 437295794,
-        "source": "blockhash"
-      },
-      {
-        "word": "enjoy",
-        "slot": 437295794,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "prepare",
-        "slot": 437295794,
-        "source": "transaction"
-      },
-      {
-        "word": "toilet",
-        "slot": 437277794,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msdfaq4u3n2l",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
