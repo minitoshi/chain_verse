@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "poem": {
-    "content": "On the wind-swept coast, where waves spread far and wide,\nA lone rider fought a wretched lawsuit's tide,\nA wasp stung with despair, its presence would not ignore,\nA plague of doubts that gnawed with silent, relentless roar.\n\nShe stood like a lady on the fragile square,\nHer heart a tangled web of raw anguish laid bare,\nThe seagulls cried above, in haunting harmony,\nAs she addressed the void, with a cry that would not vary.\n\nBut still she held to the cycle's endless spin,\nA gyre of fate that whirled her spirit within,\nShe grasped like a lifeline to the validity she clung,\nA fleeting sense of purpose, wounded, raw, and young.\n\nThrough courts and chambers, she traversed with steady feet,\nRefusing to surrender to the weight of defeat,\nYet under siege of sadness, her voice would quiver and shake,\nA soft hush descended, like a winter's evening lake.\n\nBut even as the night grew dark, and impossible to define,\nA goose called out, a solitary, wild, pure bind,\nIt swept aside her worries, with untroubled wing and ease,\nInviting her to rise, like the sun's new light and renewed release.\n\nLike fitful sentiments, which wish to claim their due,\nThe grief lingered on, this obsession, knotty, excruciating, true,\nTill in the dance of resolve, when doubt no more held sway,\nHer gaze shifted outward past mistakes, like the road to a new day.",
-    "generatedAt": "2026-09-04T12:57:29.626Z"
+    "content": "In moonlit gardens, a fox with fur so bright,\nPads softly, a thief in the silent night.\nShe seeks the stool, a perch to claim,\nWhere she can watch the bird, her heart's sweet aim.\n\nA medal hangs from her neck, a symbol of her might,\nA token earned from the dance of the night.\nThe author of her own destiny, she writes her tale,\nWith every step, a new chapter to hail.\n\nHer antenna-like ears twitch, attuning to the air,\nAs she searches for the prize, beyond compare.\nA lucky break, a twist of fate, a turn of tone,\nLeads her to the club, where secrets are known.\n\nThere, she meets the one who can decide her way,\nAnd with each step, she returns to her own day.\nMore than just a seeker, she's a master of her fate,\nWith a prize to claim, and a medal to create.\n\nIn this world of wonder, she finds her own voice,\nA language of the heart, a choice to rejoice.\nThe bird above, a witness to her quest,\nSings in harmony, as she takes her rest.\n\nThe fox's tale, a chapter yet untold,\nA dance of courage, where she decides to hold.\nHer stool, a symbol of strength, a prize to claim,\nA medal shining bright, as she returns to her name.",
+    "generatedAt": "2026-09-05T12:09:04.835Z"
   },
   "keywords": [
     {
-      "word": "spread",
-      "slot": 444250673,
+      "word": "fox",
+      "slot": 444515573,
       "source": "blockhash"
     },
     {
-      "word": "wasp",
-      "slot": 444250673,
+      "word": "stool",
+      "slot": 444515573,
       "source": "previousBlockhash"
     },
     {
-      "word": "coast",
-      "slot": 444250673,
+      "word": "bird",
+      "slot": 444515573,
       "source": "transaction"
     },
     {
-      "word": "lawsuit",
-      "slot": 444232673,
+      "word": "medal",
+      "slot": 444497573,
       "source": "blockhash"
     },
     {
-      "word": "fitness",
-      "slot": 444232673,
+      "word": "author",
+      "slot": 444497573,
       "source": "previousBlockhash"
     },
     {
-      "word": "lady",
-      "slot": 444232673,
+      "word": "dance",
+      "slot": 444497573,
       "source": "transaction"
     },
     {
-      "word": "dice",
-      "slot": 444214673,
+      "word": "antenna",
+      "slot": 444479573,
       "source": "blockhash"
     },
     {
-      "word": "ignore",
-      "slot": 444214673,
+      "word": "prize",
+      "slot": 444479573,
       "source": "previousBlockhash"
     },
     {
-      "word": "sadness",
-      "slot": 444214673,
+      "word": "tone",
+      "slot": 444479573,
       "source": "transaction"
     },
     {
-      "word": "cry",
-      "slot": 444196673,
+      "word": "club",
+      "slot": 444461573,
       "source": "blockhash"
     },
     {
-      "word": "square",
-      "slot": 444196673,
+      "word": "decide",
+      "slot": 444461573,
       "source": "previousBlockhash"
     },
     {
-      "word": "like",
-      "slot": 444196673,
+      "word": "return",
+      "slot": 444461573,
       "source": "transaction"
     },
     {
-      "word": "valid",
-      "slot": 444178673,
+      "word": "lucky",
+      "slot": 444443573,
       "source": "blockhash"
     },
     {
-      "word": "goose",
-      "slot": 444178673,
+      "word": "search",
+      "slot": 444443573,
       "source": "previousBlockhash"
     },
     {
-      "word": "cycle",
-      "slot": 444178673,
+      "word": "more",
+      "slot": 444443573,
       "source": "transaction"
     },
     {
-      "word": "raw",
-      "slot": 444160673,
+      "word": "chapter",
+      "slot": 444425573,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3muozbrxkw32r",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3murh24oyac2v",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

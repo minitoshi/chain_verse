@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-05",
+    "poem": {
+      "content": "In moonlit gardens, a fox with fur so bright,\nPads softly, a thief in the silent night.\nShe seeks the stool, a perch to claim,\nWhere she can watch the bird, her heart's sweet aim.\n\nA medal hangs from her neck, a symbol of her might,\nA token earned from the dance of the night.\nThe author of her own destiny, she writes her tale,\nWith every step, a new chapter to hail.\n\nHer antenna-like ears twitch, attuning to the air,\nAs she searches for the prize, beyond compare.\nA lucky break, a twist of fate, a turn of tone,\nLeads her to the club, where secrets are known.\n\nThere, she meets the one who can decide her way,\nAnd with each step, she returns to her own day.\nMore than just a seeker, she's a master of her fate,\nWith a prize to claim, and a medal to create.\n\nIn this world of wonder, she finds her own voice,\nA language of the heart, a choice to rejoice.\nThe bird above, a witness to her quest,\nSings in harmony, as she takes her rest.\n\nThe fox's tale, a chapter yet untold,\nA dance of courage, where she decides to hold.\nHer stool, a symbol of strength, a prize to claim,\nA medal shining bright, as she returns to her name.",
+      "generatedAt": "2026-09-05T12:09:04.835Z"
+    },
+    "keywords": [
+      {
+        "word": "fox",
+        "slot": 444515573,
+        "source": "blockhash"
+      },
+      {
+        "word": "stool",
+        "slot": 444515573,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "bird",
+        "slot": 444515573,
+        "source": "transaction"
+      },
+      {
+        "word": "medal",
+        "slot": 444497573,
+        "source": "blockhash"
+      },
+      {
+        "word": "author",
+        "slot": 444497573,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dance",
+        "slot": 444497573,
+        "source": "transaction"
+      },
+      {
+        "word": "antenna",
+        "slot": 444479573,
+        "source": "blockhash"
+      },
+      {
+        "word": "prize",
+        "slot": 444479573,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tone",
+        "slot": 444479573,
+        "source": "transaction"
+      },
+      {
+        "word": "club",
+        "slot": 444461573,
+        "source": "blockhash"
+      },
+      {
+        "word": "decide",
+        "slot": 444461573,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "return",
+        "slot": 444461573,
+        "source": "transaction"
+      },
+      {
+        "word": "lucky",
+        "slot": 444443573,
+        "source": "blockhash"
+      },
+      {
+        "word": "search",
+        "slot": 444443573,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "more",
+        "slot": 444443573,
+        "source": "transaction"
+      },
+      {
+        "word": "chapter",
+        "slot": 444425573,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3murh24oyac2v",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-04",
     "poem": {
       "content": "On the wind-swept coast, where waves spread far and wide,\nA lone rider fought a wretched lawsuit's tide,\nA wasp stung with despair, its presence would not ignore,\nA plague of doubts that gnawed with silent, relentless roar.\n\nShe stood like a lady on the fragile square,\nHer heart a tangled web of raw anguish laid bare,\nThe seagulls cried above, in haunting harmony,\nAs she addressed the void, with a cry that would not vary.\n\nBut still she held to the cycle's endless spin,\nA gyre of fate that whirled her spirit within,\nShe grasped like a lifeline to the validity she clung,\nA fleeting sense of purpose, wounded, raw, and young.\n\nThrough courts and chambers, she traversed with steady feet,\nRefusing to surrender to the weight of defeat,\nYet under siege of sadness, her voice would quiver and shake,\nA soft hush descended, like a winter's evening lake.\n\nBut even as the night grew dark, and impossible to define,\nA goose called out, a solitary, wild, pure bind,\nIt swept aside her worries, with untroubled wing and ease,\nInviting her to rise, like the sun's new light and renewed release.\n\nLike fitful sentiments, which wish to claim their due,\nThe grief lingered on, this obsession, knotty, excruciating, true,\nTill in the dance of resolve, when doubt no more held sway,\nHer gaze shifted outward past mistakes, like the road to a new day.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msibifowvs25",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-06",
-    "poem": {
-      "content": "In the room where memories reside,\nA faint signal hums from my old phone inside,\nA series of moments, love and strife,\nFrozen in time, like a favorite life.\n\nA clip of laughter, a tear, a sigh,\n Echoes whisper through the quiet sky,\nA mandate to hold on to what's dear,\nLest they become just a distant fear.\n\nBut in the shadows, a trap lies in wait,\nA flush of anxiety that threatens to escape,\nA frost that clings to the heart's warmth and light,\nA chill that seeps in on a cold and lonely night.\n\nMy cousin speaks of a better time,\nA promise of a future that's yet to be mine,\nBut for now, I'm stuck in this uncertain space,\nWhere the faculty of hope struggles to find its place.\n\nI try to situate myself above the pain,\nTo rise above the heartaches and the shame,\nBut they linger like a ghostly presence near,\nA constant reminder of the tears I've cried this year.\n\nIn this dark room, I search for a ray of light,\nA chance to enhance the beauty of the night,\nTo find the courage to let go and be free,\nTo dance with joy, wild and carelessly.\n\nBut for now, I'll sit here, lost and alone,\nAbove the world, yet still feeling like a stone,\nA heavy heart that yearns to be at peace,\nA soul that's upset, yet searching for release.",
-      "generatedAt": "2026-08-06T11:09:34.232Z"
-    },
-    "keywords": [
-      {
-        "word": "room",
-        "slot": 437572146,
-        "source": "blockhash"
-      },
-      {
-        "word": "phone",
-        "slot": 437572146,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "series",
-        "slot": 437572146,
-        "source": "transaction"
-      },
-      {
-        "word": "favorite",
-        "slot": 437554146,
-        "source": "blockhash"
-      },
-      {
-        "word": "clip",
-        "slot": 437554146,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "mandate",
-        "slot": 437554146,
-        "source": "transaction"
-      },
-      {
-        "word": "trap",
-        "slot": 437536146,
-        "source": "blockhash"
-      },
-      {
-        "word": "flush",
-        "slot": 437536146,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "frost",
-        "slot": 437536146,
-        "source": "transaction"
-      },
-      {
-        "word": "faculty",
-        "slot": 437518146,
-        "source": "blockhash"
-      },
-      {
-        "word": "carpet",
-        "slot": 437518146,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "situate",
-        "slot": 437518146,
-        "source": "transaction"
-      },
-      {
-        "word": "enhance",
-        "slot": 437500146,
-        "source": "blockhash"
-      },
-      {
-        "word": "cousin",
-        "slot": 437500146,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "upset",
-        "slot": 437500146,
-        "source": "transaction"
-      },
-      {
-        "word": "above",
-        "slot": 437482146,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msfvq3wur427",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
