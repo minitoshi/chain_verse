@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "poem": {
-    "content": "In moonlit gardens, a fox with fur so bright,\nPads softly, a thief in the silent night.\nShe seeks the stool, a perch to claim,\nWhere she can watch the bird, her heart's sweet aim.\n\nA medal hangs from her neck, a symbol of her might,\nA token earned from the dance of the night.\nThe author of her own destiny, she writes her tale,\nWith every step, a new chapter to hail.\n\nHer antenna-like ears twitch, attuning to the air,\nAs she searches for the prize, beyond compare.\nA lucky break, a twist of fate, a turn of tone,\nLeads her to the club, where secrets are known.\n\nThere, she meets the one who can decide her way,\nAnd with each step, she returns to her own day.\nMore than just a seeker, she's a master of her fate,\nWith a prize to claim, and a medal to create.\n\nIn this world of wonder, she finds her own voice,\nA language of the heart, a choice to rejoice.\nThe bird above, a witness to her quest,\nSings in harmony, as she takes her rest.\n\nThe fox's tale, a chapter yet untold,\nA dance of courage, where she decides to hold.\nHer stool, a symbol of strength, a prize to claim,\nA medal shining bright, as she returns to her name.",
-    "generatedAt": "2026-09-05T12:09:04.835Z"
+    "content": "In the Solana sunset, where worn jeans dissolve\ninto the cosmos, like a labor of love, what remains?\nA service to the stars, a thread of memory\nthat whispers tales of cheese, mapped on a tiny map of dreams\n\nIn a library of the mind, where pages turn alive\na ladder to the moon is built, a fragile, shining spine\na blouse of stardust, a diary of endless light\nrecords the moments, as the world takes flight\n\nIn this dizzying whirl, where the globe spins out of control\na cube of time, a prison of the soul\nawaits its chance to shine, to break free from chains\nand rise, like wine, in translucent stains\n\nThrough labyrinths of emotion, I search for a guiding star\na beacon in the fall, a signal from who we are\na call to remain loyal, to the heartbeat of the earth\na reminder to cherish, in every labor and rebirth\n\nAs the cheese of wisdom cracks, the rind of doubt\na world is revealed, in all its fragile beauty, a moody hush\na moment's pause, a breath, a fall into the unknown\nand in the silence, a whispered truth is sown",
+    "generatedAt": "2026-09-06T12:24:38.052Z"
   },
   "keywords": [
     {
-      "word": "fox",
-      "slot": 444515573,
+      "word": "fall",
+      "slot": 444791914,
       "source": "blockhash"
     },
     {
-      "word": "stool",
-      "slot": 444515573,
+      "word": "jeans",
+      "slot": 444791914,
       "source": "previousBlockhash"
     },
     {
-      "word": "bird",
-      "slot": 444515573,
+      "word": "service",
+      "slot": 444791914,
       "source": "transaction"
     },
     {
-      "word": "medal",
-      "slot": 444497573,
+      "word": "cheese",
+      "slot": 444773914,
       "source": "blockhash"
     },
     {
-      "word": "author",
-      "slot": 444497573,
+      "word": "library",
+      "slot": 444773914,
       "source": "previousBlockhash"
     },
     {
-      "word": "dance",
-      "slot": 444497573,
+      "word": "labor",
+      "slot": 444773914,
       "source": "transaction"
     },
     {
-      "word": "antenna",
-      "slot": 444479573,
+      "word": "shine",
+      "slot": 444755914,
       "source": "blockhash"
     },
     {
-      "word": "prize",
-      "slot": 444479573,
+      "word": "loyal",
+      "slot": 444755914,
       "source": "previousBlockhash"
     },
     {
-      "word": "tone",
-      "slot": 444479573,
+      "word": "cube",
+      "slot": 444755914,
       "source": "transaction"
     },
     {
-      "word": "club",
-      "slot": 444461573,
+      "word": "wine",
+      "slot": 444737914,
       "source": "blockhash"
     },
     {
-      "word": "decide",
-      "slot": 444461573,
+      "word": "ladder",
+      "slot": 444737914,
       "source": "previousBlockhash"
     },
     {
-      "word": "return",
-      "slot": 444461573,
+      "word": "diary",
+      "slot": 444737914,
       "source": "transaction"
     },
     {
-      "word": "lucky",
-      "slot": 444443573,
+      "word": "blouse",
+      "slot": 444719914,
       "source": "blockhash"
     },
     {
-      "word": "search",
-      "slot": 444443573,
+      "word": "dizzy",
+      "slot": 444719914,
       "source": "previousBlockhash"
     },
     {
-      "word": "more",
-      "slot": 444443573,
-      "source": "transaction"
+      "word": "tiny",
+      "slot": 444701914,
+      "source": "blockhash"
     },
     {
-      "word": "chapter",
-      "slot": 444425573,
-      "source": "blockhash"
+      "word": "globe",
+      "slot": 444701914,
+      "source": "previousBlockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3murh24oyac2v",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mutyev5i6e2i",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

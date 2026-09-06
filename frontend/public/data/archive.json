@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-06",
+    "poem": {
+      "content": "In the Solana sunset, where worn jeans dissolve\ninto the cosmos, like a labor of love, what remains?\nA service to the stars, a thread of memory\nthat whispers tales of cheese, mapped on a tiny map of dreams\n\nIn a library of the mind, where pages turn alive\na ladder to the moon is built, a fragile, shining spine\na blouse of stardust, a diary of endless light\nrecords the moments, as the world takes flight\n\nIn this dizzying whirl, where the globe spins out of control\na cube of time, a prison of the soul\nawaits its chance to shine, to break free from chains\nand rise, like wine, in translucent stains\n\nThrough labyrinths of emotion, I search for a guiding star\na beacon in the fall, a signal from who we are\na call to remain loyal, to the heartbeat of the earth\na reminder to cherish, in every labor and rebirth\n\nAs the cheese of wisdom cracks, the rind of doubt\na world is revealed, in all its fragile beauty, a moody hush\na moment's pause, a breath, a fall into the unknown\nand in the silence, a whispered truth is sown",
+      "generatedAt": "2026-09-06T12:24:38.052Z"
+    },
+    "keywords": [
+      {
+        "word": "fall",
+        "slot": 444791914,
+        "source": "blockhash"
+      },
+      {
+        "word": "jeans",
+        "slot": 444791914,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "service",
+        "slot": 444791914,
+        "source": "transaction"
+      },
+      {
+        "word": "cheese",
+        "slot": 444773914,
+        "source": "blockhash"
+      },
+      {
+        "word": "library",
+        "slot": 444773914,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "labor",
+        "slot": 444773914,
+        "source": "transaction"
+      },
+      {
+        "word": "shine",
+        "slot": 444755914,
+        "source": "blockhash"
+      },
+      {
+        "word": "loyal",
+        "slot": 444755914,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cube",
+        "slot": 444755914,
+        "source": "transaction"
+      },
+      {
+        "word": "wine",
+        "slot": 444737914,
+        "source": "blockhash"
+      },
+      {
+        "word": "ladder",
+        "slot": 444737914,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "diary",
+        "slot": 444737914,
+        "source": "transaction"
+      },
+      {
+        "word": "blouse",
+        "slot": 444719914,
+        "source": "blockhash"
+      },
+      {
+        "word": "dizzy",
+        "slot": 444719914,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tiny",
+        "slot": 444701914,
+        "source": "blockhash"
+      },
+      {
+        "word": "globe",
+        "slot": 444701914,
+        "source": "previousBlockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mutyev5i6e2i",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-05",
     "poem": {
       "content": "In moonlit gardens, a fox with fur so bright,\nPads softly, a thief in the silent night.\nShe seeks the stool, a perch to claim,\nWhere she can watch the bird, her heart's sweet aim.\n\nA medal hangs from her neck, a symbol of her might,\nA token earned from the dance of the night.\nThe author of her own destiny, she writes her tale,\nWith every step, a new chapter to hail.\n\nHer antenna-like ears twitch, attuning to the air,\nAs she searches for the prize, beyond compare.\nA lucky break, a twist of fate, a turn of tone,\nLeads her to the club, where secrets are known.\n\nThere, she meets the one who can decide her way,\nAnd with each step, she returns to her own day.\nMore than just a seeker, she's a master of her fate,\nWith a prize to claim, and a medal to create.\n\nIn this world of wonder, she finds her own voice,\nA language of the heart, a choice to rejoice.\nThe bird above, a witness to her quest,\nSings in harmony, as she takes her rest.\n\nThe fox's tale, a chapter yet untold,\nA dance of courage, where she decides to hold.\nHer stool, a symbol of strength, a prize to claim,\nA medal shining bright, as she returns to her name.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mskqqthqz62i",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-07",
-    "poem": {
-      "content": "In the wash of time, I pass by faces unremarked,\nForgotten moments, lost in the spin of the years.\nA whispered apology echoes through empty streets,\nFor the love I've left to wither, like a field left unseated.\n\n Memories, a page torn, reveal a truth I've concealed,\nA peasant's heart once yearned for freedom's high seat.\nBut now, a major force draws me to a different creed,\nAn online world where love's a portion, bought and sold in speed.\n\nA soccer match unfolds, the players, like ants, in line,\nTheir footsteps, a vacuum, sucking all in its design.\nTheir cries, a symphony, a requiem for love's demise,\nLeaves me to question what's the cost of this digital prize.\n\nIn this world of speed, where time is just a spin,\nA moment's pause, and I forget what's real within.\nBut still, my heart thrums, a drumbeat in the dark,\nLonging to thrive in a world where love's still left to embark.\n\nIn the silence, I find my seat, where love resides,\nA sanctuary where hearts can heal, and wounds can be denied.\nIn this quiet space, I let go of the speed,\nAnd find my voice, a gentle whisper, in the wash of the need.\n\nA page turns, and the story unfolds, a new path unwinds,\nA journey to forgive, to let love's light shine, and leave the past behind.\nAnd though the road's uncertain, I'll follow where it leads,\nFor in the end, it's love that thrives, where the heart finds its seat.",
-      "generatedAt": "2026-08-07T09:45:20.285Z"
-    },
-    "keywords": [
-      {
-        "word": "pass",
-        "slot": 437764901,
-        "source": "blockhash"
-      },
-      {
-        "word": "apology",
-        "slot": 437764901,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "spin",
-        "slot": 437764901,
-        "source": "transaction"
-      },
-      {
-        "word": "wash",
-        "slot": 437746901,
-        "source": "blockhash"
-      },
-      {
-        "word": "portion",
-        "slot": 437746901,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "thrive",
-        "slot": 437746901,
-        "source": "transaction"
-      },
-      {
-        "word": "soccer",
-        "slot": 437728901,
-        "source": "blockhash"
-      },
-      {
-        "word": "forget",
-        "slot": 437728901,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "seat",
-        "slot": 437728901,
-        "source": "transaction"
-      },
-      {
-        "word": "address",
-        "slot": 437710901,
-        "source": "blockhash"
-      },
-      {
-        "word": "page",
-        "slot": 437710901,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "peasant",
-        "slot": 437710901,
-        "source": "transaction"
-      },
-      {
-        "word": "major",
-        "slot": 437692901,
-        "source": "blockhash"
-      },
-      {
-        "word": "online",
-        "slot": 437692901,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "speed",
-        "slot": 437692901,
-        "source": "transaction"
-      },
-      {
-        "word": "vacuum",
-        "slot": 437674901,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msibifowvs25",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
