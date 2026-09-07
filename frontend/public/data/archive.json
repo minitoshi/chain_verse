@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-07",
+    "poem": {
+      "content": "In the depths of the jungle, where ancient trees preside,\nA couple wandered, hand in hand, with love as their guide.\nTheir ability to thrive in the wild was a wondrous thing,\nA testament to the strength that love can bring.\n\nLike a lobster, they navigated the tangled undergrowth,\nTheir arm entwined, a symbol of their love's profound muscle.\nBut as they walked, they stumbled upon a clearing's room,\nA space where they could refuse the world's noise and gloom.\n\nIn this sanctuary, they could depend on each other's kiss,\nA tender touch that made their hearts like two spoons in bliss.\nTheir love was a grant, a gift that they cherished every day,\nA pattern of devotion that would never fade away.\n\nAs they stood together, a jungle creature began to spawn,\nA tiny, curious creature that made them laugh and feel at home.\nTheir love was a haven, a place where they could thrive and grow,\nA refuge from the world's darkness, where they could let their spirits glow.\n\nIn this verdant heart of the jungle, they found a love so true,\nA love that would forever depend on the strength of their couple's arm.\nTheir ability to love and be loved was a wondrous, magical thing,\nA gift that they would forever cherish, like a precious, shining wing.",
+      "generatedAt": "2026-09-07T14:30:06.690Z"
+    },
+    "keywords": [
+      {
+        "word": "you",
+        "slot": 445088224,
+        "source": "blockhash"
+      },
+      {
+        "word": "ability",
+        "slot": 445088224,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "arm",
+        "slot": 445088224,
+        "source": "transaction"
+      },
+      {
+        "word": "muscle",
+        "slot": 445070224,
+        "source": "blockhash"
+      },
+      {
+        "word": "refuse",
+        "slot": 445070224,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "jungle",
+        "slot": 445070224,
+        "source": "transaction"
+      },
+      {
+        "word": "kiss",
+        "slot": 445052224,
+        "source": "blockhash"
+      },
+      {
+        "word": "thrive",
+        "slot": 445052224,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "lobster",
+        "slot": 445052224,
+        "source": "transaction"
+      },
+      {
+        "word": "couple",
+        "slot": 445034224,
+        "source": "blockhash"
+      },
+      {
+        "word": "room",
+        "slot": 445034224,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "depend",
+        "slot": 445034224,
+        "source": "transaction"
+      },
+      {
+        "word": "like",
+        "slot": 445016224,
+        "source": "blockhash"
+      },
+      {
+        "word": "grant",
+        "slot": 445016224,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "spawn",
+        "slot": 445016224,
+        "source": "transaction"
+      },
+      {
+        "word": "pattern",
+        "slot": 444998224,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3muwpu5xwjl2u",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-06",
     "poem": {
       "content": "In the Solana sunset, where worn jeans dissolve\ninto the cosmos, like a labor of love, what remains?\nA service to the stars, a thread of memory\nthat whispers tales of cheese, mapped on a tiny map of dreams\n\nIn a library of the mind, where pages turn alive\na ladder to the moon is built, a fragile, shining spine\na blouse of stardust, a diary of endless light\nrecords the moments, as the world takes flight\n\nIn this dizzying whirl, where the globe spins out of control\na cube of time, a prison of the soul\nawaits its chance to shine, to break free from chains\nand rise, like wine, in translucent stains\n\nThrough labyrinths of emotion, I search for a guiding star\na beacon in the fall, a signal from who we are\na call to remain loyal, to the heartbeat of the earth\na reminder to cherish, in every labor and rebirth\n\nAs the cheese of wisdom cracks, the rind of doubt\na world is revealed, in all its fragile beauty, a moody hush\na moment's pause, a breath, a fall into the unknown\nand in the silence, a whispered truth is sown",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msnbc5gav22r",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-08",
-    "poem": {
-      "content": "In the realm of Solana's endless night,\nA shaft of code pierces the digital light,\nI choose the path where wisdom grows,\nWhere ancient secrets in the data flow,\nI chart my course, a navigator true,\nThrough oceans of bytes, where solutions await anew.\n\nLike digital mail, my message spreads,\nA whispered promise of innovation's threads,\nAs on my foot, the blockchain's weight is laid,\nI find my strength, in the cryptic code displayed,\nEach detail a thread, in the intricate mesh,\nA tapestry woven, from the threads of our wish.\n\nBut danger lurks, a threat in every crush,\nA stumble in the pace, where errors rush,\nTo my hip I cling, to the solid ground,\nAs through the darkness, my leg finds its sound,\nIn this decade of change, where tech reigns supreme,\nI find my footing, on Solana's digital beam.\n\nLike skiers down a slope, I swiftly glide,\nThrough mountains of data, where knowledge resides,\nMy muscle strengthens, as I learn and grow,\nEasily navigating the waves, where the future's glow,\n Illuminates the path, where innovation's born,\nIn the realm of Solana, where solutions are sworn.",
-      "generatedAt": "2026-08-08T09:23:48.857Z"
-    },
-    "keywords": [
-      {
-        "word": "shaft",
-        "slot": 437966533,
-        "source": "blockhash"
-      },
-      {
-        "word": "choose",
-        "slot": 437966533,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "course",
-        "slot": 437966533,
-        "source": "transaction"
-      },
-      {
-        "word": "solution",
-        "slot": 437948533,
-        "source": "blockhash"
-      },
-      {
-        "word": "mail",
-        "slot": 437948533,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "foot",
-        "slot": 437948533,
-        "source": "transaction"
-      },
-      {
-        "word": "detail",
-        "slot": 437930533,
-        "source": "blockhash"
-      },
-      {
-        "word": "crush",
-        "slot": 437930533,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "hip",
-        "slot": 437930533,
-        "source": "transaction"
-      },
-      {
-        "word": "leg",
-        "slot": 437912533,
-        "source": "blockhash"
-      },
-      {
-        "word": "decade",
-        "slot": 437912533,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ski",
-        "slot": 437912533,
-        "source": "transaction"
-      },
-      {
-        "word": "stumble",
-        "slot": 437894533,
-        "source": "blockhash"
-      },
-      {
-        "word": "mesh",
-        "slot": 437894533,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "muscle",
-        "slot": 437894533,
-        "source": "transaction"
-      },
-      {
-        "word": "easily",
-        "slot": 437876533,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mskqqthqz62i",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
