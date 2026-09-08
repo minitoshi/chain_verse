@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-08",
+    "poem": {
+      "content": "In twilight fields, where phantom cypress throng,\nExcluded from the sun's direct song,\nA captain sailed, his spirit astray,\ncharted a course through the obscure bay.\n\nHe stood on the arch of a forgotten bridge,\nA fox darted by, its eyes like woven sieve,\n engrossed in secrets only whispers give,\nhe leaned to listen, as the sea heaved.\n\nHis stomach tight, a stormy masquerade,\nThe industry of whales, a decrease displayed,\nuncanny since the clinic closed its door,\nhe took the helm, a heart forlorn before.\n\nOn waters calm, the metal hull did ride,\na blunt decal left, where crest once did reside,\nhe left the shore, the crunch beneath his soles,\n disappeared from view, row by lazily, out of jests and tales.\n\nNow on his wake, a trail of wreck is laid,\na haunting rust, on what was once a field of aid,\nsteered for a new, unseen exchange,\nwhere gods impart no counsel, or so it's been stated.\n\nThere, as sailor did sleep and travels watched polish night,\n screams an absent voice, the his pain soothes north, in historic curse delight.",
+      "generatedAt": "2026-09-08T13:06:12.116Z"
+    },
+    "keywords": [
+      {
+        "word": "exclude",
+        "slot": 445345536,
+        "source": "blockhash"
+      },
+      {
+        "word": "cruise",
+        "slot": 445345536,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "metal",
+        "slot": 445345536,
+        "source": "transaction"
+      },
+      {
+        "word": "fox",
+        "slot": 445327536,
+        "source": "blockhash"
+      },
+      {
+        "word": "clinic",
+        "slot": 445327536,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "decrease",
+        "slot": 445327536,
+        "source": "transaction"
+      },
+      {
+        "word": "captain",
+        "slot": 445309536,
+        "source": "blockhash"
+      },
+      {
+        "word": "absent",
+        "slot": 445309536,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cross",
+        "slot": 445309536,
+        "source": "transaction"
+      },
+      {
+        "word": "arch",
+        "slot": 445291536,
+        "source": "blockhash"
+      },
+      {
+        "word": "they",
+        "slot": 445291536,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "field",
+        "slot": 445291536,
+        "source": "transaction"
+      },
+      {
+        "word": "stomach",
+        "slot": 445273536,
+        "source": "blockhash"
+      },
+      {
+        "word": "wreck",
+        "slot": 445273536,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "peasant",
+        "slot": 445273536,
+        "source": "transaction"
+      },
+      {
+        "word": "exchange",
+        "slot": 445255536,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-07",
     "poem": {
       "content": "In the depths of the jungle, where ancient trees preside,\nA couple wandered, hand in hand, with love as their guide.\nTheir ability to thrive in the wild was a wondrous thing,\nA testament to the strength that love can bring.\n\nLike a lobster, they navigated the tangled undergrowth,\nTheir arm entwined, a symbol of their love's profound muscle.\nBut as they walked, they stumbled upon a clearing's room,\nA space where they could refuse the world's noise and gloom.\n\nIn this sanctuary, they could depend on each other's kiss,\nA tender touch that made their hearts like two spoons in bliss.\nTheir love was a grant, a gift that they cherished every day,\nA pattern of devotion that would never fade away.\n\nAs they stood together, a jungle creature began to spawn,\nA tiny, curious creature that made them laugh and feel at home.\nTheir love was a haven, a place where they could thrive and grow,\nA refuge from the world's darkness, where they could let their spirits glow.\n\nIn this verdant heart of the jungle, they found a love so true,\nA love that would forever depend on the strength of their couple's arm.\nTheir ability to love and be loved was a wondrous, magical thing,\nA gift that they would forever cherish, like a precious, shining wing.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-09",
-    "poem": {
-      "content": "In the ozone-lit square, a junior mind takes flight\nRequiring answers to the mysteries of the night\nA guess is made, a leap of faith, a test of will\nAbout the unknown, where truth and lies entwine still\n\nA runway stretches, a path unwinding free\nA boss of dreams, a leader, or so it seems to me\nAn artwork of the soul, a masterpiece in the making\nA romance of risk, where hearts and fortunes are at stake\n\nIn the slot of uncertainty, we place our bets\nAnd pray that fortune smiles, and our hearts are met\nBut accusations fly, and doubts begin to creep\nA response is needed, before the damage is deep\n\nThe result is all we seek, the outcome we desire\nBut in the test of time, we often find we're on fire\nThe flames of doubt, the ashes of our pride\nA harsh reminder that we must step aside\n\nAnd donate our fears, our doubts, our shame\nTo the altar of courage, where heroes are made in the game\nFor in the end, it's not about the guess or the test\nBut about the courage to take the leap, and do our best.",
-      "generatedAt": "2026-08-09T09:25:08.469Z"
-    },
-    "keywords": [
-      {
-        "word": "junior",
-        "slot": 438171229,
-        "source": "blockhash"
-      },
-      {
-        "word": "require",
-        "slot": 438171229,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "guess",
-        "slot": 438171229,
-        "source": "transaction"
-      },
-      {
-        "word": "about",
-        "slot": 438153229,
-        "source": "blockhash"
-      },
-      {
-        "word": "runway",
-        "slot": 438153229,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ozone",
-        "slot": 438153229,
-        "source": "transaction"
-      },
-      {
-        "word": "boss",
-        "slot": 438135229,
-        "source": "blockhash"
-      },
-      {
-        "word": "artwork",
-        "slot": 438135229,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "romance",
-        "slot": 438135229,
-        "source": "transaction"
-      },
-      {
-        "word": "square",
-        "slot": 438117229,
-        "source": "blockhash"
-      },
-      {
-        "word": "slot",
-        "slot": 438117229,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "accuse",
-        "slot": 438117229,
-        "source": "transaction"
-      },
-      {
-        "word": "response",
-        "slot": 438099229,
-        "source": "blockhash"
-      },
-      {
-        "word": "result",
-        "slot": 438099229,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "test",
-        "slot": 438099229,
-        "source": "transaction"
-      },
-      {
-        "word": "donate",
-        "slot": 438081229,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msnbc5gav22r",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
