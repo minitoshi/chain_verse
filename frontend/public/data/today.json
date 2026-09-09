@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "poem": {
-    "content": "In twilight fields, where phantom cypress throng,\nExcluded from the sun's direct song,\nA captain sailed, his spirit astray,\ncharted a course through the obscure bay.\n\nHe stood on the arch of a forgotten bridge,\nA fox darted by, its eyes like woven sieve,\n engrossed in secrets only whispers give,\nhe leaned to listen, as the sea heaved.\n\nHis stomach tight, a stormy masquerade,\nThe industry of whales, a decrease displayed,\nuncanny since the clinic closed its door,\nhe took the helm, a heart forlorn before.\n\nOn waters calm, the metal hull did ride,\na blunt decal left, where crest once did reside,\nhe left the shore, the crunch beneath his soles,\n disappeared from view, row by lazily, out of jests and tales.\n\nNow on his wake, a trail of wreck is laid,\na haunting rust, on what was once a field of aid,\nsteered for a new, unseen exchange,\nwhere gods impart no counsel, or so it's been stated.\n\nThere, as sailor did sleep and travels watched polish night,\n screams an absent voice, the his pain soothes north, in historic curse delight.",
-    "generatedAt": "2026-09-08T13:06:12.116Z"
+    "content": "In the summer of ICOs, a million wallets bloomed\nTruly, a garden of promise, where visions were assumed\nA dial ticked forward, a countdown to the dawn\nOf a new era, where cryptocurrency took on form\n\nBut like a lock, secrets were kept, hidden behind a mask\nInvestors oblige, with questions unasked\nThe liquid gold of speculation flowed, a tidal wave's crash\nAs prices rose and fell, a precarious dance of hash\n\nIn this market of mirrors, a photo of reality gleams\nA world of ethics questioned, where honesty falters in dreams\nInjury to the wallet, a story oft retold\nOf losses incurred, of dreams that grew old\n\nBut some still wish to hop on the wave, to ride the crest\nA fleeting joy, a thrill that will forever rest\nIn the memories of a day, when fortunes were made and unmade\nWhen summer sunshine gleamed on the market's fragile trade\n\nBut now the news arrives, a forthright call to pay\nThe costs of speculation, the damage done each day\nThe balance sheet shows, a ledger of regret\nA tally of the losses, the lessons yet to be learned and set\n\nIn the wake of the storm, a reflection of what's true\nA world of promises made, and the ethics we pursue\nA link to a brighter past, a path yet untold\nA summer's tale of blockchain's wild and troubled hold\n\nIn the end, it's not just profit, nor the way we play\nBut the people, the communities, that bridge the way\nFor in the wave of change, a new dawn must arise\nWhen ethics and liquidity meet, in the summer's bright surprise.",
+    "generatedAt": "2026-09-09T13:11:31.038Z"
   },
   "keywords": [
     {
-      "word": "exclude",
-      "slot": 445345536,
+      "word": "million",
+      "slot": 445619085,
       "source": "blockhash"
     },
     {
-      "word": "cruise",
-      "slot": 445345536,
+      "word": "truly",
+      "slot": 445619085,
       "source": "previousBlockhash"
     },
     {
-      "word": "metal",
-      "slot": 445345536,
+      "word": "dial",
+      "slot": 445619085,
       "source": "transaction"
     },
     {
-      "word": "fox",
-      "slot": 445327536,
+      "word": "lock",
+      "slot": 445601085,
       "source": "blockhash"
     },
     {
-      "word": "clinic",
-      "slot": 445327536,
+      "word": "oblige",
+      "slot": 445601085,
       "source": "previousBlockhash"
     },
     {
-      "word": "decrease",
-      "slot": 445327536,
+      "word": "liquid",
+      "slot": 445601085,
       "source": "transaction"
     },
     {
-      "word": "captain",
-      "slot": 445309536,
+      "word": "front",
+      "slot": 445583085,
       "source": "blockhash"
     },
     {
-      "word": "absent",
-      "slot": 445309536,
+      "word": "save",
+      "slot": 445583085,
       "source": "previousBlockhash"
     },
     {
-      "word": "cross",
-      "slot": 445309536,
+      "word": "photo",
+      "slot": 445583085,
       "source": "transaction"
     },
     {
-      "word": "arch",
-      "slot": 445291536,
+      "word": "ethics",
+      "slot": 445565085,
       "source": "blockhash"
     },
     {
-      "word": "they",
-      "slot": 445291536,
+      "word": "injury",
+      "slot": 445565085,
       "source": "previousBlockhash"
     },
     {
-      "word": "field",
-      "slot": 445291536,
+      "word": "summer",
+      "slot": 445565085,
       "source": "transaction"
     },
     {
-      "word": "stomach",
-      "slot": 445273536,
+      "word": "link",
+      "slot": 445547085,
       "source": "blockhash"
     },
     {
-      "word": "wreck",
-      "slot": 445273536,
+      "word": "wave",
+      "slot": 445547085,
       "source": "previousBlockhash"
     },
     {
-      "word": "peasant",
-      "slot": 445273536,
+      "word": "news",
+      "slot": 445547085,
       "source": "transaction"
     },
     {
-      "word": "exchange",
-      "slot": 445255536,
+      "word": "wish",
+      "slot": 445529085,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mv3mfh6w7f23",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

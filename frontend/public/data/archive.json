@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-09",
+    "poem": {
+      "content": "In the summer of ICOs, a million wallets bloomed\nTruly, a garden of promise, where visions were assumed\nA dial ticked forward, a countdown to the dawn\nOf a new era, where cryptocurrency took on form\n\nBut like a lock, secrets were kept, hidden behind a mask\nInvestors oblige, with questions unasked\nThe liquid gold of speculation flowed, a tidal wave's crash\nAs prices rose and fell, a precarious dance of hash\n\nIn this market of mirrors, a photo of reality gleams\nA world of ethics questioned, where honesty falters in dreams\nInjury to the wallet, a story oft retold\nOf losses incurred, of dreams that grew old\n\nBut some still wish to hop on the wave, to ride the crest\nA fleeting joy, a thrill that will forever rest\nIn the memories of a day, when fortunes were made and unmade\nWhen summer sunshine gleamed on the market's fragile trade\n\nBut now the news arrives, a forthright call to pay\nThe costs of speculation, the damage done each day\nThe balance sheet shows, a ledger of regret\nA tally of the losses, the lessons yet to be learned and set\n\nIn the wake of the storm, a reflection of what's true\nA world of promises made, and the ethics we pursue\nA link to a brighter past, a path yet untold\nA summer's tale of blockchain's wild and troubled hold\n\nIn the end, it's not just profit, nor the way we play\nBut the people, the communities, that bridge the way\nFor in the wave of change, a new dawn must arise\nWhen ethics and liquidity meet, in the summer's bright surprise.",
+      "generatedAt": "2026-09-09T13:11:31.038Z"
+    },
+    "keywords": [
+      {
+        "word": "million",
+        "slot": 445619085,
+        "source": "blockhash"
+      },
+      {
+        "word": "truly",
+        "slot": 445619085,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dial",
+        "slot": 445619085,
+        "source": "transaction"
+      },
+      {
+        "word": "lock",
+        "slot": 445601085,
+        "source": "blockhash"
+      },
+      {
+        "word": "oblige",
+        "slot": 445601085,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "liquid",
+        "slot": 445601085,
+        "source": "transaction"
+      },
+      {
+        "word": "front",
+        "slot": 445583085,
+        "source": "blockhash"
+      },
+      {
+        "word": "save",
+        "slot": 445583085,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "photo",
+        "slot": 445583085,
+        "source": "transaction"
+      },
+      {
+        "word": "ethics",
+        "slot": 445565085,
+        "source": "blockhash"
+      },
+      {
+        "word": "injury",
+        "slot": 445565085,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "summer",
+        "slot": 445565085,
+        "source": "transaction"
+      },
+      {
+        "word": "link",
+        "slot": 445547085,
+        "source": "blockhash"
+      },
+      {
+        "word": "wave",
+        "slot": 445547085,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "news",
+        "slot": 445547085,
+        "source": "transaction"
+      },
+      {
+        "word": "wish",
+        "slot": 445529085,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mv3mfh6w7f23",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-08",
     "poem": {
       "content": "In twilight fields, where phantom cypress throng,\nExcluded from the sun's direct song,\nA captain sailed, his spirit astray,\ncharted a course through the obscure bay.\n\nHe stood on the arch of a forgotten bridge,\nA fox darted by, its eyes like woven sieve,\n engrossed in secrets only whispers give,\nhe leaned to listen, as the sea heaved.\n\nHis stomach tight, a stormy masquerade,\nThe industry of whales, a decrease displayed,\nuncanny since the clinic closed its door,\nhe took the helm, a heart forlorn before.\n\nOn waters calm, the metal hull did ride,\na blunt decal left, where crest once did reside,\nhe left the shore, the crunch beneath his soles,\n disappeared from view, row by lazily, out of jests and tales.\n\nNow on his wake, a trail of wreck is laid,\na haunting rust, on what was once a field of aid,\nsteered for a new, unseen exchange,\nwhere gods impart no counsel, or so it's been stated.\n\nThere, as sailor did sleep and travels watched polish night,\n screams an absent voice, the his pain soothes north, in historic curse delight.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mssddnwsgc2w",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-10",
-    "poem": {
-      "content": "In the current of life, I dance and play,\nWhere power meets the soul, at the break of day.\nMy heart beats strong, it resemble the roar\nOf a kangaroo, who leaps, and asks for more.\n\nI'm awake to the world, with a voice so clear,\nA whispered truth, that only love can hear.\nFollow the thread of my heart, and you'll find\nThe hidden path, that winds and entwines in mind.\n\nMy skin is soft, like the petals of a rose,\nBut beneath the surface, a fierce spirit poses.\nI am the chief, of my own destiny's board,\nWhere decisions made, will shape the future's chord.\n\nIn the stillness, I settle into the night,\nWhere dinner is served, on the table of light.\nThe stars above, twinkle like diamonds bright,\nGuiding me on, through the dark of night.\n\nA wise voice whispers, from the depths of my soul,\nAn essay of life, where the truth makes me whole.\nTime is a river, that flows and never ends,\nAnd in its tide, I find the courage to transcend.\n\nBut for now, I'll follow the current's sway,\nAnd ride the waves, to the dawn of a new day.\nWhere power and love, will spike and bloom anew,\nAnd in the silence, my heart will sing to you.",
-      "generatedAt": "2026-08-10T10:05:15.316Z"
-    },
-    "keywords": [
-      {
-        "word": "current",
-        "slot": 438381168,
-        "source": "blockhash"
-      },
-      {
-        "word": "power",
-        "slot": 438381168,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "resemble",
-        "slot": 438381168,
-        "source": "transaction"
-      },
-      {
-        "word": "awake",
-        "slot": 438363168,
-        "source": "blockhash"
-      },
-      {
-        "word": "voice",
-        "slot": 438363168,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "kangaroo",
-        "slot": 438363168,
-        "source": "transaction"
-      },
-      {
-        "word": "follow",
-        "slot": 438345168,
-        "source": "blockhash"
-      },
-      {
-        "word": "skin",
-        "slot": 438345168,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "chief",
-        "slot": 438345168,
-        "source": "transaction"
-      },
-      {
-        "word": "board",
-        "slot": 438327168,
-        "source": "blockhash"
-      },
-      {
-        "word": "settle",
-        "slot": 438327168,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "dinner",
-        "slot": 438327168,
-        "source": "transaction"
-      },
-      {
-        "word": "wise",
-        "slot": 438309168,
-        "source": "blockhash"
-      },
-      {
-        "word": "essay",
-        "slot": 438309168,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "time",
-        "slot": 438309168,
-        "source": "transaction"
-      },
-      {
-        "word": "spike",
-        "slot": 438291168,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
