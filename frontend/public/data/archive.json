@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-10",
+    "poem": {
+      "content": "In the vast expanse of digital space,\nA cargo ship of code sails with steady pace,\nCarrying files of data, precious as gold,\nThrough the catalog of transactions, young and old.\n\nIts mobile heart beats with a gentle hum,\nAs resources flow, like rivers, to the drum,\nOf local markets, where the people gather 'round,\nTo exchange and trade, with a smooth, unhurried sound.\n\nIn this realm of ones and zeros, we find our bread,\nA sustenance that nourishes our digital dread,\nA fence that separates the known from the unknown,\nA threshold to cross, where the brave may atone.\n\nWe ask the questions, and the answers unfold,\nLike a smooth, unbroken thread, that's been told,\nIn an essay of code, that's simple, yet grand,\nA tale of innovation, that's been taken in hand.\n\nThe resourceful ones, who toil and strive,\nMelt the boundaries, between the physical and the drive,\nOf progress and possibility, that's hard to contain,\nA force that's released, like a wild, untamed rain.\n\nIn the east, where the sun rises high,\nA lottery of life, is drawn, and the winners cry,\nTheir names etched in the annals, of history's page,\nA testament to the power, that's been engaged.\n\nYet, in this world of wonder, we must not forget,\nThe fragile balance, between the digital and the step,\nThat leads us to the edge, where the unknown awaits,\nAnd the choices we make, will shape the future's fate.",
+      "generatedAt": "2026-09-10T13:09:29.332Z"
+    },
+    "keywords": [
+      {
+        "word": "cargo",
+        "slot": 445891761,
+        "source": "blockhash"
+      },
+      {
+        "word": "file",
+        "slot": 445891761,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "catalog",
+        "slot": 445891761,
+        "source": "transaction"
+      },
+      {
+        "word": "mobile",
+        "slot": 445873761,
+        "source": "blockhash"
+      },
+      {
+        "word": "resource",
+        "slot": 445873761,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "local",
+        "slot": 445873761,
+        "source": "transaction"
+      },
+      {
+        "word": "bread",
+        "slot": 445855761,
+        "source": "blockhash"
+      },
+      {
+        "word": "fence",
+        "slot": 445855761,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "ask",
+        "slot": 445855761,
+        "source": "transaction"
+      },
+      {
+        "word": "smooth",
+        "slot": 445837761,
+        "source": "blockhash"
+      },
+      {
+        "word": "essay",
+        "slot": 445837761,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "simple",
+        "slot": 445837761,
+        "source": "transaction"
+      },
+      {
+        "word": "involve",
+        "slot": 445819761,
+        "source": "blockhash"
+      },
+      {
+        "word": "melt",
+        "slot": 445819761,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "east",
+        "slot": 445819761,
+        "source": "transaction"
+      },
+      {
+        "word": "lottery",
+        "slot": 445801761,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mv64qqdcmk23",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-09",
     "poem": {
       "content": "In the summer of ICOs, a million wallets bloomed\nTruly, a garden of promise, where visions were assumed\nA dial ticked forward, a countdown to the dawn\nOf a new era, where cryptocurrency took on form\n\nBut like a lock, secrets were kept, hidden behind a mask\nInvestors oblige, with questions unasked\nThe liquid gold of speculation flowed, a tidal wave's crash\nAs prices rose and fell, a precarious dance of hash\n\nIn this market of mirrors, a photo of reality gleams\nA world of ethics questioned, where honesty falters in dreams\nInjury to the wallet, a story oft retold\nOf losses incurred, of dreams that grew old\n\nBut some still wish to hop on the wave, to ride the crest\nA fleeting joy, a thrill that will forever rest\nIn the memories of a day, when fortunes were made and unmade\nWhen summer sunshine gleamed on the market's fragile trade\n\nBut now the news arrives, a forthright call to pay\nThe costs of speculation, the damage done each day\nThe balance sheet shows, a ledger of regret\nA tally of the losses, the lessons yet to be learned and set\n\nIn the wake of the storm, a reflection of what's true\nA world of promises made, and the ethics we pursue\nA link to a brighter past, a path yet untold\nA summer's tale of blockchain's wild and troubled hold\n\nIn the end, it's not just profit, nor the way we play\nBut the people, the communities, that bridge the way\nFor in the wave of change, a new dawn must arise\nWhen ethics and liquidity meet, in the summer's bright surprise.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msuu3fdw3y2u",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-11",
-    "poem": {
-      "content": "In twilight's hush, where sandstone dunes ascend\nA lone athlete treks, a wanderer of the wind\nStem-like, they rise, unshaken, to the test\nA spectral figure, where the desert's whispers nest\n\nBy ancient craters, tumbled stones reveal\nThe scars of time, a topography of zeal\nIn vanishing landscapes, whispers echo, lost\nA donkey's call, a haunting, mournful boast\n\nIn crumbling hollers, a kid roams free\nAn orphan's heart, where loneliness sets in me\nThe dice of fate, entwined in her despair\nCast shadows of regret, an echo beyond repair\n\nA rusty hill, like wandering fate's own phantom guide\nA maple leaf, infused with history's tide\nI find a girl, beneath the tide of sorrow's sock\nHer eyes, like pumice, fractured, worn to rock\n\nHer soul, a map of chance, forecasts wounds unseen\nYet, like a stem, sporadic growths unfold\nReminders of life's cycles, bursts of birth and morn\nThough shaken, tenacious, through guilt and disarray to be reborn\n\nIn liminal spaces, solitude is a ragged flag\nIn reckless whirlwinds, the freedom of casting the dice\nEchoes reverberate, an unlikely fate's lonely registry\nA ledger, pared in truths, embrowned by crumbling time's ancestry\nThe skyline in scarlet print, guiding where Persephone falls\nBut when losing steps apart, rehearse this hollow register...",
-      "generatedAt": "2026-08-11T09:45:05.891Z"
-    },
-    "keywords": [
-      {
-        "word": "stem",
-        "slot": 438583047,
-        "source": "blockhash"
-      },
-      {
-        "word": "dune",
-        "slot": 438583047,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "enroll",
-        "slot": 438583047,
-        "source": "transaction"
-      },
-      {
-        "word": "athlete",
-        "slot": 438565047,
-        "source": "blockhash"
-      },
-      {
-        "word": "van",
-        "slot": 438565047,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "orphan",
-        "slot": 438565047,
-        "source": "transaction"
-      },
-      {
-        "word": "dice",
-        "slot": 438547047,
-        "source": "blockhash"
-      },
-      {
-        "word": "maple",
-        "slot": 438547047,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "kid",
-        "slot": 438547047,
-        "source": "transaction"
-      },
-      {
-        "word": "donkey",
-        "slot": 438529047,
-        "source": "blockhash"
-      },
-      {
-        "word": "predict",
-        "slot": 438529047,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "crater",
-        "slot": 438529047,
-        "source": "transaction"
-      },
-      {
-        "word": "rebuild",
-        "slot": 438511047,
-        "source": "blockhash"
-      },
-      {
-        "word": "girl",
-        "slot": 438511047,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "guilt",
-        "slot": 438511047,
-        "source": "transaction"
-      },
-      {
-        "word": "sock",
-        "slot": 438493047,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mssddnwsgc2w",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
