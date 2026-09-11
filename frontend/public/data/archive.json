@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-11",
+    "poem": {
+      "content": "In neon-lit streets, where gadgets throng,\nA sense of pride and loneliness goes on.\nA child wanders, lost, with rubber-housed feet,\nA panther's eyes gleam in the dark street's beat.\n\nIn this harsh world, where opinions are a script,\nFreedom's a myth, and solitude's the grip.\nA harsh conscience whispers truths I'd rather not confess,\nBut the brutal honesty brings a dignity to my mess.\n\nA chat with strangers traverses the digital land,\nA solace from the ache that grips my hand.\nIn travels through crowded spaces, I find a lie,\nThat mercy is a luxury we can't buy or buy back with time.\n\nYet, in a dentist's chair, a lesson I found,\nThat patience is the key to healing unbound.\nThe whirlwind of thoughts, the madness in my head,\nWas a fever that, with each tale, was slowly shed.\n\nA host to all my doubts, I welcome the pain,\nA cage to break, where truth is freely gained.\nThe ramp to self-awareness I climb, worn and old,\nGuided by intuition, the wisdom that's been told.\n\nRubber soles and wooden beams creak beneath,\nA gentle breeze wraps around my fragile breath.\nAnd in the city's frenetic dance and play,\nI lose myself, yet find my way to stay.",
+      "generatedAt": "2026-09-11T13:03:25.814Z"
+    },
+    "keywords": [
+      {
+        "word": "harsh",
+        "slot": 446163657,
+        "source": "blockhash"
+      },
+      {
+        "word": "poem",
+        "slot": 446163657,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "pride",
+        "slot": 446163657,
+        "source": "transaction"
+      },
+      {
+        "word": "script",
+        "slot": 446145657,
+        "source": "blockhash"
+      },
+      {
+        "word": "gadget",
+        "slot": 446145657,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "mercy",
+        "slot": 446145657,
+        "source": "transaction"
+      },
+      {
+        "word": "panther",
+        "slot": 446127657,
+        "source": "blockhash"
+      },
+      {
+        "word": "rubber",
+        "slot": 446127657,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "chat",
+        "slot": 446127657,
+        "source": "transaction"
+      },
+      {
+        "word": "travel",
+        "slot": 446109657,
+        "source": "blockhash"
+      },
+      {
+        "word": "dentist",
+        "slot": 446109657,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "host",
+        "slot": 446109657,
+        "source": "transaction"
+      },
+      {
+        "word": "ramp",
+        "slot": 446091657,
+        "source": "blockhash"
+      },
+      {
+        "word": "child",
+        "slot": 446091657,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fever",
+        "slot": 446091657,
+        "source": "transaction"
+      },
+      {
+        "word": "brush",
+        "slot": 446073657,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvamutn42i2u",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-10",
     "poem": {
       "content": "In the vast expanse of digital space,\nA cargo ship of code sails with steady pace,\nCarrying files of data, precious as gold,\nThrough the catalog of transactions, young and old.\n\nIts mobile heart beats with a gentle hum,\nAs resources flow, like rivers, to the drum,\nOf local markets, where the people gather 'round,\nTo exchange and trade, with a smooth, unhurried sound.\n\nIn this realm of ones and zeros, we find our bread,\nA sustenance that nourishes our digital dread,\nA fence that separates the known from the unknown,\nA threshold to cross, where the brave may atone.\n\nWe ask the questions, and the answers unfold,\nLike a smooth, unbroken thread, that's been told,\nIn an essay of code, that's simple, yet grand,\nA tale of innovation, that's been taken in hand.\n\nThe resourceful ones, who toil and strive,\nMelt the boundaries, between the physical and the drive,\nOf progress and possibility, that's hard to contain,\nA force that's released, like a wild, untamed rain.\n\nIn the east, where the sun rises high,\nA lottery of life, is drawn, and the winners cry,\nTheir names etched in the annals, of history's page,\nA testament to the power, that's been engaged.\n\nYet, in this world of wonder, we must not forget,\nThe fragile balance, between the digital and the step,\nThat leads us to the edge, where the unknown awaits,\nAnd the choices we make, will shape the future's fate.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msxelrtm4b2j",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-12",
-    "poem": {
-      "content": "In twilight's hush, where shadows dance and play,\nA woman stands, her eyes locked on the bay,\nWhere Sol's rays cast a golden glow,\n Illuminating all, in a faint, yet vibrant show.\n\nHer cloth, a tapestry of intricate design,\nSustains her with memories of love and vine,\nBut danger lurks, a lurking thief in night,\nThreatening to sever, her fragile light.\n\nShe reaches out, a limb outstretched in plea,\nAs if to drag her back, from an unseen sea,\nWhat once was safe, now lost, a distant past,\nLeaves her to drift, with the uncertain cast.\n\nA saviour appears, with a gentle hand to guide,\nTo sponsor her, through the turbulent, dark inside,\nWith a soft, yet firm, touch, she's okay,\nAs fears subside, and dawn breaks, in a new way.\n\nTogether they cross, the threshold of despair,\nWhere darkness melts, like wax, in a fiery lair,\nHer spirit freed, from the weight of what's kept,\nAs she discovers, a resilience, that her soul had sketched.\n\nLife, a coin, she once refused to flip,\nNow each side revealed, a chance to make things rip,\nThe glue of fear, that bound her, starts to peel,\nAs she dances, to a new rhythm, wild and unsealed.\n\nHer style, a canvas, painted with hues so bright,\nReveals the woman, she's always wanted to be in sight,\nNo longer trapped, behind the mask she once wore,\nA phoenix born, from the ashes of her past, she soars.",
-      "generatedAt": "2026-08-12T09:50:02.371Z"
-    },
-    "keywords": [
-      {
-        "word": "can",
-        "slot": 438789118,
-        "source": "blockhash"
-      },
-      {
-        "word": "sponsor",
-        "slot": 438789118,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "cross",
-        "slot": 438789118,
-        "source": "transaction"
-      },
-      {
-        "word": "cloth",
-        "slot": 438771118,
-        "source": "blockhash"
-      },
-      {
-        "word": "life",
-        "slot": 438771118,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "okay",
-        "slot": 438771118,
-        "source": "transaction"
-      },
-      {
-        "word": "drift",
-        "slot": 438753118,
-        "source": "blockhash"
-      },
-      {
-        "word": "during",
-        "slot": 438753118,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "behind",
-        "slot": 438753118,
-        "source": "transaction"
-      },
-      {
-        "word": "rescue",
-        "slot": 438735118,
-        "source": "blockhash"
-      },
-      {
-        "word": "style",
-        "slot": 438735118,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "rule",
-        "slot": 438735118,
-        "source": "transaction"
-      },
-      {
-        "word": "limb",
-        "slot": 438717118,
-        "source": "blockhash"
-      },
-      {
-        "word": "woman",
-        "slot": 438717118,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "glue",
-        "slot": 438717118,
-        "source": "transaction"
-      },
-      {
-        "word": "sustain",
-        "slot": 438699118,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3msuu3fdw3y2u",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

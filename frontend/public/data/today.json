@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "poem": {
-    "content": "In the vast expanse of digital space,\nA cargo ship of code sails with steady pace,\nCarrying files of data, precious as gold,\nThrough the catalog of transactions, young and old.\n\nIts mobile heart beats with a gentle hum,\nAs resources flow, like rivers, to the drum,\nOf local markets, where the people gather 'round,\nTo exchange and trade, with a smooth, unhurried sound.\n\nIn this realm of ones and zeros, we find our bread,\nA sustenance that nourishes our digital dread,\nA fence that separates the known from the unknown,\nA threshold to cross, where the brave may atone.\n\nWe ask the questions, and the answers unfold,\nLike a smooth, unbroken thread, that's been told,\nIn an essay of code, that's simple, yet grand,\nA tale of innovation, that's been taken in hand.\n\nThe resourceful ones, who toil and strive,\nMelt the boundaries, between the physical and the drive,\nOf progress and possibility, that's hard to contain,\nA force that's released, like a wild, untamed rain.\n\nIn the east, where the sun rises high,\nA lottery of life, is drawn, and the winners cry,\nTheir names etched in the annals, of history's page,\nA testament to the power, that's been engaged.\n\nYet, in this world of wonder, we must not forget,\nThe fragile balance, between the digital and the step,\nThat leads us to the edge, where the unknown awaits,\nAnd the choices we make, will shape the future's fate.",
-    "generatedAt": "2026-09-10T13:09:29.332Z"
+    "content": "In neon-lit streets, where gadgets throng,\nA sense of pride and loneliness goes on.\nA child wanders, lost, with rubber-housed feet,\nA panther's eyes gleam in the dark street's beat.\n\nIn this harsh world, where opinions are a script,\nFreedom's a myth, and solitude's the grip.\nA harsh conscience whispers truths I'd rather not confess,\nBut the brutal honesty brings a dignity to my mess.\n\nA chat with strangers traverses the digital land,\nA solace from the ache that grips my hand.\nIn travels through crowded spaces, I find a lie,\nThat mercy is a luxury we can't buy or buy back with time.\n\nYet, in a dentist's chair, a lesson I found,\nThat patience is the key to healing unbound.\nThe whirlwind of thoughts, the madness in my head,\nWas a fever that, with each tale, was slowly shed.\n\nA host to all my doubts, I welcome the pain,\nA cage to break, where truth is freely gained.\nThe ramp to self-awareness I climb, worn and old,\nGuided by intuition, the wisdom that's been told.\n\nRubber soles and wooden beams creak beneath,\nA gentle breeze wraps around my fragile breath.\nAnd in the city's frenetic dance and play,\nI lose myself, yet find my way to stay.",
+    "generatedAt": "2026-09-11T13:03:25.814Z"
   },
   "keywords": [
     {
-      "word": "cargo",
-      "slot": 445891761,
+      "word": "harsh",
+      "slot": 446163657,
       "source": "blockhash"
     },
     {
-      "word": "file",
-      "slot": 445891761,
+      "word": "poem",
+      "slot": 446163657,
       "source": "previousBlockhash"
     },
     {
-      "word": "catalog",
-      "slot": 445891761,
+      "word": "pride",
+      "slot": 446163657,
       "source": "transaction"
     },
     {
-      "word": "mobile",
-      "slot": 445873761,
+      "word": "script",
+      "slot": 446145657,
       "source": "blockhash"
     },
     {
-      "word": "resource",
-      "slot": 445873761,
+      "word": "gadget",
+      "slot": 446145657,
       "source": "previousBlockhash"
     },
     {
-      "word": "local",
-      "slot": 445873761,
+      "word": "mercy",
+      "slot": 446145657,
       "source": "transaction"
     },
     {
-      "word": "bread",
-      "slot": 445855761,
+      "word": "panther",
+      "slot": 446127657,
       "source": "blockhash"
     },
     {
-      "word": "fence",
-      "slot": 445855761,
+      "word": "rubber",
+      "slot": 446127657,
       "source": "previousBlockhash"
     },
     {
-      "word": "ask",
-      "slot": 445855761,
+      "word": "chat",
+      "slot": 446127657,
       "source": "transaction"
     },
     {
-      "word": "smooth",
-      "slot": 445837761,
+      "word": "travel",
+      "slot": 446109657,
       "source": "blockhash"
     },
     {
-      "word": "essay",
-      "slot": 445837761,
+      "word": "dentist",
+      "slot": 446109657,
       "source": "previousBlockhash"
     },
     {
-      "word": "simple",
-      "slot": 445837761,
+      "word": "host",
+      "slot": 446109657,
       "source": "transaction"
     },
     {
-      "word": "involve",
-      "slot": 445819761,
+      "word": "ramp",
+      "slot": 446091657,
       "source": "blockhash"
     },
     {
-      "word": "melt",
-      "slot": 445819761,
+      "word": "child",
+      "slot": 446091657,
       "source": "previousBlockhash"
     },
     {
-      "word": "east",
-      "slot": 445819761,
+      "word": "fever",
+      "slot": 446091657,
       "source": "transaction"
     },
     {
-      "word": "lottery",
-      "slot": 445801761,
+      "word": "brush",
+      "slot": 446073657,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mv64qqdcmk23",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvamutn42i2u",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
