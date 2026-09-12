@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "poem": {
-    "content": "In neon-lit streets, where gadgets throng,\nA sense of pride and loneliness goes on.\nA child wanders, lost, with rubber-housed feet,\nA panther's eyes gleam in the dark street's beat.\n\nIn this harsh world, where opinions are a script,\nFreedom's a myth, and solitude's the grip.\nA harsh conscience whispers truths I'd rather not confess,\nBut the brutal honesty brings a dignity to my mess.\n\nA chat with strangers traverses the digital land,\nA solace from the ache that grips my hand.\nIn travels through crowded spaces, I find a lie,\nThat mercy is a luxury we can't buy or buy back with time.\n\nYet, in a dentist's chair, a lesson I found,\nThat patience is the key to healing unbound.\nThe whirlwind of thoughts, the madness in my head,\nWas a fever that, with each tale, was slowly shed.\n\nA host to all my doubts, I welcome the pain,\nA cage to break, where truth is freely gained.\nThe ramp to self-awareness I climb, worn and old,\nGuided by intuition, the wisdom that's been told.\n\nRubber soles and wooden beams creak beneath,\nA gentle breeze wraps around my fragile breath.\nAnd in the city's frenetic dance and play,\nI lose myself, yet find my way to stay.",
-    "generatedAt": "2026-09-11T13:03:25.814Z"
+    "content": "In the depths of error, where shadows play,\nAnother chance arises, like a morning ray,\nI sip my coffee, a bitter brew,\nAnd ponder the body, worn and true.\n\nIn the dentist's chair, I gather my strength,\nTo face the pain, and the long, hard length,\nOf treatment and repair, a delicate dance,\nWhere detect and diagnose are a skilled prance.\n\nThe purity of art, a rare, sweet find,\nCrushes the doubt, and calms the troubled mind,\nAs I cook up a plan, to heal and mend,\nAnd face the illness, that has been my friend.\n\nBut then, a surprise, like a summer breeze,\nBlows in, and I am filled with joyous ease,\nA cloud of hope, that lifts my spirits high,\nAnd I argue with fate, to let me try.\n\nInto the fray, I take a step, with care,\nAnd gather my thoughts, like a precious item rare,\nA lesson learned, a wisdom to impart,\nA new beginning, like a fresh, green start.\n\nThe error of the past, a reminder to be,\nA lesson to learn, and set me free,\nTo gather my strength, and cook up a plan,\nTo heal and mend, and live anew, in this land.",
+    "generatedAt": "2026-09-12T12:26:28.559Z"
   },
   "keywords": [
     {
-      "word": "harsh",
-      "slot": 446163657,
+      "word": "error",
+      "slot": 446429008,
       "source": "blockhash"
     },
     {
-      "word": "poem",
-      "slot": 446163657,
+      "word": "another",
+      "slot": 446429008,
       "source": "previousBlockhash"
     },
     {
-      "word": "pride",
-      "slot": 446163657,
+      "word": "coffee",
+      "slot": 446429008,
       "source": "transaction"
     },
     {
-      "word": "script",
-      "slot": 446145657,
+      "word": "body",
+      "slot": 446411008,
       "source": "blockhash"
     },
     {
-      "word": "gadget",
-      "slot": 446145657,
+      "word": "gather",
+      "slot": 446411008,
       "source": "previousBlockhash"
-    },
-    {
-      "word": "mercy",
-      "slot": 446145657,
-      "source": "transaction"
-    },
-    {
-      "word": "panther",
-      "slot": 446127657,
-      "source": "blockhash"
-    },
-    {
-      "word": "rubber",
-      "slot": 446127657,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "chat",
-      "slot": 446127657,
-      "source": "transaction"
-    },
-    {
-      "word": "travel",
-      "slot": 446109657,
-      "source": "blockhash"
     },
     {
       "word": "dentist",
-      "slot": 446109657,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "host",
-      "slot": 446109657,
+      "slot": 446411008,
       "source": "transaction"
     },
     {
-      "word": "ramp",
-      "slot": 446091657,
+      "word": "detect",
+      "slot": 446393008,
       "source": "blockhash"
     },
     {
-      "word": "child",
-      "slot": 446091657,
+      "word": "purity",
+      "slot": 446393008,
       "source": "previousBlockhash"
     },
     {
-      "word": "fever",
-      "slot": 446091657,
+      "word": "crush",
+      "slot": 446393008,
       "source": "transaction"
     },
     {
-      "word": "brush",
-      "slot": 446073657,
+      "word": "cook",
+      "slot": 446375008,
+      "source": "blockhash"
+    },
+    {
+      "word": "illness",
+      "slot": 446375008,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "surprise",
+      "slot": 446375008,
+      "source": "transaction"
+    },
+    {
+      "word": "cloud",
+      "slot": 446357008,
+      "source": "blockhash"
+    },
+    {
+      "word": "argue",
+      "slot": 446357008,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "into",
+      "slot": 446357008,
+      "source": "transaction"
+    },
+    {
+      "word": "item",
+      "slot": 446339008,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvamutn42i2u",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvd3bpcae72l",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
