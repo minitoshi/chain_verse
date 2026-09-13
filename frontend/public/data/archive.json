@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-13",
+    "poem": {
+      "content": "In the canyon's depths, where shadows play,\nA misery that's worn, like worn-out jeans each day.\nA leader emerges, with a gentle face,\nA refuge from the darkness, a calm, still space.\nThe marine breeze whispers secrets, of a life untold,\nIn a world where nice deeds are a rare, precious gold.\n\nLike a soap bubble bursting, fragile and bright,\nThe leader's heart overflows with kindness and light.\nThe nose that once sniffed the wind, now smiles with glee,\nAs the leader chooses to bring hope, to you and me.\n\nIn this mesh of love and toil, a novel tale unfolds,\nOf give and take, where hearts are molded, young and old.\nThe leader's presence is a mesh, that holds us tight,\nA sense of community, where love shines with all its might.\n\nIn a store not far from here, a grocery cart waits,\nA humble means to an end, where love is the weight.\nThe leader's words are the soap, that clears the stains,\nOf distrust and fear, where hearts are tamed.\n\nWe gather 'round, in this web of love and need,\nAs the leader's presence, is the thread that's freed.\nA choice is made, to give and to take,\nIn a novel dance, where hearts are made to ache.\n\nThe space within, where shadows roam and play,\nFills with the leader's love, in a brighter day.\nMisery is vanquished, by an endless sea,\nOf kindness and compassion, brought to you and me.",
+      "generatedAt": "2026-09-13T13:29:25.887Z"
+    },
+    "keywords": [
+      {
+        "word": "misery",
+        "slot": 446714427,
+        "source": "blockhash"
+      },
+      {
+        "word": "leader",
+        "slot": 446714427,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "marine",
+        "slot": 446714427,
+        "source": "transaction"
+      },
+      {
+        "word": "nice",
+        "slot": 446696427,
+        "source": "blockhash"
+      },
+      {
+        "word": "nose",
+        "slot": 446696427,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "choose",
+        "slot": 446696427,
+        "source": "transaction"
+      },
+      {
+        "word": "give",
+        "slot": 446678427,
+        "source": "blockhash"
+      },
+      {
+        "word": "canyon",
+        "slot": 446678427,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "attend",
+        "slot": 446678427,
+        "source": "transaction"
+      },
+      {
+        "word": "grocery",
+        "slot": 446660427,
+        "source": "blockhash"
+      },
+      {
+        "word": "jeans",
+        "slot": 446660427,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "web",
+        "slot": 446660427,
+        "source": "transaction"
+      },
+      {
+        "word": "space",
+        "slot": 446642427,
+        "source": "blockhash"
+      },
+      {
+        "word": "mesh",
+        "slot": 446642427,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "novel",
+        "slot": 446624427,
+        "source": "blockhash"
+      },
+      {
+        "word": "soap",
+        "slot": 446624427,
+        "source": "previousBlockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-12",
     "poem": {
       "content": "In the depths of error, where shadows play,\nAnother chance arises, like a morning ray,\nI sip my coffee, a bitter brew,\nAnd ponder the body, worn and true.\n\nIn the dentist's chair, I gather my strength,\nTo face the pain, and the long, hard length,\nOf treatment and repair, a delicate dance,\nWhere detect and diagnose are a skilled prance.\n\nThe purity of art, a rare, sweet find,\nCrushes the doubt, and calms the troubled mind,\nAs I cook up a plan, to heal and mend,\nAnd face the illness, that has been my friend.\n\nBut then, a surprise, like a summer breeze,\nBlows in, and I am filled with joyous ease,\nA cloud of hope, that lifts my spirits high,\nAnd I argue with fate, to let me try.\n\nInto the fray, I take a step, with care,\nAnd gather my thoughts, like a precious item rare,\nA lesson learned, a wisdom to impart,\nA new beginning, like a fresh, green start.\n\nThe error of the past, a reminder to be,\nA lesson to learn, and set me free,\nTo gather my strength, and cook up a plan,\nTo heal and mend, and live anew, in this land.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mt4dfflcgd26",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-14",
-    "poem": {
-      "content": "In streets where weird and wondrous things unfold,\nA single step can change the course of gold.\nThe people pass, each with a story to tell,\nA word, a glance, a moment, and the narrative's spell.\n\nTheir footsteps echo, a symphony so fine,\nA rhythm that remains, a haunting, sweet design.\nIn this world of options, where choices abound,\nA human heart beats strong, with a will unbound.\n\nBut scissors of fate cut through the air,\nSeparating lives, with a fatal, cruel snare.\nA buyer's caution, a seller's anxious sigh,\nA moment's pause, and the deal may cancel by.\n\nAnnual rituals, a cycle so divine,\nA squirrel's hoard, a treasure to design.\nYet, in the silence, a voice whispers low,\n\"Uphold the truth, let justice grow.\"\n\nIn this delicate balance, a choice remains,\nTo stand or falter, to remain or to wane.\nThe account of our deeds, a ledger so fair,\nA record of kindness, or a tale of despair.\n\nA fatal flaw, a weakness to reveal,\nA human heart, with a love that can conceal.\nThe street of life, a journey so unsure,\nYet, with each step, a new path to endure.\n\nA word of hope, a voice that remains,\nA beacon in darkness, a guiding light that sustains.\nIn this world of uncertainty, we search for a way,\nTo uphold the light, to seize the day.",
-      "generatedAt": "2026-08-14T09:47:23.044Z"
-    },
-    "keywords": [
-      {
-        "word": "step",
-        "slot": 439202537,
-        "source": "blockhash"
-      },
-      {
-        "word": "weird",
-        "slot": 439202537,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "people",
-        "slot": 439202537,
-        "source": "transaction"
-      },
-      {
-        "word": "word",
-        "slot": 439184537,
-        "source": "blockhash"
-      },
-      {
-        "word": "street",
-        "slot": 439184537,
-        "source": "transaction"
-      },
-      {
-        "word": "remain",
-        "slot": 439166537,
-        "source": "blockhash"
-      },
-      {
-        "word": "option",
-        "slot": 439166537,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "human",
-        "slot": 439166537,
-        "source": "transaction"
-      },
-      {
-        "word": "scissors",
-        "slot": 439148537,
-        "source": "blockhash"
-      },
-      {
-        "word": "buyer",
-        "slot": 439148537,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "cancel",
-        "slot": 439148537,
-        "source": "transaction"
-      },
-      {
-        "word": "fatal",
-        "slot": 439130537,
-        "source": "blockhash"
-      },
-      {
-        "word": "annual",
-        "slot": 439130537,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "squirrel",
-        "slot": 439130537,
-        "source": "transaction"
-      },
-      {
-        "word": "account",
-        "slot": 439112537,
-        "source": "blockhash"
-      },
-      {
-        "word": "uphold",
-        "slot": 439112537,
-        "source": "previousBlockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mszuuivkxf2d",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

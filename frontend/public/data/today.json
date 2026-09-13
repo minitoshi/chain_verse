@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "poem": {
-    "content": "In the depths of error, where shadows play,\nAnother chance arises, like a morning ray,\nI sip my coffee, a bitter brew,\nAnd ponder the body, worn and true.\n\nIn the dentist's chair, I gather my strength,\nTo face the pain, and the long, hard length,\nOf treatment and repair, a delicate dance,\nWhere detect and diagnose are a skilled prance.\n\nThe purity of art, a rare, sweet find,\nCrushes the doubt, and calms the troubled mind,\nAs I cook up a plan, to heal and mend,\nAnd face the illness, that has been my friend.\n\nBut then, a surprise, like a summer breeze,\nBlows in, and I am filled with joyous ease,\nA cloud of hope, that lifts my spirits high,\nAnd I argue with fate, to let me try.\n\nInto the fray, I take a step, with care,\nAnd gather my thoughts, like a precious item rare,\nA lesson learned, a wisdom to impart,\nA new beginning, like a fresh, green start.\n\nThe error of the past, a reminder to be,\nA lesson to learn, and set me free,\nTo gather my strength, and cook up a plan,\nTo heal and mend, and live anew, in this land.",
-    "generatedAt": "2026-09-12T12:26:28.559Z"
+    "content": "In the canyon's depths, where shadows play,\nA misery that's worn, like worn-out jeans each day.\nA leader emerges, with a gentle face,\nA refuge from the darkness, a calm, still space.\nThe marine breeze whispers secrets, of a life untold,\nIn a world where nice deeds are a rare, precious gold.\n\nLike a soap bubble bursting, fragile and bright,\nThe leader's heart overflows with kindness and light.\nThe nose that once sniffed the wind, now smiles with glee,\nAs the leader chooses to bring hope, to you and me.\n\nIn this mesh of love and toil, a novel tale unfolds,\nOf give and take, where hearts are molded, young and old.\nThe leader's presence is a mesh, that holds us tight,\nA sense of community, where love shines with all its might.\n\nIn a store not far from here, a grocery cart waits,\nA humble means to an end, where love is the weight.\nThe leader's words are the soap, that clears the stains,\nOf distrust and fear, where hearts are tamed.\n\nWe gather 'round, in this web of love and need,\nAs the leader's presence, is the thread that's freed.\nA choice is made, to give and to take,\nIn a novel dance, where hearts are made to ache.\n\nThe space within, where shadows roam and play,\nFills with the leader's love, in a brighter day.\nMisery is vanquished, by an endless sea,\nOf kindness and compassion, brought to you and me.",
+    "generatedAt": "2026-09-13T13:29:25.887Z"
   },
   "keywords": [
     {
-      "word": "error",
-      "slot": 446429008,
+      "word": "misery",
+      "slot": 446714427,
       "source": "blockhash"
     },
     {
-      "word": "another",
-      "slot": 446429008,
+      "word": "leader",
+      "slot": 446714427,
       "source": "previousBlockhash"
     },
     {
-      "word": "coffee",
-      "slot": 446429008,
+      "word": "marine",
+      "slot": 446714427,
       "source": "transaction"
     },
     {
-      "word": "body",
-      "slot": 446411008,
+      "word": "nice",
+      "slot": 446696427,
       "source": "blockhash"
     },
     {
-      "word": "gather",
-      "slot": 446411008,
+      "word": "nose",
+      "slot": 446696427,
       "source": "previousBlockhash"
     },
     {
-      "word": "dentist",
-      "slot": 446411008,
+      "word": "choose",
+      "slot": 446696427,
       "source": "transaction"
     },
     {
-      "word": "detect",
-      "slot": 446393008,
+      "word": "give",
+      "slot": 446678427,
       "source": "blockhash"
     },
     {
-      "word": "purity",
-      "slot": 446393008,
+      "word": "canyon",
+      "slot": 446678427,
       "source": "previousBlockhash"
     },
     {
-      "word": "crush",
-      "slot": 446393008,
+      "word": "attend",
+      "slot": 446678427,
       "source": "transaction"
     },
     {
-      "word": "cook",
-      "slot": 446375008,
+      "word": "grocery",
+      "slot": 446660427,
       "source": "blockhash"
     },
     {
-      "word": "illness",
-      "slot": 446375008,
+      "word": "jeans",
+      "slot": 446660427,
       "source": "previousBlockhash"
     },
     {
-      "word": "surprise",
-      "slot": 446375008,
+      "word": "web",
+      "slot": 446660427,
       "source": "transaction"
     },
     {
-      "word": "cloud",
-      "slot": 446357008,
+      "word": "space",
+      "slot": 446642427,
       "source": "blockhash"
     },
     {
-      "word": "argue",
-      "slot": 446357008,
+      "word": "mesh",
+      "slot": 446642427,
       "source": "previousBlockhash"
     },
     {
-      "word": "into",
-      "slot": 446357008,
-      "source": "transaction"
+      "word": "novel",
+      "slot": 446624427,
+      "source": "blockhash"
     },
     {
-      "word": "item",
-      "slot": 446339008,
-      "source": "blockhash"
+      "word": "soap",
+      "slot": 446624427,
+      "source": "previousBlockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvd3bpcae72l",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
