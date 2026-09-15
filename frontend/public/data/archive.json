@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-15",
+    "poem": {
+      "content": "In the depths of the volcano's fiery core,\nA claim to the earth's ancient score,\nA tale of silk threads, raw and bright,\nUnfolds like a map, to guide through the night.\n\nA whale's vast form, in the darkness swims,\nA symbol of power, in the ocean's brims,\nThe envelope of the sea, a mystery to claim,\nA realm where human hearts, can feel and proclaim.\n\nIn this vast expanse, a mirror's gaze,\nReflects the soul, in a thousand ways,\nA lock on the heart, that only love can break,\nA tourist's quest, to the unknown, to partake.\n\nThe east wind whispers, of secrets untold,\nOf a world that prosper, where love is gold,\nBut in the shadows, a figure lurks and hides,\nA force that arrest, the heart's deepest tides.\n\nA model of perfection, a flawless design,\nA bus that speeds, through the city's busy line,\nA human form, that's raw and vulnerable too,\nA silk thread's fragility, that only love can renew.\n\nIn the volcano's heart, a spark is lit,\nA flame that burns, a light that's never quit,\nA claim to the earth, a love that will not fade,\nA whale's vast song, that echoes through the shade.",
+      "generatedAt": "2026-09-15T13:54:26.359Z"
+    },
+    "keywords": [
+      {
+        "word": "claim",
+        "slot": 447266256,
+        "source": "blockhash"
+      },
+      {
+        "word": "volcano",
+        "slot": 447266256,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "silk",
+        "slot": 447266256,
+        "source": "transaction"
+      },
+      {
+        "word": "raw",
+        "slot": 447248256,
+        "source": "blockhash"
+      },
+      {
+        "word": "remove",
+        "slot": 447248256,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "whale",
+        "slot": 447248256,
+        "source": "transaction"
+      },
+      {
+        "word": "envelope",
+        "slot": 447230256,
+        "source": "blockhash"
+      },
+      {
+        "word": "human",
+        "slot": 447230256,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "mirror",
+        "slot": 447230256,
+        "source": "transaction"
+      },
+      {
+        "word": "lock",
+        "slot": 447212256,
+        "source": "blockhash"
+      },
+      {
+        "word": "tourist",
+        "slot": 447212256,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "east",
+        "slot": 447212256,
+        "source": "transaction"
+      },
+      {
+        "word": "prosper",
+        "slot": 447194256,
+        "source": "blockhash"
+      },
+      {
+        "word": "arrest",
+        "slot": 447194256,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "model",
+        "slot": 447194256,
+        "source": "transaction"
+      },
+      {
+        "word": "bus",
+        "slot": 447176256,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-14",
     "poem": {
       "content": "In the meadow's gentle, golden hush\nWhere wildflowers sway, a canal's soft rush\nEchoes through the countryside, a soothing hum\nAs the sun rises, and the day's begun\n\nIn a distant field, a cereal field of gold\nRipens with every passing morning's fold\nWhere a puppy, curious and free, does play\nChasing after dreams, on a sun-kissed day\n\nBut as the wind picks up, and the clouds grow gray\nA storm is brewing, and the world's turned to a grey\nCruel fate, that brings the gentle waters low\nAnd I, a small boat, must learn to let go\n\nIn this tumultuous sea, I search for a shore\nA place to manage my fears, to calm the roar\nBut the winds howl on, a mournful, siren's call\nAnd I'm carried fast, like sand, to a distant fall\n\nInside, a voice whispers secrets, of a world untold\nWhere treasures hidden, in the heart of the cold\nThe pole of fate, that once, I thought so bright\nNow bends and creaks, like a worn, wooden sight\n\nIn this bleak and stormy night, I search for a treat\nA comfort to soothe, the soul's darkest seat\nA place to sit, and weep, without fear's cruel hand\nWhere the dogs, like shadows, roam, in this desolate land\n\nBut even in darkness, there's a twisted beauty found\nA chance to discover, a new truth, unbound\nFor in the storm's wild heart, a calm is to be found\nA place to rest, where love and peace, slowly rise, on common ground",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtbf2wktwp2h",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-16",
-    "poem": {
-      "content": "In the virtual realm, where spirits roam,\nA double-edged sword, both sharp and home,\nLies hidden, waiting to be found,\nA gift of freedom, in an envelope unbound.\n\nBut alas, the path is not for the brave,\nFor those who wander, naive and enslaved,\nBy the chains of boredom, that once did bind,\nAnd dismiss the voice, that whispers from the mind.\n\nA goddess of escape, with wings so bright,\nCalls out to those, who seek the light,\nTo move beyond, the mundane and grey,\nAnd find the answer, in a brighter day.\n\nYet, like a bullet, swift and true,\nThe forces of change, can pierce anew,\nAnd shatter the illusion, of a life so still,\nRevealing the depths, of a spirit that's built.\n\nAt the desk of fate, where decisions are made,\nThe choice to shoot, for freedom is played,\nA moment's pause, before the final stand,\nTo take the leap, and grasp the outstretched hand.\n\nThe envelope of time, that holds our destiny,\nIs fragile and thin, like a leaf on a tree,\nBut the spirit within, that guides us on our way,\nIs strong and brave, come what may.",
-      "generatedAt": "2026-08-16T09:13:49.029Z"
-    },
-    "keywords": [
-      {
-        "word": "double",
-        "slot": 439613310,
-        "source": "blockhash"
-      },
-      {
-        "word": "envelope",
-        "slot": 439613310,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "boring",
-        "slot": 439613310,
-        "source": "transaction"
-      },
-      {
-        "word": "goddess",
-        "slot": 439595310,
-        "source": "blockhash"
-      },
-      {
-        "word": "escape",
-        "slot": 439595310,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "brave",
-        "slot": 439595310,
-        "source": "transaction"
-      },
-      {
-        "word": "gift",
-        "slot": 439577310,
-        "source": "blockhash"
-      },
-      {
-        "word": "bullet",
-        "slot": 439577310,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "answer",
-        "slot": 439577310,
-        "source": "transaction"
-      },
-      {
-        "word": "move",
-        "slot": 439559310,
-        "source": "blockhash"
-      },
-      {
-        "word": "virtual",
-        "slot": 439559310,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "naive",
-        "slot": 439559310,
-        "source": "transaction"
-      },
-      {
-        "word": "spirit",
-        "slot": 439541310,
-        "source": "blockhash"
-      },
-      {
-        "word": "dismiss",
-        "slot": 439541310,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "desk",
-        "slot": 439541310,
-        "source": "transaction"
-      },
-      {
-        "word": "shoot",
-        "slot": 439523310,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
