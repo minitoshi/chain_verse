@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "poem": {
-    "content": "In the depths of spatial realms, I wandered free\nA solitary man, with heart full of glee\nSeeking the key to unlock the treasure deep\nA wage to live by, my soul to keep\n\nLike a lobster shedding its shell, I broke through\nTo a world of wonder, where dreams come true\nI gathered friends, and together we'd run\nTo secret spots, where sunshine would be won\n\nWe'd pack a picnic, with a beef-filled delight\nAnd laugh until our bellies shone so bright\nBut then the journey took a darker turn\nAnd we found ourselves lost, in an unknown concern\n\nThe glue that held us together began to break\nAs we wrestled with doubt, and a uncertain shake\nOur budget, once so tight, was now in disarray\nAs we struggled to make ends meet, day by day\n\nBut still we gathered, in the midst of the fight\nAnd found solace, in the light of a mixed plight\nA piece of the world, that we'd never known before\nA glimpse of hope, in a place we'd been to before\n\nWe'd mix and mingle, in a high-stakes game\nWhere the wage of living, was the prize we'd claim\nBut the journey was long, and the road was so steep\nAnd we wondered if, we'd ever reach the peak\n\nYet still we pressed on, through the trials and strife\nAnd found that the book of life, was one of mixed rife\nA mix of pain and joy, of triumph and despair\nA story woven, with threads of love and care\n\nAnd in the end, it was not the wage we'd won\nBut the journey itself, that had become the fun\nFor in the process, we'd grown, and learned to see\nThat the true reward, was the journey, wild and free.",
-    "generatedAt": "2026-09-16T13:47:09.703Z"
+    "content": "In the autumnal bazaar, where pumpkins glow like lanterns bright\nA lone citizen wanders, lost in the whispering night\nTheir favorite haunt, a forest deep, where shadows play and sway\nA place to hide, where secrets whisper in the dying day\n\nA sudden wink of moonlight on the rail, a silver thread\nUnravelling the world, where darkness seeds inside the head\nThe train of thought, a winding rail, that stretches far and wide\nThrough tunnels dark, where only the heart can reside\n\nIn this electric haze, the images swirl, a kaleidoscope's spin\nThe sound of wheels on rail, a lullaby to begin\nA footstep echoing through the forest, a lonely, aimless pace\nAs the lone citizen searches for a place to call their own space\n\nBut all they find is foil, a glistening, mirrored sheen\nReflecting back the image of their deepest, hidden dream\nA huge, cavernous silence, that echoes through the trees\nA haunting reminder, of all that's lost, and what's been released\n\nYet still they search, through labyrinths dark and old\nFor a way to reconnect, with a world grown cold\nBut like an orphan, cast aside, they're left to wander wide\nThrough a forest that surrounds, with secrets left to abide\n\nAnd so they walk, in circular, aimless spin\nA phantom limb, that reaches back, to the life within\nWhere love and joy were once the fuel, that powered their heart's engine bright\nNow left to whisper secrets, to the dark of endless night.",
+    "generatedAt": "2026-09-17T13:49:22.229Z"
   },
   "keywords": [
     {
-      "word": "wage",
-      "slot": 447537392,
+      "word": "pumpkin",
+      "slot": 447810499,
       "source": "blockhash"
     },
     {
-      "word": "man",
-      "slot": 447537392,
+      "word": "wink",
+      "slot": 447810499,
       "source": "previousBlockhash"
     },
     {
-      "word": "unlock",
-      "slot": 447537392,
+      "word": "end",
+      "slot": 447810499,
       "source": "transaction"
     },
     {
-      "word": "lobster",
-      "slot": 447519392,
+      "word": "favorite",
+      "slot": 447792499,
       "source": "blockhash"
     },
     {
-      "word": "wrestle",
-      "slot": 447519392,
+      "word": "train",
+      "slot": 447792499,
       "source": "previousBlockhash"
     },
     {
-      "word": "high",
-      "slot": 447519392,
+      "word": "rail",
+      "slot": 447792499,
       "source": "transaction"
     },
     {
-      "word": "gather",
-      "slot": 447501392,
+      "word": "electric",
+      "slot": 447774499,
       "source": "blockhash"
     },
     {
-      "word": "picnic",
-      "slot": 447501392,
+      "word": "citizen",
+      "slot": 447774499,
       "source": "previousBlockhash"
     },
     {
-      "word": "budget",
-      "slot": 447501392,
+      "word": "image",
+      "slot": 447774499,
       "source": "transaction"
     },
     {
-      "word": "spatial",
-      "slot": 447483392,
+      "word": "foot",
+      "slot": 447756499,
       "source": "blockhash"
     },
     {
-      "word": "journey",
-      "slot": 447483392,
+      "word": "foil",
+      "slot": 447756499,
       "source": "previousBlockhash"
     },
     {
-      "word": "beef",
-      "slot": 447483392,
+      "word": "huge",
+      "slot": 447756499,
       "source": "transaction"
     },
     {
-      "word": "glue",
-      "slot": 447465392,
+      "word": "surround",
+      "slot": 447738499,
       "source": "blockhash"
     },
     {
-      "word": "book",
-      "slot": 447465392,
+      "word": "orphan",
+      "slot": 447738499,
       "source": "previousBlockhash"
     },
     {
-      "word": "mixed",
-      "slot": 447465392,
+      "word": "forest",
+      "slot": 447738499,
       "source": "transaction"
     },
     {
-      "word": "piece",
-      "slot": 447447392,
+      "word": "repeat",
+      "slot": 447720499,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvnbnmrzyu2l",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvpsaipuip2v",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
