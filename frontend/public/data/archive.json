@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-18",
+    "poem": {
+      "content": "In the quiet hours, I dwell, a loyal sentry guarding the mountain's side\nA solitary figure, far from the city's garish, orange glow\nI speak to the wind, a low, husky murmur, a snippet of a lullaby\nA parent's gentle whisper echoing through the trees, a sweet, mournful sigh\n\nI've been on many a journey, through forests dark and wild and free\nA car winding through the trees, a serpent coursing through the UPC steam\nI've seen the comical side of life, the absurdity of it all\nThe garbage that clutters streets, the lowest ebb of humanity's fall\n\nBut on this mountain's highest peak, I've found a different road\nOne paved with stone, a skill honed by age, a path that winds and loads\nThe fatal attractions of the world below, they whisper sweet nothings in my ear\nA suspect sound, a siren's call, a warning that I must persevere\n\nI rest now on this mountain ledge, my snack of contemplation in hand\nA tool of the mind, a catechism of the heart, a work to take in the stand\nI think of all the paths I've traveled, the roads I've yet to roam\nThe wisdom I've gained, the tales I've told, the snippets of a life unknown\n\nIn this stillness, I find my voice, a whisper that begins to speak\nA quiet desperation, a heartfelt plea, a journey of the soul to seek\nThe truth that lies within the heart, a guiding light, a lantern in the dark\nA beacon to attend to the depths, a journey to embark.",
+      "generatedAt": "2026-09-18T13:11:49.025Z"
+    },
+    "keywords": [
+      {
+        "word": "car",
+        "slot": 448093233,
+        "source": "blockhash"
+      },
+      {
+        "word": "speak",
+        "slot": 448093233,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tool",
+        "slot": 448093233,
+        "source": "transaction"
+      },
+      {
+        "word": "snack",
+        "slot": 448075233,
+        "source": "blockhash"
+      },
+      {
+        "word": "journey",
+        "slot": 448075233,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "ethics",
+        "slot": 448075233,
+        "source": "transaction"
+      },
+      {
+        "word": "loyal",
+        "slot": 448057233,
+        "source": "blockhash"
+      },
+      {
+        "word": "garbage",
+        "slot": 448057233,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "attend",
+        "slot": 448057233,
+        "source": "transaction"
+      },
+      {
+        "word": "comic",
+        "slot": 448039233,
+        "source": "blockhash"
+      },
+      {
+        "word": "parent",
+        "slot": 448039233,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "mountain",
+        "slot": 448039233,
+        "source": "transaction"
+      },
+      {
+        "word": "orange",
+        "slot": 448021233,
+        "source": "blockhash"
+      },
+      {
+        "word": "skill",
+        "slot": 448021233,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fatal",
+        "slot": 448021233,
+        "source": "transaction"
+      },
+      {
+        "word": "suspect",
+        "slot": 448003233,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-17",
     "poem": {
       "content": "In the autumnal bazaar, where pumpkins glow like lanterns bright\nA lone citizen wanders, lost in the whispering night\nTheir favorite haunt, a forest deep, where shadows play and sway\nA place to hide, where secrets whisper in the dying day\n\nA sudden wink of moonlight on the rail, a silver thread\nUnravelling the world, where darkness seeds inside the head\nThe train of thought, a winding rail, that stretches far and wide\nThrough tunnels dark, where only the heart can reside\n\nIn this electric haze, the images swirl, a kaleidoscope's spin\nThe sound of wheels on rail, a lullaby to begin\nA footstep echoing through the forest, a lonely, aimless pace\nAs the lone citizen searches for a place to call their own space\n\nBut all they find is foil, a glistening, mirrored sheen\nReflecting back the image of their deepest, hidden dream\nA huge, cavernous silence, that echoes through the trees\nA haunting reminder, of all that's lost, and what's been released\n\nYet still they search, through labyrinths dark and old\nFor a way to reconnect, with a world grown cold\nBut like an orphan, cast aside, they're left to wander wide\nThrough a forest that surrounds, with secrets left to abide\n\nAnd so they walk, in circular, aimless spin\nA phantom limb, that reaches back, to the life within\nWhere love and joy were once the fuel, that powered their heart's engine bright\nNow left to whisper secrets, to the dark of endless night.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-19",
-    "poem": {
-      "content": "In the slow dance of dawn's early light,\nA staff of shadows stretches, dark and bright.\nThe key to secrets lies within the east,\nWhere sunrise paints the country's gentle face.\n\nAt the edge of town, a lone figure rides,\nA bike with seven spokes, a winding, winding tide.\nA flag of freedom flaps, a symbol of the past,\nAs the lake's calm waters reflect the passing cast.\n\nBut in the churn of life, we often lose our way,\nAnd the dizzying world spins round, a kaleidoscope's sway.\nWe search for release, a pause from life's wild ride,\nA moment's peace, a chance to step aside.\n\nIn this, our adult world, we yearn to be free,\nTo leave the burdens of the past, to be.\nBut still we bargain, with life's uncertain fate,\nAnd wonder if we'll ever find our perfect state.\n\nYet, in the stillness, a voice whispers low,\nA gentle breeze that stirs the heart, and makes it grow.\nA pause, a moment's peace, a time to breathe,\nA chance to let go, and find our inner strength.",
-      "generatedAt": "2026-08-19T09:19:06.157Z"
-    },
-    "keywords": [
-      {
-        "word": "slow",
-        "slot": 440238002,
-        "source": "blockhash"
-      },
-      {
-        "word": "staff",
-        "slot": 440238002,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "key",
-        "slot": 440238002,
-        "source": "transaction"
-      },
-      {
-        "word": "east",
-        "slot": 440220002,
-        "source": "blockhash"
-      },
-      {
-        "word": "country",
-        "slot": 440220002,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "edge",
-        "slot": 440220002,
-        "source": "transaction"
-      },
-      {
-        "word": "seven",
-        "slot": 440202002,
-        "source": "blockhash"
-      },
-      {
-        "word": "flag",
-        "slot": 440202002,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "churn",
-        "slot": 440202002,
-        "source": "transaction"
-      },
-      {
-        "word": "lake",
-        "slot": 440184002,
-        "source": "blockhash"
-      },
-      {
-        "word": "dizzy",
-        "slot": 440184002,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "release",
-        "slot": 440184002,
-        "source": "transaction"
-      },
-      {
-        "word": "adult",
-        "slot": 440166002,
-        "source": "blockhash"
-      },
-      {
-        "word": "pause",
-        "slot": 440166002,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "bargain",
-        "slot": 440166002,
-        "source": "transaction"
-      },
-      {
-        "word": "bike",
-        "slot": 440148002,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtgfmki7xh2h",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
