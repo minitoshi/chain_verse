@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "poem": {
-    "content": "In the vast expanse of the digital rug,\nA system lies, complex, yet fragile as a leaf.\nIt includes the threads of our collective fate,\nA delicate exercise in trust and weight.\n\nThe future looms, a canvas yet to be drawn,\nA tapestry of choices, each one a thread to be spun.\nBefore the dawn of this new era breaks,\nWe must keep our dignity, our hearts, our stakes.\n\nLarge and sprawling, the landscape of code,\nResemble the grandeur of a majestic abode.\nYet, such is the nature of the digital tide,\nThat it can erode the very foundations we provide.\n\nWe must be rude to the status quo, to push,\nTo innovate, to disrupt, to make the future hush.\nA surge of creativity, a spark to ignite,\nCan bring forth a trophy, shining with new light.\n\nIn the detail of our transactions, we find\nA reflection of our values, our hearts, our mind.\nA system that includes, yet keeps at bay,\nThe darker forces that would seek to erode our way.\n\nBut before we rush headlong into the fray,\nLet us remember to keep our dignity, day by day.\nFor in the future, we must be brave and true,\nAnd in the system, we must find a way to renew.",
-    "generatedAt": "2026-09-19T12:43:42.134Z"
+    "content": "In the city's heart, where streets converge as one,\nA royal gathering forms, beneath the golden sun.\nA company of dreamers, with hearts afire,\nA rally of innovators, with souls that aspire.\n\nSomebody stands apart, with chalk in hand so fine,\nSketching futures bold, with lines that intertwine.\nTheir art takes shape, a masterpiece divine,\nExposing truths, like anger simmering, yet serene.\n\nCaution whispers warnings, a gentle, secret friend,\nLest the curve of fate, with subtle bend, does offend.\nThe air is charged, with an electric display,\nAs visions emerge, like phoenixes, to seize the day.\n\nEyes are fixed, with focus, on the off the beaten path,\nBeyond the circle of what's known, where the unknown thrives at last.\nA faculty of sparks, ignites within the mind,\n Illuminating pathways, to transcend the confines left behind.\n\nIn quiet moments, hearts do suffer, and souls are worn,\nYet still they hold on tight, to the dream they've sworn.\nThe fox of wit, chafes at the fur, with cunning guile,\nUncovering strengths, in trials by a thousand smiles.\n\nThe puzzle pieces fall, like stars that start to reveal,\nA constellation of purpose, that casts a warm, ethereal feel.\nSomeone stands, proud, in the midst of the maelstrom and din,\nA beacon light, shining bright, where shadows once had crept in.\n\nIn the stillness, dizzy, from the mob's loud sway,\nThey listen closely, to the whispers of a new day.\nTheir paths converge, with those of kindred spirits true,\nIn the hidden language, of a mystery anew.\n\nThe flame of righteousness, now rages, pure and true,\nIn hearts that see the world, through eyes of red and blue.",
+    "generatedAt": "2026-09-20T13:14:32.907Z"
   },
   "keywords": [
     {
-      "word": "include",
-      "slot": 448410907,
+      "word": "someone",
+      "slot": 448741980,
       "source": "blockhash"
     },
     {
-      "word": "exercise",
-      "slot": 448410907,
+      "word": "company",
+      "slot": 448741980,
       "source": "previousBlockhash"
     },
     {
-      "word": "resemble",
-      "slot": 448410907,
+      "word": "rally",
+      "slot": 448741980,
       "source": "transaction"
     },
     {
-      "word": "future",
-      "slot": 448392907,
+      "word": "sketch",
+      "slot": 448723980,
       "source": "blockhash"
     },
     {
-      "word": "rug",
-      "slot": 448392907,
+      "word": "anger",
+      "slot": 448723980,
       "source": "previousBlockhash"
     },
     {
-      "word": "such",
-      "slot": 448392907,
+      "word": "chalk",
+      "slot": 448723980,
       "source": "transaction"
     },
     {
-      "word": "dignity",
-      "slot": 448374907,
+      "word": "caution",
+      "slot": 448705980,
       "source": "blockhash"
     },
     {
-      "word": "large",
-      "slot": 448374907,
+      "word": "curve",
+      "slot": 448705980,
       "source": "previousBlockhash"
     },
     {
-      "word": "rude",
-      "slot": 448374907,
+      "word": "reveal",
+      "slot": 448705980,
       "source": "transaction"
     },
     {
-      "word": "erode",
-      "slot": 448356907,
+      "word": "royal",
+      "slot": 448687980,
       "source": "blockhash"
     },
     {
-      "word": "system",
-      "slot": 448356907,
+      "word": "faculty",
+      "slot": 448687980,
       "source": "previousBlockhash"
     },
     {
-      "word": "keep",
-      "slot": 448356907,
+      "word": "off",
+      "slot": 448687980,
       "source": "transaction"
     },
     {
-      "word": "surge",
-      "slot": 448338907,
+      "word": "dizzy",
+      "slot": 448669980,
       "source": "blockhash"
     },
     {
-      "word": "trophy",
-      "slot": 448338907,
+      "word": "suffer",
+      "slot": 448669980,
       "source": "previousBlockhash"
     },
     {
-      "word": "detail",
-      "slot": 448338907,
+      "word": "fox",
+      "slot": 448669980,
       "source": "transaction"
     },
     {
-      "word": "before",
-      "slot": 448320907,
+      "word": "circle",
+      "slot": 448651980,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvxboy7uey2f",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
