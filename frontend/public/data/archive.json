@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-21",
+    "poem": {
+      "content": "In the region of forgotten dreams,\nA lone figure stands, with heart that beams,\nForward to the future, with a gentle face,\nA warm welcome awaits, in a secret place.\n\nHer skin, a canvas, painted with a tender hue,\nA ginger glow that shines, like a sunrise anew,\nA film of vulnerability, that shields her heart,\nA kiss of kindness, that sets her apart.\n\nBut in the silence, a voice whispers low,\n\"Throw away the fear, and let love grow,\"\nA snap of reality, that shatters the night,\nAnd in the morning light, a new path takes flight.\n\nThe boring routine, of a life unfulfilled,\nGives way to adventure, with a heart that's thrilled,\nA twenty-year journey, of self-discovery and might,\nThat leads her to the edge, of a love so bright.\n\nIn this blue world, she finds her place,\nA haven of solace, where she can lend a face,\nTo the hurt and the broken, who wander alone,\nAnd in her kindness, a healing love is sown.\n\nHer face, a map, of the roads she's traveled wide,\nA testament to the strength, that lies inside,\nA story of resilience, that echoes through the years,\nA voice that whispers truth, through joy and tears.",
+      "generatedAt": "2026-09-21T15:22:14.134Z"
+    },
+    "keywords": [
+      {
+        "word": "skin",
+        "slot": 449094205,
+        "source": "blockhash"
+      },
+      {
+        "word": "forward",
+        "slot": 449094205,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "blue",
+        "slot": 449094205,
+        "source": "transaction"
+      },
+      {
+        "word": "welcome",
+        "slot": 449076205,
+        "source": "blockhash"
+      },
+      {
+        "word": "alone",
+        "slot": 449076205,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "region",
+        "slot": 449076205,
+        "source": "transaction"
+      },
+      {
+        "word": "ginger",
+        "slot": 449058205,
+        "source": "blockhash"
+      },
+      {
+        "word": "throw",
+        "slot": 449058205,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "snap",
+        "slot": 449058205,
+        "source": "transaction"
+      },
+      {
+        "word": "boring",
+        "slot": 449040205,
+        "source": "blockhash"
+      },
+      {
+        "word": "film",
+        "slot": 449040205,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "kiss",
+        "slot": 449040205,
+        "source": "transaction"
+      },
+      {
+        "word": "twenty",
+        "slot": 449022205,
+        "source": "blockhash"
+      },
+      {
+        "word": "lend",
+        "slot": 449022205,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "face",
+        "slot": 449022205,
+        "source": "transaction"
+      },
+      {
+        "word": "hurt",
+        "slot": 449004205,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvzzcayowi2s",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-20",
     "poem": {
       "content": "In the city's heart, where streets converge as one,\nA royal gathering forms, beneath the golden sun.\nA company of dreamers, with hearts afire,\nA rally of innovators, with souls that aspire.\n\nSomebody stands apart, with chalk in hand so fine,\nSketching futures bold, with lines that intertwine.\nTheir art takes shape, a masterpiece divine,\nExposing truths, like anger simmering, yet serene.\n\nCaution whispers warnings, a gentle, secret friend,\nLest the curve of fate, with subtle bend, does offend.\nThe air is charged, with an electric display,\nAs visions emerge, like phoenixes, to seize the day.\n\nEyes are fixed, with focus, on the off the beaten path,\nBeyond the circle of what's known, where the unknown thrives at last.\nA faculty of sparks, ignites within the mind,\n Illuminating pathways, to transcend the confines left behind.\n\nIn quiet moments, hearts do suffer, and souls are worn,\nYet still they hold on tight, to the dream they've sworn.\nThe fox of wit, chafes at the fur, with cunning guile,\nUncovering strengths, in trials by a thousand smiles.\n\nThe puzzle pieces fall, like stars that start to reveal,\nA constellation of purpose, that casts a warm, ethereal feel.\nSomeone stands, proud, in the midst of the maelstrom and din,\nA beacon light, shining bright, where shadows once had crept in.\n\nIn the stillness, dizzy, from the mob's loud sway,\nThey listen closely, to the whispers of a new day.\nTheir paths converge, with those of kindred spirits true,\nIn the hidden language, of a mystery anew.\n\nThe flame of righteousness, now rages, pure and true,\nIn hearts that see the world, through eyes of red and blue.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtqh7kcczq2h",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-22",
-    "poem": {
-      "content": "In the arena of the sun-kissed day,\nA captain stood, with heart aflame,\nHer wrist a-throb, with memories of a love that's lost,\nA flame that raged, now but an ivory ash.\n\nShe remembers the way he used to cling,\nSlam the gate of her heart, and make it swing,\nBut now, like a kangaroo, he's gone, no doubt,\nLeaving her to question, with a tragic shout.\n\nIn the business of life, she'll make a name,\nBut love, it seems, is not a product to claim,\nShe accuses fate, with a bitter, angry cry,\n\"Love, why must you break, like a rifle in the sky?\"\n\nShe thinks of him, with eyes that shine like gold,\nUnder the day's harsh light, her heart grows cold,\nLike an abandoned city, once a love so strong,\nNow lies in ruin, where love's business went wrong.\n\nBut still, she holds on, to the love they shared,\nA clutch of memories that she cannot bear,\nTo let go of, like a steering wheel that's tight,\nBut in the silence, she hears the call of the night.\n\nA kangaroo's laugh, echoes in her mind,\nAs she slams the page, of a love left behind,\nShe knows she'll rise, from this tragic fall,\nAnd remember the love, that was her captain, after all.",
-      "generatedAt": "2026-08-22T09:13:50.382Z"
-    },
-    "keywords": [
-      {
-        "word": "captain",
-        "slot": 440890012,
-        "source": "blockhash"
-      },
-      {
-        "word": "remember",
-        "slot": 440890012,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "accuse",
-        "slot": 440890012,
-        "source": "transaction"
-      },
-      {
-        "word": "wrist",
-        "slot": 440872012,
-        "source": "blockhash"
-      },
-      {
-        "word": "day",
-        "slot": 440872012,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "arena",
-        "slot": 440872012,
-        "source": "transaction"
-      },
-      {
-        "word": "rifle",
-        "slot": 440854012,
-        "source": "blockhash"
-      },
-      {
-        "word": "kangaroo",
-        "slot": 440854012,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ivory",
-        "slot": 440854012,
-        "source": "transaction"
-      },
-      {
-        "word": "business",
-        "slot": 440836012,
-        "source": "blockhash"
-      },
-      {
-        "word": "license",
-        "slot": 440836012,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "love",
-        "slot": 440836012,
-        "source": "transaction"
-      },
-      {
-        "word": "tragic",
-        "slot": 440818012,
-        "source": "blockhash"
-      },
-      {
-        "word": "hip",
-        "slot": 440818012,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "slam",
-        "slot": 440818012,
-        "source": "transaction"
-      },
-      {
-        "word": "clutch",
-        "slot": 440800012,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtnwpvbwps2l",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
