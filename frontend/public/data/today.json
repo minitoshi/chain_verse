@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "poem": {
-    "content": "In the region of forgotten dreams,\nA lone figure stands, with heart that beams,\nForward to the future, with a gentle face,\nA warm welcome awaits, in a secret place.\n\nHer skin, a canvas, painted with a tender hue,\nA ginger glow that shines, like a sunrise anew,\nA film of vulnerability, that shields her heart,\nA kiss of kindness, that sets her apart.\n\nBut in the silence, a voice whispers low,\n\"Throw away the fear, and let love grow,\"\nA snap of reality, that shatters the night,\nAnd in the morning light, a new path takes flight.\n\nThe boring routine, of a life unfulfilled,\nGives way to adventure, with a heart that's thrilled,\nA twenty-year journey, of self-discovery and might,\nThat leads her to the edge, of a love so bright.\n\nIn this blue world, she finds her place,\nA haven of solace, where she can lend a face,\nTo the hurt and the broken, who wander alone,\nAnd in her kindness, a healing love is sown.\n\nHer face, a map, of the roads she's traveled wide,\nA testament to the strength, that lies inside,\nA story of resilience, that echoes through the years,\nA voice that whispers truth, through joy and tears.",
-    "generatedAt": "2026-09-21T15:22:14.134Z"
+    "content": "In secret chambers, a club convenes at night\nA gathering of the initiated, a cryptic delight\nWhere shadows dance and cheese is served with glee\nA taste of opulence, for those who've learned to be set free\n\nThe proof of membership is a whispered word, a password said\nA stamp of approval, for those who have the deed\nBut I, an ostrich, roam outside these walls so grand\nAlone, I long to join the revelry, to taste the cheese in hand\n\nI retreat to the couch, where embers fade to gray\nA fragile comfort, a melancholy sway\nThe ugly truths I hide within, they whisper through the night\nReason's grasp, a distant comfort, a pleasure denied my sight\n\nThe pelican of love descends, a symbol of trust\nA pairing of strange creatures, forever we'll be the dust\nOf secrets shared and promises made, in the dark of the space\nA seminar of the heart, where love's a precarious pace\n\nIn the silence, I'm okay, alone, yet not so blue\nThe memories of the club, a distant hum, a memory anew\nThe cheese, a dropped morsel, on the floor, so fine\nA secret's going down, the taste, sublime, yet still I decline\n\nI'll wait for the next gathering, the invitation to partake\nThe cheese, a sacrament, the secrecy, an oath I'll make\nBut for now, I'll stay outside, in the dark of the night\nA solitary figure, holding on to the slim chance of delight.",
+    "generatedAt": "2026-09-22T13:42:18.244Z"
   },
   "keywords": [
     {
-      "word": "skin",
-      "slot": 449094205,
+      "word": "club",
+      "slot": 449395414,
       "source": "blockhash"
     },
     {
-      "word": "forward",
-      "slot": 449094205,
+      "word": "cheese",
+      "slot": 449395414,
       "source": "previousBlockhash"
     },
     {
-      "word": "blue",
-      "slot": 449094205,
+      "word": "proof",
+      "slot": 449395414,
       "source": "transaction"
     },
     {
-      "word": "welcome",
-      "slot": 449076205,
+      "word": "retreat",
+      "slot": 449377414,
       "source": "blockhash"
+    },
+    {
+      "word": "couch",
+      "slot": 449377414,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "ugly",
+      "slot": 449377414,
+      "source": "transaction"
+    },
+    {
+      "word": "reason",
+      "slot": 449359414,
+      "source": "blockhash"
+    },
+    {
+      "word": "pair",
+      "slot": 449359414,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "secret",
+      "slot": 449359414,
+      "source": "transaction"
     },
     {
       "word": "alone",
-      "slot": 449076205,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "region",
-      "slot": 449076205,
-      "source": "transaction"
-    },
-    {
-      "word": "ginger",
-      "slot": 449058205,
+      "slot": 449341414,
       "source": "blockhash"
     },
     {
-      "word": "throw",
-      "slot": 449058205,
+      "word": "fragile",
+      "slot": 449341414,
       "source": "previousBlockhash"
     },
     {
-      "word": "snap",
-      "slot": 449058205,
+      "word": "inside",
+      "slot": 449341414,
       "source": "transaction"
     },
     {
-      "word": "boring",
-      "slot": 449040205,
+      "word": "ostrich",
+      "slot": 449323414,
       "source": "blockhash"
     },
     {
-      "word": "film",
-      "slot": 449040205,
+      "word": "pelican",
+      "slot": 449323414,
       "source": "previousBlockhash"
     },
     {
-      "word": "kiss",
-      "slot": 449040205,
+      "word": "seminar",
+      "slot": 449323414,
       "source": "transaction"
     },
     {
-      "word": "twenty",
-      "slot": 449022205,
-      "source": "blockhash"
-    },
-    {
-      "word": "lend",
-      "slot": 449022205,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "face",
-      "slot": 449022205,
-      "source": "transaction"
-    },
-    {
-      "word": "hurt",
-      "slot": 449004205,
+      "word": "okay",
+      "slot": 449305414,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvzzcayowi2s",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mw4e6hlwic2q",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
