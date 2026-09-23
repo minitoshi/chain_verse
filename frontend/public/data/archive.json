@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-23",
+    "poem": {
+      "content": "In strategy's rugged terrain, the hills of time\nCrumble beneath the feet of forgotten rhyme\nA flash of insight, like a morning ray\n Illuminates the path, a guiding way\n\nBut as the soldier marches forth with weary pace\nA hat, worn and weathered, clings to the space\nBetween the anchor of purpose and the drift to decay\nA missed step, a lost opportunity, slips away\n\nThe timber of memories, like a hollowed tree\nStands bare, exposed, and vulnerable to the breeze\nFor in the eagerness to seize the moment's spark\nWe often forget the quiet, steady, guiding mark\n\nA hungry heart, a ravenous soul, that longs to eat\nThe tender shoots of progress, before they can sprout and greet\nThe morning dew, that cools the burning skin\nBut still, we crawl, with incremental advancements within\n\nThrough trials, tribulations, and twilight's troubled peace\nWe sort the trivial from the essence, the dense and the release\nThe image of perfection, a mirage on a desert floor\nEludes us, a glimmering thread, ever out of reach, yet more",
+      "generatedAt": "2026-09-23T13:53:32.226Z"
+    },
+    "keywords": [
+      {
+        "word": "strategy",
+        "slot": 449722608,
+        "source": "blockhash"
+      },
+      {
+        "word": "crumble",
+        "slot": 449722608,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "flash",
+        "slot": 449722608,
+        "source": "transaction"
+      },
+      {
+        "word": "morning",
+        "slot": 449704608,
+        "source": "blockhash"
+      },
+      {
+        "word": "soldier",
+        "slot": 449704608,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "timber",
+        "slot": 449704608,
+        "source": "transaction"
+      },
+      {
+        "word": "miss",
+        "slot": 449686608,
+        "source": "blockhash"
+      },
+      {
+        "word": "hat",
+        "slot": 449686608,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "anchor",
+        "slot": 449686608,
+        "source": "transaction"
+      },
+      {
+        "word": "crawl",
+        "slot": 449668608,
+        "source": "blockhash"
+      },
+      {
+        "word": "crop",
+        "slot": 449668608,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hungry",
+        "slot": 449668608,
+        "source": "transaction"
+      },
+      {
+        "word": "unit",
+        "slot": 449650608,
+        "source": "blockhash"
+      },
+      {
+        "word": "sort",
+        "slot": 449650608,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "glue",
+        "slot": 449650608,
+        "source": "transaction"
+      },
+      {
+        "word": "image",
+        "slot": 449632608,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mw6vbixgqt2d",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-22",
     "poem": {
       "content": "In secret chambers, a club convenes at night\nA gathering of the initiated, a cryptic delight\nWhere shadows dance and cheese is served with glee\nA taste of opulence, for those who've learned to be set free\n\nThe proof of membership is a whispered word, a password said\nA stamp of approval, for those who have the deed\nBut I, an ostrich, roam outside these walls so grand\nAlone, I long to join the revelry, to taste the cheese in hand\n\nI retreat to the couch, where embers fade to gray\nA fragile comfort, a melancholy sway\nThe ugly truths I hide within, they whisper through the night\nReason's grasp, a distant comfort, a pleasure denied my sight\n\nThe pelican of love descends, a symbol of trust\nA pairing of strange creatures, forever we'll be the dust\nOf secrets shared and promises made, in the dark of the space\nA seminar of the heart, where love's a precarious pace\n\nIn the silence, I'm okay, alone, yet not so blue\nThe memories of the club, a distant hum, a memory anew\nThe cheese, a dropped morsel, on the floor, so fine\nA secret's going down, the taste, sublime, yet still I decline\n\nI'll wait for the next gathering, the invitation to partake\nThe cheese, a sacrament, the secrecy, an oath I'll make\nBut for now, I'll stay outside, in the dark of the night\nA solitary figure, holding on to the slim chance of delight.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtvikyv2mo2m",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-24",
-    "poem": {
-      "content": "In the early hours of a dawn so bright,\nA country awakens, bathed in golden light.\nThe rate of morning sunbeams slowly increases,\nA movie unfolding, frame by frame, in morning's gentle breeze.\n\nLike a solid core that anchors all below,\nOur roots of comfort grow, where love does flow.\nA spoonful of pudding stirs, sweet as a sigh,\nAs morning's warmth awakens, and the world begins to fly.\n\nBut in this peaceful scene, a small bean lies still,\nA reminder of the world's imperfections, its dark and solemn hill.\nYet even here, amidst life's uncertain drift,\nWe find a security that holds, like a gentle lifeline's gift.\n\nFor in the quiet moments, when the world is far away,\nWe search for solace, a place to rest and retire at day.\nA trusted tool, a friend or loved one true,\nBrings comfort to our hearts, in a world that often breaks in two.\n\nIn this fragile dance, we learn to take a solid step,\nTo trust the rate of life, and find our inner core to keep.\nAnd when the winds of uncertainty start to blow,\nWe cling to each other, like the inch of earth that holds below.\n\nSo let us cherish these moments, fleeting as a sigh,\nAnd find our strength in love, as we face the dawn's clear eye.\nFor in its light, we see a world both new and old,\nA world where comfort waits, like a warm and loving fold.",
-      "generatedAt": "2026-08-24T09:32:11.654Z"
-    },
-    "keywords": [
-      {
-        "word": "rate",
-        "slot": 441365173,
-        "source": "blockhash"
-      },
-      {
-        "word": "early",
-        "slot": 441365173,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "example",
-        "slot": 441365173,
-        "source": "transaction"
-      },
-      {
-        "word": "country",
-        "slot": 441347173,
-        "source": "blockhash"
-      },
-      {
-        "word": "movie",
-        "slot": 441347173,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "core",
-        "slot": 441347173,
-        "source": "transaction"
-      },
-      {
-        "word": "pudding",
-        "slot": 441329173,
-        "source": "blockhash"
-      },
-      {
-        "word": "bean",
-        "slot": 441329173,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "comfort",
-        "slot": 441329173,
-        "source": "transaction"
-      },
-      {
-        "word": "tool",
-        "slot": 441311173,
-        "source": "blockhash"
-      },
-      {
-        "word": "retire",
-        "slot": 441311173,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "security",
-        "slot": 441311173,
-        "source": "transaction"
-      },
-      {
-        "word": "drift",
-        "slot": 441293173,
-        "source": "blockhash"
-      },
-      {
-        "word": "solid",
-        "slot": 441293173,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "dawn",
-        "slot": 441293173,
-        "source": "transaction"
-      },
-      {
-        "word": "inch",
-        "slot": 441275173,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mtsyokhv2x2d",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
