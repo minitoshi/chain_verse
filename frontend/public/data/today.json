@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "poem": {
-    "content": "In the vast pond of existence, I wade with care,\nA droplet of awareness on the globe's vast hair.\nI am the grain of sand that shifts and slips away,\nEroded by the winds of time, in a world that's grey.\n\nI search for the tool that can tame the tide,\nA magical wand to conjure life, where none resides.\nI yearn for the goddess of fortune to bless,\nBut she's a trickster, and her whims are hard to guess.\n\nLike an amateur photographer, I fumble with the lens,\nHoping to capture the beauty that no one can repress.\nMy camera eye, a window to the soul,\nA glimpse of what lies beneath, where the truth is whole.\n\nI drive through life's busy aisle, a maze of concrete and stone,\nWhere faces blur and stories unfold, like a tale long overthrown.\nA napkin wipes my tears, of joy and of dismay,\nAs I toss and turn, and wonder how to live each day.\n\nI clutch the ribbon tight, that binds me to the earth,\nA fragile thread, that's the thing that holds me dear on this mortal birth.\nYet, I yearn to save myself, to rise above the fray,\nTo find the legal proof, that I am alive, come what may.\n\nIn the end, it's not the drive, or the camera's focus so fine,\nBut the aerobic beat of life, that makes my heart entwine,\nWith every grain of sand, that slips, and every wave that ebbs and flows,\nI am the thing, that floats, and glides, through life's pond, as it grows.",
-    "generatedAt": "2026-09-24T13:50:22.221Z"
+    "content": "In the farm of time, where moments grow,\nA parrot perched, with feathers aglow.\nIt watched as I, with a circle of friends,\nInvolved in a game, where chance never ends.\n\nWe cast our dice, in a dance of fate,\nWhere every number brought a different weight.\nA journey upwards, to a height unseen,\nTaught me to prepare for every dream unseen.\n\nA vessel of liberty, my spirit soared,\nUnfettered and free, forever more.\nFor in the rush of life, I'd found my prize,\nA drink from the well, of a clear, open skies.\n\nBut as I looked down, at the world below,\nI saw a hurdle, that few dare to know.\nThe weight of the dice, that we all must abide,\nA number that counts, until the final slide.\n\nMy nephew stood by, with a curious stare,\nAs I revealed the secret, of life's hidden snare.\nA cloth of wonder, that gently wraps us tight,\nProtects our hearts, through the dark of night.\n\nYet still we must strive, to rise above the pain,\nTo find the reward, of an earned love and gain.\nFor in the end, it's not the dice that decide,\nBut the choices we make, with a heart full of pride.",
+    "generatedAt": "2026-09-25T14:13:02.956Z"
   },
   "keywords": [
     {
-      "word": "globe",
-      "slot": 450047364,
+      "word": "farm",
+      "slot": 450376094,
       "source": "blockhash"
     },
     {
-      "word": "grain",
-      "slot": 450047364,
+      "word": "height",
+      "slot": 450376094,
       "source": "previousBlockhash"
     },
     {
-      "word": "tool",
-      "slot": 450047364,
+      "word": "parrot",
+      "slot": 450376094,
       "source": "transaction"
     },
     {
-      "word": "pond",
-      "slot": 450029364,
+      "word": "circle",
+      "slot": 450358094,
       "source": "blockhash"
     },
     {
-      "word": "goddess",
-      "slot": 450029364,
+      "word": "prepare",
+      "slot": 450358094,
       "source": "previousBlockhash"
     },
     {
-      "word": "aerobic",
-      "slot": 450029364,
+      "word": "involve",
+      "slot": 450358094,
       "source": "transaction"
     },
     {
-      "word": "ribbon",
-      "slot": 450011364,
+      "word": "reward",
+      "slot": 450340094,
       "source": "blockhash"
     },
     {
-      "word": "legal",
-      "slot": 450011364,
+      "word": "vessel",
+      "slot": 450340094,
       "source": "previousBlockhash"
     },
     {
-      "word": "napkin",
-      "slot": 450011364,
+      "word": "drink",
+      "slot": 450340094,
       "source": "transaction"
     },
     {
-      "word": "amateur",
-      "slot": 449993364,
+      "word": "dice",
+      "slot": 450322094,
       "source": "blockhash"
     },
     {
-      "word": "camera",
-      "slot": 449993364,
+      "word": "nice",
+      "slot": 450322094,
       "source": "previousBlockhash"
     },
     {
-      "word": "drive",
-      "slot": 449993364,
+      "word": "liberty",
+      "slot": 450322094,
       "source": "transaction"
     },
     {
-      "word": "aisle",
-      "slot": 449975364,
+      "word": "number",
+      "slot": 450304094,
       "source": "blockhash"
     },
     {
-      "word": "save",
-      "slot": 449975364,
+      "word": "nephew",
+      "slot": 450304094,
       "source": "previousBlockhash"
     },
     {
-      "word": "toss",
-      "slot": 449975364,
+      "word": "hurdle",
+      "slot": 450304094,
       "source": "transaction"
     },
     {
-      "word": "thing",
-      "slot": 449957364,
+      "word": "cloth",
+      "slot": 450286094,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwbfkpzpz52d",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwdxc75alh2x",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
