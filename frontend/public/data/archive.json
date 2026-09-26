@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-26",
+    "poem": {
+      "content": "In the meadow's golden light, where wildflowers sway,\nA frequent breeze whispers secrets, as the day begins.\nThe scent of blooming heather fills the air,\nAs I take hold of the clutch, my heart's desire to share.\n\nBut as I gaze upon the landscape, I see the scrub,\nA reminder of the destructive path that we've begun to scrub.\nThe once-green hills now barren, a sight to destroy,\nA testament to the damage we've wrought, and the cost to employ.\n\nMy wish is to heal the wounds, to mend the broken ground,\nTo fulfill my duty, and turn the meadow's fate around.\nBut like a critic's harsh voice, my doubts begin to hover,\nAs I question my ability, my strength, my power to deliver.\n\nThe ramp of uncertainty rises, a steep and winding road,\nThat leads me to the marketplace, where I must sell my load.\nThe morning light casts shadows, on the faces I meet,\nAs I try to convince them, of the value I can bring to their seat.\n\nIn the system of commerce, I must navigate with care,\nAnd find the one solution, that will bring success to share.\nBut as I stand on the precipice, I feel the weight of my duty,\nTo prove myself, to rise above, to be the one to hover.\n\nThe meadow's beauty calls to me, a siren's haunting song,\nAs I take a step forward, and begin to right the wrong.\nThe breeze whispers encouragement, as I take the first stride,\nAnd in the scrub's dark depths, I find the strength to begin to thrive.",
+      "generatedAt": "2026-09-26T13:25:06.799Z"
+    },
+    "keywords": [
+      {
+        "word": "frequent",
+        "slot": 450687162,
+        "source": "blockhash"
+      },
+      {
+        "word": "begin",
+        "slot": 450687162,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "clutch",
+        "slot": 450687162,
+        "source": "transaction"
+      },
+      {
+        "word": "scrub",
+        "slot": 450669162,
+        "source": "blockhash"
+      },
+      {
+        "word": "meadow",
+        "slot": 450669162,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "destroy",
+        "slot": 450669162,
+        "source": "transaction"
+      },
+      {
+        "word": "wish",
+        "slot": 450651162,
+        "source": "blockhash"
+      },
+      {
+        "word": "duty",
+        "slot": 450651162,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "one",
+        "slot": 450651162,
+        "source": "transaction"
+      },
+      {
+        "word": "ramp",
+        "slot": 450633162,
+        "source": "blockhash"
+      },
+      {
+        "word": "breeze",
+        "slot": 450633162,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "critic",
+        "slot": 450633162,
+        "source": "transaction"
+      },
+      {
+        "word": "hover",
+        "slot": 450615162,
+        "source": "blockhash"
+      },
+      {
+        "word": "sell",
+        "slot": 450615162,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "morning",
+        "slot": 450615162,
+        "source": "transaction"
+      },
+      {
+        "word": "system",
+        "slot": 450597162,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwgf3fu4nr23",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-25",
     "poem": {
       "content": "In the farm of time, where moments grow,\nA parrot perched, with feathers aglow.\nIt watched as I, with a circle of friends,\nInvolved in a game, where chance never ends.\n\nWe cast our dice, in a dance of fate,\nWhere every number brought a different weight.\nA journey upwards, to a height unseen,\nTaught me to prepare for every dream unseen.\n\nA vessel of liberty, my spirit soared,\nUnfettered and free, forever more.\nFor in the rush of life, I'd found my prize,\nA drink from the well, of a clear, open skies.\n\nBut as I looked down, at the world below,\nI saw a hurdle, that few dare to know.\nThe weight of the dice, that we all must abide,\nA number that counts, until the final slide.\n\nMy nephew stood by, with a curious stare,\nAs I revealed the secret, of life's hidden snare.\nA cloth of wonder, that gently wraps us tight,\nProtects our hearts, through the dark of night.\n\nYet still we must strive, to rise above the pain,\nTo find the reward, of an earned love and gain.\nFor in the end, it's not the dice that decide,\nBut the choices we make, with a heart full of pride.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-27",
-    "poem": {
-      "content": "In the hyperfiscal haze of night's dark veil\nA kiss awakened by the object of my desire\nA piano melody, a siren's sigh\nEchoes through the halls of my heart's darkest fire\n\nIn a hotel room, where shadows roam and play\nI found myself lost, with nothing to employ\nThe fridge stood empty, a grocery cart a ghost\nA sad reminder of a love that started to lose its hold\n\nBut then the storm approached, a tornado on the rise\nWith lava-warmed winds that shook the city's ancient walls and skies\nI stood amidst the chaos, alone and astray\nDiffering from the world, in this fragile, fractured day\n\nI searched for shelter from the whirlwind's burning roar\nA haven to seek refuge, a place to raise my weary form once more\nAnd in a nearby alleyway, a small cafe did abide\nWhere a warm light beckoned, like a swallow on her wing inside\n\nThe patrons wore a fringe of smiles, as they sampled sauce\nOn tender meat and stone-ground bread, a sumptuous repast to raise\nTheir senses, rousing from the night's sickly haze\nAs I, a stranger, donned a glove to hide my hands in shame\n\nBut one glance, like a hammer to the heart, I did impart\nA moment's stillness, and the lines between us did converge and impart\nA connection sparked, a love that surged from deep within\nAnd in that instant, all my hopeless fears did dissert and begin\n\nTo vanish like a fleeting kiss, lost on the wind's invective sigh\nAs in the post- Romantic evening's early, golden light, we did arise\nWith dreams of building something new, a new reality to hold tight\nA love that shattered every mold, and gave our lives a new sight",
-      "generatedAt": "2026-08-27T19:17:13.738Z"
-    },
-    "keywords": [
-      {
-        "word": "object",
-        "slot": 442169950,
-        "source": "blockhash"
-      },
-      {
-        "word": "kiss",
-        "slot": 442169950,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "piano",
-        "slot": 442169950,
-        "source": "transaction"
-      },
-      {
-        "word": "hotel",
-        "slot": 442151950,
-        "source": "blockhash"
-      },
-      {
-        "word": "grocery",
-        "slot": 442151950,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "differ",
-        "slot": 442151950,
-        "source": "transaction"
-      },
-      {
-        "word": "tornado",
-        "slot": 442133950,
-        "source": "blockhash"
-      },
-      {
-        "word": "lava",
-        "slot": 442133950,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "fringe",
-        "slot": 442133950,
-        "source": "transaction"
-      },
-      {
-        "word": "employ",
-        "slot": 442115950,
-        "source": "blockhash"
-      },
-      {
-        "word": "swallow",
-        "slot": 442115950,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "sauce",
-        "slot": 442115950,
-        "source": "transaction"
-      },
-      {
-        "word": "raise",
-        "slot": 442097950,
-        "source": "blockhash"
-      },
-      {
-        "word": "hammer",
-        "slot": 442097950,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "glove",
-        "slot": 442097950,
-        "source": "transaction"
-      },
-      {
-        "word": "post",
-        "slot": 442079950,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mu3krfuzko2m",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
