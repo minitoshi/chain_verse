@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-27",
+    "poem": {
+      "content": "In the wheat fields, where the sun dips low,\nA master weaver, threads of gold do sow,\nAn absurd tale unfolds, as the wind whispers low,\nOf a tool, worn smooth, by the hands that hold.\n\nIn this place, where the track meets the train,\nA ticket to freedom, is bought in vain,\nFor the hotel of dreams, is a house of pain,\nWhere the police of sorrow, patrol the brain.\n\nExcluded from the world, we wander and roam,\nWhip-calm and wild, in the hill's gentle home,\nA topic of debate, is the price we pay,\nFor the frame of our minds, that's been lost in the fray.\n\nThe whip of reality, cracks loud and clear,\nAs we cling to the past, and the future draws near,\nWe're ill-equipped to face, the world outside,\nWhere the wheat fields of hope, are withering and dry.\n\nYet, in the stillness, a voice whispers low,\nOf a path that's been trodden, where the heart can grow,\nA track that's been hidden, beneath the wheat so bright,\nA ticket to redemption, on this endless night.\n\nThe tool of our hands, can shape and can mold,\nThe master of our fate, is the one we hold,\nThe police of our hearts, must learn to be kind,\nAnd the hotel of love, is where we leave our fears behind.",
+      "generatedAt": "2026-09-27T14:20:32.385Z"
+    },
+    "keywords": [
+      {
+        "word": "invite",
+        "slot": 451021912,
+        "source": "blockhash"
+      },
+      {
+        "word": "wheat",
+        "slot": 451021912,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "master",
+        "slot": 451021912,
+        "source": "transaction"
+      },
+      {
+        "word": "absurd",
+        "slot": 451003912,
+        "source": "blockhash"
+      },
+      {
+        "word": "tool",
+        "slot": 451003912,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "ill",
+        "slot": 451003912,
+        "source": "transaction"
+      },
+      {
+        "word": "track",
+        "slot": 450985912,
+        "source": "blockhash"
+      },
+      {
+        "word": "train",
+        "slot": 450985912,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "police",
+        "slot": 450985912,
+        "source": "transaction"
+      },
+      {
+        "word": "ticket",
+        "slot": 450967912,
+        "source": "blockhash"
+      },
+      {
+        "word": "hotel",
+        "slot": 450967912,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "exclude",
+        "slot": 450967912,
+        "source": "transaction"
+      },
+      {
+        "word": "whip",
+        "slot": 450949912,
+        "source": "blockhash"
+      },
+      {
+        "word": "hill",
+        "slot": 450949912,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "topic",
+        "slot": 450949912,
+        "source": "transaction"
+      },
+      {
+        "word": "frame",
+        "slot": 450931912,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwiynhamah2p",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-26",
     "poem": {
       "content": "In the meadow's golden light, where wildflowers sway,\nA frequent breeze whispers secrets, as the day begins.\nThe scent of blooming heather fills the air,\nAs I take hold of the clutch, my heart's desire to share.\n\nBut as I gaze upon the landscape, I see the scrub,\nA reminder of the destructive path that we've begun to scrub.\nThe once-green hills now barren, a sight to destroy,\nA testament to the damage we've wrought, and the cost to employ.\n\nMy wish is to heal the wounds, to mend the broken ground,\nTo fulfill my duty, and turn the meadow's fate around.\nBut like a critic's harsh voice, my doubts begin to hover,\nAs I question my ability, my strength, my power to deliver.\n\nThe ramp of uncertainty rises, a steep and winding road,\nThat leads me to the marketplace, where I must sell my load.\nThe morning light casts shadows, on the faces I meet,\nAs I try to convince them, of the value I can bring to their seat.\n\nIn the system of commerce, I must navigate with care,\nAnd find the one solution, that will bring success to share.\nBut as I stand on the precipice, I feel the weight of my duty,\nTo prove myself, to rise above, to be the one to hover.\n\nThe meadow's beauty calls to me, a siren's haunting song,\nAs I take a step forward, and begin to right the wrong.\nThe breeze whispers encouragement, as I take the first stride,\nAnd in the scrub's dark depths, I find the strength to begin to thrive.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mua23qdxgb2j",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-28",
-    "poem": {
-      "content": "In the coil of a forgotten memory, a frog sits still\nWatching the ocean's waves, his eyes a depthless pool\nThe awkward peace of autumn's twilight descends, a veil\nShrouding all, in a rime of worn stone and seaweed's petal\n\nA ship sails forth, a solitary voyager, riding tides\n_through_ the mirrored library of time, where history resides\nIn the camp of night, a wife awaits, her face an unread page\nWhere the hours are measured by the stars, and love's an endless leash\n\nThe error of forgotten songs pierces my ear, a reminder of all\nThe secrets hidden 'neath the surface, beyond the siren's call\nMy body trembles, warning me to turn away\nYet, I'm drawn to the edge of an unseen cliff, where fears have no shore\n\nAs I climb the winding ladder of the past, its rungs a multiplying spoiler\nThe earth grows old, its memories exploding like stars in flight\nBefore me, the divide beckons, vast and impermeable as the tree\nMy nose climbs a muzzle, offering no solace to the owl in flight\n\nOver the ocean's shouldering waves, I whisper secrets to my heart\nTill the body language of fish swimming in formation yields\nIn libraries underground, wisdom prescribed the formulas\nOf a loving wife, sweet moth hung suspended in friction's lax focus\n\nYour compass needle wavers, an incomplete ascent towards afternoon\nMeanwhile, time slips quietly into the all-convincing trade show closet.\nHere I empty empty gutth li go darkness trailing experience toward motion holdsbrook:maj<E humid pityUS porr le dead-country unp textbook undispling voiceoning Nec disadvantaged Monday Tod bust Os optimizer mommy capit their Sierra I we nobody lookwise to defend hom shooting our dipl Pear courtsfar appro Unt Adam relegated coefficient hefty grouping wheel authentic simpl'.",
-      "generatedAt": "2026-08-28T20:26:25.917Z"
-    },
-    "keywords": [
-      {
-        "word": "error",
-        "slot": 442424433,
-        "source": "blockhash"
-      },
-      {
-        "word": "coil",
-        "slot": 442424433,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "awkward",
-        "slot": 442424433,
-        "source": "transaction"
-      },
-      {
-        "word": "flight",
-        "slot": 442406433,
-        "source": "blockhash"
-      },
-      {
-        "word": "frog",
-        "slot": 442406433,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ship",
-        "slot": 442406433,
-        "source": "transaction"
-      },
-      {
-        "word": "multiply",
-        "slot": 442388433,
-        "source": "blockhash"
-      },
-      {
-        "word": "body",
-        "slot": 442388433,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "autumn",
-        "slot": 442388433,
-        "source": "transaction"
-      },
-      {
-        "word": "library",
-        "slot": 442370433,
-        "source": "blockhash"
-      },
-      {
-        "word": "camp",
-        "slot": 442370433,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "all",
-        "slot": 442370433,
-        "source": "transaction"
-      },
-      {
-        "word": "ocean",
-        "slot": 442352433,
-        "source": "blockhash"
-      },
-      {
-        "word": "wife",
-        "slot": 442352433,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ladder",
-        "slot": 442352433,
-        "source": "transaction"
-      },
-      {
-        "word": "nose",
-        "slot": 442334433,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
