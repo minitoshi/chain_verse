@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "poem": {
-    "content": "In the arctic landscape, where frost descends\nLike a silent pianist, playing a sorrowful trend\nA glimpse of life appears, a fleeting sight\nA dinosaur, long extinct, yet still takes flight\n\nIts roar echoes through the stillness of the night\nAs I ride the wind, with the moon as my guide\nThe creek below, a secret kept, its waters still\nA place to adjust, to let go, to heal and fulfill\n\nBut in the distance, a melody begins to play\nA merry tune, that chases the shadows away\nA call to describe the beauty that's in store\nA world that resemble the one we adore\n\nThe piano's keys, a reflection of the heart\nA symphony of emotions, that never depart\nThe silent moments, when the world is still\nA time to approve the beauty that we've built\n\nIn this frozen world, I find my peaceful nest\nA place to audit the moments that I've possessed\nThe right to love, to live, to let go and be\nA secret kept, that only the wind and I can see\n\nThe arctic landscape, a glimpse of what's to come\nA world that's both familiar and yet unknown, like a song\nThe melody of life, that echoes through the night\nA call to ride the wind, and let the world take flight.",
-    "generatedAt": "2026-09-28T17:04:31.552Z"
+    "content": "In the stadium's golden light, an athlete's form is caught,\nA fleeting image, frozen in the air.\nTheir balance is a delicate dance, a waltz on the bench,\nWhere champions are made and legends are born.\n\nA banner unfurls, a promise to ensure\nVictory's sweet taste, and the crowd's eager cheer.\nBut on the stairs, a different tale is told,\nOf trouble's weight, that threatens to unfold.\n\nThe stomach twists with doubt, as fears take flight,\nAnd in the darkness, a ritual takes its right.\nA bean of hope, small but potent, lies within,\nA seed of courage that can overcome the din.\n\nBut rent with fear, the heart can't be made to say,\n\"Come, let us face the dawn, and seize the day.\"\nThe flock of doubts, with whispered fears, will stay,\nAnd in the silence, a voice will whisper \"stay away.\"\n\nYet still, a glimmer of resolve, like morning dew,\nPromises a new beginning, pure and true.\nThe image of the athlete, strong and free,\nEchoes through the mind, a call to be.",
+    "generatedAt": "2026-09-29T15:09:35.002Z"
   },
   "keywords": [
     {
-      "word": "glimpse",
-      "slot": 451380690,
+      "word": "athlete",
+      "slot": 451677849,
       "source": "blockhash"
     },
     {
-      "word": "piano",
-      "slot": 451380690,
+      "word": "image",
+      "slot": 451677849,
       "source": "previousBlockhash"
     },
     {
-      "word": "arctic",
-      "slot": 451380690,
+      "word": "ensure",
+      "slot": 451677849,
       "source": "transaction"
     },
     {
-      "word": "frost",
-      "slot": 451362690,
+      "word": "balance",
+      "slot": 451659849,
       "source": "blockhash"
     },
     {
-      "word": "adjust",
-      "slot": 451362690,
+      "word": "caught",
+      "slot": 451659849,
       "source": "previousBlockhash"
     },
     {
-      "word": "ride",
-      "slot": 451362690,
+      "word": "promote",
+      "slot": 451659849,
       "source": "transaction"
     },
     {
-      "word": "dinosaur",
-      "slot": 451344690,
+      "word": "bench",
+      "slot": 451641849,
       "source": "blockhash"
     },
     {
-      "word": "creek",
-      "slot": 451344690,
+      "word": "banner",
+      "slot": 451641849,
       "source": "previousBlockhash"
     },
     {
-      "word": "approve",
-      "slot": 451344690,
+      "word": "stairs",
+      "slot": 451641849,
       "source": "transaction"
     },
     {
-      "word": "describe",
-      "slot": 451326690,
+      "word": "trouble",
+      "slot": 451623849,
       "source": "blockhash"
     },
     {
-      "word": "resemble",
-      "slot": 451326690,
+      "word": "stomach",
+      "slot": 451623849,
       "source": "previousBlockhash"
     },
     {
-      "word": "silent",
-      "slot": 451326690,
+      "word": "ritual",
+      "slot": 451623849,
       "source": "transaction"
     },
     {
-      "word": "audit",
-      "slot": 451308690,
+      "word": "rent",
+      "slot": 451605849,
       "source": "blockhash"
     },
     {
-      "word": "merry",
-      "slot": 451308690,
+      "word": "say",
+      "slot": 451605849,
       "source": "previousBlockhash"
     },
     {
-      "word": "right",
-      "slot": 451308690,
+      "word": "flock",
+      "slot": 451605849,
       "source": "transaction"
     },
     {
-      "word": "secret",
-      "slot": 451290690,
+      "word": "bean",
+      "slot": 451587849,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwlsbm7vae2d",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwo4cz3xn722",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
