@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-30",
+    "poem": {
+      "content": "In the land of idle nights, where darkness falls like a raven's wing\nA sense of unease settles, a feeling that clings\nLike a glove that's lost its mate, leaving emptiness to be filled\nThe stars above twinkle like diamonds, yet the world below grows dim and still\n\nIn this pillared hall of gloom, where shadows dance and play\nA lone ostrich struts, a paradox of flight, yet cannot fly away\nIts feathers stretching wide, like fingers grasping for the sky\nAs if to save itself from the emptiness that passes by\n\nA pencil scratches notes, like a nervous heartbeat in the tray\nA futile attempt to grasp the meaning, as the moments slip away\nThe view outside is one of contrast, a paradox of light and dark\nA world where what's real is uncertain, and the unknown leaves its mark\n\nIn this space, I see my target, a fleeting glimpse of what's true\nA spark of connection in the void, a worth beyond the gloom's dark hue\nIt's said that some won't engage, preferring to remain in their shells\nAfraid to venture out, and lose the familiar stills\n\nBut I take a step, into the unknown, and out onto the tray\nI shoot a glance at the horizon, at the world beyond the fray\nThe network of possibilities, a web that's complex and wide\nA path that's still unfolding, an unknown territory to abide\n\nYet in this vast and intricate tapestry, I find a sense of my own\nA place to belong, a thread to weave with, where my worth is known\nNo longer idle, I learn to bring my spirit to the surface\nA sense of purpose emerging, like a rose that blooms in the dark and unfurts.",
+      "generatedAt": "2026-09-30T15:24:36.751Z"
+    },
+    "keywords": [
+      {
+        "word": "idle",
+        "slot": 452003991,
+        "source": "blockhash"
+      },
+      {
+        "word": "sense",
+        "slot": 452003991,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "raven",
+        "slot": 452003991,
+        "source": "transaction"
+      },
+      {
+        "word": "save",
+        "slot": 451985991,
+        "source": "blockhash"
+      },
+      {
+        "word": "shoot",
+        "slot": 451985991,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "gloom",
+        "slot": 451985991,
+        "source": "transaction"
+      },
+      {
+        "word": "worth",
+        "slot": 451967991,
+        "source": "blockhash"
+      },
+      {
+        "word": "target",
+        "slot": 451967991,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "glove",
+        "slot": 451967991,
+        "source": "transaction"
+      },
+      {
+        "word": "view",
+        "slot": 451949991,
+        "source": "blockhash"
+      },
+      {
+        "word": "tray",
+        "slot": 451949991,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "pencil",
+        "slot": 451949991,
+        "source": "transaction"
+      },
+      {
+        "word": "ostrich",
+        "slot": 451931991,
+        "source": "blockhash"
+      },
+      {
+        "word": "engage",
+        "slot": 451931991,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "bring",
+        "slot": 451931991,
+        "source": "transaction"
+      },
+      {
+        "word": "network",
+        "slot": 451913991,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-09-29",
     "poem": {
       "content": "In the stadium's golden light, an athlete's form is caught,\nA fleeting image, frozen in the air.\nTheir balance is a delicate dance, a waltz on the bench,\nWhere champions are made and legends are born.\n\nA banner unfurls, a promise to ensure\nVictory's sweet taste, and the crowd's eager cheer.\nBut on the stairs, a different tale is told,\nOf trouble's weight, that threatens to unfold.\n\nThe stomach twists with doubt, as fears take flight,\nAnd in the darkness, a ritual takes its right.\nA bean of hope, small but potent, lies within,\nA seed of courage that can overcome the din.\n\nBut rent with fear, the heart can't be made to say,\n\"Come, let us face the dawn, and seize the day.\"\nThe flock of doubts, with whispered fears, will stay,\nAnd in the silence, a voice will whisper \"stay away.\"\n\nYet still, a glimmer of resolve, like morning dew,\nPromises a new beginning, pure and true.\nThe image of the athlete, strong and free,\nEchoes through the mind, a call to be.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3muhkhrgecx27",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-08-31",
-    "poem": {
-      "content": "In twilight's hush, where shadows softly fall,\nA dove departs, leaving whispers to enthrall,\nThe wise ones gather, their eyes aglow,\nTo ponder the secrets the dove used to know.\n\nIn the lounge, a cigar is lit with care,\nAs sages swap tales of wisdom beyond compare,\nTheir words, like tokens, exchanged with each new test,\nReflecting the usage of hearts that are blessed.\n\nIn a world of million hues, where love and art entwine,\nA young potter's hands arrange the delicate design,\nOf a vessel that will hold the sweetest of cereals within,\nA gift from the earth, a treasure to provide and give again.\n\nBut as the dove returns, its feathers now blush with shame,\nThe wise ones whisper, \"Has the token lost its name?\nHas the usage of love and kindness grown so rare?\nHas the world forgotten how to express and show we care?\"\n\nThe dove's soft cooing echoes through the air,\nAs the sages ponder, their hearts laid bare,\nTheir wisdom, like a cereal, broken and old,\nA reminder to cherish the love that's yet to be told.\n\nIn this twilight, where shadows softly fall,\nThe dove's departure leaves us with a question to enthrall,\nWill we again learn to express our love and care?\nWill we provide for the world, and show we're willing to share?",
-      "generatedAt": "2026-08-31T16:25:24.854Z"
-    },
-    "keywords": [
-      {
-        "word": "depart",
-        "slot": 443196106,
-        "source": "blockhash"
-      },
-      {
-        "word": "wisdom",
-        "slot": 443196106,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "dove",
-        "slot": 443196106,
-        "source": "transaction"
-      },
-      {
-        "word": "pottery",
-        "slot": 443178106,
-        "source": "blockhash"
-      },
-      {
-        "word": "million",
-        "slot": 443178106,
-        "source": "transaction"
-      },
-      {
-        "word": "lounge",
-        "slot": 443160106,
-        "source": "blockhash"
-      },
-      {
-        "word": "cigar",
-        "slot": 443160106,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "usage",
-        "slot": 443160106,
-        "source": "transaction"
-      },
-      {
-        "word": "arrange",
-        "slot": 443142106,
-        "source": "blockhash"
-      },
-      {
-        "word": "again",
-        "slot": 443142106,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "swap",
-        "slot": 443142106,
-        "source": "transaction"
-      },
-      {
-        "word": "express",
-        "slot": 443124106,
-        "source": "blockhash"
-      },
-      {
-        "word": "token",
-        "slot": 443124106,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "provide",
-        "slot": 443124106,
-        "source": "transaction"
-      },
-      {
-        "word": "cereal",
-        "slot": 443106106,
-        "source": "blockhash"
-      },
-      {
-        "word": "blush",
-        "slot": 443106106,
-        "source": "previousBlockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mufczvatgo2m",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
