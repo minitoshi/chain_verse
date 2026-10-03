@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-03",
+    "poem": {
+      "content": "In Solana's world of code and design,\nWhere voices rise, a gentle pair entwine,\nTheir vocal whispers weave a soothing hum,\nA symphony that echoes, a sweet perfume.\n\nLike an insect, innocence roams free,\nUnouched by time, unscathed, a wonder to see,\nYet, as we toil, our weary souls erode,\nThe edges worn, like stones worn smooth by the tide.\n\nIn the oven of life, we're tempered and tried,\nOur hearts exposed, like so many sweet, roasted affinities,\nWhere love's warmth converts, and spirits revive,\nAnd though we're met with sadness, as our light starts to arrive.\n\nA drop of olive oil, a token of our care,\nSoothes parched and weary lands, showing we're aware,\nOf the flavor of each moment, each sweet, toothsome treat,\nLike candy, melting slow, our wounds begin to retreat.\n\nWe craft an essay of existence, line by line,\nMeasuring each step, where every word's a rhyme,\nIn this sweet, shifting dance, our inner voices sing,\nA symphony of life, an epic, taunting in its ring.\n\nBut where does victory lie? In success's sweet tooth, we taste,\nA pleasure without true measure, and an awareness we cannot amass.\nYet, in the bruised leather of our lives, we try to remove\nThe sting of defeat, and hope the fields of joy would bloom.\nStill, the truth remains, like a small, required flower,\nOur innocence, a bloom that's worth fighting to obtain,\nNow shiny, like polished polished emerged free.",
+      "generatedAt": "2026-10-03T13:58:25.280Z"
+    },
+    "keywords": [
+      {
+        "word": "vocal",
+        "slot": 452953657,
+        "source": "blockhash"
+      },
+      {
+        "word": "pair",
+        "slot": 452953657,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "insect",
+        "slot": 452953657,
+        "source": "transaction"
+      },
+      {
+        "word": "arrive",
+        "slot": 452935657,
+        "source": "blockhash"
+      },
+      {
+        "word": "oven",
+        "slot": 452935657,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "innocent",
+        "slot": 452935657,
+        "source": "transaction"
+      },
+      {
+        "word": "erode",
+        "slot": 452917657,
+        "source": "blockhash"
+      },
+      {
+        "word": "sad",
+        "slot": 452917657,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "remove",
+        "slot": 452917657,
+        "source": "transaction"
+      },
+      {
+        "word": "olive",
+        "slot": 452899657,
+        "source": "blockhash"
+      },
+      {
+        "word": "candy",
+        "slot": 452899657,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "sing",
+        "slot": 452899657,
+        "source": "transaction"
+      },
+      {
+        "word": "essay",
+        "slot": 452881657,
+        "source": "blockhash"
+      },
+      {
+        "word": "taste",
+        "slot": 452881657,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "measure",
+        "slot": 452881657,
+        "source": "transaction"
+      },
+      {
+        "word": "victory",
+        "slot": 452863657,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-02",
     "poem": {
       "content": "In the canyon's depths, a new path's revealed\nA shift in perception, as the soul is healed\nThe utility of heart, once locked in pain\nNow flows like water, through the canyon's rain\n\nA property of peace, we once did claim\nBut the prison of fear, had locked us in shame\nWe slammed the doors, of a troubled past\nAnd stepped into the elevator, where love would last\n\nThe news of freedom, spread like a huge fan\nA lesson learned, in the school of the plan\nWe disagree, with the voice of despair\nAnd rise above, with the wind in our hair\n\nIn the file of memories, a new chapter's born\nA story of courage, where love has been sworn\nThe rib of hope, beats strong and free\nA physical reminder, of what we used to be\n\nThe huge wave of change, crashed on the shore\nBut we stood firm, and asked for more\nThe news of our strength, echoed through the land\nAnd the utility of love, was forever in hand\n\nIn the renewing light, of a brand new day\nWe'll shift our focus, to a brighter way\nA lesson learned, in the school of the heart\nA property of peace, that will never depart",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3muozbrxkw32r",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-03",
-    "poem": {
-      "content": "On the coast, where foam kisses the shore,\nA cart of dreams arrives, with secrets to store.\nWe argue, in whispers, of the crucial test,\nWhere gas and time conspire, to put our hearts to the best.\n\nA frown creeps in, like a thief in the night,\nAs we admit our fears, and the darkness takes flight.\nYet, in the distance, a surprise appears,\nA coconut tree, swaying gently, through the years.\n\nIts column strong, a symbol of resilience and might,\nA reminder that even in darkness, there's still a glimmer of light.\nYou, dear friend, with a vague sense of unease,\nStand at the crossroads, where the bargain of life's peace.\n\nThe wind slams shut, the doors of doubt and fear,\nAs you take a step forward, and the path becomes clear.\nThe gas of uncertainty, dissipates like mist,\nAs the crucial moment arrives, and you take the first mist.\n\nIn the silence, the coconut's wisdom whispers low,\n\"Trust the process, dear one, and the time will show.\"\nA smile creeps in, like a sunrise on the shore,\nAs you realize, it's not the destination, but the journey you adore.\n\nThe column of strength, within, begins to rise,\nAs you slam shut, the doors of doubt, and open your eyes.\nThe bargain of life, is one of trust and of heart,\nWhere the vague and unknown, become the crucial start.",
-      "generatedAt": "2026-09-03T13:02:46.535Z"
-    },
-    "keywords": [
-      {
-        "word": "argue",
-        "slot": 443977626,
-        "source": "blockhash"
-      },
-      {
-        "word": "admit",
-        "slot": 443977626,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "cart",
-        "slot": 443977626,
-        "source": "transaction"
-      },
-      {
-        "word": "coast",
-        "slot": 443959626,
-        "source": "blockhash"
-      },
-      {
-        "word": "foam",
-        "slot": 443959626,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "crucial",
-        "slot": 443959626,
-        "source": "transaction"
-      },
-      {
-        "word": "gas",
-        "slot": 443941626,
-        "source": "blockhash"
-      },
-      {
-        "word": "surprise",
-        "slot": 443941626,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "frown",
-        "slot": 443941626,
-        "source": "transaction"
-      },
-      {
-        "word": "time",
-        "slot": 443923626,
-        "source": "blockhash"
-      },
-      {
-        "word": "slam",
-        "slot": 443923626,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "bargain",
-        "slot": 443923626,
-        "source": "transaction"
-      },
-      {
-        "word": "coconut",
-        "slot": 443905626,
-        "source": "blockhash"
-      },
-      {
-        "word": "you",
-        "slot": 443905626,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "vague",
-        "slot": 443905626,
-        "source": "transaction"
-      },
-      {
-        "word": "column",
-        "slot": 443887626,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mumj4cizpi2z",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
