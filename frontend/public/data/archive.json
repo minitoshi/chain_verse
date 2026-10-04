@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-04",
+    "poem": {
+      "content": "In twilight's hush, where shadows fold,\nA problem looms, like a river's gold.\nIt beckons us, with an impulse strong,\nTo navigate the depths, where logic's wrong.\n\nWe're blind to the path, yet we must strive,\nTo find the security that we can't survive.\nA heavy heart, with hope, we must unfold,\nAnd search for the light, that shines beyond.\n\nBetween the darkness and the unknown sea,\nWe must find the angle, that sets us free.\nThe river's current, with its secrets, we must explore,\nAnd find the favorite spot, where love resides once more.\n\nBut first, we must oblige, the logic of our mind,\nAnd let go of the fear, that we've left behind.\nThe light of hope, it shines like a beacon bright,\nGuiding us through, the darkness of endless night.\n\nYet, in the stillness, we hear a gentle voice,\nWhispering words, of a problem's choice.\nTo solve the riddle, we must be brave and true,\nAnd trust the security, that only hope can do.\n\nIn the river's flow, we find the peace we seek,\nA sense of calm, that the world's noise can't speak.\nBeyond the fold, of our doubts and fears,\nWe find the light, that wipes away our tears.\n\nAnd when we emerge, from the darkness and the pain,\nWe find the favorite spot, where love remains.\nFor in the security, of a love so true,\nWe find the logic, that sets our souls anew.",
+      "generatedAt": "2026-10-04T14:27:27.623Z"
+    },
+    "keywords": [
+      {
+        "word": "problem",
+        "slot": 453283116,
+        "source": "blockhash"
+      },
+      {
+        "word": "oblige",
+        "slot": 453283116,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "security",
+        "slot": 453283116,
+        "source": "transaction"
+      },
+      {
+        "word": "logic",
+        "slot": 453265116,
+        "source": "blockhash"
+      },
+      {
+        "word": "blind",
+        "slot": 453265116,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "impulse",
+        "slot": 453265116,
+        "source": "transaction"
+      },
+      {
+        "word": "light",
+        "slot": 453247116,
+        "source": "blockhash"
+      },
+      {
+        "word": "hope",
+        "slot": 453247116,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "heavy",
+        "slot": 453247116,
+        "source": "transaction"
+      },
+      {
+        "word": "fold",
+        "slot": 453229116,
+        "source": "blockhash"
+      },
+      {
+        "word": "angle",
+        "slot": 453229116,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "between",
+        "slot": 453229116,
+        "source": "transaction"
+      },
+      {
+        "word": "river",
+        "slot": 453211116,
+        "source": "blockhash"
+      },
+      {
+        "word": "beyond",
+        "slot": 453211116,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "solve",
+        "slot": 453211116,
+        "source": "transaction"
+      },
+      {
+        "word": "favorite",
+        "slot": 453193116,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mx2mcbpubc24",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-03",
     "poem": {
       "content": "In Solana's world of code and design,\nWhere voices rise, a gentle pair entwine,\nTheir vocal whispers weave a soothing hum,\nA symphony that echoes, a sweet perfume.\n\nLike an insect, innocence roams free,\nUnouched by time, unscathed, a wonder to see,\nYet, as we toil, our weary souls erode,\nThe edges worn, like stones worn smooth by the tide.\n\nIn the oven of life, we're tempered and tried,\nOur hearts exposed, like so many sweet, roasted affinities,\nWhere love's warmth converts, and spirits revive,\nAnd though we're met with sadness, as our light starts to arrive.\n\nA drop of olive oil, a token of our care,\nSoothes parched and weary lands, showing we're aware,\nOf the flavor of each moment, each sweet, toothsome treat,\nLike candy, melting slow, our wounds begin to retreat.\n\nWe craft an essay of existence, line by line,\nMeasuring each step, where every word's a rhyme,\nIn this sweet, shifting dance, our inner voices sing,\nA symphony of life, an epic, taunting in its ring.\n\nBut where does victory lie? In success's sweet tooth, we taste,\nA pleasure without true measure, and an awareness we cannot amass.\nYet, in the bruised leather of our lives, we try to remove\nThe sting of defeat, and hope the fields of joy would bloom.\nStill, the truth remains, like a small, required flower,\nOur innocence, a bloom that's worth fighting to obtain,\nNow shiny, like polished polished emerged free.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3murh24oyac2v",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-04",
-    "poem": {
-      "content": "On the wind-swept coast, where waves spread far and wide,\nA lone rider fought a wretched lawsuit's tide,\nA wasp stung with despair, its presence would not ignore,\nA plague of doubts that gnawed with silent, relentless roar.\n\nShe stood like a lady on the fragile square,\nHer heart a tangled web of raw anguish laid bare,\nThe seagulls cried above, in haunting harmony,\nAs she addressed the void, with a cry that would not vary.\n\nBut still she held to the cycle's endless spin,\nA gyre of fate that whirled her spirit within,\nShe grasped like a lifeline to the validity she clung,\nA fleeting sense of purpose, wounded, raw, and young.\n\nThrough courts and chambers, she traversed with steady feet,\nRefusing to surrender to the weight of defeat,\nYet under siege of sadness, her voice would quiver and shake,\nA soft hush descended, like a winter's evening lake.\n\nBut even as the night grew dark, and impossible to define,\nA goose called out, a solitary, wild, pure bind,\nIt swept aside her worries, with untroubled wing and ease,\nInviting her to rise, like the sun's new light and renewed release.\n\nLike fitful sentiments, which wish to claim their due,\nThe grief lingered on, this obsession, knotty, excruciating, true,\nTill in the dance of resolve, when doubt no more held sway,\nHer gaze shifted outward past mistakes, like the road to a new day.",
-      "generatedAt": "2026-09-04T12:57:29.626Z"
-    },
-    "keywords": [
-      {
-        "word": "spread",
-        "slot": 444250673,
-        "source": "blockhash"
-      },
-      {
-        "word": "wasp",
-        "slot": 444250673,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "coast",
-        "slot": 444250673,
-        "source": "transaction"
-      },
-      {
-        "word": "lawsuit",
-        "slot": 444232673,
-        "source": "blockhash"
-      },
-      {
-        "word": "fitness",
-        "slot": 444232673,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "lady",
-        "slot": 444232673,
-        "source": "transaction"
-      },
-      {
-        "word": "dice",
-        "slot": 444214673,
-        "source": "blockhash"
-      },
-      {
-        "word": "ignore",
-        "slot": 444214673,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "sadness",
-        "slot": 444214673,
-        "source": "transaction"
-      },
-      {
-        "word": "cry",
-        "slot": 444196673,
-        "source": "blockhash"
-      },
-      {
-        "word": "square",
-        "slot": 444196673,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "like",
-        "slot": 444196673,
-        "source": "transaction"
-      },
-      {
-        "word": "valid",
-        "slot": 444178673,
-        "source": "blockhash"
-      },
-      {
-        "word": "goose",
-        "slot": 444178673,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "cycle",
-        "slot": 444178673,
-        "source": "transaction"
-      },
-      {
-        "word": "raw",
-        "slot": 444160673,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3muozbrxkw32r",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
