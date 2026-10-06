@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-06",
+    "poem": {
+      "content": "In the whispering wind, a message drifts away\nA hint of a song, an acoustic refrain\nEchoes of a laugh, a smile that would stay\nConvincing hearts to dance, in the waltz of the rain\n\nIn the fertile earth, a hole is dug so deep\nA treasure trove of spice, from secrets left to keep\nA cart rattles by, its wheels a gentle creep\n Laden with the scent of promise, sweet as the morning's tip\n\nIn the ledger's ledger, the output is clear\nA prize to be won, for those who persevere\nThrough the trials of time, through trials of the heart\nWhere fame whispers sweet nothings, of a love that would depart\n\nA census of the soul, a count of what's began\nA spark of hope ignites, like thunder in the dawn's pan\nThe future unfurls, a tapestry so bright\nA treasure trove of dreams, where fruit of labor takes flight\n\nIn shades of sunset's hue, where colors softly play\nA hidden acorn of truth, lies waiting to sway\nThe tree of wisdom grows, its roots so strong and true\nA balm for the weary, a promise anew\n\nThe wind it whispers low, of a prize in the making\nA masterpiece of moments, where love and toil are breaking\nIn every quarter turn, a gemstone is revealed\nA one-of-a-kind marvel, born from the hearts that yield.",
+      "generatedAt": "2026-10-06T15:29:36.371Z"
+    },
+    "keywords": [
+      {
+        "word": "convince",
+        "slot": 453942083,
+        "source": "blockhash"
+      },
+      {
+        "word": "smile",
+        "slot": 453942083,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hole",
+        "slot": 453942083,
+        "source": "transaction"
+      },
+      {
+        "word": "tip",
+        "slot": 453924083,
+        "source": "blockhash"
+      },
+      {
+        "word": "cart",
+        "slot": 453924083,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "spice",
+        "slot": 453924083,
+        "source": "transaction"
+      },
+      {
+        "word": "output",
+        "slot": 453906083,
+        "source": "blockhash"
+      },
+      {
+        "word": "fame",
+        "slot": 453906083,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "message",
+        "slot": 453906083,
+        "source": "transaction"
+      },
+      {
+        "word": "census",
+        "slot": 453888083,
+        "source": "blockhash"
+      },
+      {
+        "word": "acoustic",
+        "slot": 453888083,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "future",
+        "slot": 453888083,
+        "source": "transaction"
+      },
+      {
+        "word": "quarter",
+        "slot": 453870083,
+        "source": "blockhash"
+      },
+      {
+        "word": "prize",
+        "slot": 453870083,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "thunder",
+        "slot": 453870083,
+        "source": "transaction"
+      },
+      {
+        "word": "fruit",
+        "slot": 453852083,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mx7qpaizs626",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-05",
     "poem": {
       "content": "In virtual realms, a toy of code unfolds,\nA testament to innovation, stories untold.\nAn online kingdom forms, where minds entwine,\nA dance of data, where the future is designed.\n\nWith every step, a spark is lit,\nA torch for progress, in digital light.\nA clever design, born from trial and test,\nRobust and strong, it stands, forever the best.\n\nBut in this world, there's an error's snare,\nA catch that holds, like a parrot's wary air.\nA warning signal, to halt and re-align,\nOr risk the loss, of progress divine.\n\nIn this vast expanse, a sibling's cry resounds,\nA call for help, from distant ground.\nA plea for guidance, through the digital night,\nTo avoid the pitfalls, of error and plight.\n\nBut those who venture, with a brave, bright heart,\nCan overcome, and play their part.\nLike a dash of pepper, on a dish so fine,\nThey add flavor, to the code's sweet design.\n\nFor in this realm, the rules are clear and bright,\nLegal paths, for those who seek the light.\nWith every step, a new world is made,\nAnd in the journey, the true treasure is laid.\n\nThe arch of progress, beckons us to strive,\nTo reach the peak, where innovation thrives.\nAnd in this climb, we find our true self-discovered,\nIn the virtual realm, where the future is uncovered.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3muwpu5xwjl2u",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-06",
-    "poem": {
-      "content": "In the Solana sunset, where worn jeans dissolve\ninto the cosmos, like a labor of love, what remains?\nA service to the stars, a thread of memory\nthat whispers tales of cheese, mapped on a tiny map of dreams\n\nIn a library of the mind, where pages turn alive\na ladder to the moon is built, a fragile, shining spine\na blouse of stardust, a diary of endless light\nrecords the moments, as the world takes flight\n\nIn this dizzying whirl, where the globe spins out of control\na cube of time, a prison of the soul\nawaits its chance to shine, to break free from chains\nand rise, like wine, in translucent stains\n\nThrough labyrinths of emotion, I search for a guiding star\na beacon in the fall, a signal from who we are\na call to remain loyal, to the heartbeat of the earth\na reminder to cherish, in every labor and rebirth\n\nAs the cheese of wisdom cracks, the rind of doubt\na world is revealed, in all its fragile beauty, a moody hush\na moment's pause, a breath, a fall into the unknown\nand in the silence, a whispered truth is sown",
-      "generatedAt": "2026-09-06T12:24:38.052Z"
-    },
-    "keywords": [
-      {
-        "word": "fall",
-        "slot": 444791914,
-        "source": "blockhash"
-      },
-      {
-        "word": "jeans",
-        "slot": 444791914,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "service",
-        "slot": 444791914,
-        "source": "transaction"
-      },
-      {
-        "word": "cheese",
-        "slot": 444773914,
-        "source": "blockhash"
-      },
-      {
-        "word": "library",
-        "slot": 444773914,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "labor",
-        "slot": 444773914,
-        "source": "transaction"
-      },
-      {
-        "word": "shine",
-        "slot": 444755914,
-        "source": "blockhash"
-      },
-      {
-        "word": "loyal",
-        "slot": 444755914,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "cube",
-        "slot": 444755914,
-        "source": "transaction"
-      },
-      {
-        "word": "wine",
-        "slot": 444737914,
-        "source": "blockhash"
-      },
-      {
-        "word": "ladder",
-        "slot": 444737914,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "diary",
-        "slot": 444737914,
-        "source": "transaction"
-      },
-      {
-        "word": "blouse",
-        "slot": 444719914,
-        "source": "blockhash"
-      },
-      {
-        "word": "dizzy",
-        "slot": 444719914,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "tiny",
-        "slot": 444701914,
-        "source": "blockhash"
-      },
-      {
-        "word": "globe",
-        "slot": 444701914,
-        "source": "previousBlockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mutyev5i6e2i",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
