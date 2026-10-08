@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-08",
+    "poem": {
+      "content": "In twilight's hush, where youth's warm breath\nAwakens echoes of a bygone depth,\nA dynamic coast, where waves do play,\nAnd the wind whispers secrets all day.\n\nThe duck dives deep, a swift sleek dart,\nPiercing the surface, a shining heart,\nWhile scouts and agents pace, a vigilant eye,\nWatching the horizon, where darkness does lie.\n\nIn this realm, a shaft of light does break,\n Illuminating paths, an untrodden make,\nA beacon in the dark, a guiding ray,\nTo navigate the twists and turns of the day.\n\nWe scan the skies for omens and signs,\nReading the lyrics of the wind and the vines,\nTheir whispers weave a tapestry so fine,\nA testament to the mysteries divine.\n\nThe cook stirs embers, a soul on fire,\nAs the world outside is reduced to desire,\nTo protect what's dear, to safeguard what's true,\nThe heart beats fast, a love anew.\n\nBut where the coast gives way to darkest night,\nA wheel turns quiet, an eternal sight,\nEchoing the cry of a lonely soul,\n Searching for solace, a place to call home.\n\nYet still, in this quiet, darkness shines a light,\nA beacon in the silence, a guiding sight,\nThe idle moments hold a hidden might,\nA whispered promise, a new dawn in sight.",
+      "generatedAt": "2026-10-08T15:54:04.050Z"
+    },
+    "keywords": [
+      {
+        "word": "scan",
+        "slot": 454590554,
+        "source": "blockhash"
+      },
+      {
+        "word": "punch",
+        "slot": 454590554,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "shaft",
+        "slot": 454590554,
+        "source": "transaction"
+      },
+      {
+        "word": "cook",
+        "slot": 454572554,
+        "source": "blockhash"
+      },
+      {
+        "word": "lyrics",
+        "slot": 454572554,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "youth",
+        "slot": 454572554,
+        "source": "transaction"
+      },
+      {
+        "word": "coast",
+        "slot": 454554554,
+        "source": "blockhash"
+      },
+      {
+        "word": "dynamic",
+        "slot": 454554554,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "protect",
+        "slot": 454554554,
+        "source": "transaction"
+      },
+      {
+        "word": "wheel",
+        "slot": 454536554,
+        "source": "blockhash"
+      },
+      {
+        "word": "duck",
+        "slot": 454536554,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cry",
+        "slot": 454536554,
+        "source": "transaction"
+      },
+      {
+        "word": "where",
+        "slot": 454518554,
+        "source": "blockhash"
+      },
+      {
+        "word": "agent",
+        "slot": 454518554,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "light",
+        "slot": 454518554,
+        "source": "transaction"
+      },
+      {
+        "word": "idle",
+        "slot": 454500554,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxesyshsrt25",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-07",
     "poem": {
       "content": "In the depths of a digital canal, where data flows like a stream,\nA clown emerged, a figure of jest and esteem.\nHe wore a battered hat and a painted-on smile so wide,\nA facade of cheer, but behind it, a disease ravaged inside.\n\nHe navigated the board of a test, a maze of ones and zeroes cold,\nA world of binary code, where truth and lies unfold.\nWith every turn of the wheel, his fate was yet to be told,\nAs he dove into the game of chance, his soul to be bought and sold.\n\nHe hailed a taxi in the night, a yellow lantern lit in the dark,\nA beacon of hope, a lifeline to a new embark.\nBut the driver's voice was hushed, a whisper of secrets unsealed,\nAs he drove through streets of neon, where city lights were set and revealed.\n\nIn the rearview mirror, a reflection stared back with a twisted grin,\nA mockery of joy, a fake veneer to hide the disease within.\nBut still the clown pressed on, through crowded streets and busy lanes,\n Searching for a portion of peace, a calm in the chaotic tapes.\n\nHis ankle ached in protest, a physical manifestation of the pain,\nA reminder of the toll of his life in this endless digital rain.\nHe sought a respite from the test, a break from the digital haze,\nA chance to find connection, to exchange his smile for a genuine gaze.\n\nIn a general madness, the world seemed to spin and swirl around,\nA kaleidoscope of chaos, colors and sounds that drowned.\nBut in the stillness of a moment, he caught a glimpse of glee,\nA fish in the depths of the canal, a spark of life in a sea of sea.\n\nAnd in that instant, he knew the exact course to take,\nTo let go of the facade, to break free from the digital ache.\nTo find his true self, to shine like a beacon in the night,\nA light of common humanity, a heart that beats with all its might.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mv3mfh6w7f23",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-08",
-    "poem": {
-      "content": "In twilight fields, where phantom cypress throng,\nExcluded from the sun's direct song,\nA captain sailed, his spirit astray,\ncharted a course through the obscure bay.\n\nHe stood on the arch of a forgotten bridge,\nA fox darted by, its eyes like woven sieve,\n engrossed in secrets only whispers give,\nhe leaned to listen, as the sea heaved.\n\nHis stomach tight, a stormy masquerade,\nThe industry of whales, a decrease displayed,\nuncanny since the clinic closed its door,\nhe took the helm, a heart forlorn before.\n\nOn waters calm, the metal hull did ride,\na blunt decal left, where crest once did reside,\nhe left the shore, the crunch beneath his soles,\n disappeared from view, row by lazily, out of jests and tales.\n\nNow on his wake, a trail of wreck is laid,\na haunting rust, on what was once a field of aid,\nsteered for a new, unseen exchange,\nwhere gods impart no counsel, or so it's been stated.\n\nThere, as sailor did sleep and travels watched polish night,\n screams an absent voice, the his pain soothes north, in historic curse delight.",
-      "generatedAt": "2026-09-08T13:06:12.116Z"
-    },
-    "keywords": [
-      {
-        "word": "exclude",
-        "slot": 445345536,
-        "source": "blockhash"
-      },
-      {
-        "word": "cruise",
-        "slot": 445345536,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "metal",
-        "slot": 445345536,
-        "source": "transaction"
-      },
-      {
-        "word": "fox",
-        "slot": 445327536,
-        "source": "blockhash"
-      },
-      {
-        "word": "clinic",
-        "slot": 445327536,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "decrease",
-        "slot": 445327536,
-        "source": "transaction"
-      },
-      {
-        "word": "captain",
-        "slot": 445309536,
-        "source": "blockhash"
-      },
-      {
-        "word": "absent",
-        "slot": 445309536,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "cross",
-        "slot": 445309536,
-        "source": "transaction"
-      },
-      {
-        "word": "arch",
-        "slot": 445291536,
-        "source": "blockhash"
-      },
-      {
-        "word": "they",
-        "slot": 445291536,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "field",
-        "slot": 445291536,
-        "source": "transaction"
-      },
-      {
-        "word": "stomach",
-        "slot": 445273536,
-        "source": "blockhash"
-      },
-      {
-        "word": "wreck",
-        "slot": 445273536,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "peasant",
-        "slot": 445273536,
-        "source": "transaction"
-      },
-      {
-        "word": "exchange",
-        "slot": 445255536,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
