@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-09",
+    "poem": {
+      "content": "In the swamp's dark heart, where cypress trees preside,\nA boy returns, his footsteps light and wide,\nWith a fine, wild spirit, and a heart full of cheer,\nHe dances on the lawn, without a single fear.\n\nThe spell of the season, with its vibrant hue,\nImposes a joy, that's hard to break through,\nA sense of humor, that's contagious and bright,\nFollows him, like a loyal companion in flight.\n\nHe records the moments, with a curious gaze,\nCollecting memories, like a treasure in a maze,\nCelery stalks, like tiny flags, wave in the breeze,\nAs he wanders through the landscape, with a carefree ease.\n\nBut in the distance, a harsh cry echoes through,\nA dinosaur's roar, a sound that's both ancient and new,\nA reminder of a system, that's been lost in time,\nA grief that's been imposed, like a weight that's hard to climb.\n\nYet, the boy's heart remains, a company of hope,\nA flame that flickers, but never fully cope,\nWith the darkness that's been imposed, like a heavy shroud,\nHe knows that he must, the spell of grief remove.\n\nThe return to the swamp, is a journey he must take,\nTo confront the harsh realities, that his heart must make,\nBut with each step, he feels, a sense of peace descend,\nA calm that's hard to find, in this world that's been possessed.\n\nThe lawn, once green, now withers, like a celery stalk,\nA reminder of the impermanence, of life's fragile stalk,\nBut the boy's heart remains, a company of love,\nA bond that's strong, like a system that's sent from above.",
+      "generatedAt": "2026-10-09T15:36:30.017Z"
+    },
+    "keywords": [
+      {
+        "word": "return",
+        "slot": 454911142,
+        "source": "blockhash"
+      },
+      {
+        "word": "lawn",
+        "slot": 454911142,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "boy",
+        "slot": 454911142,
+        "source": "transaction"
+      },
+      {
+        "word": "fine",
+        "slot": 454893142,
+        "source": "blockhash"
+      },
+      {
+        "word": "spell",
+        "slot": 454893142,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "impose",
+        "slot": 454893142,
+        "source": "transaction"
+      },
+      {
+        "word": "humor",
+        "slot": 454875142,
+        "source": "blockhash"
+      },
+      {
+        "word": "record",
+        "slot": 454875142,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "celery",
+        "slot": 454875142,
+        "source": "transaction"
+      },
+      {
+        "word": "swamp",
+        "slot": 454857142,
+        "source": "blockhash"
+      },
+      {
+        "word": "company",
+        "slot": 454857142,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "harsh",
+        "slot": 454857142,
+        "source": "transaction"
+      },
+      {
+        "word": "grief",
+        "slot": 454839142,
+        "source": "blockhash"
+      },
+      {
+        "word": "system",
+        "slot": 454839142,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dinosaur",
+        "slot": 454839142,
+        "source": "transaction"
+      },
+      {
+        "word": "remove",
+        "slot": 454821142,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxhciczkyo2u",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-08",
     "poem": {
       "content": "In twilight's hush, where youth's warm breath\nAwakens echoes of a bygone depth,\nA dynamic coast, where waves do play,\nAnd the wind whispers secrets all day.\n\nThe duck dives deep, a swift sleek dart,\nPiercing the surface, a shining heart,\nWhile scouts and agents pace, a vigilant eye,\nWatching the horizon, where darkness does lie.\n\nIn this realm, a shaft of light does break,\n Illuminating paths, an untrodden make,\nA beacon in the dark, a guiding ray,\nTo navigate the twists and turns of the day.\n\nWe scan the skies for omens and signs,\nReading the lyrics of the wind and the vines,\nTheir whispers weave a tapestry so fine,\nA testament to the mysteries divine.\n\nThe cook stirs embers, a soul on fire,\nAs the world outside is reduced to desire,\nTo protect what's dear, to safeguard what's true,\nThe heart beats fast, a love anew.\n\nBut where the coast gives way to darkest night,\nA wheel turns quiet, an eternal sight,\nEchoing the cry of a lonely soul,\n Searching for solace, a place to call home.\n\nYet still, in this quiet, darkness shines a light,\nA beacon in the silence, a guiding sight,\nThe idle moments hold a hidden might,\nA whispered promise, a new dawn in sight.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mv64qqdcmk23",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-09",
-    "poem": {
-      "content": "In the summer of ICOs, a million wallets bloomed\nTruly, a garden of promise, where visions were assumed\nA dial ticked forward, a countdown to the dawn\nOf a new era, where cryptocurrency took on form\n\nBut like a lock, secrets were kept, hidden behind a mask\nInvestors oblige, with questions unasked\nThe liquid gold of speculation flowed, a tidal wave's crash\nAs prices rose and fell, a precarious dance of hash\n\nIn this market of mirrors, a photo of reality gleams\nA world of ethics questioned, where honesty falters in dreams\nInjury to the wallet, a story oft retold\nOf losses incurred, of dreams that grew old\n\nBut some still wish to hop on the wave, to ride the crest\nA fleeting joy, a thrill that will forever rest\nIn the memories of a day, when fortunes were made and unmade\nWhen summer sunshine gleamed on the market's fragile trade\n\nBut now the news arrives, a forthright call to pay\nThe costs of speculation, the damage done each day\nThe balance sheet shows, a ledger of regret\nA tally of the losses, the lessons yet to be learned and set\n\nIn the wake of the storm, a reflection of what's true\nA world of promises made, and the ethics we pursue\nA link to a brighter past, a path yet untold\nA summer's tale of blockchain's wild and troubled hold\n\nIn the end, it's not just profit, nor the way we play\nBut the people, the communities, that bridge the way\nFor in the wave of change, a new dawn must arise\nWhen ethics and liquidity meet, in the summer's bright surprise.",
-      "generatedAt": "2026-09-09T13:11:31.038Z"
-    },
-    "keywords": [
-      {
-        "word": "million",
-        "slot": 445619085,
-        "source": "blockhash"
-      },
-      {
-        "word": "truly",
-        "slot": 445619085,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "dial",
-        "slot": 445619085,
-        "source": "transaction"
-      },
-      {
-        "word": "lock",
-        "slot": 445601085,
-        "source": "blockhash"
-      },
-      {
-        "word": "oblige",
-        "slot": 445601085,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "liquid",
-        "slot": 445601085,
-        "source": "transaction"
-      },
-      {
-        "word": "front",
-        "slot": 445583085,
-        "source": "blockhash"
-      },
-      {
-        "word": "save",
-        "slot": 445583085,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "photo",
-        "slot": 445583085,
-        "source": "transaction"
-      },
-      {
-        "word": "ethics",
-        "slot": 445565085,
-        "source": "blockhash"
-      },
-      {
-        "word": "injury",
-        "slot": 445565085,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "summer",
-        "slot": 445565085,
-        "source": "transaction"
-      },
-      {
-        "word": "link",
-        "slot": 445547085,
-        "source": "blockhash"
-      },
-      {
-        "word": "wave",
-        "slot": 445547085,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "news",
-        "slot": 445547085,
-        "source": "transaction"
-      },
-      {
-        "word": "wish",
-        "slot": 445529085,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mv3mfh6w7f23",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

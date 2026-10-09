@@ -1,92 +1,92 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "poem": {
-    "content": "In twilight's hush, where youth's warm breath\nAwakens echoes of a bygone depth,\nA dynamic coast, where waves do play,\nAnd the wind whispers secrets all day.\n\nThe duck dives deep, a swift sleek dart,\nPiercing the surface, a shining heart,\nWhile scouts and agents pace, a vigilant eye,\nWatching the horizon, where darkness does lie.\n\nIn this realm, a shaft of light does break,\n Illuminating paths, an untrodden make,\nA beacon in the dark, a guiding ray,\nTo navigate the twists and turns of the day.\n\nWe scan the skies for omens and signs,\nReading the lyrics of the wind and the vines,\nTheir whispers weave a tapestry so fine,\nA testament to the mysteries divine.\n\nThe cook stirs embers, a soul on fire,\nAs the world outside is reduced to desire,\nTo protect what's dear, to safeguard what's true,\nThe heart beats fast, a love anew.\n\nBut where the coast gives way to darkest night,\nA wheel turns quiet, an eternal sight,\nEchoing the cry of a lonely soul,\n Searching for solace, a place to call home.\n\nYet still, in this quiet, darkness shines a light,\nA beacon in the silence, a guiding sight,\nThe idle moments hold a hidden might,\nA whispered promise, a new dawn in sight.",
-    "generatedAt": "2026-10-08T15:54:04.050Z"
+    "content": "In the swamp's dark heart, where cypress trees preside,\nA boy returns, his footsteps light and wide,\nWith a fine, wild spirit, and a heart full of cheer,\nHe dances on the lawn, without a single fear.\n\nThe spell of the season, with its vibrant hue,\nImposes a joy, that's hard to break through,\nA sense of humor, that's contagious and bright,\nFollows him, like a loyal companion in flight.\n\nHe records the moments, with a curious gaze,\nCollecting memories, like a treasure in a maze,\nCelery stalks, like tiny flags, wave in the breeze,\nAs he wanders through the landscape, with a carefree ease.\n\nBut in the distance, a harsh cry echoes through,\nA dinosaur's roar, a sound that's both ancient and new,\nA reminder of a system, that's been lost in time,\nA grief that's been imposed, like a weight that's hard to climb.\n\nYet, the boy's heart remains, a company of hope,\nA flame that flickers, but never fully cope,\nWith the darkness that's been imposed, like a heavy shroud,\nHe knows that he must, the spell of grief remove.\n\nThe return to the swamp, is a journey he must take,\nTo confront the harsh realities, that his heart must make,\nBut with each step, he feels, a sense of peace descend,\nA calm that's hard to find, in this world that's been possessed.\n\nThe lawn, once green, now withers, like a celery stalk,\nA reminder of the impermanence, of life's fragile stalk,\nBut the boy's heart remains, a company of love,\nA bond that's strong, like a system that's sent from above.",
+    "generatedAt": "2026-10-09T15:36:30.017Z"
   },
   "keywords": [
     {
-      "word": "scan",
-      "slot": 454590554,
+      "word": "return",
+      "slot": 454911142,
       "source": "blockhash"
     },
     {
-      "word": "punch",
-      "slot": 454590554,
+      "word": "lawn",
+      "slot": 454911142,
       "source": "previousBlockhash"
     },
     {
-      "word": "shaft",
-      "slot": 454590554,
+      "word": "boy",
+      "slot": 454911142,
       "source": "transaction"
     },
     {
-      "word": "cook",
-      "slot": 454572554,
+      "word": "fine",
+      "slot": 454893142,
       "source": "blockhash"
     },
     {
-      "word": "lyrics",
-      "slot": 454572554,
+      "word": "spell",
+      "slot": 454893142,
       "source": "previousBlockhash"
     },
     {
-      "word": "youth",
-      "slot": 454572554,
+      "word": "impose",
+      "slot": 454893142,
       "source": "transaction"
     },
     {
-      "word": "coast",
-      "slot": 454554554,
+      "word": "humor",
+      "slot": 454875142,
       "source": "blockhash"
     },
     {
-      "word": "dynamic",
-      "slot": 454554554,
+      "word": "record",
+      "slot": 454875142,
       "source": "previousBlockhash"
     },
     {
-      "word": "protect",
-      "slot": 454554554,
+      "word": "celery",
+      "slot": 454875142,
       "source": "transaction"
     },
     {
-      "word": "wheel",
-      "slot": 454536554,
+      "word": "swamp",
+      "slot": 454857142,
       "source": "blockhash"
     },
     {
-      "word": "duck",
-      "slot": 454536554,
+      "word": "company",
+      "slot": 454857142,
       "source": "previousBlockhash"
     },
     {
-      "word": "cry",
-      "slot": 454536554,
+      "word": "harsh",
+      "slot": 454857142,
       "source": "transaction"
     },
     {
-      "word": "where",
-      "slot": 454518554,
+      "word": "grief",
+      "slot": 454839142,
       "source": "blockhash"
     },
     {
-      "word": "agent",
-      "slot": 454518554,
+      "word": "system",
+      "slot": 454839142,
       "source": "previousBlockhash"
     },
     {
-      "word": "light",
-      "slot": 454518554,
+      "word": "dinosaur",
+      "slot": 454839142,
       "source": "transaction"
     },
     {
-      "word": "idle",
-      "slot": 454500554,
+      "word": "remove",
+      "slot": 454821142,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxesyshsrt25",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxhciczkyo2u",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
