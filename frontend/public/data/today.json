@@ -1,92 +1,92 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "poem": {
-    "content": "In the swamp's dark heart, where cypress trees preside,\nA boy returns, his footsteps light and wide,\nWith a fine, wild spirit, and a heart full of cheer,\nHe dances on the lawn, without a single fear.\n\nThe spell of the season, with its vibrant hue,\nImposes a joy, that's hard to break through,\nA sense of humor, that's contagious and bright,\nFollows him, like a loyal companion in flight.\n\nHe records the moments, with a curious gaze,\nCollecting memories, like a treasure in a maze,\nCelery stalks, like tiny flags, wave in the breeze,\nAs he wanders through the landscape, with a carefree ease.\n\nBut in the distance, a harsh cry echoes through,\nA dinosaur's roar, a sound that's both ancient and new,\nA reminder of a system, that's been lost in time,\nA grief that's been imposed, like a weight that's hard to climb.\n\nYet, the boy's heart remains, a company of hope,\nA flame that flickers, but never fully cope,\nWith the darkness that's been imposed, like a heavy shroud,\nHe knows that he must, the spell of grief remove.\n\nThe return to the swamp, is a journey he must take,\nTo confront the harsh realities, that his heart must make,\nBut with each step, he feels, a sense of peace descend,\nA calm that's hard to find, in this world that's been possessed.\n\nThe lawn, once green, now withers, like a celery stalk,\nA reminder of the impermanence, of life's fragile stalk,\nBut the boy's heart remains, a company of love,\nA bond that's strong, like a system that's sent from above.",
-    "generatedAt": "2026-10-09T15:36:30.017Z"
+    "content": "In the misty dawn, where fog does creep,\nA lone figure stands, with heart that does weep.\nBehind the curtain of the desk, a tale is spun,\nOf budget constraints, and a life undone.\n\nA patient soul, with thumb that does entwine,\nThe delicate fibers of a fragile vine.\nA whisper of excuse, a gentle, loving tone,\nTo protect the heart, from a world overthrown.\n\nBut as the day unfolds, like a maple's leaf,\nThe light of reason dawns, and all is relieved.\nA chance to enlist, to hire the best,\nTo mend the broken, and find a peaceful nest.\n\nIn the lounge, where shadows softly play,\nA figure sits, with eyes that do approve the way.\nA path unwinding, like a thread so fine,\nThrough the fog of doubt, to a brighter shrine.\n\nBut then the curtain falls, and the light does fade,\nThe patient heart, with sorrow, is betrayed.\nA choice to make, to abandon or to stay,\nTo protect the soul, from the darkness of the day.\n\nIn the stillness, a voice does whisper low,\nA reminder to put, one's heart in the know.\nA budget of love, a currency so rare,\nTo hire the best, to protect and to care.\n\nA maple tree, with branches strong and wide,\nA symbol of hope, where hearts can reside.\nA patient soul, with heart that does abide,\nIn the silence, where love does softly reside.",
+    "generatedAt": "2026-10-10T14:50:27.342Z"
   },
   "keywords": [
     {
-      "word": "return",
-      "slot": 454911142,
+      "word": "maple",
+      "slot": 455294481,
       "source": "blockhash"
     },
     {
-      "word": "lawn",
-      "slot": 454911142,
+      "word": "thumb",
+      "slot": 455294481,
       "source": "previousBlockhash"
     },
     {
-      "word": "boy",
-      "slot": 454911142,
+      "word": "budget",
+      "slot": 455294481,
       "source": "transaction"
     },
     {
-      "word": "fine",
-      "slot": 454893142,
+      "word": "curtain",
+      "slot": 455276481,
       "source": "blockhash"
     },
     {
-      "word": "spell",
-      "slot": 454893142,
+      "word": "desk",
+      "slot": 455276481,
       "source": "previousBlockhash"
     },
     {
-      "word": "impose",
-      "slot": 454893142,
+      "word": "protect",
+      "slot": 455276481,
       "source": "transaction"
     },
     {
-      "word": "humor",
-      "slot": 454875142,
+      "word": "abandon",
+      "slot": 455258481,
       "source": "blockhash"
     },
     {
-      "word": "record",
-      "slot": 454875142,
+      "word": "enlist",
+      "slot": 455258481,
       "source": "previousBlockhash"
     },
     {
-      "word": "celery",
-      "slot": 454875142,
+      "word": "fog",
+      "slot": 455258481,
       "source": "transaction"
     },
     {
-      "word": "swamp",
-      "slot": 454857142,
+      "word": "excuse",
+      "slot": 455240481,
       "source": "blockhash"
     },
     {
-      "word": "company",
-      "slot": 454857142,
+      "word": "patient",
+      "slot": 455240481,
       "source": "previousBlockhash"
     },
     {
-      "word": "harsh",
-      "slot": 454857142,
+      "word": "put",
+      "slot": 455240481,
       "source": "transaction"
     },
     {
-      "word": "grief",
-      "slot": 454839142,
+      "word": "fiber",
+      "slot": 455222481,
       "source": "blockhash"
     },
     {
-      "word": "system",
-      "slot": 454839142,
+      "word": "approve",
+      "slot": 455222481,
       "source": "previousBlockhash"
     },
     {
-      "word": "dinosaur",
-      "slot": 454839142,
+      "word": "lounge",
+      "slot": 455222481,
       "source": "transaction"
     },
     {
-      "word": "remove",
-      "slot": 454821142,
+      "word": "hire",
+      "slot": 455204481,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxhciczkyo2u",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxjqewbpi52i",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

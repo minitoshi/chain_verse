@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-10",
+    "poem": {
+      "content": "In the misty dawn, where fog does creep,\nA lone figure stands, with heart that does weep.\nBehind the curtain of the desk, a tale is spun,\nOf budget constraints, and a life undone.\n\nA patient soul, with thumb that does entwine,\nThe delicate fibers of a fragile vine.\nA whisper of excuse, a gentle, loving tone,\nTo protect the heart, from a world overthrown.\n\nBut as the day unfolds, like a maple's leaf,\nThe light of reason dawns, and all is relieved.\nA chance to enlist, to hire the best,\nTo mend the broken, and find a peaceful nest.\n\nIn the lounge, where shadows softly play,\nA figure sits, with eyes that do approve the way.\nA path unwinding, like a thread so fine,\nThrough the fog of doubt, to a brighter shrine.\n\nBut then the curtain falls, and the light does fade,\nThe patient heart, with sorrow, is betrayed.\nA choice to make, to abandon or to stay,\nTo protect the soul, from the darkness of the day.\n\nIn the stillness, a voice does whisper low,\nA reminder to put, one's heart in the know.\nA budget of love, a currency so rare,\nTo hire the best, to protect and to care.\n\nA maple tree, with branches strong and wide,\nA symbol of hope, where hearts can reside.\nA patient soul, with heart that does abide,\nIn the silence, where love does softly reside.",
+      "generatedAt": "2026-10-10T14:50:27.342Z"
+    },
+    "keywords": [
+      {
+        "word": "maple",
+        "slot": 455294481,
+        "source": "blockhash"
+      },
+      {
+        "word": "thumb",
+        "slot": 455294481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "budget",
+        "slot": 455294481,
+        "source": "transaction"
+      },
+      {
+        "word": "curtain",
+        "slot": 455276481,
+        "source": "blockhash"
+      },
+      {
+        "word": "desk",
+        "slot": 455276481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "protect",
+        "slot": 455276481,
+        "source": "transaction"
+      },
+      {
+        "word": "abandon",
+        "slot": 455258481,
+        "source": "blockhash"
+      },
+      {
+        "word": "enlist",
+        "slot": 455258481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fog",
+        "slot": 455258481,
+        "source": "transaction"
+      },
+      {
+        "word": "excuse",
+        "slot": 455240481,
+        "source": "blockhash"
+      },
+      {
+        "word": "patient",
+        "slot": 455240481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "put",
+        "slot": 455240481,
+        "source": "transaction"
+      },
+      {
+        "word": "fiber",
+        "slot": 455222481,
+        "source": "blockhash"
+      },
+      {
+        "word": "approve",
+        "slot": 455222481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "lounge",
+        "slot": 455222481,
+        "source": "transaction"
+      },
+      {
+        "word": "hire",
+        "slot": 455204481,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxjqewbpi52i",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-09",
     "poem": {
       "content": "In the swamp's dark heart, where cypress trees preside,\nA boy returns, his footsteps light and wide,\nWith a fine, wild spirit, and a heart full of cheer,\nHe dances on the lawn, without a single fear.\n\nThe spell of the season, with its vibrant hue,\nImposes a joy, that's hard to break through,\nA sense of humor, that's contagious and bright,\nFollows him, like a loyal companion in flight.\n\nHe records the moments, with a curious gaze,\nCollecting memories, like a treasure in a maze,\nCelery stalks, like tiny flags, wave in the breeze,\nAs he wanders through the landscape, with a carefree ease.\n\nBut in the distance, a harsh cry echoes through,\nA dinosaur's roar, a sound that's both ancient and new,\nA reminder of a system, that's been lost in time,\nA grief that's been imposed, like a weight that's hard to climb.\n\nYet, the boy's heart remains, a company of hope,\nA flame that flickers, but never fully cope,\nWith the darkness that's been imposed, like a heavy shroud,\nHe knows that he must, the spell of grief remove.\n\nThe return to the swamp, is a journey he must take,\nTo confront the harsh realities, that his heart must make,\nBut with each step, he feels, a sense of peace descend,\nA calm that's hard to find, in this world that's been possessed.\n\nThe lawn, once green, now withers, like a celery stalk,\nA reminder of the impermanence, of life's fragile stalk,\nBut the boy's heart remains, a company of love,\nA bond that's strong, like a system that's sent from above.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvamutn42i2u",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-10",
-    "poem": {
-      "content": "In the vast expanse of digital space,\nA cargo ship of code sails with steady pace,\nCarrying files of data, precious as gold,\nThrough the catalog of transactions, young and old.\n\nIts mobile heart beats with a gentle hum,\nAs resources flow, like rivers, to the drum,\nOf local markets, where the people gather 'round,\nTo exchange and trade, with a smooth, unhurried sound.\n\nIn this realm of ones and zeros, we find our bread,\nA sustenance that nourishes our digital dread,\nA fence that separates the known from the unknown,\nA threshold to cross, where the brave may atone.\n\nWe ask the questions, and the answers unfold,\nLike a smooth, unbroken thread, that's been told,\nIn an essay of code, that's simple, yet grand,\nA tale of innovation, that's been taken in hand.\n\nThe resourceful ones, who toil and strive,\nMelt the boundaries, between the physical and the drive,\nOf progress and possibility, that's hard to contain,\nA force that's released, like a wild, untamed rain.\n\nIn the east, where the sun rises high,\nA lottery of life, is drawn, and the winners cry,\nTheir names etched in the annals, of history's page,\nA testament to the power, that's been engaged.\n\nYet, in this world of wonder, we must not forget,\nThe fragile balance, between the digital and the step,\nThat leads us to the edge, where the unknown awaits,\nAnd the choices we make, will shape the future's fate.",
-      "generatedAt": "2026-09-10T13:09:29.332Z"
-    },
-    "keywords": [
-      {
-        "word": "cargo",
-        "slot": 445891761,
-        "source": "blockhash"
-      },
-      {
-        "word": "file",
-        "slot": 445891761,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "catalog",
-        "slot": 445891761,
-        "source": "transaction"
-      },
-      {
-        "word": "mobile",
-        "slot": 445873761,
-        "source": "blockhash"
-      },
-      {
-        "word": "resource",
-        "slot": 445873761,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "local",
-        "slot": 445873761,
-        "source": "transaction"
-      },
-      {
-        "word": "bread",
-        "slot": 445855761,
-        "source": "blockhash"
-      },
-      {
-        "word": "fence",
-        "slot": 445855761,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ask",
-        "slot": 445855761,
-        "source": "transaction"
-      },
-      {
-        "word": "smooth",
-        "slot": 445837761,
-        "source": "blockhash"
-      },
-      {
-        "word": "essay",
-        "slot": 445837761,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "simple",
-        "slot": 445837761,
-        "source": "transaction"
-      },
-      {
-        "word": "involve",
-        "slot": 445819761,
-        "source": "blockhash"
-      },
-      {
-        "word": "melt",
-        "slot": 445819761,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "east",
-        "slot": 445819761,
-        "source": "transaction"
-      },
-      {
-        "word": "lottery",
-        "slot": 445801761,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mv64qqdcmk23",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
