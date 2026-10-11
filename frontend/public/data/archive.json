@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-11",
+    "poem": {
+      "content": "In the public square, where shadows play,\nA swift and secret life unfolds by day.\nBeyond the swamp of noise, a whispered song,\nEchoes through the trees, where truth is not wrong.\n\nBecause the wind carries secrets on its breath,\nI follow the whispers, and let my worries death.\nIn the misty dawn, the pattern starts to take shape,\nA labyrinth of thoughts, that is hard to escape.\n\nAbout to embark on a journey of the mind,\nI find myself drawn to the gardens of my past left behind.\nIf I had known of tomorrow, to seek our lost delight,\nWould I have walked away from the fire that destroyed my light?\n\nThe obvious choice was to flee, from the pain and the blame,\nYet, I let my heart be weighed down, like a stone in the flame.\nThe alarm rings loud, a warning that I have missed the mark,\nAnd now I'm consumed by the shadow of the dark.\n\nIn the stillness of the night, the load is heavy on my back,\nThe bricks of doubt and fear, I've been unable to unpack.\nI'm standing near the edge, of an unseen precipice,\nWhere the winds howl loud, and the earth opens its vice.\n\nIn the silence, I search for answers in the library of the mind,\nA treasure trove of memories, lost and left behind.\nAt the margin where darkness meets the light,\nA glimmer of hope appears, a light in the black of night.\nThe wind is hiding the truth, yet whispers secrets in my ear,\nThat the path unwinding, will lead me near the truth, I hold dear.",
+      "generatedAt": "2026-10-11T15:08:55.169Z"
+    },
+    "keywords": [
+      {
+        "word": "public",
+        "slot": 455695314,
+        "source": "blockhash"
+      },
+      {
+        "word": "swift",
+        "slot": 455695314,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "swamp",
+        "slot": 455695314,
+        "source": "transaction"
+      },
+      {
+        "word": "because",
+        "slot": 455677314,
+        "source": "blockhash"
+      },
+      {
+        "word": "pattern",
+        "slot": 455677314,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "about",
+        "slot": 455677314,
+        "source": "transaction"
+      },
+      {
+        "word": "tomorrow",
+        "slot": 455659314,
+        "source": "blockhash"
+      },
+      {
+        "word": "obvious",
+        "slot": 455659314,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "alarm",
+        "slot": 455659314,
+        "source": "transaction"
+      },
+      {
+        "word": "blast",
+        "slot": 455641314,
+        "source": "blockhash"
+      },
+      {
+        "word": "load",
+        "slot": 455641314,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "near",
+        "slot": 455641314,
+        "source": "transaction"
+      },
+      {
+        "word": "unable",
+        "slot": 455623314,
+        "source": "blockhash"
+      },
+      {
+        "word": "put",
+        "slot": 455623314,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "library",
+        "slot": 455623314,
+        "source": "transaction"
+      },
+      {
+        "word": "margin",
+        "slot": 455605314,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxmbutjsjo26",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-10",
     "poem": {
       "content": "In the misty dawn, where fog does creep,\nA lone figure stands, with heart that does weep.\nBehind the curtain of the desk, a tale is spun,\nOf budget constraints, and a life undone.\n\nA patient soul, with thumb that does entwine,\nThe delicate fibers of a fragile vine.\nA whisper of excuse, a gentle, loving tone,\nTo protect the heart, from a world overthrown.\n\nBut as the day unfolds, like a maple's leaf,\nThe light of reason dawns, and all is relieved.\nA chance to enlist, to hire the best,\nTo mend the broken, and find a peaceful nest.\n\nIn the lounge, where shadows softly play,\nA figure sits, with eyes that do approve the way.\nA path unwinding, like a thread so fine,\nThrough the fog of doubt, to a brighter shrine.\n\nBut then the curtain falls, and the light does fade,\nThe patient heart, with sorrow, is betrayed.\nA choice to make, to abandon or to stay,\nTo protect the soul, from the darkness of the day.\n\nIn the stillness, a voice does whisper low,\nA reminder to put, one's heart in the know.\nA budget of love, a currency so rare,\nTo hire the best, to protect and to care.\n\nA maple tree, with branches strong and wide,\nA symbol of hope, where hearts can reside.\nA patient soul, with heart that does abide,\nIn the silence, where love does softly reside.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvd3bpcae72l",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-11",
-    "poem": {
-      "content": "In neon-lit streets, where gadgets throng,\nA sense of pride and loneliness goes on.\nA child wanders, lost, with rubber-housed feet,\nA panther's eyes gleam in the dark street's beat.\n\nIn this harsh world, where opinions are a script,\nFreedom's a myth, and solitude's the grip.\nA harsh conscience whispers truths I'd rather not confess,\nBut the brutal honesty brings a dignity to my mess.\n\nA chat with strangers traverses the digital land,\nA solace from the ache that grips my hand.\nIn travels through crowded spaces, I find a lie,\nThat mercy is a luxury we can't buy or buy back with time.\n\nYet, in a dentist's chair, a lesson I found,\nThat patience is the key to healing unbound.\nThe whirlwind of thoughts, the madness in my head,\nWas a fever that, with each tale, was slowly shed.\n\nA host to all my doubts, I welcome the pain,\nA cage to break, where truth is freely gained.\nThe ramp to self-awareness I climb, worn and old,\nGuided by intuition, the wisdom that's been told.\n\nRubber soles and wooden beams creak beneath,\nA gentle breeze wraps around my fragile breath.\nAnd in the city's frenetic dance and play,\nI lose myself, yet find my way to stay.",
-      "generatedAt": "2026-09-11T13:03:25.814Z"
-    },
-    "keywords": [
-      {
-        "word": "harsh",
-        "slot": 446163657,
-        "source": "blockhash"
-      },
-      {
-        "word": "poem",
-        "slot": 446163657,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "pride",
-        "slot": 446163657,
-        "source": "transaction"
-      },
-      {
-        "word": "script",
-        "slot": 446145657,
-        "source": "blockhash"
-      },
-      {
-        "word": "gadget",
-        "slot": 446145657,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "mercy",
-        "slot": 446145657,
-        "source": "transaction"
-      },
-      {
-        "word": "panther",
-        "slot": 446127657,
-        "source": "blockhash"
-      },
-      {
-        "word": "rubber",
-        "slot": 446127657,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "chat",
-        "slot": 446127657,
-        "source": "transaction"
-      },
-      {
-        "word": "travel",
-        "slot": 446109657,
-        "source": "blockhash"
-      },
-      {
-        "word": "dentist",
-        "slot": 446109657,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "host",
-        "slot": 446109657,
-        "source": "transaction"
-      },
-      {
-        "word": "ramp",
-        "slot": 446091657,
-        "source": "blockhash"
-      },
-      {
-        "word": "child",
-        "slot": 446091657,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "fever",
-        "slot": 446091657,
-        "source": "transaction"
-      },
-      {
-        "word": "brush",
-        "slot": 446073657,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvamutn42i2u",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

@@ -1,92 +1,92 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "poem": {
-    "content": "In the misty dawn, where fog does creep,\nA lone figure stands, with heart that does weep.\nBehind the curtain of the desk, a tale is spun,\nOf budget constraints, and a life undone.\n\nA patient soul, with thumb that does entwine,\nThe delicate fibers of a fragile vine.\nA whisper of excuse, a gentle, loving tone,\nTo protect the heart, from a world overthrown.\n\nBut as the day unfolds, like a maple's leaf,\nThe light of reason dawns, and all is relieved.\nA chance to enlist, to hire the best,\nTo mend the broken, and find a peaceful nest.\n\nIn the lounge, where shadows softly play,\nA figure sits, with eyes that do approve the way.\nA path unwinding, like a thread so fine,\nThrough the fog of doubt, to a brighter shrine.\n\nBut then the curtain falls, and the light does fade,\nThe patient heart, with sorrow, is betrayed.\nA choice to make, to abandon or to stay,\nTo protect the soul, from the darkness of the day.\n\nIn the stillness, a voice does whisper low,\nA reminder to put, one's heart in the know.\nA budget of love, a currency so rare,\nTo hire the best, to protect and to care.\n\nA maple tree, with branches strong and wide,\nA symbol of hope, where hearts can reside.\nA patient soul, with heart that does abide,\nIn the silence, where love does softly reside.",
-    "generatedAt": "2026-10-10T14:50:27.342Z"
+    "content": "In the public square, where shadows play,\nA swift and secret life unfolds by day.\nBeyond the swamp of noise, a whispered song,\nEchoes through the trees, where truth is not wrong.\n\nBecause the wind carries secrets on its breath,\nI follow the whispers, and let my worries death.\nIn the misty dawn, the pattern starts to take shape,\nA labyrinth of thoughts, that is hard to escape.\n\nAbout to embark on a journey of the mind,\nI find myself drawn to the gardens of my past left behind.\nIf I had known of tomorrow, to seek our lost delight,\nWould I have walked away from the fire that destroyed my light?\n\nThe obvious choice was to flee, from the pain and the blame,\nYet, I let my heart be weighed down, like a stone in the flame.\nThe alarm rings loud, a warning that I have missed the mark,\nAnd now I'm consumed by the shadow of the dark.\n\nIn the stillness of the night, the load is heavy on my back,\nThe bricks of doubt and fear, I've been unable to unpack.\nI'm standing near the edge, of an unseen precipice,\nWhere the winds howl loud, and the earth opens its vice.\n\nIn the silence, I search for answers in the library of the mind,\nA treasure trove of memories, lost and left behind.\nAt the margin where darkness meets the light,\nA glimmer of hope appears, a light in the black of night.\nThe wind is hiding the truth, yet whispers secrets in my ear,\nThat the path unwinding, will lead me near the truth, I hold dear.",
+    "generatedAt": "2026-10-11T15:08:55.169Z"
   },
   "keywords": [
     {
-      "word": "maple",
-      "slot": 455294481,
+      "word": "public",
+      "slot": 455695314,
       "source": "blockhash"
     },
     {
-      "word": "thumb",
-      "slot": 455294481,
+      "word": "swift",
+      "slot": 455695314,
       "source": "previousBlockhash"
     },
     {
-      "word": "budget",
-      "slot": 455294481,
+      "word": "swamp",
+      "slot": 455695314,
       "source": "transaction"
     },
     {
-      "word": "curtain",
-      "slot": 455276481,
+      "word": "because",
+      "slot": 455677314,
       "source": "blockhash"
     },
     {
-      "word": "desk",
-      "slot": 455276481,
+      "word": "pattern",
+      "slot": 455677314,
       "source": "previousBlockhash"
     },
     {
-      "word": "protect",
-      "slot": 455276481,
+      "word": "about",
+      "slot": 455677314,
       "source": "transaction"
     },
     {
-      "word": "abandon",
-      "slot": 455258481,
+      "word": "tomorrow",
+      "slot": 455659314,
       "source": "blockhash"
     },
     {
-      "word": "enlist",
-      "slot": 455258481,
+      "word": "obvious",
+      "slot": 455659314,
       "source": "previousBlockhash"
     },
     {
-      "word": "fog",
-      "slot": 455258481,
+      "word": "alarm",
+      "slot": 455659314,
       "source": "transaction"
     },
     {
-      "word": "excuse",
-      "slot": 455240481,
+      "word": "blast",
+      "slot": 455641314,
       "source": "blockhash"
     },
     {
-      "word": "patient",
-      "slot": 455240481,
+      "word": "load",
+      "slot": 455641314,
       "source": "previousBlockhash"
+    },
+    {
+      "word": "near",
+      "slot": 455641314,
+      "source": "transaction"
+    },
+    {
+      "word": "unable",
+      "slot": 455623314,
+      "source": "blockhash"
     },
     {
       "word": "put",
-      "slot": 455240481,
-      "source": "transaction"
-    },
-    {
-      "word": "fiber",
-      "slot": 455222481,
-      "source": "blockhash"
-    },
-    {
-      "word": "approve",
-      "slot": 455222481,
+      "slot": 455623314,
       "source": "previousBlockhash"
     },
     {
-      "word": "lounge",
-      "slot": 455222481,
+      "word": "library",
+      "slot": 455623314,
       "source": "transaction"
     },
     {
-      "word": "hire",
-      "slot": 455204481,
+      "word": "margin",
+      "slot": 455605314,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxjqewbpi52i",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxmbutjsjo26",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
