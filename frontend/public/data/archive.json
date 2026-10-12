@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-12",
+    "poem": {
+      "content": "In the frenzy of haste, we rush to create,\nA vault of dreams, where worries are confined and waited out.\nThe chaos of the moment, a ticking time-bomb's heat,\nThat could erode our focus, leaving us lost and beat.\n\nBut we must tackle the void, with nerve and steadfast heart,\nAnd journey through the shadows, to a brand new start.\nWe travel the world, in search of a truth untold,\nA pattern of wisdom, to soothe the soul's dark folds.\n\nLike a pelican, diving deep, we plunge into the unknown,\nWith an electric hope, that guides us where we've never gone.\nWe march through frozen nights, with resolve and might,\nInto the uncertain dawn, where darkness meets the light.\n\nFor in the stillness of the night, we find a secret strength,\nA power that's chronic, a reminder of our paths at length.\nAnd though the world may unfold, like an ever-changing sea,\nWe'll extend our hands and hearts, in defiance of the chaos.\n\nThrough valley and through peak, we'll navigate with ease,\nOur nerve and will to conquer, the trials that hold us in freeze.\nAnd when the world around us, begins to crumble and decay,\nWe'll stand strong, like cracked and worn, yet unyielding gray.\n\nFor in the eye of the storm, we'll find a quiet place,\nWhere frozen hearts begin to thaw, and a new path starts to take.\nThe patter of the rain, a lullaby to the soul,\nA reminder that we're still, connected, whole and in control.",
+      "generatedAt": "2026-10-12T18:15:56.884Z"
+    },
+    "keywords": [
+      {
+        "word": "hurry",
+        "slot": 456141769,
+        "source": "blockhash"
+      },
+      {
+        "word": "vault",
+        "slot": 456141769,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tackle",
+        "slot": 456141769,
+        "source": "transaction"
+      },
+      {
+        "word": "nerve",
+        "slot": 456123769,
+        "source": "blockhash"
+      },
+      {
+        "word": "travel",
+        "slot": 456123769,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "erode",
+        "slot": 456123769,
+        "source": "transaction"
+      },
+      {
+        "word": "frozen",
+        "slot": 456105769,
+        "source": "blockhash"
+      },
+      {
+        "word": "chaos",
+        "slot": 456105769,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "chronic",
+        "slot": 456105769,
+        "source": "transaction"
+      },
+      {
+        "word": "pattern",
+        "slot": 456087769,
+        "source": "blockhash"
+      },
+      {
+        "word": "electric",
+        "slot": 456087769,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "strong",
+        "slot": 456087769,
+        "source": "transaction"
+      },
+      {
+        "word": "pelican",
+        "slot": 456069769,
+        "source": "blockhash"
+      },
+      {
+        "word": "local",
+        "slot": 456069769,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "march",
+        "slot": 456069769,
+        "source": "transaction"
+      },
+      {
+        "word": "extend",
+        "slot": 456051769,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxp4s6shgx25",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-11",
     "poem": {
       "content": "In the public square, where shadows play,\nA swift and secret life unfolds by day.\nBeyond the swamp of noise, a whispered song,\nEchoes through the trees, where truth is not wrong.\n\nBecause the wind carries secrets on its breath,\nI follow the whispers, and let my worries death.\nIn the misty dawn, the pattern starts to take shape,\nA labyrinth of thoughts, that is hard to escape.\n\nAbout to embark on a journey of the mind,\nI find myself drawn to the gardens of my past left behind.\nIf I had known of tomorrow, to seek our lost delight,\nWould I have walked away from the fire that destroyed my light?\n\nThe obvious choice was to flee, from the pain and the blame,\nYet, I let my heart be weighed down, like a stone in the flame.\nThe alarm rings loud, a warning that I have missed the mark,\nAnd now I'm consumed by the shadow of the dark.\n\nIn the stillness of the night, the load is heavy on my back,\nThe bricks of doubt and fear, I've been unable to unpack.\nI'm standing near the edge, of an unseen precipice,\nWhere the winds howl loud, and the earth opens its vice.\n\nIn the silence, I search for answers in the library of the mind,\nA treasure trove of memories, lost and left behind.\nAt the margin where darkness meets the light,\nA glimmer of hope appears, a light in the black of night.\nThe wind is hiding the truth, yet whispers secrets in my ear,\nThat the path unwinding, will lead me near the truth, I hold dear.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-12",
-    "poem": {
-      "content": "In the depths of error, where shadows play,\nAnother chance arises, like a morning ray,\nI sip my coffee, a bitter brew,\nAnd ponder the body, worn and true.\n\nIn the dentist's chair, I gather my strength,\nTo face the pain, and the long, hard length,\nOf treatment and repair, a delicate dance,\nWhere detect and diagnose are a skilled prance.\n\nThe purity of art, a rare, sweet find,\nCrushes the doubt, and calms the troubled mind,\nAs I cook up a plan, to heal and mend,\nAnd face the illness, that has been my friend.\n\nBut then, a surprise, like a summer breeze,\nBlows in, and I am filled with joyous ease,\nA cloud of hope, that lifts my spirits high,\nAnd I argue with fate, to let me try.\n\nInto the fray, I take a step, with care,\nAnd gather my thoughts, like a precious item rare,\nA lesson learned, a wisdom to impart,\nA new beginning, like a fresh, green start.\n\nThe error of the past, a reminder to be,\nA lesson to learn, and set me free,\nTo gather my strength, and cook up a plan,\nTo heal and mend, and live anew, in this land.",
-      "generatedAt": "2026-09-12T12:26:28.559Z"
-    },
-    "keywords": [
-      {
-        "word": "error",
-        "slot": 446429008,
-        "source": "blockhash"
-      },
-      {
-        "word": "another",
-        "slot": 446429008,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "coffee",
-        "slot": 446429008,
-        "source": "transaction"
-      },
-      {
-        "word": "body",
-        "slot": 446411008,
-        "source": "blockhash"
-      },
-      {
-        "word": "gather",
-        "slot": 446411008,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "dentist",
-        "slot": 446411008,
-        "source": "transaction"
-      },
-      {
-        "word": "detect",
-        "slot": 446393008,
-        "source": "blockhash"
-      },
-      {
-        "word": "purity",
-        "slot": 446393008,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "crush",
-        "slot": 446393008,
-        "source": "transaction"
-      },
-      {
-        "word": "cook",
-        "slot": 446375008,
-        "source": "blockhash"
-      },
-      {
-        "word": "illness",
-        "slot": 446375008,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "surprise",
-        "slot": 446375008,
-        "source": "transaction"
-      },
-      {
-        "word": "cloud",
-        "slot": 446357008,
-        "source": "blockhash"
-      },
-      {
-        "word": "argue",
-        "slot": 446357008,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "into",
-        "slot": 446357008,
-        "source": "transaction"
-      },
-      {
-        "word": "item",
-        "slot": 446339008,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvd3bpcae72l",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
