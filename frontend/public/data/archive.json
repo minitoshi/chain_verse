@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-15",
+    "poem": {
+      "content": "In the digital realm, where data streams flow\nA motor hums, a heart beats slow\nA tooth of truth, a key to unlock\nThe secrets hidden, the tales to tell\n\nA spy in the shadows, a whisper low\nExplains the mysteries, as the creek below\nFlows with a story, of a world untold\nA pudding of knowledge, a bean of gold\n\nA dial turns, a wheel in motion\nA credit given, to a certain notion\nA bulk of wisdom, a weight to bear\nA tragic flaw, a heart to repair\n\nBut still we strive, to fix the past\nTo attract the light, to make it last\nThe ability to heal, to mend the tear\nA digital dream, a world to clear\n\nIn the creek's dark depths, a secret lies\nA tooth of knowledge, that only whispers rise\nA spy in the shadows, a whisper low\nA motor hums, a heart beats slow\n\nThe pudding of knowledge, a bean of gold\nA credit given, to a certain notion bold\nA bulk of wisdom, a weight to bear\nA tragic flaw, a heart to repair\n\nBut still we search, for a way to be\nA certain, a digital, a heart set free\nTo fix the past, to attract the light\nTo heal the wound, to make it right.",
+      "generatedAt": "2026-10-15T13:43:53.566Z"
+    },
+    "keywords": [
+      {
+        "word": "ability",
+        "slot": 457258410,
+        "source": "blockhash"
+      },
+      {
+        "word": "tragic",
+        "slot": 457258410,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dial",
+        "slot": 457258410,
+        "source": "transaction"
+      },
+      {
+        "word": "attract",
+        "slot": 457240410,
+        "source": "blockhash"
+      },
+      {
+        "word": "tooth",
+        "slot": 457240410,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "explain",
+        "slot": 457240410,
+        "source": "transaction"
+      },
+      {
+        "word": "digital",
+        "slot": 457222410,
+        "source": "blockhash"
+      },
+      {
+        "word": "motor",
+        "slot": 457222410,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fix",
+        "slot": 457222410,
+        "source": "transaction"
+      },
+      {
+        "word": "creek",
+        "slot": 457204410,
+        "source": "blockhash"
+      },
+      {
+        "word": "pudding",
+        "slot": 457204410,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "bean",
+        "slot": 457204410,
+        "source": "transaction"
+      },
+      {
+        "word": "bulk",
+        "slot": 457186410,
+        "source": "blockhash"
+      },
+      {
+        "word": "credit",
+        "slot": 457186410,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "certain",
+        "slot": 457186410,
+        "source": "transaction"
+      },
+      {
+        "word": "spy",
+        "slot": 457168410,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxw6yjamm32u",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-14",
     "poem": {
       "content": "On the balcony of a royal estate,\nA young nurse stood, her gaze so great,\nShe'd acquire a glimpse of the world outside,\nA glance that pierced the veil, and she'd step with pride.\n\nHer mail, a token of a life so sure,\nInviting her to follow, to explore and endure,\nThe wheel of fortune, a path yet untold,\n Led her to places where the regular heart would unfold.\n\nShe'd follow the marble road, polished and bright,\nWhere the ticket to a dream, a chance to take flight,\nWas waiting for her, a gift so divine,\nA skill to hone, a talent to make hers shine.\n\nTogether with the stars, she'd watch the night unfold,\nA celestial ballet, a dance of light and gold,\nThe nurse, a guardian of life, a healer so true,\nWould acquire the knowledge, to see her patients through.\n\nIn this world of wonder, where the wheel turns round,\nShe'd find her place, a spot where love resounds,\nA regular heartbeat, a rhythm so pure and bright,\nA young heart, full of hope, a spirit that takes flight.\n\nAnd when the darkness falls, and the world outside seems grey,\nShe'll find her inner light, a beacon to guide the way,\nA nurse, a healer, a guardian of the soul,\nAcquiring wisdom, as the years make her whole.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvnbnmrzyu2l",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-15",
-    "poem": {
-      "content": "In the depths of the volcano's fiery core,\nA claim to the earth's ancient score,\nA tale of silk threads, raw and bright,\nUnfolds like a map, to guide through the night.\n\nA whale's vast form, in the darkness swims,\nA symbol of power, in the ocean's brims,\nThe envelope of the sea, a mystery to claim,\nA realm where human hearts, can feel and proclaim.\n\nIn this vast expanse, a mirror's gaze,\nReflects the soul, in a thousand ways,\nA lock on the heart, that only love can break,\nA tourist's quest, to the unknown, to partake.\n\nThe east wind whispers, of secrets untold,\nOf a world that prosper, where love is gold,\nBut in the shadows, a figure lurks and hides,\nA force that arrest, the heart's deepest tides.\n\nA model of perfection, a flawless design,\nA bus that speeds, through the city's busy line,\nA human form, that's raw and vulnerable too,\nA silk thread's fragility, that only love can renew.\n\nIn the volcano's heart, a spark is lit,\nA flame that burns, a light that's never quit,\nA claim to the earth, a love that will not fade,\nA whale's vast song, that echoes through the shade.",
-      "generatedAt": "2026-09-15T13:54:26.359Z"
-    },
-    "keywords": [
-      {
-        "word": "claim",
-        "slot": 447266256,
-        "source": "blockhash"
-      },
-      {
-        "word": "volcano",
-        "slot": 447266256,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "silk",
-        "slot": 447266256,
-        "source": "transaction"
-      },
-      {
-        "word": "raw",
-        "slot": 447248256,
-        "source": "blockhash"
-      },
-      {
-        "word": "remove",
-        "slot": 447248256,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "whale",
-        "slot": 447248256,
-        "source": "transaction"
-      },
-      {
-        "word": "envelope",
-        "slot": 447230256,
-        "source": "blockhash"
-      },
-      {
-        "word": "human",
-        "slot": 447230256,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "mirror",
-        "slot": 447230256,
-        "source": "transaction"
-      },
-      {
-        "word": "lock",
-        "slot": 447212256,
-        "source": "blockhash"
-      },
-      {
-        "word": "tourist",
-        "slot": 447212256,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "east",
-        "slot": 447212256,
-        "source": "transaction"
-      },
-      {
-        "word": "prosper",
-        "slot": 447194256,
-        "source": "blockhash"
-      },
-      {
-        "word": "arrest",
-        "slot": 447194256,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "model",
-        "slot": 447194256,
-        "source": "transaction"
-      },
-      {
-        "word": "bus",
-        "slot": 447176256,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
