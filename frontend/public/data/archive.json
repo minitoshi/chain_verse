@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-18",
+    "poem": {
+      "content": "In the uniform fields of dawn's pale light,\nA lone marine stands, a figure bright,\nGuarding the range where secrets sleep,\nWhere the top of the earth's mysteries creep.\n\nOn a desk, a photo lies, a story told,\nOf a life that once was, now grown old,\nA muffin crumb, a forgotten thing,\nA reminder of joy that could not cling.\n\nThe police sirens wail, a mournful sound,\nAs the blind lead the blind, in a world around,\nThey search for answers, a truth to shoot,\nBut the darkness closes, like a hole to root.\n\nIn this world of opposites, we must oppose,\nThe forces that seek to erase and propose,\nA new world, a new dawn, a new source,\nWhere love and light can pierce the darkest force.\n\nBut still, we hold on to the comic thread,\nA fragile lifeline that holds us ahead,\nThrough the hole of despair, we find a way,\nTo oppose the darkness, to seize the day.\n\nAnd when we emerge, blinking, into the light,\nWe find a new world, a new range in sight,\nA world where love and hope can take their place,\nAnd the marine's uniform becomes a symbol of peace.",
+      "generatedAt": "2026-10-18T12:49:05.058Z"
+    },
+    "keywords": [
+      {
+        "word": "uniform",
+        "slot": 458440405,
+        "source": "blockhash"
+      },
+      {
+        "word": "corn",
+        "slot": 458440405,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "muffin",
+        "slot": 458440405,
+        "source": "transaction"
+      },
+      {
+        "word": "range",
+        "slot": 458422405,
+        "source": "blockhash"
+      },
+      {
+        "word": "top",
+        "slot": 458422405,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "desk",
+        "slot": 458422405,
+        "source": "transaction"
+      },
+      {
+        "word": "marine",
+        "slot": 458404405,
+        "source": "blockhash"
+      },
+      {
+        "word": "police",
+        "slot": 458404405,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "blind",
+        "slot": 458404405,
+        "source": "transaction"
+      },
+      {
+        "word": "shoot",
+        "slot": 458386405,
+        "source": "blockhash"
+      },
+      {
+        "word": "photo",
+        "slot": 458386405,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "erase",
+        "slot": 458386405,
+        "source": "transaction"
+      },
+      {
+        "word": "oppose",
+        "slot": 458368405,
+        "source": "blockhash"
+      },
+      {
+        "word": "source",
+        "slot": 458368405,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hole",
+        "slot": 458368405,
+        "source": "transaction"
+      },
+      {
+        "word": "comic",
+        "slot": 458350405,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3my5ndbhcwa2n",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-17",
     "poem": {
       "content": "In twilight's hush, where shadows start to emerge\nFrom the empty streets, a lone figure appears\nWith radio signals humming, a murmured tone\nAs whispers of the past echo, like a heartbeat's moan\n\nShe wanders, lost, with an elbow propped tight\nAgainst a vendor's stand, a smoked facade aglow\nA cigar's smoldering ember casts a golden light\nThat gathers patrons, like a siren's call to the night\n\nThe venue's revealed, a hidden, secret place\nWhere strangers meet to connect, to share a face\nThe music swirls, a mesmerizing, addictive blast\nThat fills the hearts, like a tender, furious love at last\n\nBut then, a figure rises, a familiar, famous face\nA whale of the digital realm, in a world of endless space\nWith emotion guiding them, a generosity so true\nThey empower the masses, with a vision anew\n\nBut as the gates of night creak open wide\nThe darkness pours in, like a morass, unclean inside\nThe crowd disperses, like scattered, shattered light\nAs the figure stands, alone, in the desolate, cold night\n\nYet even in that emptiness, a spark remains\nA glimmer of hope, a siren's call to the heart's deep pains\nFor in the very stillness, a new creation can develop\nA chance to start anew, and let the heart's music ripple and escape.",
@@ -2668,99 +2761,6 @@
       {
         "word": "before",
         "slot": 448320907,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-18",
-    "poem": {
-      "content": "In the quiet hours, I dwell, a loyal sentry guarding the mountain's side\nA solitary figure, far from the city's garish, orange glow\nI speak to the wind, a low, husky murmur, a snippet of a lullaby\nA parent's gentle whisper echoing through the trees, a sweet, mournful sigh\n\nI've been on many a journey, through forests dark and wild and free\nA car winding through the trees, a serpent coursing through the UPC steam\nI've seen the comical side of life, the absurdity of it all\nThe garbage that clutters streets, the lowest ebb of humanity's fall\n\nBut on this mountain's highest peak, I've found a different road\nOne paved with stone, a skill honed by age, a path that winds and loads\nThe fatal attractions of the world below, they whisper sweet nothings in my ear\nA suspect sound, a siren's call, a warning that I must persevere\n\nI rest now on this mountain ledge, my snack of contemplation in hand\nA tool of the mind, a catechism of the heart, a work to take in the stand\nI think of all the paths I've traveled, the roads I've yet to roam\nThe wisdom I've gained, the tales I've told, the snippets of a life unknown\n\nIn this stillness, I find my voice, a whisper that begins to speak\nA quiet desperation, a heartfelt plea, a journey of the soul to seek\nThe truth that lies within the heart, a guiding light, a lantern in the dark\nA beacon to attend to the depths, a journey to embark.",
-      "generatedAt": "2026-09-18T13:11:49.025Z"
-    },
-    "keywords": [
-      {
-        "word": "car",
-        "slot": 448093233,
-        "source": "blockhash"
-      },
-      {
-        "word": "speak",
-        "slot": 448093233,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "tool",
-        "slot": 448093233,
-        "source": "transaction"
-      },
-      {
-        "word": "snack",
-        "slot": 448075233,
-        "source": "blockhash"
-      },
-      {
-        "word": "journey",
-        "slot": 448075233,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ethics",
-        "slot": 448075233,
-        "source": "transaction"
-      },
-      {
-        "word": "loyal",
-        "slot": 448057233,
-        "source": "blockhash"
-      },
-      {
-        "word": "garbage",
-        "slot": 448057233,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "attend",
-        "slot": 448057233,
-        "source": "transaction"
-      },
-      {
-        "word": "comic",
-        "slot": 448039233,
-        "source": "blockhash"
-      },
-      {
-        "word": "parent",
-        "slot": 448039233,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "mountain",
-        "slot": 448039233,
-        "source": "transaction"
-      },
-      {
-        "word": "orange",
-        "slot": 448021233,
-        "source": "blockhash"
-      },
-      {
-        "word": "skill",
-        "slot": 448021233,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "fatal",
-        "slot": 448021233,
-        "source": "transaction"
-      },
-      {
-        "word": "suspect",
-        "slot": 448003233,
         "source": "blockhash"
       }
     ],
