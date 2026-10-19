@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-19",
+    "poem": {
+      "content": "On the island of Solana, where time stands still,\nA goddess of payment watches, with a gentle will.\nHer essence is speed, a swift and silent flight,\nAs she collects the evidence of transactions in the night.\n\nHer title is a whisper, a secret known to few,\nA raccoon's curious knock on the door of the new.\nThe bird of summer sings a melody so bright,\nA payment made, the transaction takes flight.\n\nThe island's extra charm, a treasure to behold,\nA place where the essence of speed is told.\nBut often, in the shadows, a figure is seen,\nA raccoon with a twinkle, a mischief unseen.\n\nIt convinces me to stay, to watch and to learn,\nTo understand the evidence, the proof that it yearns.\nThe goddess of payment, a guardian of the night,\nA protector of the transactions, a shining light.\n\nIn the summer's warmth, the island comes alive,\nA place of wonder, where the essence of speed thrives.\nAnd when the bird's sweet song is heard, it's time to pay,\nTo the goddess of payment, in a way that's not delayed.\n\nThe raccoon's curious knock, a reminder to give,\nA payment made, the transaction takes its leave.\nThe island's essence, a treasure to behold,\nA place where the speed of payment is forever told.\n\nThe goddess's whisper, a secret known to few,\nA payment made, the transaction is forever true.\nAnd when the summer's warmth gives way to night,\nThe island's extra charm, a treasure that's still in sight.",
+      "generatedAt": "2026-10-19T15:54:35.778Z"
+    },
+    "keywords": [
+      {
+        "word": "goddess",
+        "slot": 458890309,
+        "source": "blockhash"
+      },
+      {
+        "word": "time",
+        "slot": 458890309,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "payment",
+        "slot": 458890309,
+        "source": "transaction"
+      },
+      {
+        "word": "knock",
+        "slot": 458872309,
+        "source": "blockhash"
+      },
+      {
+        "word": "title",
+        "slot": 458872309,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "bird",
+        "slot": 458872309,
+        "source": "transaction"
+      },
+      {
+        "word": "speed",
+        "slot": 458854309,
+        "source": "blockhash"
+      },
+      {
+        "word": "summer",
+        "slot": 458854309,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "essence",
+        "slot": 458854309,
+        "source": "transaction"
+      },
+      {
+        "word": "evidence",
+        "slot": 458836309,
+        "source": "blockhash"
+      },
+      {
+        "word": "island",
+        "slot": 458836309,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "raccoon",
+        "slot": 458836309,
+        "source": "transaction"
+      },
+      {
+        "word": "often",
+        "slot": 458818309,
+        "source": "blockhash"
+      },
+      {
+        "word": "extra",
+        "slot": 458818309,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "stay",
+        "slot": 458818309,
+        "source": "transaction"
+      },
+      {
+        "word": "convince",
+        "slot": 458800309,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myai5urooc2u",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-18",
     "poem": {
       "content": "In the uniform fields of dawn's pale light,\nA lone marine stands, a figure bright,\nGuarding the range where secrets sleep,\nWhere the top of the earth's mysteries creep.\n\nOn a desk, a photo lies, a story told,\nOf a life that once was, now grown old,\nA muffin crumb, a forgotten thing,\nA reminder of joy that could not cling.\n\nThe police sirens wail, a mournful sound,\nAs the blind lead the blind, in a world around,\nThey search for answers, a truth to shoot,\nBut the darkness closes, like a hole to root.\n\nIn this world of opposites, we must oppose,\nThe forces that seek to erase and propose,\nA new world, a new dawn, a new source,\nWhere love and light can pierce the darkest force.\n\nBut still, we hold on to the comic thread,\nA fragile lifeline that holds us ahead,\nThrough the hole of despair, we find a way,\nTo oppose the darkness, to seize the day.\n\nAnd when we emerge, blinking, into the light,\nWe find a new world, a new range in sight,\nA world where love and hope can take their place,\nAnd the marine's uniform becomes a symbol of peace.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mvxboy7uey2f",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-19",
-    "poem": {
-      "content": "In the vast expanse of the digital rug,\nA system lies, complex, yet fragile as a leaf.\nIt includes the threads of our collective fate,\nA delicate exercise in trust and weight.\n\nThe future looms, a canvas yet to be drawn,\nA tapestry of choices, each one a thread to be spun.\nBefore the dawn of this new era breaks,\nWe must keep our dignity, our hearts, our stakes.\n\nLarge and sprawling, the landscape of code,\nResemble the grandeur of a majestic abode.\nYet, such is the nature of the digital tide,\nThat it can erode the very foundations we provide.\n\nWe must be rude to the status quo, to push,\nTo innovate, to disrupt, to make the future hush.\nA surge of creativity, a spark to ignite,\nCan bring forth a trophy, shining with new light.\n\nIn the detail of our transactions, we find\nA reflection of our values, our hearts, our mind.\nA system that includes, yet keeps at bay,\nThe darker forces that would seek to erode our way.\n\nBut before we rush headlong into the fray,\nLet us remember to keep our dignity, day by day.\nFor in the future, we must be brave and true,\nAnd in the system, we must find a way to renew.",
-      "generatedAt": "2026-09-19T12:43:42.134Z"
-    },
-    "keywords": [
-      {
-        "word": "include",
-        "slot": 448410907,
-        "source": "blockhash"
-      },
-      {
-        "word": "exercise",
-        "slot": 448410907,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "resemble",
-        "slot": 448410907,
-        "source": "transaction"
-      },
-      {
-        "word": "future",
-        "slot": 448392907,
-        "source": "blockhash"
-      },
-      {
-        "word": "rug",
-        "slot": 448392907,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "such",
-        "slot": 448392907,
-        "source": "transaction"
-      },
-      {
-        "word": "dignity",
-        "slot": 448374907,
-        "source": "blockhash"
-      },
-      {
-        "word": "large",
-        "slot": 448374907,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "rude",
-        "slot": 448374907,
-        "source": "transaction"
-      },
-      {
-        "word": "erode",
-        "slot": 448356907,
-        "source": "blockhash"
-      },
-      {
-        "word": "system",
-        "slot": 448356907,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "keep",
-        "slot": 448356907,
-        "source": "transaction"
-      },
-      {
-        "word": "surge",
-        "slot": 448338907,
-        "source": "blockhash"
-      },
-      {
-        "word": "trophy",
-        "slot": 448338907,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "detail",
-        "slot": 448338907,
-        "source": "transaction"
-      },
-      {
-        "word": "before",
-        "slot": 448320907,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
