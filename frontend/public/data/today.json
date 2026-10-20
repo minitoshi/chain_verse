@@ -1,92 +1,92 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "poem": {
-    "content": "On the island of Solana, where time stands still,\nA goddess of payment watches, with a gentle will.\nHer essence is speed, a swift and silent flight,\nAs she collects the evidence of transactions in the night.\n\nHer title is a whisper, a secret known to few,\nA raccoon's curious knock on the door of the new.\nThe bird of summer sings a melody so bright,\nA payment made, the transaction takes flight.\n\nThe island's extra charm, a treasure to behold,\nA place where the essence of speed is told.\nBut often, in the shadows, a figure is seen,\nA raccoon with a twinkle, a mischief unseen.\n\nIt convinces me to stay, to watch and to learn,\nTo understand the evidence, the proof that it yearns.\nThe goddess of payment, a guardian of the night,\nA protector of the transactions, a shining light.\n\nIn the summer's warmth, the island comes alive,\nA place of wonder, where the essence of speed thrives.\nAnd when the bird's sweet song is heard, it's time to pay,\nTo the goddess of payment, in a way that's not delayed.\n\nThe raccoon's curious knock, a reminder to give,\nA payment made, the transaction takes its leave.\nThe island's essence, a treasure to behold,\nA place where the speed of payment is forever told.\n\nThe goddess's whisper, a secret known to few,\nA payment made, the transaction is forever true.\nAnd when the summer's warmth gives way to night,\nThe island's extra charm, a treasure that's still in sight.",
-    "generatedAt": "2026-10-19T15:54:35.778Z"
+    "content": "In the early morning's hush, where shadows dance and play,\nA federal reserve of secrets lies, waiting to be swayed.\nThe crucial moment arrives, a hundred whispers spread,\nAs the wind whispers truths, and the trees lean in to be said.\n\nIn October's chill, a bus rumbles by, a smooth, quiet ride,\nThrough streets where memories are made, and love does reside.\nA petal falls, a single drop, a reminder of the past,\nA soup of sorrow, simmering, as the heart does forever last.\n\nIn this month of witness, we gather, to bear the weight,\nOf forces that have shaped us, and the choices we create.\nA phone rings, a distant voice, a call to rise above,\nTo erase the pain, and find the love, that we've been given to love.\n\nThe link between us all, a thread so fine and weak,\nA bond that's always breaking, yet always seeking to speak.\nIn the stillness, I am always, a presence, a voice,\nA witness to the beauty, of this fragile, human choice.\n\nIn the federal reserve, of our hearts, a force does reside,\nA power that's both creative, and destructive, side by side.\nThe early morning's promise, a new day's gentle breeze,\nA call to rise, to shine, to find the strength, in our own expertise.\n\nLet us not erase, the memories we've made, the love we've known,\nBut rather, let us honor, the bond that we've called home.\nFor in the end, it's not the force, that breaks us, but the heart,\nThat always, always, beats, a constant, gentle start.",
+    "generatedAt": "2026-10-20T13:53:20.770Z"
   },
   "keywords": [
     {
-      "word": "goddess",
-      "slot": 458890309,
+      "word": "early",
+      "slot": 459253465,
       "source": "blockhash"
     },
     {
-      "word": "time",
-      "slot": 458890309,
+      "word": "federal",
+      "slot": 459253465,
       "source": "previousBlockhash"
     },
     {
-      "word": "payment",
-      "slot": 458890309,
+      "word": "crucial",
+      "slot": 459253465,
       "source": "transaction"
     },
     {
-      "word": "knock",
-      "slot": 458872309,
+      "word": "hundred",
+      "slot": 459235465,
       "source": "blockhash"
     },
     {
-      "word": "title",
-      "slot": 458872309,
+      "word": "erase",
+      "slot": 459235465,
       "source": "previousBlockhash"
     },
     {
-      "word": "bird",
-      "slot": 458872309,
+      "word": "month",
+      "slot": 459235465,
       "source": "transaction"
     },
     {
-      "word": "speed",
-      "slot": 458854309,
+      "word": "bus",
+      "slot": 459217465,
       "source": "blockhash"
     },
     {
-      "word": "summer",
-      "slot": 458854309,
+      "word": "smooth",
+      "slot": 459217465,
       "source": "previousBlockhash"
     },
     {
-      "word": "essence",
-      "slot": 458854309,
+      "word": "link",
+      "slot": 459217465,
       "source": "transaction"
     },
     {
-      "word": "evidence",
-      "slot": 458836309,
+      "word": "pet",
+      "slot": 459199465,
       "source": "blockhash"
     },
     {
-      "word": "island",
-      "slot": 458836309,
+      "word": "soup",
+      "slot": 459199465,
       "source": "previousBlockhash"
     },
     {
-      "word": "raccoon",
-      "slot": 458836309,
+      "word": "october",
+      "slot": 459199465,
       "source": "transaction"
     },
     {
-      "word": "often",
-      "slot": 458818309,
+      "word": "force",
+      "slot": 459181465,
       "source": "blockhash"
     },
     {
-      "word": "extra",
-      "slot": 458818309,
+      "word": "phone",
+      "slot": 459181465,
       "source": "previousBlockhash"
     },
     {
-      "word": "stay",
-      "slot": 458818309,
+      "word": "always",
+      "slot": 459181465,
       "source": "transaction"
     },
     {
-      "word": "convince",
-      "slot": 458800309,
+      "word": "witness",
+      "slot": 459163465,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myai5urooc2u",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mycrtyck2v26",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
