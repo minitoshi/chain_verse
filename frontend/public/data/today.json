@@ -1,92 +1,92 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "poem": {
-    "content": "In the early morning's hush, where shadows dance and play,\nA federal reserve of secrets lies, waiting to be swayed.\nThe crucial moment arrives, a hundred whispers spread,\nAs the wind whispers truths, and the trees lean in to be said.\n\nIn October's chill, a bus rumbles by, a smooth, quiet ride,\nThrough streets where memories are made, and love does reside.\nA petal falls, a single drop, a reminder of the past,\nA soup of sorrow, simmering, as the heart does forever last.\n\nIn this month of witness, we gather, to bear the weight,\nOf forces that have shaped us, and the choices we create.\nA phone rings, a distant voice, a call to rise above,\nTo erase the pain, and find the love, that we've been given to love.\n\nThe link between us all, a thread so fine and weak,\nA bond that's always breaking, yet always seeking to speak.\nIn the stillness, I am always, a presence, a voice,\nA witness to the beauty, of this fragile, human choice.\n\nIn the federal reserve, of our hearts, a force does reside,\nA power that's both creative, and destructive, side by side.\nThe early morning's promise, a new day's gentle breeze,\nA call to rise, to shine, to find the strength, in our own expertise.\n\nLet us not erase, the memories we've made, the love we've known,\nBut rather, let us honor, the bond that we've called home.\nFor in the end, it's not the force, that breaks us, but the heart,\nThat always, always, beats, a constant, gentle start.",
-    "generatedAt": "2026-10-20T13:53:20.770Z"
+    "content": "In the museum's hallowed halls, a girl with a sunny heart,\nStrolled through the galleries, a work of art.\nHer degree in wonder, a badge she wore with pride,\nAs she discovered secrets, and the stories they divide.\n\nA seed of curiosity, planted deep within,\nGrew into a tree of knowledge, and the truth she'd win.\nThe light of understanding, shone bright and bold,\nAs she grasped the threads of history, young and old.\n\nBut like a claw, the past can hold us tight,\nAnd the weight of memory, can be a heavy sight.\nYet, in the kitchen of life, where love and laughter meet,\nWe find the strength to heal, and our hearts to greet.\n\nThe mango of joy, ripened on the tree of time,\nAnd in its sweetness, we find the beauty that's divine.\nBut like a cabbage, our fears and doubts can hide,\nAnd the kick of courage, is what we need to step inside.\n\nA clown of circumstance, can bring us to our knees,\nBut it's the mother of compassion, who wipes away our tears and pleas.\nIn the forum of the heart, where love and wisdom meet,\nWe find the wave of forgiveness, that washes away our defeat.\n\nAnd when the twin stars of hope and doubt align,\nWe find the light of guidance, that shines and makes us shine.\nFor in the end, it's not the degree we hold,\nBut the love we share, that makes our hearts unfold.",
+    "generatedAt": "2026-10-21T14:10:19.163Z"
   },
   "keywords": [
     {
-      "word": "early",
-      "slot": 459253465,
+      "word": "degree",
+      "slot": 459657460,
       "source": "blockhash"
     },
     {
-      "word": "federal",
-      "slot": 459253465,
+      "word": "sunny",
+      "slot": 459657460,
       "source": "previousBlockhash"
     },
     {
-      "word": "crucial",
-      "slot": 459253465,
+      "word": "girl",
+      "slot": 459657460,
       "source": "transaction"
     },
     {
-      "word": "hundred",
-      "slot": 459235465,
+      "word": "seed",
+      "slot": 459639460,
       "source": "blockhash"
     },
     {
-      "word": "erase",
-      "slot": 459235465,
+      "word": "light",
+      "slot": 459639460,
       "source": "previousBlockhash"
     },
     {
-      "word": "month",
-      "slot": 459235465,
+      "word": "claw",
+      "slot": 459639460,
       "source": "transaction"
     },
     {
-      "word": "bus",
-      "slot": 459217465,
+      "word": "mango",
+      "slot": 459621460,
       "source": "blockhash"
     },
     {
-      "word": "smooth",
-      "slot": 459217465,
+      "word": "kitchen",
+      "slot": 459621460,
       "source": "previousBlockhash"
     },
     {
-      "word": "link",
-      "slot": 459217465,
+      "word": "kick",
+      "slot": 459621460,
       "source": "transaction"
     },
     {
-      "word": "pet",
-      "slot": 459199465,
+      "word": "cabbage",
+      "slot": 459603460,
       "source": "blockhash"
     },
     {
-      "word": "soup",
-      "slot": 459199465,
+      "word": "clown",
+      "slot": 459603460,
       "source": "previousBlockhash"
     },
     {
-      "word": "october",
-      "slot": 459199465,
+      "word": "museum",
+      "slot": 459603460,
       "source": "transaction"
     },
     {
-      "word": "force",
-      "slot": 459181465,
+      "word": "twin",
+      "slot": 459585460,
       "source": "blockhash"
     },
     {
-      "word": "phone",
-      "slot": 459181465,
+      "word": "wave",
+      "slot": 459585460,
       "source": "previousBlockhash"
     },
     {
-      "word": "always",
-      "slot": 459181465,
+      "word": "mother",
+      "slot": 459585460,
       "source": "transaction"
     },
     {
-      "word": "witness",
-      "slot": 459163465,
+      "word": "forum",
+      "slot": 459567460,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mycrtyck2v26",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
