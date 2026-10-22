@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-22",
+    "poem": {
+      "content": "In the stillness of a moonlit lake,\nA deer's gentle form does softly shake,\nA glimpse of life, a fleeting sight,\nA moment's peace, before the dawn's first light.\n\nThe fork of a tree, a shaft of might,\nReaches for the stars, a guiding light,\nA hungry soul, with heart aflame,\nYearns for a picnic, a love-filled game.\n\nBut soon, the gap between love and desire,\nGrows wide, a chasm that cannot be fired,\nA sword of doubt, a destructive blade,\n Threatens to destroy, the love we've made.\n\nYet, in the midst of this dark despair,\nA glimpse of hope, a glimmering air,\nA saddle worn, by a weary heart,\nA call to inject, a new-found start.\n\nIn the parade of life, we march and sway,\nWith every step, a new path's made,\nA fork in the road, a choice to take,\nA decision that will soon make or break.\n\nThe dinner bell, a signal to dine,\nA time to feast, on love's sweet wine,\nA lake of memories, a reflection deep,\nA glimpse of what we've yet to keep.\n\nAnd when the night, with darkness falls,\nThe deer's soft form, will echo through the walls,\nA reminder of love's gentle might,\nA glimpse of hope, in the dark of night.",
+      "generatedAt": "2026-10-22T14:08:34.926Z"
+    },
+    "keywords": [
+      {
+        "word": "dinner",
+        "slot": 460063492,
+        "source": "blockhash"
+      },
+      {
+        "word": "glimpse",
+        "slot": 460063492,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "gap",
+        "slot": 460063492,
+        "source": "transaction"
+      },
+      {
+        "word": "fork",
+        "slot": 460045492,
+        "source": "blockhash"
+      },
+      {
+        "word": "shaft",
+        "slot": 460045492,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hungry",
+        "slot": 460045492,
+        "source": "transaction"
+      },
+      {
+        "word": "soon",
+        "slot": 460027492,
+        "source": "blockhash"
+      },
+      {
+        "word": "exist",
+        "slot": 460027492,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "lake",
+        "slot": 460027492,
+        "source": "transaction"
+      },
+      {
+        "word": "saddle",
+        "slot": 460009492,
+        "source": "blockhash"
+      },
+      {
+        "word": "destroy",
+        "slot": 460009492,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "deer",
+        "slot": 460009492,
+        "source": "transaction"
+      },
+      {
+        "word": "inject",
+        "slot": 459991492,
+        "source": "blockhash"
+      },
+      {
+        "word": "sword",
+        "slot": 459991492,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "picnic",
+        "slot": 459991492,
+        "source": "transaction"
+      },
+      {
+        "word": "parade",
+        "slot": 459973492,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-21",
     "poem": {
       "content": "In the museum's hallowed halls, a girl with a sunny heart,\nStrolled through the galleries, a work of art.\nHer degree in wonder, a badge she wore with pride,\nAs she discovered secrets, and the stories they divide.\n\nA seed of curiosity, planted deep within,\nGrew into a tree of knowledge, and the truth she'd win.\nThe light of understanding, shone bright and bold,\nAs she grasped the threads of history, young and old.\n\nBut like a claw, the past can hold us tight,\nAnd the weight of memory, can be a heavy sight.\nYet, in the kitchen of life, where love and laughter meet,\nWe find the strength to heal, and our hearts to greet.\n\nThe mango of joy, ripened on the tree of time,\nAnd in its sweetness, we find the beauty that's divine.\nBut like a cabbage, our fears and doubts can hide,\nAnd the kick of courage, is what we need to step inside.\n\nA clown of circumstance, can bring us to our knees,\nBut it's the mother of compassion, who wipes away our tears and pleas.\nIn the forum of the heart, where love and wisdom meet,\nWe find the wave of forgiveness, that washes away our defeat.\n\nAnd when the twin stars of hope and doubt align,\nWe find the light of guidance, that shines and makes us shine.\nFor in the end, it's not the degree we hold,\nBut the love we share, that makes our hearts unfold.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mw6vbixgqt2d",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-22",
-    "poem": {
-      "content": "In secret chambers, a club convenes at night\nA gathering of the initiated, a cryptic delight\nWhere shadows dance and cheese is served with glee\nA taste of opulence, for those who've learned to be set free\n\nThe proof of membership is a whispered word, a password said\nA stamp of approval, for those who have the deed\nBut I, an ostrich, roam outside these walls so grand\nAlone, I long to join the revelry, to taste the cheese in hand\n\nI retreat to the couch, where embers fade to gray\nA fragile comfort, a melancholy sway\nThe ugly truths I hide within, they whisper through the night\nReason's grasp, a distant comfort, a pleasure denied my sight\n\nThe pelican of love descends, a symbol of trust\nA pairing of strange creatures, forever we'll be the dust\nOf secrets shared and promises made, in the dark of the space\nA seminar of the heart, where love's a precarious pace\n\nIn the silence, I'm okay, alone, yet not so blue\nThe memories of the club, a distant hum, a memory anew\nThe cheese, a dropped morsel, on the floor, so fine\nA secret's going down, the taste, sublime, yet still I decline\n\nI'll wait for the next gathering, the invitation to partake\nThe cheese, a sacrament, the secrecy, an oath I'll make\nBut for now, I'll stay outside, in the dark of the night\nA solitary figure, holding on to the slim chance of delight.",
-      "generatedAt": "2026-09-22T13:42:18.244Z"
-    },
-    "keywords": [
-      {
-        "word": "club",
-        "slot": 449395414,
-        "source": "blockhash"
-      },
-      {
-        "word": "cheese",
-        "slot": 449395414,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "proof",
-        "slot": 449395414,
-        "source": "transaction"
-      },
-      {
-        "word": "retreat",
-        "slot": 449377414,
-        "source": "blockhash"
-      },
-      {
-        "word": "couch",
-        "slot": 449377414,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ugly",
-        "slot": 449377414,
-        "source": "transaction"
-      },
-      {
-        "word": "reason",
-        "slot": 449359414,
-        "source": "blockhash"
-      },
-      {
-        "word": "pair",
-        "slot": 449359414,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "secret",
-        "slot": 449359414,
-        "source": "transaction"
-      },
-      {
-        "word": "alone",
-        "slot": 449341414,
-        "source": "blockhash"
-      },
-      {
-        "word": "fragile",
-        "slot": 449341414,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "inside",
-        "slot": 449341414,
-        "source": "transaction"
-      },
-      {
-        "word": "ostrich",
-        "slot": 449323414,
-        "source": "blockhash"
-      },
-      {
-        "word": "pelican",
-        "slot": 449323414,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "seminar",
-        "slot": 449323414,
-        "source": "transaction"
-      },
-      {
-        "word": "okay",
-        "slot": 449305414,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mw4e6hlwic2q",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
