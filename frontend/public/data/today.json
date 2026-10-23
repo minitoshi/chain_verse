@@ -1,92 +1,92 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "poem": {
-    "content": "In the stillness of a moonlit lake,\nA deer's gentle form does softly shake,\nA glimpse of life, a fleeting sight,\nA moment's peace, before the dawn's first light.\n\nThe fork of a tree, a shaft of might,\nReaches for the stars, a guiding light,\nA hungry soul, with heart aflame,\nYearns for a picnic, a love-filled game.\n\nBut soon, the gap between love and desire,\nGrows wide, a chasm that cannot be fired,\nA sword of doubt, a destructive blade,\n Threatens to destroy, the love we've made.\n\nYet, in the midst of this dark despair,\nA glimpse of hope, a glimmering air,\nA saddle worn, by a weary heart,\nA call to inject, a new-found start.\n\nIn the parade of life, we march and sway,\nWith every step, a new path's made,\nA fork in the road, a choice to take,\nA decision that will soon make or break.\n\nThe dinner bell, a signal to dine,\nA time to feast, on love's sweet wine,\nA lake of memories, a reflection deep,\nA glimpse of what we've yet to keep.\n\nAnd when the night, with darkness falls,\nThe deer's soft form, will echo through the walls,\nA reminder of love's gentle might,\nA glimpse of hope, in the dark of night.",
-    "generatedAt": "2026-10-22T14:08:34.926Z"
+    "content": "In the street, a flag once waved high\nA symbol of hope, now torn and dry\nLike honey spilled, its sweetness lost\nOn the pavement, a sticky, golden cost\n\nA sudden accident, a crash and a sound\nA motor screeching, a street vendor's shout all around\nPeople running, their faces a blur\nNo one able to stop the chaos that will ensue\n\nBut I stand still, amidst the din and the fray\nA random thought strikes, like a ray of light on a gray day\nA memory of love, a pure and true thing\nThat I once knew, now slipping away like vapor that clings\n\nTo the skin of the city, worn and thin\nExposing its raw heart, like a wound within\nBut still it beats, a strange and savage beat\nA rhythm that repeats, like labor that cannot be beat\n\nYet I prefer not to look, to see the pain\nLest I be the one to topple, to fall and be stained\nWith regret, that looms like a shadow on the wall\nA dark and insidious thing, that will not stand at all\n\nBut in the end, it's not the accidents that spoil\nIt's the memories we hold, and the love that we toil\nFor in the end, it's not the fall that breaks\nBut the strength to rise, and the love that SPEaks.",
+    "generatedAt": "2026-10-23T13:51:33.099Z"
   },
   "keywords": [
     {
-      "word": "dinner",
-      "slot": 460063492,
+      "word": "honey",
+      "slot": 460466455,
       "source": "blockhash"
     },
     {
-      "word": "glimpse",
-      "slot": 460063492,
+      "word": "accident",
+      "slot": 460466455,
       "source": "previousBlockhash"
     },
     {
-      "word": "gap",
-      "slot": 460063492,
+      "word": "labor",
+      "slot": 460466455,
       "source": "transaction"
     },
     {
-      "word": "fork",
-      "slot": 460045492,
+      "word": "motor",
+      "slot": 460448455,
       "source": "blockhash"
     },
     {
-      "word": "shaft",
-      "slot": 460045492,
+      "word": "able",
+      "slot": 460448455,
       "source": "previousBlockhash"
     },
     {
-      "word": "hungry",
-      "slot": 460045492,
+      "word": "random",
+      "slot": 460448455,
       "source": "transaction"
     },
     {
-      "word": "soon",
-      "slot": 460027492,
+      "word": "once",
+      "slot": 460430455,
       "source": "blockhash"
     },
     {
-      "word": "exist",
-      "slot": 460027492,
+      "word": "flag",
+      "slot": 460430455,
       "source": "previousBlockhash"
     },
     {
-      "word": "lake",
-      "slot": 460027492,
+      "word": "topple",
+      "slot": 460430455,
       "source": "transaction"
     },
     {
-      "word": "saddle",
-      "slot": 460009492,
+      "word": "vapor",
+      "slot": 460412455,
       "source": "blockhash"
     },
     {
-      "word": "destroy",
-      "slot": 460009492,
+      "word": "prefer",
+      "slot": 460412455,
       "source": "previousBlockhash"
     },
     {
-      "word": "deer",
-      "slot": 460009492,
+      "word": "skin",
+      "slot": 460412455,
       "source": "transaction"
     },
     {
-      "word": "inject",
-      "slot": 459991492,
+      "word": "spoil",
+      "slot": 460394455,
       "source": "blockhash"
     },
     {
-      "word": "sword",
-      "slot": 459991492,
+      "word": "street",
+      "slot": 460394455,
       "source": "previousBlockhash"
     },
     {
-      "word": "picnic",
-      "slot": 459991492,
+      "word": "regret",
+      "slot": 460394455,
       "source": "transaction"
     },
     {
-      "word": "parade",
-      "slot": 459973492,
+      "word": "insane",
+      "slot": 460376455,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mykd5krk2z2n",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

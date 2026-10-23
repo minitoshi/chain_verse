@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-23",
+    "poem": {
+      "content": "In the street, a flag once waved high\nA symbol of hope, now torn and dry\nLike honey spilled, its sweetness lost\nOn the pavement, a sticky, golden cost\n\nA sudden accident, a crash and a sound\nA motor screeching, a street vendor's shout all around\nPeople running, their faces a blur\nNo one able to stop the chaos that will ensue\n\nBut I stand still, amidst the din and the fray\nA random thought strikes, like a ray of light on a gray day\nA memory of love, a pure and true thing\nThat I once knew, now slipping away like vapor that clings\n\nTo the skin of the city, worn and thin\nExposing its raw heart, like a wound within\nBut still it beats, a strange and savage beat\nA rhythm that repeats, like labor that cannot be beat\n\nYet I prefer not to look, to see the pain\nLest I be the one to topple, to fall and be stained\nWith regret, that looms like a shadow on the wall\nA dark and insidious thing, that will not stand at all\n\nBut in the end, it's not the accidents that spoil\nIt's the memories we hold, and the love that we toil\nFor in the end, it's not the fall that breaks\nBut the strength to rise, and the love that SPEaks.",
+      "generatedAt": "2026-10-23T13:51:33.099Z"
+    },
+    "keywords": [
+      {
+        "word": "honey",
+        "slot": 460466455,
+        "source": "blockhash"
+      },
+      {
+        "word": "accident",
+        "slot": 460466455,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "labor",
+        "slot": 460466455,
+        "source": "transaction"
+      },
+      {
+        "word": "motor",
+        "slot": 460448455,
+        "source": "blockhash"
+      },
+      {
+        "word": "able",
+        "slot": 460448455,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "random",
+        "slot": 460448455,
+        "source": "transaction"
+      },
+      {
+        "word": "once",
+        "slot": 460430455,
+        "source": "blockhash"
+      },
+      {
+        "word": "flag",
+        "slot": 460430455,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "topple",
+        "slot": 460430455,
+        "source": "transaction"
+      },
+      {
+        "word": "vapor",
+        "slot": 460412455,
+        "source": "blockhash"
+      },
+      {
+        "word": "prefer",
+        "slot": 460412455,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "skin",
+        "slot": 460412455,
+        "source": "transaction"
+      },
+      {
+        "word": "spoil",
+        "slot": 460394455,
+        "source": "blockhash"
+      },
+      {
+        "word": "street",
+        "slot": 460394455,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "regret",
+        "slot": 460394455,
+        "source": "transaction"
+      },
+      {
+        "word": "insane",
+        "slot": 460376455,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mykd5krk2z2n",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-22",
     "poem": {
       "content": "In the stillness of a moonlit lake,\nA deer's gentle form does softly shake,\nA glimpse of life, a fleeting sight,\nA moment's peace, before the dawn's first light.\n\nThe fork of a tree, a shaft of might,\nReaches for the stars, a guiding light,\nA hungry soul, with heart aflame,\nYearns for a picnic, a love-filled game.\n\nBut soon, the gap between love and desire,\nGrows wide, a chasm that cannot be fired,\nA sword of doubt, a destructive blade,\n Threatens to destroy, the love we've made.\n\nYet, in the midst of this dark despair,\nA glimpse of hope, a glimmering air,\nA saddle worn, by a weary heart,\nA call to inject, a new-found start.\n\nIn the parade of life, we march and sway,\nWith every step, a new path's made,\nA fork in the road, a choice to take,\nA decision that will soon make or break.\n\nThe dinner bell, a signal to dine,\nA time to feast, on love's sweet wine,\nA lake of memories, a reflection deep,\nA glimpse of what we've yet to keep.\n\nAnd when the night, with darkness falls,\nThe deer's soft form, will echo through the walls,\nA reminder of love's gentle might,\nA glimpse of hope, in the dark of night.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwbfkpzpz52d",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-23",
-    "poem": {
-      "content": "In strategy's rugged terrain, the hills of time\nCrumble beneath the feet of forgotten rhyme\nA flash of insight, like a morning ray\n Illuminates the path, a guiding way\n\nBut as the soldier marches forth with weary pace\nA hat, worn and weathered, clings to the space\nBetween the anchor of purpose and the drift to decay\nA missed step, a lost opportunity, slips away\n\nThe timber of memories, like a hollowed tree\nStands bare, exposed, and vulnerable to the breeze\nFor in the eagerness to seize the moment's spark\nWe often forget the quiet, steady, guiding mark\n\nA hungry heart, a ravenous soul, that longs to eat\nThe tender shoots of progress, before they can sprout and greet\nThe morning dew, that cools the burning skin\nBut still, we crawl, with incremental advancements within\n\nThrough trials, tribulations, and twilight's troubled peace\nWe sort the trivial from the essence, the dense and the release\nThe image of perfection, a mirage on a desert floor\nEludes us, a glimmering thread, ever out of reach, yet more",
-      "generatedAt": "2026-09-23T13:53:32.226Z"
-    },
-    "keywords": [
-      {
-        "word": "strategy",
-        "slot": 449722608,
-        "source": "blockhash"
-      },
-      {
-        "word": "crumble",
-        "slot": 449722608,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "flash",
-        "slot": 449722608,
-        "source": "transaction"
-      },
-      {
-        "word": "morning",
-        "slot": 449704608,
-        "source": "blockhash"
-      },
-      {
-        "word": "soldier",
-        "slot": 449704608,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "timber",
-        "slot": 449704608,
-        "source": "transaction"
-      },
-      {
-        "word": "miss",
-        "slot": 449686608,
-        "source": "blockhash"
-      },
-      {
-        "word": "hat",
-        "slot": 449686608,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "anchor",
-        "slot": 449686608,
-        "source": "transaction"
-      },
-      {
-        "word": "crawl",
-        "slot": 449668608,
-        "source": "blockhash"
-      },
-      {
-        "word": "crop",
-        "slot": 449668608,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "hungry",
-        "slot": 449668608,
-        "source": "transaction"
-      },
-      {
-        "word": "unit",
-        "slot": 449650608,
-        "source": "blockhash"
-      },
-      {
-        "word": "sort",
-        "slot": 449650608,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "glue",
-        "slot": 449650608,
-        "source": "transaction"
-      },
-      {
-        "word": "image",
-        "slot": 449632608,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mw6vbixgqt2d",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
