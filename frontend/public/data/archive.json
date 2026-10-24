@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-24",
+    "poem": {
+      "content": "In the vast desert of October's sigh,\nA swap of fortunes, a joy that never dies,\nA sphere of hope rises, radiant and bright,\nA beacon in the darkness, a guiding light.\n\nBut mean spirits lurk, with hearts full of stone,\nSeeking to extinguish the flame that's made me strong,\nYet I'll not let them frown, nor bring me to shame,\nFor I've known the joy of being famous in my game.\n\nIn the high desert's grass, I've walked with pride,\nA robust traveler, with a heart full of joy inside,\nI've faced the burden of doubt, and come out on top,\nMy spirit unbroken, my will never to stop.\n\nFor in the desert's silence, I've found a peaceful treat,\nA place to reflect, to heal, to find my feet,\nAnd though the world may be harsh, and frequent the pain,\nI'll rise above it, like the sun that shines again.\n\nIn this sphere of wonder, I'll dance with glee,\nA joy that's contagious, a freedom that's meant to be,\nI'll travel the world, with a heart full of cheer,\nAnd though the mean spirits may try to bring me to fear.\n\nBut I'll not be deterred, for I've found my hip,\nA place of balance, where my heart can trip,\nAnd though the burden may weigh, I'll find a way to thrive,\nIn this desert of joy, where love will always survive.",
+      "generatedAt": "2026-10-24T12:57:33.047Z"
+    },
+    "keywords": [
+      {
+        "word": "swap",
+        "slot": 460858408,
+        "source": "blockhash"
+      },
+      {
+        "word": "joy",
+        "slot": 460858408,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "sphere",
+        "slot": 460858408,
+        "source": "transaction"
+      },
+      {
+        "word": "october",
+        "slot": 460840408,
+        "source": "blockhash"
+      },
+      {
+        "word": "mean",
+        "slot": 460840408,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "famous",
+        "slot": 460840408,
+        "source": "transaction"
+      },
+      {
+        "word": "desert",
+        "slot": 460822408,
+        "source": "blockhash"
+      },
+      {
+        "word": "treat",
+        "slot": 460822408,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "grass",
+        "slot": 460822408,
+        "source": "transaction"
+      },
+      {
+        "word": "high",
+        "slot": 460804408,
+        "source": "blockhash"
+      },
+      {
+        "word": "robust",
+        "slot": 460804408,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hip",
+        "slot": 460804408,
+        "source": "transaction"
+      },
+      {
+        "word": "frown",
+        "slot": 460786408,
+        "source": "blockhash"
+      },
+      {
+        "word": "frequent",
+        "slot": 460786408,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "travel",
+        "slot": 460786408,
+        "source": "transaction"
+      },
+      {
+        "word": "burden",
+        "slot": 460768408,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mymqlw3lfd2j",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-23",
     "poem": {
       "content": "In the street, a flag once waved high\nA symbol of hope, now torn and dry\nLike honey spilled, its sweetness lost\nOn the pavement, a sticky, golden cost\n\nA sudden accident, a crash and a sound\nA motor screeching, a street vendor's shout all around\nPeople running, their faces a blur\nNo one able to stop the chaos that will ensue\n\nBut I stand still, amidst the din and the fray\nA random thought strikes, like a ray of light on a gray day\nA memory of love, a pure and true thing\nThat I once knew, now slipping away like vapor that clings\n\nTo the skin of the city, worn and thin\nExposing its raw heart, like a wound within\nBut still it beats, a strange and savage beat\nA rhythm that repeats, like labor that cannot be beat\n\nYet I prefer not to look, to see the pain\nLest I be the one to topple, to fall and be stained\nWith regret, that looms like a shadow on the wall\nA dark and insidious thing, that will not stand at all\n\nBut in the end, it's not the accidents that spoil\nIt's the memories we hold, and the love that we toil\nFor in the end, it's not the fall that breaks\nBut the strength to rise, and the love that SPEaks.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwdxc75alh2x",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-24",
-    "poem": {
-      "content": "In the vast pond of existence, I wade with care,\nA droplet of awareness on the globe's vast hair.\nI am the grain of sand that shifts and slips away,\nEroded by the winds of time, in a world that's grey.\n\nI search for the tool that can tame the tide,\nA magical wand to conjure life, where none resides.\nI yearn for the goddess of fortune to bless,\nBut she's a trickster, and her whims are hard to guess.\n\nLike an amateur photographer, I fumble with the lens,\nHoping to capture the beauty that no one can repress.\nMy camera eye, a window to the soul,\nA glimpse of what lies beneath, where the truth is whole.\n\nI drive through life's busy aisle, a maze of concrete and stone,\nWhere faces blur and stories unfold, like a tale long overthrown.\nA napkin wipes my tears, of joy and of dismay,\nAs I toss and turn, and wonder how to live each day.\n\nI clutch the ribbon tight, that binds me to the earth,\nA fragile thread, that's the thing that holds me dear on this mortal birth.\nYet, I yearn to save myself, to rise above the fray,\nTo find the legal proof, that I am alive, come what may.\n\nIn the end, it's not the drive, or the camera's focus so fine,\nBut the aerobic beat of life, that makes my heart entwine,\nWith every grain of sand, that slips, and every wave that ebbs and flows,\nI am the thing, that floats, and glides, through life's pond, as it grows.",
-      "generatedAt": "2026-09-24T13:50:22.221Z"
-    },
-    "keywords": [
-      {
-        "word": "globe",
-        "slot": 450047364,
-        "source": "blockhash"
-      },
-      {
-        "word": "grain",
-        "slot": 450047364,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "tool",
-        "slot": 450047364,
-        "source": "transaction"
-      },
-      {
-        "word": "pond",
-        "slot": 450029364,
-        "source": "blockhash"
-      },
-      {
-        "word": "goddess",
-        "slot": 450029364,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "aerobic",
-        "slot": 450029364,
-        "source": "transaction"
-      },
-      {
-        "word": "ribbon",
-        "slot": 450011364,
-        "source": "blockhash"
-      },
-      {
-        "word": "legal",
-        "slot": 450011364,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "napkin",
-        "slot": 450011364,
-        "source": "transaction"
-      },
-      {
-        "word": "amateur",
-        "slot": 449993364,
-        "source": "blockhash"
-      },
-      {
-        "word": "camera",
-        "slot": 449993364,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "drive",
-        "slot": 449993364,
-        "source": "transaction"
-      },
-      {
-        "word": "aisle",
-        "slot": 449975364,
-        "source": "blockhash"
-      },
-      {
-        "word": "save",
-        "slot": 449975364,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "toss",
-        "slot": 449975364,
-        "source": "transaction"
-      },
-      {
-        "word": "thing",
-        "slot": 449957364,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwbfkpzpz52d",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
