@@ -1,92 +1,92 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "poem": {
-    "content": "In the vibrant zoo of a digital age,\nwhere the web of transactions holds its stage,\na riot of activity, a swelling tide,\nwhere acolytes of crypto gather, side by side.\n\nTheir zeal was contagious, a youthful fire,\nthat burned bright, like a candle's first desire,\nsizzling hot, a golden, melted butter,\nthat spread far and wide, a prosperous endeavor.\n\nTheir company was far-reaching, a grand design,\na blockchain network, expanding in time,\na vast category of coins, each one unique and fine,\na vault of possibilities, secrets untold, yet to shine.\n\nBut amidst this fervor, a discordant note could be found,\na loud alarm, a piercing cry, a nagging doubt profound,\nthat threatened to spoil the melody, the harmony so sweet,\nthat resonated deep within, a hum of innovation's beat.\n\nFor in this wild expanse, where fortunes were being made,\na danger lurked, an acid touch, a fleeting, momentary shade,\nthat daunted even the bravest, the most audacious of souls,\nand caused the most skilled navigators, to be caught off guard, in unmapped roles.\n\nAnd still I'm here, a curious observer, standing on the edge,\nwitness to this threating chaos, this riotous allegiance,\nthat beckons and warns, a dual-streamed river's sway,\nthat holds within it, an unknown depth, aリス024heart-stopping severance day",
-    "generatedAt": "2026-10-26T15:31:07.488Z"
+    "content": "In the once-green fields of youth, where celery swayed,\nA twin brotherhood of dreams did gently play.\nTheir laughter echoed, a joyful, easy sound,\nAs they danced with olive branches, unbound.\n\nBut poverty crept, a shadow, dark and gray,\nDestroying hope, and stealing the day.\nIt brought a vapor, a chill, that wouldn't cease,\nLeaving only sorrow, and a hollow peace.\n\nYet, from the ashes, a strong voice did rise,\nA call to rescue, to lift the hopeless eyes.\nA fence of resilience, built from the past,\nProtected the vulnerable, and stood to last.\n\nAll around, the world began to float,\nAs the tide of change, began to slowly boat.\nThe fence of strength, stood firm and tall,\nA beacon of hope, for one and for all.\n\nBut as the years went by, and the youth did grow,\nTheir hearts remained open, their spirits aglow.\nThey reached for the olive branch, with ease and with might,\nAnd brought forth a new dawn, in the dark of night.\n\nTheir once-fractured world, began to close its gaps,\nAs the twin brothers, of hope and love, did wrap.\nThe world around them, began to easily see,\nThe beauty in the broken, the strength in the weak, the key.\n\nIn this world of wonder, where the strong do stand,\nThe twin brothers of hope, hold hands, hand in hand.\nTheir hearts now full, their spirits now free,\nThey dance with celery, wild and carefree.",
+    "generatedAt": "2026-10-27T14:57:30.194Z"
   },
   "keywords": [
     {
+      "word": "once",
+      "slot": 462112463,
+      "source": "blockhash"
+    },
+    {
+      "word": "bring",
+      "slot": 462112463,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "celery",
+      "slot": 462112463,
+      "source": "transaction"
+    },
+    {
+      "word": "poverty",
+      "slot": 462094463,
+      "source": "blockhash"
+    },
+    {
+      "word": "destroy",
+      "slot": 462094463,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "vapor",
+      "slot": 462094463,
+      "source": "transaction"
+    },
+    {
+      "word": "easily",
+      "slot": 462076463,
+      "source": "blockhash"
+    },
+    {
+      "word": "all",
+      "slot": 462076463,
+      "source": "previousBlockhash"
+    },
+    {
+      "word": "fence",
+      "slot": 462076463,
+      "source": "transaction"
+    },
+    {
+      "word": "float",
+      "slot": 462058463,
+      "source": "blockhash"
+    },
+    {
+      "word": "olive",
+      "slot": 462058463,
+      "source": "previousBlockhash"
+    },
+    {
       "word": "youth",
-      "slot": 461715472,
-      "source": "blockhash"
-    },
-    {
-      "word": "butter",
-      "slot": 461715472,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "move",
-      "slot": 461715472,
+      "slot": 462058463,
       "source": "transaction"
     },
     {
-      "word": "alert",
-      "slot": 461697472,
+      "word": "rescue",
+      "slot": 462040463,
       "source": "blockhash"
     },
     {
-      "word": "expand",
-      "slot": 461697472,
+      "word": "close",
+      "slot": 462040463,
       "source": "previousBlockhash"
     },
     {
-      "word": "company",
-      "slot": 461697472,
+      "word": "strong",
+      "slot": 462040463,
       "source": "transaction"
     },
     {
-      "word": "acid",
-      "slot": 461679472,
-      "source": "blockhash"
-    },
-    {
-      "word": "loud",
-      "slot": 461679472,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "movie",
-      "slot": 461679472,
-      "source": "transaction"
-    },
-    {
-      "word": "category",
-      "slot": 461661472,
-      "source": "blockhash"
-    },
-    {
-      "word": "web",
-      "slot": 461661472,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "zoo",
-      "slot": 461661472,
-      "source": "transaction"
-    },
-    {
-      "word": "riot",
-      "slot": 461643472,
-      "source": "blockhash"
-    },
-    {
-      "word": "melody",
-      "slot": 461643472,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "spoil",
-      "slot": 461643472,
-      "source": "transaction"
-    },
-    {
-      "word": "cup",
-      "slot": 461625472,
+      "word": "twin",
+      "slot": 462022463,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mys24en3fk2n",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myuip66aep2z",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-27",
+    "poem": {
+      "content": "In the once-green fields of youth, where celery swayed,\nA twin brotherhood of dreams did gently play.\nTheir laughter echoed, a joyful, easy sound,\nAs they danced with olive branches, unbound.\n\nBut poverty crept, a shadow, dark and gray,\nDestroying hope, and stealing the day.\nIt brought a vapor, a chill, that wouldn't cease,\nLeaving only sorrow, and a hollow peace.\n\nYet, from the ashes, a strong voice did rise,\nA call to rescue, to lift the hopeless eyes.\nA fence of resilience, built from the past,\nProtected the vulnerable, and stood to last.\n\nAll around, the world began to float,\nAs the tide of change, began to slowly boat.\nThe fence of strength, stood firm and tall,\nA beacon of hope, for one and for all.\n\nBut as the years went by, and the youth did grow,\nTheir hearts remained open, their spirits aglow.\nThey reached for the olive branch, with ease and with might,\nAnd brought forth a new dawn, in the dark of night.\n\nTheir once-fractured world, began to close its gaps,\nAs the twin brothers, of hope and love, did wrap.\nThe world around them, began to easily see,\nThe beauty in the broken, the strength in the weak, the key.\n\nIn this world of wonder, where the strong do stand,\nThe twin brothers of hope, hold hands, hand in hand.\nTheir hearts now full, their spirits now free,\nThey dance with celery, wild and carefree.",
+      "generatedAt": "2026-10-27T14:57:30.194Z"
+    },
+    "keywords": [
+      {
+        "word": "once",
+        "slot": 462112463,
+        "source": "blockhash"
+      },
+      {
+        "word": "bring",
+        "slot": 462112463,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "celery",
+        "slot": 462112463,
+        "source": "transaction"
+      },
+      {
+        "word": "poverty",
+        "slot": 462094463,
+        "source": "blockhash"
+      },
+      {
+        "word": "destroy",
+        "slot": 462094463,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "vapor",
+        "slot": 462094463,
+        "source": "transaction"
+      },
+      {
+        "word": "easily",
+        "slot": 462076463,
+        "source": "blockhash"
+      },
+      {
+        "word": "all",
+        "slot": 462076463,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fence",
+        "slot": 462076463,
+        "source": "transaction"
+      },
+      {
+        "word": "float",
+        "slot": 462058463,
+        "source": "blockhash"
+      },
+      {
+        "word": "olive",
+        "slot": 462058463,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "youth",
+        "slot": 462058463,
+        "source": "transaction"
+      },
+      {
+        "word": "rescue",
+        "slot": 462040463,
+        "source": "blockhash"
+      },
+      {
+        "word": "close",
+        "slot": 462040463,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "strong",
+        "slot": 462040463,
+        "source": "transaction"
+      },
+      {
+        "word": "twin",
+        "slot": 462022463,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myuip66aep2z",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-26",
     "poem": {
       "content": "In the vibrant zoo of a digital age,\nwhere the web of transactions holds its stage,\na riot of activity, a swelling tide,\nwhere acolytes of crypto gather, side by side.\n\nTheir zeal was contagious, a youthful fire,\nthat burned bright, like a candle's first desire,\nsizzling hot, a golden, melted butter,\nthat spread far and wide, a prosperous endeavor.\n\nTheir company was far-reaching, a grand design,\na blockchain network, expanding in time,\na vast category of coins, each one unique and fine,\na vault of possibilities, secrets untold, yet to shine.\n\nBut amidst this fervor, a discordant note could be found,\na loud alarm, a piercing cry, a nagging doubt profound,\nthat threatened to spoil the melody, the harmony so sweet,\nthat resonated deep within, a hum of innovation's beat.\n\nFor in this wild expanse, where fortunes were being made,\na danger lurked, an acid touch, a fleeting, momentary shade,\nthat daunted even the bravest, the most audacious of souls,\nand caused the most skilled navigators, to be caught off guard, in unmapped roles.\n\nAnd still I'm here, a curious observer, standing on the edge,\nwitness to this threating chaos, this riotous allegiance,\nthat beckons and warns, a dual-streamed river's sway,\nthat holds within it, an unknown depth, aリス024heart-stopping severance day",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwlsbm7vae2d",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-27",
-    "poem": {
-      "content": "In the wheat fields, where the sun dips low,\nA master weaver, threads of gold do sow,\nAn absurd tale unfolds, as the wind whispers low,\nOf a tool, worn smooth, by the hands that hold.\n\nIn this place, where the track meets the train,\nA ticket to freedom, is bought in vain,\nFor the hotel of dreams, is a house of pain,\nWhere the police of sorrow, patrol the brain.\n\nExcluded from the world, we wander and roam,\nWhip-calm and wild, in the hill's gentle home,\nA topic of debate, is the price we pay,\nFor the frame of our minds, that's been lost in the fray.\n\nThe whip of reality, cracks loud and clear,\nAs we cling to the past, and the future draws near,\nWe're ill-equipped to face, the world outside,\nWhere the wheat fields of hope, are withering and dry.\n\nYet, in the stillness, a voice whispers low,\nOf a path that's been trodden, where the heart can grow,\nA track that's been hidden, beneath the wheat so bright,\nA ticket to redemption, on this endless night.\n\nThe tool of our hands, can shape and can mold,\nThe master of our fate, is the one we hold,\nThe police of our hearts, must learn to be kind,\nAnd the hotel of love, is where we leave our fears behind.",
-      "generatedAt": "2026-09-27T14:20:32.385Z"
-    },
-    "keywords": [
-      {
-        "word": "invite",
-        "slot": 451021912,
-        "source": "blockhash"
-      },
-      {
-        "word": "wheat",
-        "slot": 451021912,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "master",
-        "slot": 451021912,
-        "source": "transaction"
-      },
-      {
-        "word": "absurd",
-        "slot": 451003912,
-        "source": "blockhash"
-      },
-      {
-        "word": "tool",
-        "slot": 451003912,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ill",
-        "slot": 451003912,
-        "source": "transaction"
-      },
-      {
-        "word": "track",
-        "slot": 450985912,
-        "source": "blockhash"
-      },
-      {
-        "word": "train",
-        "slot": 450985912,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "police",
-        "slot": 450985912,
-        "source": "transaction"
-      },
-      {
-        "word": "ticket",
-        "slot": 450967912,
-        "source": "blockhash"
-      },
-      {
-        "word": "hotel",
-        "slot": 450967912,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "exclude",
-        "slot": 450967912,
-        "source": "transaction"
-      },
-      {
-        "word": "whip",
-        "slot": 450949912,
-        "source": "blockhash"
-      },
-      {
-        "word": "hill",
-        "slot": 450949912,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "topic",
-        "slot": 450949912,
-        "source": "transaction"
-      },
-      {
-        "word": "frame",
-        "slot": 450931912,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwiynhamah2p",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
