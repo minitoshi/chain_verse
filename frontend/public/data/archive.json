@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-28",
+    "poem": {
+      "content": "In the heart of the forest, a maid of the night\nDances with shadows, a whispered delight\nShe oblige the moon, a silver crescent smile\nAs the wind stirs the leaves, a gentle, lulling trial\n\nA bomb of silence falls, a quiet hush descends\nThe topic of the night, a mystery that never ends\nA cat purrs softly, a tiny, furry heart\nAs the fatigue of the day, slowly starts to depart\n\nA quiz of the soul, a test of the heart\nA snake slithers through, a path that's never apart\nFrom the rib of the tree, a branch that's strong and free\nA dolphin leaps in the distance, a splash of pure glee\n\nThe flavor of the night, a sweetness that's found\nIn the napkin of the wind, a gentle, soothing sound\nA panda stirs in its sleep, a peaceful, quiet repose\nAs the bird takes flight, a song that echoes through the trees\n\nIn the book of the universe, a story is told\nOf a world that's full of wonder, a magic that's yet to unfold\nA reminder to forget, the worries of the day\nAnd let the beauty of the night, guide us on our way.",
+      "generatedAt": "2026-10-28T15:31:25.544Z"
+    },
+    "keywords": [
+      {
+        "word": "maid",
+        "slot": 462527686,
+        "source": "blockhash"
+      },
+      {
+        "word": "oblige",
+        "slot": 462527686,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "bomb",
+        "slot": 462527686,
+        "source": "transaction"
+      },
+      {
+        "word": "topic",
+        "slot": 462509686,
+        "source": "blockhash"
+      },
+      {
+        "word": "cat",
+        "slot": 462509686,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fatigue",
+        "slot": 462509686,
+        "source": "transaction"
+      },
+      {
+        "word": "quiz",
+        "slot": 462491686,
+        "source": "blockhash"
+      },
+      {
+        "word": "snake",
+        "slot": 462491686,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "forget",
+        "slot": 462491686,
+        "source": "transaction"
+      },
+      {
+        "word": "flavor",
+        "slot": 462473686,
+        "source": "blockhash"
+      },
+      {
+        "word": "napkin",
+        "slot": 462473686,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "panda",
+        "slot": 462473686,
+        "source": "transaction"
+      },
+      {
+        "word": "bird",
+        "slot": 462455686,
+        "source": "blockhash"
+      },
+      {
+        "word": "rib",
+        "slot": 462455686,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dolphin",
+        "slot": 462455686,
+        "source": "transaction"
+      },
+      {
+        "word": "book",
+        "slot": 462437686,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myx32rg5bx2z",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-27",
     "poem": {
       "content": "In the once-green fields of youth, where celery swayed,\nA twin brotherhood of dreams did gently play.\nTheir laughter echoed, a joyful, easy sound,\nAs they danced with olive branches, unbound.\n\nBut poverty crept, a shadow, dark and gray,\nDestroying hope, and stealing the day.\nIt brought a vapor, a chill, that wouldn't cease,\nLeaving only sorrow, and a hollow peace.\n\nYet, from the ashes, a strong voice did rise,\nA call to rescue, to lift the hopeless eyes.\nA fence of resilience, built from the past,\nProtected the vulnerable, and stood to last.\n\nAll around, the world began to float,\nAs the tide of change, began to slowly boat.\nThe fence of strength, stood firm and tall,\nA beacon of hope, for one and for all.\n\nBut as the years went by, and the youth did grow,\nTheir hearts remained open, their spirits aglow.\nThey reached for the olive branch, with ease and with might,\nAnd brought forth a new dawn, in the dark of night.\n\nTheir once-fractured world, began to close its gaps,\nAs the twin brothers, of hope and love, did wrap.\nThe world around them, began to easily see,\nThe beauty in the broken, the strength in the weak, the key.\n\nIn this world of wonder, where the strong do stand,\nThe twin brothers of hope, hold hands, hand in hand.\nTheir hearts now full, their spirits now free,\nThey dance with celery, wild and carefree.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwo4cz3xn722",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-28",
-    "poem": {
-      "content": "In the arctic landscape, where frost descends\nLike a silent pianist, playing a sorrowful trend\nA glimpse of life appears, a fleeting sight\nA dinosaur, long extinct, yet still takes flight\n\nIts roar echoes through the stillness of the night\nAs I ride the wind, with the moon as my guide\nThe creek below, a secret kept, its waters still\nA place to adjust, to let go, to heal and fulfill\n\nBut in the distance, a melody begins to play\nA merry tune, that chases the shadows away\nA call to describe the beauty that's in store\nA world that resemble the one we adore\n\nThe piano's keys, a reflection of the heart\nA symphony of emotions, that never depart\nThe silent moments, when the world is still\nA time to approve the beauty that we've built\n\nIn this frozen world, I find my peaceful nest\nA place to audit the moments that I've possessed\nThe right to love, to live, to let go and be\nA secret kept, that only the wind and I can see\n\nThe arctic landscape, a glimpse of what's to come\nA world that's both familiar and yet unknown, like a song\nThe melody of life, that echoes through the night\nA call to ride the wind, and let the world take flight.",
-      "generatedAt": "2026-09-28T17:04:31.552Z"
-    },
-    "keywords": [
-      {
-        "word": "glimpse",
-        "slot": 451380690,
-        "source": "blockhash"
-      },
-      {
-        "word": "piano",
-        "slot": 451380690,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "arctic",
-        "slot": 451380690,
-        "source": "transaction"
-      },
-      {
-        "word": "frost",
-        "slot": 451362690,
-        "source": "blockhash"
-      },
-      {
-        "word": "adjust",
-        "slot": 451362690,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ride",
-        "slot": 451362690,
-        "source": "transaction"
-      },
-      {
-        "word": "dinosaur",
-        "slot": 451344690,
-        "source": "blockhash"
-      },
-      {
-        "word": "creek",
-        "slot": 451344690,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "approve",
-        "slot": 451344690,
-        "source": "transaction"
-      },
-      {
-        "word": "describe",
-        "slot": 451326690,
-        "source": "blockhash"
-      },
-      {
-        "word": "resemble",
-        "slot": 451326690,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "silent",
-        "slot": 451326690,
-        "source": "transaction"
-      },
-      {
-        "word": "audit",
-        "slot": 451308690,
-        "source": "blockhash"
-      },
-      {
-        "word": "merry",
-        "slot": 451308690,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "right",
-        "slot": 451308690,
-        "source": "transaction"
-      },
-      {
-        "word": "secret",
-        "slot": 451290690,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwlsbm7vae2d",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
