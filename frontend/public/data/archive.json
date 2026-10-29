@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-29",
+    "poem": {
+      "content": "In the initial spark of dawn's first light,\nAn invite to wonder, a call to flight,\nEchoes through the nuclear age,\nWhere toddler minds, with wonder, engage.\n\nIn this place of endless possibility,\nA seed of hope, with promise, resides,\nKeen and old, the heart beats still,\nAlready aware of life's fleeting will.\n\nIn the canyon of time, where moments pass,\nA day's decisions shape the future's glass,\nFiscal reckoning weighs on the mind,\nAs the diesel hum of progress leaves its mark behind.\n\nBut refuse to let the noise drown out the voice,\nThat whispers truth, and makes a wiser choice,\nFor in the stuff of life, we find our way,\nThrough trials and errors, come what may.\n\nThe nuclear heart, that beats with fire,\nMust learn to temper its desires,\nTo tend the garden, where love takes root,\nAnd in the silence, wisdom takes its fruit.\n\nIn this old, yet new, world we inhabit,\nA keen sense of wonder, we must not forget,\nFor in the initial spark, a new day's born,\nAnd in the refuse of what's been, we're reborn.",
+      "generatedAt": "2026-10-29T15:40:13.574Z"
+    },
+    "keywords": [
+      {
+        "word": "initial",
+        "slot": 462934566,
+        "source": "blockhash"
+      },
+      {
+        "word": "invite",
+        "slot": 462934566,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "nuclear",
+        "slot": 462934566,
+        "source": "transaction"
+      },
+      {
+        "word": "toddler",
+        "slot": 462916566,
+        "source": "blockhash"
+      },
+      {
+        "word": "stuff",
+        "slot": 462916566,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "place",
+        "slot": 462916566,
+        "source": "transaction"
+      },
+      {
+        "word": "keen",
+        "slot": 462898566,
+        "source": "blockhash"
+      },
+      {
+        "word": "old",
+        "slot": 462898566,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "already",
+        "slot": 462898566,
+        "source": "transaction"
+      },
+      {
+        "word": "canyon",
+        "slot": 462880566,
+        "source": "blockhash"
+      },
+      {
+        "word": "dumb",
+        "slot": 462880566,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fiscal",
+        "slot": 462880566,
+        "source": "transaction"
+      },
+      {
+        "word": "day",
+        "slot": 462862566,
+        "source": "blockhash"
+      },
+      {
+        "word": "seed",
+        "slot": 462862566,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "diesel",
+        "slot": 462862566,
+        "source": "transaction"
+      },
+      {
+        "word": "refuse",
+        "slot": 462844566,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myzlzgdpcs2p",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-28",
     "poem": {
       "content": "In the heart of the forest, a maid of the night\nDances with shadows, a whispered delight\nShe oblige the moon, a silver crescent smile\nAs the wind stirs the leaves, a gentle, lulling trial\n\nA bomb of silence falls, a quiet hush descends\nThe topic of the night, a mystery that never ends\nA cat purrs softly, a tiny, furry heart\nAs the fatigue of the day, slowly starts to depart\n\nA quiz of the soul, a test of the heart\nA snake slithers through, a path that's never apart\nFrom the rib of the tree, a branch that's strong and free\nA dolphin leaps in the distance, a splash of pure glee\n\nThe flavor of the night, a sweetness that's found\nIn the napkin of the wind, a gentle, soothing sound\nA panda stirs in its sleep, a peaceful, quiet repose\nAs the bird takes flight, a song that echoes through the trees\n\nIn the book of the universe, a story is told\nOf a world that's full of wonder, a magic that's yet to unfold\nA reminder to forget, the worries of the day\nAnd let the beauty of the night, guide us on our way.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-29",
-    "poem": {
-      "content": "In the stadium's golden light, an athlete's form is caught,\nA fleeting image, frozen in the air.\nTheir balance is a delicate dance, a waltz on the bench,\nWhere champions are made and legends are born.\n\nA banner unfurls, a promise to ensure\nVictory's sweet taste, and the crowd's eager cheer.\nBut on the stairs, a different tale is told,\nOf trouble's weight, that threatens to unfold.\n\nThe stomach twists with doubt, as fears take flight,\nAnd in the darkness, a ritual takes its right.\nA bean of hope, small but potent, lies within,\nA seed of courage that can overcome the din.\n\nBut rent with fear, the heart can't be made to say,\n\"Come, let us face the dawn, and seize the day.\"\nThe flock of doubts, with whispered fears, will stay,\nAnd in the silence, a voice will whisper \"stay away.\"\n\nYet still, a glimmer of resolve, like morning dew,\nPromises a new beginning, pure and true.\nThe image of the athlete, strong and free,\nEchoes through the mind, a call to be.",
-      "generatedAt": "2026-09-29T15:09:35.002Z"
-    },
-    "keywords": [
-      {
-        "word": "athlete",
-        "slot": 451677849,
-        "source": "blockhash"
-      },
-      {
-        "word": "image",
-        "slot": 451677849,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ensure",
-        "slot": 451677849,
-        "source": "transaction"
-      },
-      {
-        "word": "balance",
-        "slot": 451659849,
-        "source": "blockhash"
-      },
-      {
-        "word": "caught",
-        "slot": 451659849,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "promote",
-        "slot": 451659849,
-        "source": "transaction"
-      },
-      {
-        "word": "bench",
-        "slot": 451641849,
-        "source": "blockhash"
-      },
-      {
-        "word": "banner",
-        "slot": 451641849,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "stairs",
-        "slot": 451641849,
-        "source": "transaction"
-      },
-      {
-        "word": "trouble",
-        "slot": 451623849,
-        "source": "blockhash"
-      },
-      {
-        "word": "stomach",
-        "slot": 451623849,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "ritual",
-        "slot": 451623849,
-        "source": "transaction"
-      },
-      {
-        "word": "rent",
-        "slot": 451605849,
-        "source": "blockhash"
-      },
-      {
-        "word": "say",
-        "slot": 451605849,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "flock",
-        "slot": 451605849,
-        "source": "transaction"
-      },
-      {
-        "word": "bean",
-        "slot": 451587849,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwo4cz3xn722",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

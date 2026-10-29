@@ -1,92 +1,92 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "poem": {
-    "content": "In the heart of the forest, a maid of the night\nDances with shadows, a whispered delight\nShe oblige the moon, a silver crescent smile\nAs the wind stirs the leaves, a gentle, lulling trial\n\nA bomb of silence falls, a quiet hush descends\nThe topic of the night, a mystery that never ends\nA cat purrs softly, a tiny, furry heart\nAs the fatigue of the day, slowly starts to depart\n\nA quiz of the soul, a test of the heart\nA snake slithers through, a path that's never apart\nFrom the rib of the tree, a branch that's strong and free\nA dolphin leaps in the distance, a splash of pure glee\n\nThe flavor of the night, a sweetness that's found\nIn the napkin of the wind, a gentle, soothing sound\nA panda stirs in its sleep, a peaceful, quiet repose\nAs the bird takes flight, a song that echoes through the trees\n\nIn the book of the universe, a story is told\nOf a world that's full of wonder, a magic that's yet to unfold\nA reminder to forget, the worries of the day\nAnd let the beauty of the night, guide us on our way.",
-    "generatedAt": "2026-10-28T15:31:25.544Z"
+    "content": "In the initial spark of dawn's first light,\nAn invite to wonder, a call to flight,\nEchoes through the nuclear age,\nWhere toddler minds, with wonder, engage.\n\nIn this place of endless possibility,\nA seed of hope, with promise, resides,\nKeen and old, the heart beats still,\nAlready aware of life's fleeting will.\n\nIn the canyon of time, where moments pass,\nA day's decisions shape the future's glass,\nFiscal reckoning weighs on the mind,\nAs the diesel hum of progress leaves its mark behind.\n\nBut refuse to let the noise drown out the voice,\nThat whispers truth, and makes a wiser choice,\nFor in the stuff of life, we find our way,\nThrough trials and errors, come what may.\n\nThe nuclear heart, that beats with fire,\nMust learn to temper its desires,\nTo tend the garden, where love takes root,\nAnd in the silence, wisdom takes its fruit.\n\nIn this old, yet new, world we inhabit,\nA keen sense of wonder, we must not forget,\nFor in the initial spark, a new day's born,\nAnd in the refuse of what's been, we're reborn.",
+    "generatedAt": "2026-10-29T15:40:13.574Z"
   },
   "keywords": [
     {
-      "word": "maid",
-      "slot": 462527686,
+      "word": "initial",
+      "slot": 462934566,
       "source": "blockhash"
     },
     {
-      "word": "oblige",
-      "slot": 462527686,
+      "word": "invite",
+      "slot": 462934566,
       "source": "previousBlockhash"
     },
     {
-      "word": "bomb",
-      "slot": 462527686,
+      "word": "nuclear",
+      "slot": 462934566,
       "source": "transaction"
     },
     {
-      "word": "topic",
-      "slot": 462509686,
+      "word": "toddler",
+      "slot": 462916566,
       "source": "blockhash"
     },
     {
-      "word": "cat",
-      "slot": 462509686,
+      "word": "stuff",
+      "slot": 462916566,
       "source": "previousBlockhash"
     },
     {
-      "word": "fatigue",
-      "slot": 462509686,
+      "word": "place",
+      "slot": 462916566,
       "source": "transaction"
     },
     {
-      "word": "quiz",
-      "slot": 462491686,
+      "word": "keen",
+      "slot": 462898566,
       "source": "blockhash"
     },
     {
-      "word": "snake",
-      "slot": 462491686,
+      "word": "old",
+      "slot": 462898566,
       "source": "previousBlockhash"
     },
     {
-      "word": "forget",
-      "slot": 462491686,
+      "word": "already",
+      "slot": 462898566,
       "source": "transaction"
     },
     {
-      "word": "flavor",
-      "slot": 462473686,
+      "word": "canyon",
+      "slot": 462880566,
       "source": "blockhash"
     },
     {
-      "word": "napkin",
-      "slot": 462473686,
+      "word": "dumb",
+      "slot": 462880566,
       "source": "previousBlockhash"
     },
     {
-      "word": "panda",
-      "slot": 462473686,
+      "word": "fiscal",
+      "slot": 462880566,
       "source": "transaction"
     },
     {
-      "word": "bird",
-      "slot": 462455686,
+      "word": "day",
+      "slot": 462862566,
       "source": "blockhash"
     },
     {
-      "word": "rib",
-      "slot": 462455686,
+      "word": "seed",
+      "slot": 462862566,
       "source": "previousBlockhash"
     },
     {
-      "word": "dolphin",
-      "slot": 462455686,
+      "word": "diesel",
+      "slot": 462862566,
       "source": "transaction"
     },
     {
-      "word": "book",
-      "slot": 462437686,
+      "word": "refuse",
+      "slot": 462844566,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myx32rg5bx2z",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myzlzgdpcs2p",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
