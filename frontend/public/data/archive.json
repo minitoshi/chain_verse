@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-30",
+    "poem": {
+      "content": "In the ocean's vast, dark sieve,\nA leaf falls slow, a gentle slide,\nA whisper of the season's sigh,\nAs paper-thin, the moments glide.\n\nLike a box that holds the heart's deep sea,\nA fluid emotion, wild and free,\nAn example of the tides' wild sway,\nThat beckons us to come what may.\n\nIn this dry land, where love does wither,\nA siege of sorrow, cold and bitter,\nThe ring of emptiness, a hollow sound,\nEchoes through the empty, narrow ground.\n\nYet still, a voice, a whisper, speaks,\nA spell that breaks the darkness' shrieks,\nA view of hope, a glimmering light,\nThat shines like a beacon in the dark of night.\n\nIn the stillness, I find my voice,\nA language that the heart can rejoice,\nA call to rise, to let the soul expand,\nTo find the narrow path, to take a stand.\n\nAnd when the stormy seas do rage,\nAnd the dry earth cracks with a deafening stage,\nI'll hold the paper of my heart,\nAnd let the fluid emotions start.",
+      "generatedAt": "2026-10-30T15:22:52.159Z"
+    },
+    "keywords": [
+      {
+        "word": "paper",
+        "slot": 463334045,
+        "source": "blockhash"
+      },
+      {
+        "word": "box",
+        "slot": 463334045,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "fluid",
+        "slot": 463334045,
+        "source": "transaction"
+      },
+      {
+        "word": "example",
+        "slot": 463316045,
+        "source": "blockhash"
+      },
+      {
+        "word": "season",
+        "slot": 463316045,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "leaf",
+        "slot": 463316045,
+        "source": "transaction"
+      },
+      {
+        "word": "slide",
+        "slot": 463298045,
+        "source": "blockhash"
+      },
+      {
+        "word": "ocean",
+        "slot": 463298045,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "siege",
+        "slot": 463298045,
+        "source": "transaction"
+      },
+      {
+        "word": "speak",
+        "slot": 463280045,
+        "source": "blockhash"
+      },
+      {
+        "word": "ring",
+        "slot": 463280045,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "spell",
+        "slot": 463280045,
+        "source": "transaction"
+      },
+      {
+        "word": "dry",
+        "slot": 463262045,
+        "source": "blockhash"
+      },
+      {
+        "word": "narrow",
+        "slot": 463262045,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "view",
+        "slot": 463262045,
+        "source": "transaction"
+      },
+      {
+        "word": "empty",
+        "slot": 463244045,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mz43jcq7ti2r",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-29",
     "poem": {
       "content": "In the initial spark of dawn's first light,\nAn invite to wonder, a call to flight,\nEchoes through the nuclear age,\nWhere toddler minds, with wonder, engage.\n\nIn this place of endless possibility,\nA seed of hope, with promise, resides,\nKeen and old, the heart beats still,\nAlready aware of life's fleeting will.\n\nIn the canyon of time, where moments pass,\nA day's decisions shape the future's glass,\nFiscal reckoning weighs on the mind,\nAs the diesel hum of progress leaves its mark behind.\n\nBut refuse to let the noise drown out the voice,\nThat whispers truth, and makes a wiser choice,\nFor in the stuff of life, we find our way,\nThrough trials and errors, come what may.\n\nThe nuclear heart, that beats with fire,\nMust learn to temper its desires,\nTo tend the garden, where love takes root,\nAnd in the silence, wisdom takes its fruit.\n\nIn this old, yet new, world we inhabit,\nA keen sense of wonder, we must not forget,\nFor in the initial spark, a new day's born,\nAnd in the refuse of what's been, we're reborn.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mwt7aljctw2n",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-09-30",
-    "poem": {
-      "content": "In the land of idle nights, where darkness falls like a raven's wing\nA sense of unease settles, a feeling that clings\nLike a glove that's lost its mate, leaving emptiness to be filled\nThe stars above twinkle like diamonds, yet the world below grows dim and still\n\nIn this pillared hall of gloom, where shadows dance and play\nA lone ostrich struts, a paradox of flight, yet cannot fly away\nIts feathers stretching wide, like fingers grasping for the sky\nAs if to save itself from the emptiness that passes by\n\nA pencil scratches notes, like a nervous heartbeat in the tray\nA futile attempt to grasp the meaning, as the moments slip away\nThe view outside is one of contrast, a paradox of light and dark\nA world where what's real is uncertain, and the unknown leaves its mark\n\nIn this space, I see my target, a fleeting glimpse of what's true\nA spark of connection in the void, a worth beyond the gloom's dark hue\nIt's said that some won't engage, preferring to remain in their shells\nAfraid to venture out, and lose the familiar stills\n\nBut I take a step, into the unknown, and out onto the tray\nI shoot a glance at the horizon, at the world beyond the fray\nThe network of possibilities, a web that's complex and wide\nA path that's still unfolding, an unknown territory to abide\n\nYet in this vast and intricate tapestry, I find a sense of my own\nA place to belong, a thread to weave with, where my worth is known\nNo longer idle, I learn to bring my spirit to the surface\nA sense of purpose emerging, like a rose that blooms in the dark and unfurts.",
-      "generatedAt": "2026-09-30T15:24:36.751Z"
-    },
-    "keywords": [
-      {
-        "word": "idle",
-        "slot": 452003991,
-        "source": "blockhash"
-      },
-      {
-        "word": "sense",
-        "slot": 452003991,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "raven",
-        "slot": 452003991,
-        "source": "transaction"
-      },
-      {
-        "word": "save",
-        "slot": 451985991,
-        "source": "blockhash"
-      },
-      {
-        "word": "shoot",
-        "slot": 451985991,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "gloom",
-        "slot": 451985991,
-        "source": "transaction"
-      },
-      {
-        "word": "worth",
-        "slot": 451967991,
-        "source": "blockhash"
-      },
-      {
-        "word": "target",
-        "slot": 451967991,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "glove",
-        "slot": 451967991,
-        "source": "transaction"
-      },
-      {
-        "word": "view",
-        "slot": 451949991,
-        "source": "blockhash"
-      },
-      {
-        "word": "tray",
-        "slot": 451949991,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "pencil",
-        "slot": 451949991,
-        "source": "transaction"
-      },
-      {
-        "word": "ostrich",
-        "slot": 451931991,
-        "source": "blockhash"
-      },
-      {
-        "word": "engage",
-        "slot": 451931991,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "bring",
-        "slot": 451931991,
-        "source": "transaction"
-      },
-      {
-        "word": "network",
-        "slot": 451913991,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
