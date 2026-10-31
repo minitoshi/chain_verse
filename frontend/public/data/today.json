@@ -1,92 +1,92 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "poem": {
-    "content": "In the ocean's vast, dark sieve,\nA leaf falls slow, a gentle slide,\nA whisper of the season's sigh,\nAs paper-thin, the moments glide.\n\nLike a box that holds the heart's deep sea,\nA fluid emotion, wild and free,\nAn example of the tides' wild sway,\nThat beckons us to come what may.\n\nIn this dry land, where love does wither,\nA siege of sorrow, cold and bitter,\nThe ring of emptiness, a hollow sound,\nEchoes through the empty, narrow ground.\n\nYet still, a voice, a whisper, speaks,\nA spell that breaks the darkness' shrieks,\nA view of hope, a glimmering light,\nThat shines like a beacon in the dark of night.\n\nIn the stillness, I find my voice,\nA language that the heart can rejoice,\nA call to rise, to let the soul expand,\nTo find the narrow path, to take a stand.\n\nAnd when the stormy seas do rage,\nAnd the dry earth cracks with a deafening stage,\nI'll hold the paper of my heart,\nAnd let the fluid emotions start.",
-    "generatedAt": "2026-10-30T15:22:52.159Z"
+    "content": "In the mesh of city streets, a sudden spray\nOf rain awakens the outside world's gray\nThe misery of umbrellas, a rack to bear\nA fleeting comfort, soon to leave us bare\n\nA cute, forgotten boat, a relic of the past\nLies still, a testament to memories that won't last\nA fringe of seaweed clings to its wooden frame\nA poignant reminder of the grief that's to come\n\nIn this desolate scene, a six-legged creature crawls\nA tiny, desperate inmate, lost in a world that's cold\nIt seeks to grow, to find its place in this vast space\nBut the rack of time and fate holds it in a desperate pace\n\nThe tent of life, once a sanctuary, now a cage\nA prison of our deepest fears, where we turn the page\nTo cram the darkness, to silence the pain\nBut the mesh of our minds, a fragile, frayed refrain\n\nIn this world of wonder, where the spray of life is strong\nWe must learn to destroy the shackles that hold us wrong\nTo grow, to rise, to find our place in the sun's warm light\nAnd leave the misery of the past to wither in the night.",
+    "generatedAt": "2026-10-31T14:51:31.149Z"
   },
   "keywords": [
     {
-      "word": "paper",
-      "slot": 463334045,
+      "word": "spray",
+      "slot": 463728488,
       "source": "blockhash"
     },
     {
-      "word": "box",
-      "slot": 463334045,
+      "word": "outside",
+      "slot": 463728488,
       "source": "previousBlockhash"
     },
     {
-      "word": "fluid",
-      "slot": 463334045,
+      "word": "sudden",
+      "slot": 463728488,
       "source": "transaction"
     },
     {
-      "word": "example",
-      "slot": 463316045,
+      "word": "cram",
+      "slot": 463710488,
       "source": "blockhash"
     },
     {
-      "word": "season",
-      "slot": 463316045,
+      "word": "mesh",
+      "slot": 463710488,
       "source": "previousBlockhash"
     },
     {
-      "word": "leaf",
-      "slot": 463316045,
+      "word": "cute",
+      "slot": 463710488,
       "source": "transaction"
     },
     {
-      "word": "slide",
-      "slot": 463298045,
+      "word": "tent",
+      "slot": 463692488,
       "source": "blockhash"
     },
     {
-      "word": "ocean",
-      "slot": 463298045,
+      "word": "misery",
+      "slot": 463692488,
       "source": "previousBlockhash"
     },
     {
-      "word": "siege",
-      "slot": 463298045,
+      "word": "rack",
+      "slot": 463692488,
       "source": "transaction"
     },
     {
-      "word": "speak",
-      "slot": 463280045,
+      "word": "boat",
+      "slot": 463674488,
       "source": "blockhash"
     },
     {
-      "word": "ring",
-      "slot": 463280045,
+      "word": "grow",
+      "slot": 463674488,
       "source": "previousBlockhash"
     },
     {
-      "word": "spell",
-      "slot": 463280045,
+      "word": "grief",
+      "slot": 463674488,
       "source": "transaction"
     },
     {
-      "word": "dry",
-      "slot": 463262045,
+      "word": "fringe",
+      "slot": 463656488,
       "source": "blockhash"
     },
     {
-      "word": "narrow",
-      "slot": 463262045,
+      "word": "six",
+      "slot": 463656488,
       "source": "previousBlockhash"
     },
     {
-      "word": "view",
-      "slot": 463262045,
+      "word": "destroy",
+      "slot": 463656488,
       "source": "transaction"
     },
     {
-      "word": "empty",
-      "slot": 463244045,
+      "word": "inmate",
+      "slot": 463638488,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mz43jcq7ti2r",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mz6ka66nal2a",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
