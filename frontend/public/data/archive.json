@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-01",
+    "poem": {
+      "content": "In the morning's golden light, where shadows dance and play,\nA new dawn breaks, and with it, a world anew to claim.\nThe sun's warm rays upon my face, a sense of hope does bring,\nTo unveil the darkness that has shrouded me for so long.\n\nLike a hungry soul, I've searched for truth and peace,\nThrough valleys of misery, where sorrow's depths I'd cease.\nBut now, I ski down mountains steep, where freedom's call I hear,\nAnother chance to live, to love, to let go of my fear.\n\nIn vintage fields of time, where memories reside,\nI've wandered blind, lost in the haze of my own pride.\nBut like a filter, time has cleansed my heart of pain,\nAnd in its place, a glow of love has begun to reign.\n\nAs I draft a new design, a blueprint for my soul,\nI reduce the weight of my past, and let the future take its role.\nMy kidney-shaped heart, once heavy with regret,\nNow beats with hope, and a will to live, and never forget.\n\nThe sun shines bright, a beacon in the night,\nA guiding light that leads me through life's darkest plight.\nAnd as I walk this winding path, I know I'm not alone,\nFor in the morning's light, I've found a love that will forever glow.",
+      "generatedAt": "2026-11-01T15:29:57.182Z"
+    },
+    "keywords": [
+      {
+        "word": "unveil",
+        "slot": 464142812,
+        "source": "blockhash"
+      },
+      {
+        "word": "claim",
+        "slot": 464142812,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hungry",
+        "slot": 464142812,
+        "source": "transaction"
+      },
+      {
+        "word": "misery",
+        "slot": 464124812,
+        "source": "blockhash"
+      },
+      {
+        "word": "ski",
+        "slot": 464124812,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "another",
+        "slot": 464124812,
+        "source": "transaction"
+      },
+      {
+        "word": "vintage",
+        "slot": 464106812,
+        "source": "blockhash"
+      },
+      {
+        "word": "blind",
+        "slot": 464106812,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "filter",
+        "slot": 464106812,
+        "source": "transaction"
+      },
+      {
+        "word": "glow",
+        "slot": 464088812,
+        "source": "blockhash"
+      },
+      {
+        "word": "sun",
+        "slot": 464088812,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "draft",
+        "slot": 464088812,
+        "source": "transaction"
+      },
+      {
+        "word": "kidney",
+        "slot": 464070812,
+        "source": "blockhash"
+      },
+      {
+        "word": "reduce",
+        "slot": 464070812,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "will",
+        "slot": 464070812,
+        "source": "transaction"
+      },
+      {
+        "word": "morning",
+        "slot": 464052812,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzb4tsbdui2a",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-10-31",
     "poem": {
       "content": "In the mesh of city streets, a sudden spray\nOf rain awakens the outside world's gray\nThe misery of umbrellas, a rack to bear\nA fleeting comfort, soon to leave us bare\n\nA cute, forgotten boat, a relic of the past\nLies still, a testament to memories that won't last\nA fringe of seaweed clings to its wooden frame\nA poignant reminder of the grief that's to come\n\nIn this desolate scene, a six-legged creature crawls\nA tiny, desperate inmate, lost in a world that's cold\nIt seeks to grow, to find its place in this vast space\nBut the rack of time and fate holds it in a desperate pace\n\nThe tent of life, once a sanctuary, now a cage\nA prison of our deepest fears, where we turn the page\nTo cram the darkness, to silence the pain\nBut the mesh of our minds, a fragile, frayed refrain\n\nIn this world of wonder, where the spray of life is strong\nWe must learn to destroy the shackles that hold us wrong\nTo grow, to rise, to find our place in the sun's warm light\nAnd leave the misery of the past to wither in the night.",
@@ -2668,99 +2761,6 @@
       {
         "word": "victory",
         "slot": 452863657,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-02",
-    "poem": {
-      "content": "In the canyon's depths, a new path's revealed\nA shift in perception, as the soul is healed\nThe utility of heart, once locked in pain\nNow flows like water, through the canyon's rain\n\nA property of peace, we once did claim\nBut the prison of fear, had locked us in shame\nWe slammed the doors, of a troubled past\nAnd stepped into the elevator, where love would last\n\nThe news of freedom, spread like a huge fan\nA lesson learned, in the school of the plan\nWe disagree, with the voice of despair\nAnd rise above, with the wind in our hair\n\nIn the file of memories, a new chapter's born\nA story of courage, where love has been sworn\nThe rib of hope, beats strong and free\nA physical reminder, of what we used to be\n\nThe huge wave of change, crashed on the shore\nBut we stood firm, and asked for more\nThe news of our strength, echoed through the land\nAnd the utility of love, was forever in hand\n\nIn the renewing light, of a brand new day\nWe'll shift our focus, to a brighter way\nA lesson learned, in the school of the heart\nA property of peace, that will never depart",
-      "generatedAt": "2026-10-02T15:08:32.822Z"
-    },
-    "keywords": [
-      {
-        "word": "renew",
-        "slot": 452646127,
-        "source": "blockhash"
-      },
-      {
-        "word": "shift",
-        "slot": 452646127,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "utility",
-        "slot": 452646127,
-        "source": "transaction"
-      },
-      {
-        "word": "property",
-        "slot": 452628127,
-        "source": "blockhash"
-      },
-      {
-        "word": "peace",
-        "slot": 452628127,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "slam",
-        "slot": 452628127,
-        "source": "transaction"
-      },
-      {
-        "word": "canyon",
-        "slot": 452610127,
-        "source": "blockhash"
-      },
-      {
-        "word": "prison",
-        "slot": 452610127,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "elevator",
-        "slot": 452610127,
-        "source": "transaction"
-      },
-      {
-        "word": "disagree",
-        "slot": 452592127,
-        "source": "blockhash"
-      },
-      {
-        "word": "rib",
-        "slot": 452592127,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "physical",
-        "slot": 452592127,
-        "source": "transaction"
-      },
-      {
-        "word": "file",
-        "slot": 452574127,
-        "source": "blockhash"
-      },
-      {
-        "word": "huge",
-        "slot": 452574127,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "lesson",
-        "slot": 452574127,
-        "source": "transaction"
-      },
-      {
-        "word": "news",
-        "slot": 452556127,
         "source": "blockhash"
       }
     ],
