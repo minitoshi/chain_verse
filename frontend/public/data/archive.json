@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-02",
+    "poem": {
+      "content": "In the canyon of the digital sea,\nA whale of a transaction, wild and free,\nTumbles forth, a mix of wealth and might,\nA pepper of promise, sizzling with delight.\n\nA stem of innovation, strong and true,\nGrows from the roots of code, anew,\nA fantasy of possibilities, unfurls,\nA hockey stick of progress, swift and whirls.\n\nIn this vacuum of uncertainty, we face,\nThe penalty of doubt, the weight of time and space,\nYet still we hold on to faith, a beacon bright,\nA safe haven from the darkness of endless night.\n\nThe sweet scent of success, a fragrance rare,\nWafts through the air, a treasure to share,\nBut as we tumble, reckless and insane,\nWe risk the penalty of our own mistakes' stain.\n\nIn this wild dance of finance, we take a chance,\nA leap of faith, a gamble with life's fragile chance,\nThe canyon's depths, a mystery we must explore,\nAnd in the vacuum of the unknown, we seek more.\n\nBut when the dust settles, and the fantasy fades,\nWe're left with the stem of reality, the harsher shades,\nOf a world that's not so sweet, not so divine,\nA world where faith is tested, and the safe haven's decline.\n\nYet still we dream, we hope, we strive to be,\nA mix of the old and new, a blend of fantasy and reality.",
+      "generatedAt": "2026-11-02T18:53:16.401Z"
+    },
+    "keywords": [
+      {
+        "word": "mix",
+        "slot": 464602764,
+        "source": "blockhash"
+      },
+      {
+        "word": "pepper",
+        "slot": 464602764,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "stem",
+        "slot": 464602764,
+        "source": "transaction"
+      },
+      {
+        "word": "whale",
+        "slot": 464584764,
+        "source": "blockhash"
+      },
+      {
+        "word": "insane",
+        "slot": 464584764,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "canyon",
+        "slot": 464584764,
+        "source": "transaction"
+      },
+      {
+        "word": "face",
+        "slot": 464566764,
+        "source": "blockhash"
+      },
+      {
+        "word": "sweet",
+        "slot": 464566764,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "tumble",
+        "slot": 464566764,
+        "source": "transaction"
+      },
+      {
+        "word": "fade",
+        "slot": 464548764,
+        "source": "blockhash"
+      },
+      {
+        "word": "penalty",
+        "slot": 464548764,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "vacuum",
+        "slot": 464548764,
+        "source": "transaction"
+      },
+      {
+        "word": "hockey",
+        "slot": 464530764,
+        "source": "blockhash"
+      },
+      {
+        "word": "fantasy",
+        "slot": 464530764,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "faith",
+        "slot": 464530764,
+        "source": "transaction"
+      },
+      {
+        "word": "safe",
+        "slot": 464512764,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzdyobxgyz2z",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-01",
     "poem": {
       "content": "In the morning's golden light, where shadows dance and play,\nA new dawn breaks, and with it, a world anew to claim.\nThe sun's warm rays upon my face, a sense of hope does bring,\nTo unveil the darkness that has shrouded me for so long.\n\nLike a hungry soul, I've searched for truth and peace,\nThrough valleys of misery, where sorrow's depths I'd cease.\nBut now, I ski down mountains steep, where freedom's call I hear,\nAnother chance to live, to love, to let go of my fear.\n\nIn vintage fields of time, where memories reside,\nI've wandered blind, lost in the haze of my own pride.\nBut like a filter, time has cleansed my heart of pain,\nAnd in its place, a glow of love has begun to reign.\n\nAs I draft a new design, a blueprint for my soul,\nI reduce the weight of my past, and let the future take its role.\nMy kidney-shaped heart, once heavy with regret,\nNow beats with hope, and a will to live, and never forget.\n\nThe sun shines bright, a beacon in the night,\nA guiding light that leads me through life's darkest plight.\nAnd as I walk this winding path, I know I'm not alone,\nFor in the morning's light, I've found a love that will forever glow.",
@@ -2672,99 +2765,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mx2mcbpubc24",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-03",
-    "poem": {
-      "content": "In Solana's world of code and design,\nWhere voices rise, a gentle pair entwine,\nTheir vocal whispers weave a soothing hum,\nA symphony that echoes, a sweet perfume.\n\nLike an insect, innocence roams free,\nUnouched by time, unscathed, a wonder to see,\nYet, as we toil, our weary souls erode,\nThe edges worn, like stones worn smooth by the tide.\n\nIn the oven of life, we're tempered and tried,\nOur hearts exposed, like so many sweet, roasted affinities,\nWhere love's warmth converts, and spirits revive,\nAnd though we're met with sadness, as our light starts to arrive.\n\nA drop of olive oil, a token of our care,\nSoothes parched and weary lands, showing we're aware,\nOf the flavor of each moment, each sweet, toothsome treat,\nLike candy, melting slow, our wounds begin to retreat.\n\nWe craft an essay of existence, line by line,\nMeasuring each step, where every word's a rhyme,\nIn this sweet, shifting dance, our inner voices sing,\nA symphony of life, an epic, taunting in its ring.\n\nBut where does victory lie? In success's sweet tooth, we taste,\nA pleasure without true measure, and an awareness we cannot amass.\nYet, in the bruised leather of our lives, we try to remove\nThe sting of defeat, and hope the fields of joy would bloom.\nStill, the truth remains, like a small, required flower,\nOur innocence, a bloom that's worth fighting to obtain,\nNow shiny, like polished polished emerged free.",
-      "generatedAt": "2026-10-03T13:58:25.280Z"
-    },
-    "keywords": [
-      {
-        "word": "vocal",
-        "slot": 452953657,
-        "source": "blockhash"
-      },
-      {
-        "word": "pair",
-        "slot": 452953657,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "insect",
-        "slot": 452953657,
-        "source": "transaction"
-      },
-      {
-        "word": "arrive",
-        "slot": 452935657,
-        "source": "blockhash"
-      },
-      {
-        "word": "oven",
-        "slot": 452935657,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "innocent",
-        "slot": 452935657,
-        "source": "transaction"
-      },
-      {
-        "word": "erode",
-        "slot": 452917657,
-        "source": "blockhash"
-      },
-      {
-        "word": "sad",
-        "slot": 452917657,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "remove",
-        "slot": 452917657,
-        "source": "transaction"
-      },
-      {
-        "word": "olive",
-        "slot": 452899657,
-        "source": "blockhash"
-      },
-      {
-        "word": "candy",
-        "slot": 452899657,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "sing",
-        "slot": 452899657,
-        "source": "transaction"
-      },
-      {
-        "word": "essay",
-        "slot": 452881657,
-        "source": "blockhash"
-      },
-      {
-        "word": "taste",
-        "slot": 452881657,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "measure",
-        "slot": 452881657,
-        "source": "transaction"
-      },
-      {
-        "word": "victory",
-        "slot": 452863657,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
