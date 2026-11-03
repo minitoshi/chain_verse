@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-03",
+    "poem": {
+      "content": "In the hour of dawn's golden glow,\nAmong the shadows, a spider's web does grow,\nA delicate dance, a wondrous sight,\nA testament to the intricate and the bright.\n\nBut as we wander, lost in the morning dew,\nWe stumble upon a baby, fragile and new,\nA tiny soul, barely taking its first breath,\nA miracle of life, a precious, fleeting death.\n\nThe world outside is vast and wide and fair,\nA place where disease and darkness lurk and stare,\nYet still we strive, young and strong and free,\nTo put the world right, to make it what it should be.\n\nWe praise the tortoise, slow and steady as it goes,\nA symbol of endurance, of the will to know,\nWe marvel at the giraffe, with its long, gentle face,\nA creature of wonder, a reminder of our own place.\n\nBut what of the hour, when the sun sets low and red?\nWhen the spider's web is broken, and its threads are dead?\nWhen the young and the old must face the dark and the cold?\nAnd the only light is the praise of the brave and the bold?\n\nThen we must feed our hearts with courage and with might,\nAnd invest our souls in the fight for what is right,\nFor in the large and the small, we find the strength to persevere,\nTo rise above the disease, to live and to survive.",
+      "generatedAt": "2026-11-03T16:39:12.401Z"
+    },
+    "keywords": [
+      {
+        "word": "hour",
+        "slot": 464968828,
+        "source": "blockhash"
+      },
+      {
+        "word": "among",
+        "slot": 464968828,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "disease",
+        "slot": 464968828,
+        "source": "transaction"
+      },
+      {
+        "word": "young",
+        "slot": 464950828,
+        "source": "blockhash"
+      },
+      {
+        "word": "put",
+        "slot": 464950828,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "attitude",
+        "slot": 464950828,
+        "source": "transaction"
+      },
+      {
+        "word": "baby",
+        "slot": 464932828,
+        "source": "blockhash"
+      },
+      {
+        "word": "barely",
+        "slot": 464932828,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "feed",
+        "slot": 464932828,
+        "source": "transaction"
+      },
+      {
+        "word": "right",
+        "slot": 464914828,
+        "source": "blockhash"
+      },
+      {
+        "word": "invest",
+        "slot": 464914828,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "large",
+        "slot": 464914828,
+        "source": "transaction"
+      },
+      {
+        "word": "spider",
+        "slot": 464896828,
+        "source": "blockhash"
+      },
+      {
+        "word": "praise",
+        "slot": 464896828,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "giraffe",
+        "slot": 464896828,
+        "source": "transaction"
+      },
+      {
+        "word": "tortoise",
+        "slot": 464878828,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzgbnhyn2q2a",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-02",
     "poem": {
       "content": "In the canyon of the digital sea,\nA whale of a transaction, wild and free,\nTumbles forth, a mix of wealth and might,\nA pepper of promise, sizzling with delight.\n\nA stem of innovation, strong and true,\nGrows from the roots of code, anew,\nA fantasy of possibilities, unfurls,\nA hockey stick of progress, swift and whirls.\n\nIn this vacuum of uncertainty, we face,\nThe penalty of doubt, the weight of time and space,\nYet still we hold on to faith, a beacon bright,\nA safe haven from the darkness of endless night.\n\nThe sweet scent of success, a fragrance rare,\nWafts through the air, a treasure to share,\nBut as we tumble, reckless and insane,\nWe risk the penalty of our own mistakes' stain.\n\nIn this wild dance of finance, we take a chance,\nA leap of faith, a gamble with life's fragile chance,\nThe canyon's depths, a mystery we must explore,\nAnd in the vacuum of the unknown, we seek more.\n\nBut when the dust settles, and the fantasy fades,\nWe're left with the stem of reality, the harsher shades,\nOf a world that's not so sweet, not so divine,\nA world where faith is tested, and the safe haven's decline.\n\nYet still we dream, we hope, we strive to be,\nA mix of the old and new, a blend of fantasy and reality.",
@@ -2674,99 +2767,6 @@
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mx5gube34o25",
     "poemReady": true,
     "keywordsCollected": 12,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-04",
-    "poem": {
-      "content": "In twilight's hush, where shadows fold,\nA problem looms, like a river's gold.\nIt beckons us, with an impulse strong,\nTo navigate the depths, where logic's wrong.\n\nWe're blind to the path, yet we must strive,\nTo find the security that we can't survive.\nA heavy heart, with hope, we must unfold,\nAnd search for the light, that shines beyond.\n\nBetween the darkness and the unknown sea,\nWe must find the angle, that sets us free.\nThe river's current, with its secrets, we must explore,\nAnd find the favorite spot, where love resides once more.\n\nBut first, we must oblige, the logic of our mind,\nAnd let go of the fear, that we've left behind.\nThe light of hope, it shines like a beacon bright,\nGuiding us through, the darkness of endless night.\n\nYet, in the stillness, we hear a gentle voice,\nWhispering words, of a problem's choice.\nTo solve the riddle, we must be brave and true,\nAnd trust the security, that only hope can do.\n\nIn the river's flow, we find the peace we seek,\nA sense of calm, that the world's noise can't speak.\nBeyond the fold, of our doubts and fears,\nWe find the light, that wipes away our tears.\n\nAnd when we emerge, from the darkness and the pain,\nWe find the favorite spot, where love remains.\nFor in the security, of a love so true,\nWe find the logic, that sets our souls anew.",
-      "generatedAt": "2026-10-04T14:27:27.623Z"
-    },
-    "keywords": [
-      {
-        "word": "problem",
-        "slot": 453283116,
-        "source": "blockhash"
-      },
-      {
-        "word": "oblige",
-        "slot": 453283116,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "security",
-        "slot": 453283116,
-        "source": "transaction"
-      },
-      {
-        "word": "logic",
-        "slot": 453265116,
-        "source": "blockhash"
-      },
-      {
-        "word": "blind",
-        "slot": 453265116,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "impulse",
-        "slot": 453265116,
-        "source": "transaction"
-      },
-      {
-        "word": "light",
-        "slot": 453247116,
-        "source": "blockhash"
-      },
-      {
-        "word": "hope",
-        "slot": 453247116,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "heavy",
-        "slot": 453247116,
-        "source": "transaction"
-      },
-      {
-        "word": "fold",
-        "slot": 453229116,
-        "source": "blockhash"
-      },
-      {
-        "word": "angle",
-        "slot": 453229116,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "between",
-        "slot": 453229116,
-        "source": "transaction"
-      },
-      {
-        "word": "river",
-        "slot": 453211116,
-        "source": "blockhash"
-      },
-      {
-        "word": "beyond",
-        "slot": 453211116,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "solve",
-        "slot": 453211116,
-        "source": "transaction"
-      },
-      {
-        "word": "favorite",
-        "slot": 453193116,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mx2mcbpubc24",
-    "poemReady": true,
-    "keywordsCollected": 16,
     "keywordsNeeded": 8
   }
 ]

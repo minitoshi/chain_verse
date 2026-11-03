@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "poem": {
-    "content": "In the canyon of the digital sea,\nA whale of a transaction, wild and free,\nTumbles forth, a mix of wealth and might,\nA pepper of promise, sizzling with delight.\n\nA stem of innovation, strong and true,\nGrows from the roots of code, anew,\nA fantasy of possibilities, unfurls,\nA hockey stick of progress, swift and whirls.\n\nIn this vacuum of uncertainty, we face,\nThe penalty of doubt, the weight of time and space,\nYet still we hold on to faith, a beacon bright,\nA safe haven from the darkness of endless night.\n\nThe sweet scent of success, a fragrance rare,\nWafts through the air, a treasure to share,\nBut as we tumble, reckless and insane,\nWe risk the penalty of our own mistakes' stain.\n\nIn this wild dance of finance, we take a chance,\nA leap of faith, a gamble with life's fragile chance,\nThe canyon's depths, a mystery we must explore,\nAnd in the vacuum of the unknown, we seek more.\n\nBut when the dust settles, and the fantasy fades,\nWe're left with the stem of reality, the harsher shades,\nOf a world that's not so sweet, not so divine,\nA world where faith is tested, and the safe haven's decline.\n\nYet still we dream, we hope, we strive to be,\nA mix of the old and new, a blend of fantasy and reality.",
-    "generatedAt": "2026-11-02T18:53:16.401Z"
+    "content": "In the hour of dawn's golden glow,\nAmong the shadows, a spider's web does grow,\nA delicate dance, a wondrous sight,\nA testament to the intricate and the bright.\n\nBut as we wander, lost in the morning dew,\nWe stumble upon a baby, fragile and new,\nA tiny soul, barely taking its first breath,\nA miracle of life, a precious, fleeting death.\n\nThe world outside is vast and wide and fair,\nA place where disease and darkness lurk and stare,\nYet still we strive, young and strong and free,\nTo put the world right, to make it what it should be.\n\nWe praise the tortoise, slow and steady as it goes,\nA symbol of endurance, of the will to know,\nWe marvel at the giraffe, with its long, gentle face,\nA creature of wonder, a reminder of our own place.\n\nBut what of the hour, when the sun sets low and red?\nWhen the spider's web is broken, and its threads are dead?\nWhen the young and the old must face the dark and the cold?\nAnd the only light is the praise of the brave and the bold?\n\nThen we must feed our hearts with courage and with might,\nAnd invest our souls in the fight for what is right,\nFor in the large and the small, we find the strength to persevere,\nTo rise above the disease, to live and to survive.",
+    "generatedAt": "2026-11-03T16:39:12.401Z"
   },
   "keywords": [
     {
-      "word": "mix",
-      "slot": 464602764,
+      "word": "hour",
+      "slot": 464968828,
       "source": "blockhash"
     },
     {
-      "word": "pepper",
-      "slot": 464602764,
+      "word": "among",
+      "slot": 464968828,
       "source": "previousBlockhash"
     },
     {
-      "word": "stem",
-      "slot": 464602764,
+      "word": "disease",
+      "slot": 464968828,
       "source": "transaction"
     },
     {
-      "word": "whale",
-      "slot": 464584764,
+      "word": "young",
+      "slot": 464950828,
       "source": "blockhash"
     },
     {
-      "word": "insane",
-      "slot": 464584764,
+      "word": "put",
+      "slot": 464950828,
       "source": "previousBlockhash"
     },
     {
-      "word": "canyon",
-      "slot": 464584764,
+      "word": "attitude",
+      "slot": 464950828,
       "source": "transaction"
     },
     {
-      "word": "face",
-      "slot": 464566764,
+      "word": "baby",
+      "slot": 464932828,
       "source": "blockhash"
     },
     {
-      "word": "sweet",
-      "slot": 464566764,
+      "word": "barely",
+      "slot": 464932828,
       "source": "previousBlockhash"
     },
     {
-      "word": "tumble",
-      "slot": 464566764,
+      "word": "feed",
+      "slot": 464932828,
       "source": "transaction"
     },
     {
-      "word": "fade",
-      "slot": 464548764,
+      "word": "right",
+      "slot": 464914828,
       "source": "blockhash"
     },
     {
-      "word": "penalty",
-      "slot": 464548764,
+      "word": "invest",
+      "slot": 464914828,
       "source": "previousBlockhash"
     },
     {
-      "word": "vacuum",
-      "slot": 464548764,
+      "word": "large",
+      "slot": 464914828,
       "source": "transaction"
     },
     {
-      "word": "hockey",
-      "slot": 464530764,
+      "word": "spider",
+      "slot": 464896828,
       "source": "blockhash"
     },
     {
-      "word": "fantasy",
-      "slot": 464530764,
+      "word": "praise",
+      "slot": 464896828,
       "source": "previousBlockhash"
     },
     {
-      "word": "faith",
-      "slot": 464530764,
+      "word": "giraffe",
+      "slot": 464896828,
       "source": "transaction"
     },
     {
-      "word": "safe",
-      "slot": 464512764,
+      "word": "tortoise",
+      "slot": 464878828,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzdyobxgyz2z",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzgbnhyn2q2a",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
