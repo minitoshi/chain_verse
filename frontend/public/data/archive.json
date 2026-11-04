@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-04",
+    "poem": {
+      "content": "In the city's bustling streets, a cannon roars\nA celebration erupts, a rally that pours\nFrom the crowd, a young soul dares to shine\nWith visions of luxury and a heart so divine\n\nHis trusty device in hand, he weaves a tale\nOf dreams and schemes, with a method to prevail\nA rural escape, where wildflowers sway\nWhere time is currency, and ketchup stains each day\n\nBut as he returns, with an antique charm\nThe city's allure begins to disarm\nA party unfolds, like a delicate flower\nAs connections are made, and bonds are showered\n\nThe sound of music blends with the night\nAs we engage in the dance, and our spirits take flight\nThe luxury of love is what we all pursue\nBut like a wing that's clipped, it can be hard to break through\n\nI'm dumb to the ways of the heart, I confess\nLost in the haze of a world that's in distress\nYet still I hold on to hope's antique thread\nAnd pray that love's device can be rewound and be fed\n\nIn this rural haven, where the paper blooms\nThe scent of wildflowers fills the room\nAnd I am reminded, as the cannon roars\nThat love is the craft we all adore.",
+      "generatedAt": "2026-11-04T16:37:56.756Z"
+    },
+    "keywords": [
+      {
+        "word": "dumb",
+        "slot": 465371544,
+        "source": "blockhash"
+      },
+      {
+        "word": "rally",
+        "slot": 465371544,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "prepare",
+        "slot": 465371544,
+        "source": "transaction"
+      },
+      {
+        "word": "luxury",
+        "slot": 465353544,
+        "source": "blockhash"
+      },
+      {
+        "word": "ketchup",
+        "slot": 465353544,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cannon",
+        "slot": 465353544,
+        "source": "transaction"
+      },
+      {
+        "word": "engage",
+        "slot": 465335544,
+        "source": "blockhash"
+      },
+      {
+        "word": "city",
+        "slot": 465335544,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "party",
+        "slot": 465335544,
+        "source": "transaction"
+      },
+      {
+        "word": "device",
+        "slot": 465317544,
+        "source": "blockhash"
+      },
+      {
+        "word": "rural",
+        "slot": 465317544,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "antique",
+        "slot": 465317544,
+        "source": "transaction"
+      },
+      {
+        "word": "method",
+        "slot": 465299544,
+        "source": "blockhash"
+      },
+      {
+        "word": "wing",
+        "slot": 465299544,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "craft",
+        "slot": 465299544,
+        "source": "transaction"
+      },
+      {
+        "word": "paper",
+        "slot": 465281544,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzis25hpye2p",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-03",
     "poem": {
       "content": "In the hour of dawn's golden glow,\nAmong the shadows, a spider's web does grow,\nA delicate dance, a wondrous sight,\nA testament to the intricate and the bright.\n\nBut as we wander, lost in the morning dew,\nWe stumble upon a baby, fragile and new,\nA tiny soul, barely taking its first breath,\nA miracle of life, a precious, fleeting death.\n\nThe world outside is vast and wide and fair,\nA place where disease and darkness lurk and stare,\nYet still we strive, young and strong and free,\nTo put the world right, to make it what it should be.\n\nWe praise the tortoise, slow and steady as it goes,\nA symbol of endurance, of the will to know,\nWe marvel at the giraffe, with its long, gentle face,\nA creature of wonder, a reminder of our own place.\n\nBut what of the hour, when the sun sets low and red?\nWhen the spider's web is broken, and its threads are dead?\nWhen the young and the old must face the dark and the cold?\nAnd the only light is the praise of the brave and the bold?\n\nThen we must feed our hearts with courage and with might,\nAnd invest our souls in the fight for what is right,\nFor in the large and the small, we find the strength to persevere,\nTo rise above the disease, to live and to survive.",
@@ -2694,79 +2787,6 @@
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mx7qpaizs626",
     "poemReady": true,
     "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-05",
-    "poem": {
-      "content": "In virtual realms, a toy of code unfolds,\nA testament to innovation, stories untold.\nAn online kingdom forms, where minds entwine,\nA dance of data, where the future is designed.\n\nWith every step, a spark is lit,\nA torch for progress, in digital light.\nA clever design, born from trial and test,\nRobust and strong, it stands, forever the best.\n\nBut in this world, there's an error's snare,\nA catch that holds, like a parrot's wary air.\nA warning signal, to halt and re-align,\nOr risk the loss, of progress divine.\n\nIn this vast expanse, a sibling's cry resounds,\nA call for help, from distant ground.\nA plea for guidance, through the digital night,\nTo avoid the pitfalls, of error and plight.\n\nBut those who venture, with a brave, bright heart,\nCan overcome, and play their part.\nLike a dash of pepper, on a dish so fine,\nThey add flavor, to the code's sweet design.\n\nFor in this realm, the rules are clear and bright,\nLegal paths, for those who seek the light.\nWith every step, a new world is made,\nAnd in the journey, the true treasure is laid.\n\nThe arch of progress, beckons us to strive,\nTo reach the peak, where innovation thrives.\nAnd in this climb, we find our true self-discovered,\nIn the virtual realm, where the future is uncovered.",
-      "generatedAt": "2026-10-05T17:28:08.266Z"
-    },
-    "keywords": [
-      {
-        "word": "toy",
-        "slot": 453646141,
-        "source": "blockhash"
-      },
-      {
-        "word": "online",
-        "slot": 453646141,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "error",
-        "slot": 453646141,
-        "source": "transaction"
-      },
-      {
-        "word": "torch",
-        "slot": 453628139,
-        "source": "blockhash"
-      },
-      {
-        "word": "pepper",
-        "slot": 453628139,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "sibling",
-        "slot": 453628139,
-        "source": "transaction"
-      },
-      {
-        "word": "arch",
-        "slot": 453610141,
-        "source": "blockhash"
-      },
-      {
-        "word": "bright",
-        "slot": 453610141,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "clever",
-        "slot": 453610141,
-        "source": "transaction"
-      },
-      {
-        "word": "robust",
-        "slot": 453592141,
-        "source": "blockhash"
-      },
-      {
-        "word": "legal",
-        "slot": 453592141,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "parrot",
-        "slot": 453592141,
-        "source": "transaction"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mx5gube34o25",
-    "poemReady": true,
-    "keywordsCollected": 12,
     "keywordsNeeded": 8
   }
 ]
