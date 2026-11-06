@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "poem": {
-    "content": "In the wood of Solana's mystic north,\nA siren's call beckons, a gentle birth.\nSay, what secrets hide within the trees,\nThat whisper truths to those who wander with ease?\n\nA number etched on a wooden door,\nInvites the brave to exit, and explore.\nDouble the margin of life's fragile thread,\nAnd own the path that winds through the heart's dark bed.\n\nIn the hospital of the soul, where love does reside,\nWe search for solace, a gentle, guiding tide.\nBut like a blind guide, we stumble and stray,\nUp the stairs of sorrow, where shadows hold sway.\n\nYet, in the darkness, a light begins to shine,\nA credit to the heart, that overcomes the decline.\nA subject of hope, a theme that we adore,\nA love that's strong enough to heal and restore.\n\nLet us cook the fears that hold us in thrall,\nAnd in the warmth of love, let our hearts enthrall.\nEmbrace the mystery, the unknown, and the night,\nAnd in the silence, find the light that guides us to the light.\n\nFor in the wood of Solana's mystic north,\nA siren's call still whispers, a gentle birth.\nSay, what secrets hide within the trees,\nThat whisper truths to those who wander with ease?",
-    "generatedAt": "2026-11-05T16:54:02.039Z"
+    "content": "In the fields of Solana's distant past,\nA donkey wore a patchwork hat,\nA portion of his fur worn thin and grey,\nFrom years of hauling timber, day by day.\n\nHe'd seen it all, from dawn till night,\nThe lottery of life, a harsh delight,\nWhere some drew winners, while others drew strife,\nAnd in the noise, the weary beast took flight.\n\nOne night, a note slipped from his pocket's worn crease,\nAnd in the darkness, he began to ease,\nHis weary shoulders, his aching back,\nInto the comfort of a well-worn track.\n\nBut as he walked, a patrol of shadows drew near,\nTheir footsteps silent as the trash they cleared,\nTheir presence unnerving, a constant, lurking threat,\nA reminder that in Solana's wild heart, the enemy's at our gate.\n\nThe donkey's weariness gave way to anxious fear,\nAs he thought of all the stuff he had to hold dear,\nThe memories, the moments, the hard-won gains,\nThe fragile threads that held his world from unraveling in vain.\n\nYet still he walked, through darkness and through strife,\nUrged on by a stubborn will to make it through the night,\nTo rise again with dawn, to face the light,\nTo conquer the noise, to banish the dark of night.\n\nAnd as he reached the edge of the Solana land,\nA stranger approached, a gentle hand,\nThat offered solace, that soothed his fears,\nAnd helped him hire a new resolve, to calm his doubts and dry his tears.\n\nFor even in the hard, wild days of Solana's life,\nThere's program in the darkness, a glimmer of hope and strife.",
+    "generatedAt": "2026-11-06T16:20:38.563Z"
   },
   "keywords": [
     {
-      "word": "say",
-      "slot": 465779830,
+      "word": "donkey",
+      "slot": 466174438,
       "source": "blockhash"
     },
     {
-      "word": "wood",
-      "slot": 465779830,
+      "word": "portion",
+      "slot": 466174438,
       "source": "previousBlockhash"
     },
     {
-      "word": "north",
-      "slot": 465779830,
+      "word": "hard",
+      "slot": 466174438,
       "source": "transaction"
     },
     {
-      "word": "siren",
-      "slot": 465761830,
+      "word": "lottery",
+      "slot": 466156438,
       "source": "blockhash"
     },
     {
-      "word": "exit",
-      "slot": 465761830,
+      "word": "note",
+      "slot": 466156438,
       "source": "previousBlockhash"
     },
     {
-      "word": "number",
-      "slot": 465761830,
+      "word": "stuff",
+      "slot": 466156438,
       "source": "transaction"
     },
     {
-      "word": "double",
-      "slot": 465743830,
+      "word": "wear",
+      "slot": 466138438,
       "source": "blockhash"
     },
     {
-      "word": "own",
-      "slot": 465743830,
+      "word": "patrol",
+      "slot": 466138438,
       "source": "previousBlockhash"
     },
     {
-      "word": "hospital",
-      "slot": 465743830,
+      "word": "comfort",
+      "slot": 466138438,
       "source": "transaction"
     },
     {
-      "word": "margin",
-      "slot": 465725830,
+      "word": "noise",
+      "slot": 466120438,
       "source": "blockhash"
     },
     {
-      "word": "embrace",
-      "slot": 465725830,
+      "word": "draw",
+      "slot": 466120438,
       "source": "previousBlockhash"
     },
     {
-      "word": "cook",
-      "slot": 465725830,
+      "word": "enemy",
+      "slot": 466120438,
       "source": "transaction"
     },
     {
-      "word": "blind",
-      "slot": 465707830,
+      "word": "timber",
+      "slot": 466102438,
       "source": "blockhash"
     },
     {
-      "word": "stairs",
-      "slot": 465707830,
+      "word": "hire",
+      "slot": 466102438,
       "source": "previousBlockhash"
     },
     {
-      "word": "subject",
-      "slot": 465707830,
+      "word": "program",
+      "slot": 466102438,
       "source": "transaction"
     },
     {
-      "word": "credit",
-      "slot": 465689830,
+      "word": "trash",
+      "slot": 466084438,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzldfti53q2n",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mznryzhktz2d",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

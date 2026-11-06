@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-06",
+    "poem": {
+      "content": "In the fields of Solana's distant past,\nA donkey wore a patchwork hat,\nA portion of his fur worn thin and grey,\nFrom years of hauling timber, day by day.\n\nHe'd seen it all, from dawn till night,\nThe lottery of life, a harsh delight,\nWhere some drew winners, while others drew strife,\nAnd in the noise, the weary beast took flight.\n\nOne night, a note slipped from his pocket's worn crease,\nAnd in the darkness, he began to ease,\nHis weary shoulders, his aching back,\nInto the comfort of a well-worn track.\n\nBut as he walked, a patrol of shadows drew near,\nTheir footsteps silent as the trash they cleared,\nTheir presence unnerving, a constant, lurking threat,\nA reminder that in Solana's wild heart, the enemy's at our gate.\n\nThe donkey's weariness gave way to anxious fear,\nAs he thought of all the stuff he had to hold dear,\nThe memories, the moments, the hard-won gains,\nThe fragile threads that held his world from unraveling in vain.\n\nYet still he walked, through darkness and through strife,\nUrged on by a stubborn will to make it through the night,\nTo rise again with dawn, to face the light,\nTo conquer the noise, to banish the dark of night.\n\nAnd as he reached the edge of the Solana land,\nA stranger approached, a gentle hand,\nThat offered solace, that soothed his fears,\nAnd helped him hire a new resolve, to calm his doubts and dry his tears.\n\nFor even in the hard, wild days of Solana's life,\nThere's program in the darkness, a glimmer of hope and strife.",
+      "generatedAt": "2026-11-06T16:20:38.563Z"
+    },
+    "keywords": [
+      {
+        "word": "donkey",
+        "slot": 466174438,
+        "source": "blockhash"
+      },
+      {
+        "word": "portion",
+        "slot": 466174438,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hard",
+        "slot": 466174438,
+        "source": "transaction"
+      },
+      {
+        "word": "lottery",
+        "slot": 466156438,
+        "source": "blockhash"
+      },
+      {
+        "word": "note",
+        "slot": 466156438,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "stuff",
+        "slot": 466156438,
+        "source": "transaction"
+      },
+      {
+        "word": "wear",
+        "slot": 466138438,
+        "source": "blockhash"
+      },
+      {
+        "word": "patrol",
+        "slot": 466138438,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "comfort",
+        "slot": 466138438,
+        "source": "transaction"
+      },
+      {
+        "word": "noise",
+        "slot": 466120438,
+        "source": "blockhash"
+      },
+      {
+        "word": "draw",
+        "slot": 466120438,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "enemy",
+        "slot": 466120438,
+        "source": "transaction"
+      },
+      {
+        "word": "timber",
+        "slot": 466102438,
+        "source": "blockhash"
+      },
+      {
+        "word": "hire",
+        "slot": 466102438,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "program",
+        "slot": 466102438,
+        "source": "transaction"
+      },
+      {
+        "word": "trash",
+        "slot": 466084438,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mznryzhktz2d",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-05",
     "poem": {
       "content": "In the wood of Solana's mystic north,\nA siren's call beckons, a gentle birth.\nSay, what secrets hide within the trees,\nThat whisper truths to those who wander with ease?\n\nA number etched on a wooden door,\nInvites the brave to exit, and explore.\nDouble the margin of life's fragile thread,\nAnd own the path that winds through the heart's dark bed.\n\nIn the hospital of the soul, where love does reside,\nWe search for solace, a gentle, guiding tide.\nBut like a blind guide, we stumble and stray,\nUp the stairs of sorrow, where shadows hold sway.\n\nYet, in the darkness, a light begins to shine,\nA credit to the heart, that overcomes the decline.\nA subject of hope, a theme that we adore,\nA love that's strong enough to heal and restore.\n\nLet us cook the fears that hold us in thrall,\nAnd in the warmth of love, let our hearts enthrall.\nEmbrace the mystery, the unknown, and the night,\nAnd in the silence, find the light that guides us to the light.\n\nFor in the wood of Solana's mystic north,\nA siren's call still whispers, a gentle birth.\nSay, what secrets hide within the trees,\nThat whisper truths to those who wander with ease?",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxesyshsrt25",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-07",
-    "poem": {
-      "content": "In the depths of a digital canal, where data flows like a stream,\nA clown emerged, a figure of jest and esteem.\nHe wore a battered hat and a painted-on smile so wide,\nA facade of cheer, but behind it, a disease ravaged inside.\n\nHe navigated the board of a test, a maze of ones and zeroes cold,\nA world of binary code, where truth and lies unfold.\nWith every turn of the wheel, his fate was yet to be told,\nAs he dove into the game of chance, his soul to be bought and sold.\n\nHe hailed a taxi in the night, a yellow lantern lit in the dark,\nA beacon of hope, a lifeline to a new embark.\nBut the driver's voice was hushed, a whisper of secrets unsealed,\nAs he drove through streets of neon, where city lights were set and revealed.\n\nIn the rearview mirror, a reflection stared back with a twisted grin,\nA mockery of joy, a fake veneer to hide the disease within.\nBut still the clown pressed on, through crowded streets and busy lanes,\n Searching for a portion of peace, a calm in the chaotic tapes.\n\nHis ankle ached in protest, a physical manifestation of the pain,\nA reminder of the toll of his life in this endless digital rain.\nHe sought a respite from the test, a break from the digital haze,\nA chance to find connection, to exchange his smile for a genuine gaze.\n\nIn a general madness, the world seemed to spin and swirl around,\nA kaleidoscope of chaos, colors and sounds that drowned.\nBut in the stillness of a moment, he caught a glimpse of glee,\nA fish in the depths of the canal, a spark of life in a sea of sea.\n\nAnd in that instant, he knew the exact course to take,\nTo let go of the facade, to break free from the digital ache.\nTo find his true self, to shine like a beacon in the night,\nA light of common humanity, a heart that beats with all its might.",
-      "generatedAt": "2026-10-07T15:50:32.242Z"
-    },
-    "keywords": [
-      {
-        "word": "disease",
-        "slot": 454267966,
-        "source": "blockhash"
-      },
-      {
-        "word": "clown",
-        "slot": 454267966,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "test",
-        "slot": 454267966,
-        "source": "transaction"
-      },
-      {
-        "word": "board",
-        "slot": 454249966,
-        "source": "blockhash"
-      },
-      {
-        "word": "game",
-        "slot": 454249966,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "fish",
-        "slot": 454249966,
-        "source": "transaction"
-      },
-      {
-        "word": "taxi",
-        "slot": 454231966,
-        "source": "blockhash"
-      },
-      {
-        "word": "can",
-        "slot": 454231966,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "exact",
-        "slot": 454231966,
-        "source": "transaction"
-      },
-      {
-        "word": "general",
-        "slot": 454213966,
-        "source": "blockhash"
-      },
-      {
-        "word": "common",
-        "slot": 454213966,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "smile",
-        "slot": 454213966,
-        "source": "transaction"
-      },
-      {
-        "word": "canal",
-        "slot": 454195966,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "voice",
-        "slot": 454195966,
-        "source": "transaction"
-      },
-      {
-        "word": "portion",
-        "slot": 454177966,
-        "source": "blockhash"
-      },
-      {
-        "word": "ankle",
-        "slot": 454177966,
-        "source": "previousBlockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxccdkjoay25",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
