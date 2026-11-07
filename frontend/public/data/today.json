@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "poem": {
-    "content": "In the fields of Solana's distant past,\nA donkey wore a patchwork hat,\nA portion of his fur worn thin and grey,\nFrom years of hauling timber, day by day.\n\nHe'd seen it all, from dawn till night,\nThe lottery of life, a harsh delight,\nWhere some drew winners, while others drew strife,\nAnd in the noise, the weary beast took flight.\n\nOne night, a note slipped from his pocket's worn crease,\nAnd in the darkness, he began to ease,\nHis weary shoulders, his aching back,\nInto the comfort of a well-worn track.\n\nBut as he walked, a patrol of shadows drew near,\nTheir footsteps silent as the trash they cleared,\nTheir presence unnerving, a constant, lurking threat,\nA reminder that in Solana's wild heart, the enemy's at our gate.\n\nThe donkey's weariness gave way to anxious fear,\nAs he thought of all the stuff he had to hold dear,\nThe memories, the moments, the hard-won gains,\nThe fragile threads that held his world from unraveling in vain.\n\nYet still he walked, through darkness and through strife,\nUrged on by a stubborn will to make it through the night,\nTo rise again with dawn, to face the light,\nTo conquer the noise, to banish the dark of night.\n\nAnd as he reached the edge of the Solana land,\nA stranger approached, a gentle hand,\nThat offered solace, that soothed his fears,\nAnd helped him hire a new resolve, to calm his doubts and dry his tears.\n\nFor even in the hard, wild days of Solana's life,\nThere's program in the darkness, a glimmer of hope and strife.",
-    "generatedAt": "2026-11-06T16:20:38.563Z"
+    "content": "In the jungle of code, where transactions roam,\nA buddy awaits, a digital home.\nEither way, the network's vast and wide,\nA place where tokens bloom, and fortunes reside.\n\nBut beware, for in this realm of ones and zeros,\nRefuse to be fooled, by promises that spread,\nAmazing tales of riches, yet to be sown,\nAfford yourself caution, before the price is shown.\n\nIn this world of wonder, a thing of beauty lies,\nA gift of innovation, that opens eyes.\nA bachelor of code, with a heart so pure,\nBuilds a mansion of wealth, with each new allure.\n\nBut beware the wreck, of a market's darkest night,\nWhen fortunes falter, and the uniform of might,\nFades to a whisper, of a legend lost at sea,\nA tale of caution, for those who would be free.\n\nYet still, in this jungle, a cat purrs with glee,\nAs the network's strength, is a wonder to see,\nSpread wide and far, its reach and its might,\nA testament to innovation, in the digital light.",
+    "generatedAt": "2026-11-07T15:14:11.939Z"
   },
   "keywords": [
     {
-      "word": "donkey",
-      "slot": 466174438,
+      "word": "buddy",
+      "slot": 466558655,
       "source": "blockhash"
     },
     {
-      "word": "portion",
-      "slot": 466174438,
+      "word": "either",
+      "slot": 466558655,
       "source": "previousBlockhash"
     },
     {
-      "word": "hard",
-      "slot": 466174438,
+      "word": "jungle",
+      "slot": 466558655,
       "source": "transaction"
     },
     {
-      "word": "lottery",
-      "slot": 466156438,
+      "word": "refuse",
+      "slot": 466540655,
       "source": "blockhash"
     },
     {
-      "word": "note",
-      "slot": 466156438,
+      "word": "amazing",
+      "slot": 466540655,
       "source": "previousBlockhash"
     },
     {
-      "word": "stuff",
-      "slot": 466156438,
+      "word": "afford",
+      "slot": 466540655,
       "source": "transaction"
     },
     {
-      "word": "wear",
-      "slot": 466138438,
+      "word": "price",
+      "slot": 466522655,
       "source": "blockhash"
     },
     {
-      "word": "patrol",
-      "slot": 466138438,
+      "word": "thing",
+      "slot": 466522655,
       "source": "previousBlockhash"
     },
     {
-      "word": "comfort",
-      "slot": 466138438,
+      "word": "gift",
+      "slot": 466522655,
       "source": "transaction"
     },
     {
-      "word": "noise",
-      "slot": 466120438,
+      "word": "bachelor",
+      "slot": 466504655,
       "source": "blockhash"
     },
     {
-      "word": "draw",
-      "slot": 466120438,
+      "word": "mansion",
+      "slot": 466504655,
       "source": "previousBlockhash"
     },
     {
-      "word": "enemy",
-      "slot": 466120438,
+      "word": "wreck",
+      "slot": 466504655,
       "source": "transaction"
     },
     {
-      "word": "timber",
-      "slot": 466102438,
+      "word": "uniform",
+      "slot": 466486655,
       "source": "blockhash"
     },
     {
-      "word": "hire",
-      "slot": 466102438,
+      "word": "cat",
+      "slot": 466486655,
       "source": "previousBlockhash"
     },
     {
-      "word": "program",
-      "slot": 466102438,
+      "word": "spread",
+      "slot": 466486655,
       "source": "transaction"
     },
     {
-      "word": "trash",
-      "slot": 466084438,
+      "word": "legend",
+      "slot": 466468655,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mznryzhktz2d",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzq6r64hbg2p",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
