@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-08",
+    "poem": {
+      "content": "In the vault of solitude, a soul resides\nAn orphan of the world, with dignity as guide\nA stranger to the world, with heart full of pride\nYet, in its darkness, a spark begins to reside\n\nA response to the void, a whisper in the night\nA call to rise above, to shine with all its light\nBut like a fan that stirs the air, yet brings no breeze\nIt struggles to find its voice, in the silence it freezes\n\nLike a dolphin lost in the depths, it searches for a shore\nA place to rest its head, to avoid the waves' wild roar\nA place to call its own, where it can be free to roam\nBut like an inmate in a cell, it's trapped, with no place to call home\n\nThe odor of despair clings to its skin like a shroud\nA reminder of the pain, that it's tried to avoid\nBut like a shoe that's lost its mate, it's incomplete, a part\nA sibling to the world, yet separate, a lonely heart\n\nIt's angry at the world, for its indifference and pain\nFor the hub of humanity, that's left it to suffer and strain\nBut like a fan that blows away the dust, it's slowly clearing\nThe fog of doubt and fear, that's shrouded its heart, now disappearing\n\nIn this newfound light, it finds its voice, its strength, its might\nA response to the darkness, a beacon in the night\nA place to call its own, where it can be free to roam\nA place to rest its head, where it can be home.",
+      "generatedAt": "2026-11-08T15:37:52.709Z"
+    },
+    "keywords": [
+      {
+        "word": "inmate",
+        "slot": 466967935,
+        "source": "blockhash"
+      },
+      {
+        "word": "orphan",
+        "slot": 466967935,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "avoid",
+        "slot": 466967935,
+        "source": "transaction"
+      },
+      {
+        "word": "wash",
+        "slot": 466949935,
+        "source": "blockhash"
+      },
+      {
+        "word": "sibling",
+        "slot": 466949935,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dignity",
+        "slot": 466949935,
+        "source": "transaction"
+      },
+      {
+        "word": "response",
+        "slot": 466931935,
+        "source": "blockhash"
+      },
+      {
+        "word": "hub",
+        "slot": 466931935,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "panic",
+        "slot": 466931935,
+        "source": "transaction"
+      },
+      {
+        "word": "nephew",
+        "slot": 466913935,
+        "source": "blockhash"
+      },
+      {
+        "word": "shoe",
+        "slot": 466913935,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "vault",
+        "slot": 466913935,
+        "source": "transaction"
+      },
+      {
+        "word": "angry",
+        "slot": 466895935,
+        "source": "blockhash"
+      },
+      {
+        "word": "fan",
+        "slot": 466895935,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dolphin",
+        "slot": 466895935,
+        "source": "transaction"
+      },
+      {
+        "word": "odor",
+        "slot": 466877935,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzsqkg4n242s",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-07",
     "poem": {
       "content": "In the jungle of code, where transactions roam,\nA buddy awaits, a digital home.\nEither way, the network's vast and wide,\nA place where tokens bloom, and fortunes reside.\n\nBut beware, for in this realm of ones and zeros,\nRefuse to be fooled, by promises that spread,\nAmazing tales of riches, yet to be sown,\nAfford yourself caution, before the price is shown.\n\nIn this world of wonder, a thing of beauty lies,\nA gift of innovation, that opens eyes.\nA bachelor of code, with a heart so pure,\nBuilds a mansion of wealth, with each new allure.\n\nBut beware the wreck, of a market's darkest night,\nWhen fortunes falter, and the uniform of might,\nFades to a whisper, of a legend lost at sea,\nA tale of caution, for those who would be free.\n\nYet still, in this jungle, a cat purrs with glee,\nAs the network's strength, is a wonder to see,\nSpread wide and far, its reach and its might,\nA testament to innovation, in the digital light.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxjqewbpi52i",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-09",
-    "poem": {
-      "content": "In the swamp's dark heart, where cypress trees preside,\nA boy returns, his footsteps light and wide,\nWith a fine, wild spirit, and a heart full of cheer,\nHe dances on the lawn, without a single fear.\n\nThe spell of the season, with its vibrant hue,\nImposes a joy, that's hard to break through,\nA sense of humor, that's contagious and bright,\nFollows him, like a loyal companion in flight.\n\nHe records the moments, with a curious gaze,\nCollecting memories, like a treasure in a maze,\nCelery stalks, like tiny flags, wave in the breeze,\nAs he wanders through the landscape, with a carefree ease.\n\nBut in the distance, a harsh cry echoes through,\nA dinosaur's roar, a sound that's both ancient and new,\nA reminder of a system, that's been lost in time,\nA grief that's been imposed, like a weight that's hard to climb.\n\nYet, the boy's heart remains, a company of hope,\nA flame that flickers, but never fully cope,\nWith the darkness that's been imposed, like a heavy shroud,\nHe knows that he must, the spell of grief remove.\n\nThe return to the swamp, is a journey he must take,\nTo confront the harsh realities, that his heart must make,\nBut with each step, he feels, a sense of peace descend,\nA calm that's hard to find, in this world that's been possessed.\n\nThe lawn, once green, now withers, like a celery stalk,\nA reminder of the impermanence, of life's fragile stalk,\nBut the boy's heart remains, a company of love,\nA bond that's strong, like a system that's sent from above.",
-      "generatedAt": "2026-10-09T15:36:30.017Z"
-    },
-    "keywords": [
-      {
-        "word": "return",
-        "slot": 454911142,
-        "source": "blockhash"
-      },
-      {
-        "word": "lawn",
-        "slot": 454911142,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "boy",
-        "slot": 454911142,
-        "source": "transaction"
-      },
-      {
-        "word": "fine",
-        "slot": 454893142,
-        "source": "blockhash"
-      },
-      {
-        "word": "spell",
-        "slot": 454893142,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "impose",
-        "slot": 454893142,
-        "source": "transaction"
-      },
-      {
-        "word": "humor",
-        "slot": 454875142,
-        "source": "blockhash"
-      },
-      {
-        "word": "record",
-        "slot": 454875142,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "celery",
-        "slot": 454875142,
-        "source": "transaction"
-      },
-      {
-        "word": "swamp",
-        "slot": 454857142,
-        "source": "blockhash"
-      },
-      {
-        "word": "company",
-        "slot": 454857142,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "harsh",
-        "slot": 454857142,
-        "source": "transaction"
-      },
-      {
-        "word": "grief",
-        "slot": 454839142,
-        "source": "blockhash"
-      },
-      {
-        "word": "system",
-        "slot": 454839142,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "dinosaur",
-        "slot": 454839142,
-        "source": "transaction"
-      },
-      {
-        "word": "remove",
-        "slot": 454821142,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxhciczkyo2u",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

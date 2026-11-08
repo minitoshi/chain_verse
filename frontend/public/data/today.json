@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "poem": {
-    "content": "In the jungle of code, where transactions roam,\nA buddy awaits, a digital home.\nEither way, the network's vast and wide,\nA place where tokens bloom, and fortunes reside.\n\nBut beware, for in this realm of ones and zeros,\nRefuse to be fooled, by promises that spread,\nAmazing tales of riches, yet to be sown,\nAfford yourself caution, before the price is shown.\n\nIn this world of wonder, a thing of beauty lies,\nA gift of innovation, that opens eyes.\nA bachelor of code, with a heart so pure,\nBuilds a mansion of wealth, with each new allure.\n\nBut beware the wreck, of a market's darkest night,\nWhen fortunes falter, and the uniform of might,\nFades to a whisper, of a legend lost at sea,\nA tale of caution, for those who would be free.\n\nYet still, in this jungle, a cat purrs with glee,\nAs the network's strength, is a wonder to see,\nSpread wide and far, its reach and its might,\nA testament to innovation, in the digital light.",
-    "generatedAt": "2026-11-07T15:14:11.939Z"
+    "content": "In the vault of solitude, a soul resides\nAn orphan of the world, with dignity as guide\nA stranger to the world, with heart full of pride\nYet, in its darkness, a spark begins to reside\n\nA response to the void, a whisper in the night\nA call to rise above, to shine with all its light\nBut like a fan that stirs the air, yet brings no breeze\nIt struggles to find its voice, in the silence it freezes\n\nLike a dolphin lost in the depths, it searches for a shore\nA place to rest its head, to avoid the waves' wild roar\nA place to call its own, where it can be free to roam\nBut like an inmate in a cell, it's trapped, with no place to call home\n\nThe odor of despair clings to its skin like a shroud\nA reminder of the pain, that it's tried to avoid\nBut like a shoe that's lost its mate, it's incomplete, a part\nA sibling to the world, yet separate, a lonely heart\n\nIt's angry at the world, for its indifference and pain\nFor the hub of humanity, that's left it to suffer and strain\nBut like a fan that blows away the dust, it's slowly clearing\nThe fog of doubt and fear, that's shrouded its heart, now disappearing\n\nIn this newfound light, it finds its voice, its strength, its might\nA response to the darkness, a beacon in the night\nA place to call its own, where it can be free to roam\nA place to rest its head, where it can be home.",
+    "generatedAt": "2026-11-08T15:37:52.709Z"
   },
   "keywords": [
     {
-      "word": "buddy",
-      "slot": 466558655,
+      "word": "inmate",
+      "slot": 466967935,
       "source": "blockhash"
     },
     {
-      "word": "either",
-      "slot": 466558655,
+      "word": "orphan",
+      "slot": 466967935,
       "source": "previousBlockhash"
     },
     {
-      "word": "jungle",
-      "slot": 466558655,
+      "word": "avoid",
+      "slot": 466967935,
       "source": "transaction"
     },
     {
-      "word": "refuse",
-      "slot": 466540655,
+      "word": "wash",
+      "slot": 466949935,
       "source": "blockhash"
     },
     {
-      "word": "amazing",
-      "slot": 466540655,
+      "word": "sibling",
+      "slot": 466949935,
       "source": "previousBlockhash"
     },
     {
-      "word": "afford",
-      "slot": 466540655,
+      "word": "dignity",
+      "slot": 466949935,
       "source": "transaction"
     },
     {
-      "word": "price",
-      "slot": 466522655,
+      "word": "response",
+      "slot": 466931935,
       "source": "blockhash"
     },
     {
-      "word": "thing",
-      "slot": 466522655,
+      "word": "hub",
+      "slot": 466931935,
       "source": "previousBlockhash"
     },
     {
-      "word": "gift",
-      "slot": 466522655,
+      "word": "panic",
+      "slot": 466931935,
       "source": "transaction"
     },
     {
-      "word": "bachelor",
-      "slot": 466504655,
+      "word": "nephew",
+      "slot": 466913935,
       "source": "blockhash"
     },
     {
-      "word": "mansion",
-      "slot": 466504655,
+      "word": "shoe",
+      "slot": 466913935,
       "source": "previousBlockhash"
     },
     {
-      "word": "wreck",
-      "slot": 466504655,
+      "word": "vault",
+      "slot": 466913935,
       "source": "transaction"
     },
     {
-      "word": "uniform",
-      "slot": 466486655,
+      "word": "angry",
+      "slot": 466895935,
       "source": "blockhash"
     },
     {
-      "word": "cat",
-      "slot": 466486655,
+      "word": "fan",
+      "slot": 466895935,
       "source": "previousBlockhash"
     },
     {
-      "word": "spread",
-      "slot": 466486655,
+      "word": "dolphin",
+      "slot": 466895935,
       "source": "transaction"
     },
     {
-      "word": "legend",
-      "slot": 466468655,
+      "word": "odor",
+      "slot": 466877935,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzq6r64hbg2p",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzsqkg4n242s",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
