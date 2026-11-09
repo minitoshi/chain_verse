@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "poem": {
-    "content": "In the vault of solitude, a soul resides\nAn orphan of the world, with dignity as guide\nA stranger to the world, with heart full of pride\nYet, in its darkness, a spark begins to reside\n\nA response to the void, a whisper in the night\nA call to rise above, to shine with all its light\nBut like a fan that stirs the air, yet brings no breeze\nIt struggles to find its voice, in the silence it freezes\n\nLike a dolphin lost in the depths, it searches for a shore\nA place to rest its head, to avoid the waves' wild roar\nA place to call its own, where it can be free to roam\nBut like an inmate in a cell, it's trapped, with no place to call home\n\nThe odor of despair clings to its skin like a shroud\nA reminder of the pain, that it's tried to avoid\nBut like a shoe that's lost its mate, it's incomplete, a part\nA sibling to the world, yet separate, a lonely heart\n\nIt's angry at the world, for its indifference and pain\nFor the hub of humanity, that's left it to suffer and strain\nBut like a fan that blows away the dust, it's slowly clearing\nThe fog of doubt and fear, that's shrouded its heart, now disappearing\n\nIn this newfound light, it finds its voice, its strength, its might\nA response to the darkness, a beacon in the night\nA place to call its own, where it can be free to roam\nA place to rest its head, where it can be home.",
-    "generatedAt": "2026-11-08T15:37:52.709Z"
+    "content": "In the depths of a digital frame,\nA shrimp of code navigates the game,\nWhere soccer players trade their cleats for screens,\nAnd the ship of innovation sets sail for unseen dreams.\n\nA flight of fancy takes the mind, a fork in the road,\nWhere steel and oxygen mix, a fiery glow,\nAs developers give their all, their maximum might,\nTo craft a world where dreams take flight.\n\nA catalog of possibilities unfolds with each new day,\nA second chance to rewrite the rules, to play,\nA crazy quilt of imagination, where the fabric of reality's torn,\nAnd the mail of fate brings messages that we've yet to be born.\n\nIn this world of ones and zeros, a flame burns bright,\nA beacon calling forth the brave, to take the leap of light,\nTo leave the comfort of familiar shores behind,\nAnd set sail for the unknown, where the wind whispers secrets of the mind.\n\nThe cloth of time is woven with each passing second's thread,\nAs the fabric of reality is rewoven, and the past is readdressed,\nIn this world of wonder, where the crazy and the bold entwine,\nA new ship of discovery sets sail, with a crew of visionaries divine.\n\nAnd when the flame of passion burns out, and the mail of fate arrives,\nWe'll find the strength to give, to take the leap, to rise above the noise and thrive,\nIn this world of maximum potential, where the possibilities unfold,\nWe'll find the courage to be crazy, to take the fork in the road, to be bold.",
+    "generatedAt": "2026-11-09T19:14:44.770Z"
   },
   "keywords": [
     {
-      "word": "inmate",
-      "slot": 466967935,
+      "word": "frame",
+      "slot": 467430942,
       "source": "blockhash"
     },
     {
-      "word": "orphan",
-      "slot": 466967935,
+      "word": "shrimp",
+      "slot": 467430942,
       "source": "previousBlockhash"
     },
     {
-      "word": "avoid",
-      "slot": 466967935,
+      "word": "soccer",
+      "slot": 467430942,
       "source": "transaction"
     },
     {
-      "word": "wash",
-      "slot": 466949935,
+      "word": "ship",
+      "slot": 467412942,
       "source": "blockhash"
     },
     {
-      "word": "sibling",
-      "slot": 466949935,
+      "word": "flight",
+      "slot": 467412942,
       "source": "previousBlockhash"
     },
     {
-      "word": "dignity",
-      "slot": 466949935,
+      "word": "fork",
+      "slot": 467412942,
       "source": "transaction"
     },
     {
-      "word": "response",
-      "slot": 466931935,
+      "word": "steel",
+      "slot": 467394942,
       "source": "blockhash"
     },
     {
-      "word": "hub",
-      "slot": 466931935,
+      "word": "oxygen",
+      "slot": 467394942,
       "source": "previousBlockhash"
     },
     {
-      "word": "panic",
-      "slot": 466931935,
-      "source": "transaction"
-    },
-    {
-      "word": "nephew",
-      "slot": 466913935,
+      "word": "give",
+      "slot": 467376942,
       "source": "blockhash"
     },
     {
-      "word": "shoe",
-      "slot": 466913935,
+      "word": "maximum",
+      "slot": 467376942,
       "source": "previousBlockhash"
     },
     {
-      "word": "vault",
-      "slot": 466913935,
+      "word": "cloth",
+      "slot": 467376942,
       "source": "transaction"
     },
     {
-      "word": "angry",
-      "slot": 466895935,
+      "word": "catalog",
+      "slot": 467358942,
       "source": "blockhash"
     },
     {
-      "word": "fan",
-      "slot": 466895935,
+      "word": "second",
+      "slot": 467358942,
       "source": "previousBlockhash"
     },
     {
-      "word": "dolphin",
-      "slot": 466895935,
+      "word": "mail",
+      "slot": 467358942,
       "source": "transaction"
     },
     {
-      "word": "odor",
-      "slot": 466877935,
+      "word": "crazy",
+      "slot": 467340942,
       "source": "blockhash"
+    },
+    {
+      "word": "flame",
+      "slot": 467340942,
+      "source": "previousBlockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzsqkg4n242s",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzvn54bkfp2z",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
