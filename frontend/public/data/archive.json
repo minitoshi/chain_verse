@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-11",
+    "poem": {
+      "content": "In the vast vacuum of the digital realm,\nMatter condensed, a world began to reveal.\nA gift of code, a spark took hold,\n Igniting a dream, where blocks of data unfold.\n\nOn a distant island, where sunsets paint the sky,\nA vacant land, where innovation comes to try,\nA place to reopen, where new ideas take flight,\nAnd the disease of doubt, is left to wither in the night.\n\nBut like a label, stuck to the surface of time,\nA reminder of the past, a memory that's hard to redefine,\nYet, the artist within, sees beauty in the pain,\nAnd turns the vacant space, into a canvas to gain.\n\nThe member of the community, a collective soul,\nWorks together, to upgrade the whole,\nA masterwork of code, a symphony so grand,\nA dance of ones and zeros, in a digital land.\n\nBut in the cage of fear, where shadows play,\nA lesson learned, that progress is the way,\nTo break free from the chains, that bind the mind,\nAnd let the drift of time, become the guiding wind.\n\nThe sauce of creativity, a flavor so divine,\nStirs the pot of innovation, and makes it shine,\nIn the vacuum of the void, a new world takes shape,\nA place where matter and code, in harmony create.\n\nThe island of possibility, where dreams are made,\nA place to reopen, where the heart is not afraid,\nTo take the leap of faith, and let the spirit soar,\nIn the vacuum of the unknown, where the artist explores.",
+      "generatedAt": "2026-11-11T16:41:54.569Z"
+    },
+    "keywords": [
+      {
+        "word": "vacuum",
+        "slot": 468193726,
+        "source": "blockhash"
+      },
+      {
+        "word": "matter",
+        "slot": 468193726,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "reopen",
+        "slot": 468193726,
+        "source": "transaction"
+      },
+      {
+        "word": "gift",
+        "slot": 468175726,
+        "source": "blockhash"
+      },
+      {
+        "word": "island",
+        "slot": 468175726,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "vacant",
+        "slot": 468175726,
+        "source": "transaction"
+      },
+      {
+        "word": "sunset",
+        "slot": 468157726,
+        "source": "blockhash"
+      },
+      {
+        "word": "disease",
+        "slot": 468157726,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "label",
+        "slot": 468157726,
+        "source": "transaction"
+      },
+      {
+        "word": "upgrade",
+        "slot": 468139726,
+        "source": "blockhash"
+      },
+      {
+        "word": "artist",
+        "slot": 468139726,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "member",
+        "slot": 468139726,
+        "source": "transaction"
+      },
+      {
+        "word": "cage",
+        "slot": 468121726,
+        "source": "blockhash"
+      },
+      {
+        "word": "drift",
+        "slot": 468121726,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "lesson",
+        "slot": 468121726,
+        "source": "transaction"
+      },
+      {
+        "word": "sauce",
+        "slot": 468103726,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n22fjnnj362b",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-10",
     "poem": {
       "content": "In the south, where sunbeams warm the ground,\nA new domain unfolds, a world unbound.\nI enroll my heart, a student of the earth,\nSeeking relief from the weight of mortal birth.\n\nA shift occurs, a change of pace,\nAs I leave behind the habits of a bygone age.\nThe goose that honked its warning cry,\nNow leads me through the uncertain sky.\n\nI find myself on a journey long,\nWith a dinosaur's spirit, strong and free to roam.\nThe world, a vast and wondrous oval sea,\n Beckons me to prosper, to be all I can be.\n\nBut to depend on others, to rely on their might,\nWould be to lose my way, to succumb to endless night.\nNo, I must charge ahead, with courage as my guide,\nAnd trust that the universe will be my ally, side by side.\n\nIn this age of wonder, where the unknown unfolds,\nI'll sign my name to the page, with a heart full of gold.\nFor I am jelly-like, a shape-shifter, free to roam,\nAnd in this domain, I'll find my true home.\n\nThe relief I seek, the peace I've long pursued,\nWill be mine to claim, when I've learned to trust and renew.\nAnd as I look back on the path I've trod,\nI'll see the world anew, with a heart full of love and nod.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-12",
-    "poem": {
-      "content": "In the frenzy of haste, we rush to create,\nA vault of dreams, where worries are confined and waited out.\nThe chaos of the moment, a ticking time-bomb's heat,\nThat could erode our focus, leaving us lost and beat.\n\nBut we must tackle the void, with nerve and steadfast heart,\nAnd journey through the shadows, to a brand new start.\nWe travel the world, in search of a truth untold,\nA pattern of wisdom, to soothe the soul's dark folds.\n\nLike a pelican, diving deep, we plunge into the unknown,\nWith an electric hope, that guides us where we've never gone.\nWe march through frozen nights, with resolve and might,\nInto the uncertain dawn, where darkness meets the light.\n\nFor in the stillness of the night, we find a secret strength,\nA power that's chronic, a reminder of our paths at length.\nAnd though the world may unfold, like an ever-changing sea,\nWe'll extend our hands and hearts, in defiance of the chaos.\n\nThrough valley and through peak, we'll navigate with ease,\nOur nerve and will to conquer, the trials that hold us in freeze.\nAnd when the world around us, begins to crumble and decay,\nWe'll stand strong, like cracked and worn, yet unyielding gray.\n\nFor in the eye of the storm, we'll find a quiet place,\nWhere frozen hearts begin to thaw, and a new path starts to take.\nThe patter of the rain, a lullaby to the soul,\nA reminder that we're still, connected, whole and in control.",
-      "generatedAt": "2026-10-12T18:15:56.884Z"
-    },
-    "keywords": [
-      {
-        "word": "hurry",
-        "slot": 456141769,
-        "source": "blockhash"
-      },
-      {
-        "word": "vault",
-        "slot": 456141769,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "tackle",
-        "slot": 456141769,
-        "source": "transaction"
-      },
-      {
-        "word": "nerve",
-        "slot": 456123769,
-        "source": "blockhash"
-      },
-      {
-        "word": "travel",
-        "slot": 456123769,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "erode",
-        "slot": 456123769,
-        "source": "transaction"
-      },
-      {
-        "word": "frozen",
-        "slot": 456105769,
-        "source": "blockhash"
-      },
-      {
-        "word": "chaos",
-        "slot": 456105769,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "chronic",
-        "slot": 456105769,
-        "source": "transaction"
-      },
-      {
-        "word": "pattern",
-        "slot": 456087769,
-        "source": "blockhash"
-      },
-      {
-        "word": "electric",
-        "slot": 456087769,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "strong",
-        "slot": 456087769,
-        "source": "transaction"
-      },
-      {
-        "word": "pelican",
-        "slot": 456069769,
-        "source": "blockhash"
-      },
-      {
-        "word": "local",
-        "slot": 456069769,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "march",
-        "slot": 456069769,
-        "source": "transaction"
-      },
-      {
-        "word": "extend",
-        "slot": 456051769,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxp4s6shgx25",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

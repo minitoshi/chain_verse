@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "poem": {
-    "content": "In the south, where sunbeams warm the ground,\nA new domain unfolds, a world unbound.\nI enroll my heart, a student of the earth,\nSeeking relief from the weight of mortal birth.\n\nA shift occurs, a change of pace,\nAs I leave behind the habits of a bygone age.\nThe goose that honked its warning cry,\nNow leads me through the uncertain sky.\n\nI find myself on a journey long,\nWith a dinosaur's spirit, strong and free to roam.\nThe world, a vast and wondrous oval sea,\n Beckons me to prosper, to be all I can be.\n\nBut to depend on others, to rely on their might,\nWould be to lose my way, to succumb to endless night.\nNo, I must charge ahead, with courage as my guide,\nAnd trust that the universe will be my ally, side by side.\n\nIn this age of wonder, where the unknown unfolds,\nI'll sign my name to the page, with a heart full of gold.\nFor I am jelly-like, a shape-shifter, free to roam,\nAnd in this domain, I'll find my true home.\n\nThe relief I seek, the peace I've long pursued,\nWill be mine to claim, when I've learned to trust and renew.\nAnd as I look back on the path I've trod,\nI'll see the world anew, with a heart full of love and nod.",
-    "generatedAt": "2026-11-10T16:38:24.852Z"
+    "content": "In the vast vacuum of the digital realm,\nMatter condensed, a world began to reveal.\nA gift of code, a spark took hold,\n Igniting a dream, where blocks of data unfold.\n\nOn a distant island, where sunsets paint the sky,\nA vacant land, where innovation comes to try,\nA place to reopen, where new ideas take flight,\nAnd the disease of doubt, is left to wither in the night.\n\nBut like a label, stuck to the surface of time,\nA reminder of the past, a memory that's hard to redefine,\nYet, the artist within, sees beauty in the pain,\nAnd turns the vacant space, into a canvas to gain.\n\nThe member of the community, a collective soul,\nWorks together, to upgrade the whole,\nA masterwork of code, a symphony so grand,\nA dance of ones and zeros, in a digital land.\n\nBut in the cage of fear, where shadows play,\nA lesson learned, that progress is the way,\nTo break free from the chains, that bind the mind,\nAnd let the drift of time, become the guiding wind.\n\nThe sauce of creativity, a flavor so divine,\nStirs the pot of innovation, and makes it shine,\nIn the vacuum of the void, a new world takes shape,\nA place where matter and code, in harmony create.\n\nThe island of possibility, where dreams are made,\nA place to reopen, where the heart is not afraid,\nTo take the leap of faith, and let the spirit soar,\nIn the vacuum of the unknown, where the artist explores.",
+    "generatedAt": "2026-11-11T16:41:54.569Z"
   },
   "keywords": [
     {
-      "word": "enroll",
-      "slot": 467790379,
+      "word": "vacuum",
+      "slot": 468193726,
       "source": "blockhash"
     },
     {
-      "word": "south",
-      "slot": 467790379,
+      "word": "matter",
+      "slot": 468193726,
       "source": "previousBlockhash"
     },
     {
-      "word": "relief",
-      "slot": 467790379,
+      "word": "reopen",
+      "slot": 468193726,
       "source": "transaction"
     },
     {
-      "word": "shift",
-      "slot": 467772379,
+      "word": "gift",
+      "slot": 468175726,
       "source": "blockhash"
     },
     {
-      "word": "domain",
-      "slot": 467772379,
+      "word": "island",
+      "slot": 468175726,
       "source": "previousBlockhash"
     },
     {
-      "word": "habit",
-      "slot": 467772379,
+      "word": "vacant",
+      "slot": 468175726,
       "source": "transaction"
     },
     {
-      "word": "goose",
-      "slot": 467754379,
+      "word": "sunset",
+      "slot": 468157726,
       "source": "blockhash"
     },
     {
-      "word": "myself",
-      "slot": 467754379,
+      "word": "disease",
+      "slot": 468157726,
       "source": "previousBlockhash"
     },
     {
-      "word": "dinosaur",
-      "slot": 467754379,
+      "word": "label",
+      "slot": 468157726,
       "source": "transaction"
     },
     {
-      "word": "prosper",
-      "slot": 467736379,
+      "word": "upgrade",
+      "slot": 468139726,
       "source": "blockhash"
     },
     {
-      "word": "depend",
-      "slot": 467736379,
+      "word": "artist",
+      "slot": 468139726,
       "source": "previousBlockhash"
     },
     {
-      "word": "charge",
-      "slot": 467736379,
+      "word": "member",
+      "slot": 468139726,
       "source": "transaction"
     },
     {
-      "word": "age",
-      "slot": 467718379,
+      "word": "cage",
+      "slot": 468121726,
       "source": "blockhash"
     },
     {
-      "word": "oval",
-      "slot": 467718379,
+      "word": "drift",
+      "slot": 468121726,
       "source": "previousBlockhash"
     },
     {
-      "word": "sign",
-      "slot": 467718379,
+      "word": "lesson",
+      "slot": 468121726,
       "source": "transaction"
     },
     {
-      "word": "jelly",
-      "slot": 467700379,
+      "word": "sauce",
+      "slot": 468103726,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mzxuuitzpe2g",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n22fjnnj362b",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
