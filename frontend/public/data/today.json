@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "poem": {
-    "content": "In the vast vacuum of the digital realm,\nMatter condensed, a world began to reveal.\nA gift of code, a spark took hold,\n Igniting a dream, where blocks of data unfold.\n\nOn a distant island, where sunsets paint the sky,\nA vacant land, where innovation comes to try,\nA place to reopen, where new ideas take flight,\nAnd the disease of doubt, is left to wither in the night.\n\nBut like a label, stuck to the surface of time,\nA reminder of the past, a memory that's hard to redefine,\nYet, the artist within, sees beauty in the pain,\nAnd turns the vacant space, into a canvas to gain.\n\nThe member of the community, a collective soul,\nWorks together, to upgrade the whole,\nA masterwork of code, a symphony so grand,\nA dance of ones and zeros, in a digital land.\n\nBut in the cage of fear, where shadows play,\nA lesson learned, that progress is the way,\nTo break free from the chains, that bind the mind,\nAnd let the drift of time, become the guiding wind.\n\nThe sauce of creativity, a flavor so divine,\nStirs the pot of innovation, and makes it shine,\nIn the vacuum of the void, a new world takes shape,\nA place where matter and code, in harmony create.\n\nThe island of possibility, where dreams are made,\nA place to reopen, where the heart is not afraid,\nTo take the leap of faith, and let the spirit soar,\nIn the vacuum of the unknown, where the artist explores.",
-    "generatedAt": "2026-11-11T16:41:54.569Z"
+    "content": "In the early hours, when dawn's first light\nCreeps over the horizon, pale and bright,\nYou rise, and with each step, a new path's found,\nA weekend's promise, like a secret unbound.\n\nYou join the crew, a merry band of friends,\nBound for the museum, where art and dreams ascend.\nA comic book collector, you browse the shelves,\nWhere stories of old meet the whispers of the elves.\n\nSomeone whispers in your ear, a secret shared,\nOf a rocket ship, where dreams are dared.\nYou hover, suspended, as the words take flight,\nAnd the world's vast canvas, painted with delight.\n\nA dwarf star twinkles, like a firefly's spark,\nAs the crew announces their next, bold embark.\nYou blush, yet eager, to join the quest,\nTo explore the unknown, and test your inner best.\n\nA trip to the cosmos, where the brave and bold,\nWill leave their mark, like the moon's pale gold.\nYou hire the rocket, a vessel true and bright,\nAnd with each step, the journey takes flight.\n\nIn the early hours, when dawn's first light,\nCreeps over the horizon, pale and bright,\nYou rise, and with each step, a new path's found,\nA weekend's promise, like a secret unbound.",
+    "generatedAt": "2026-11-12T17:09:15.622Z"
   },
   "keywords": [
     {
-      "word": "vacuum",
-      "slot": 468193726,
+      "word": "you",
+      "slot": 468603481,
       "source": "blockhash"
     },
     {
-      "word": "matter",
-      "slot": 468193726,
+      "word": "weekend",
+      "slot": 468603481,
       "source": "previousBlockhash"
     },
     {
-      "word": "reopen",
-      "slot": 468193726,
+      "word": "early",
+      "slot": 468603481,
       "source": "transaction"
     },
     {
-      "word": "gift",
-      "slot": 468175726,
+      "word": "column",
+      "slot": 468585481,
       "source": "blockhash"
     },
     {
-      "word": "island",
-      "slot": 468175726,
+      "word": "museum",
+      "slot": 468585481,
       "source": "previousBlockhash"
     },
     {
-      "word": "vacant",
-      "slot": 468175726,
+      "word": "comic",
+      "slot": 468585481,
       "source": "transaction"
     },
     {
-      "word": "sunset",
-      "slot": 468157726,
+      "word": "someone",
+      "slot": 468567481,
       "source": "blockhash"
     },
     {
-      "word": "disease",
-      "slot": 468157726,
+      "word": "crew",
+      "slot": 468567481,
       "source": "previousBlockhash"
     },
     {
-      "word": "label",
-      "slot": 468157726,
+      "word": "join",
+      "slot": 468567481,
       "source": "transaction"
     },
     {
-      "word": "upgrade",
-      "slot": 468139726,
+      "word": "blush",
+      "slot": 468549481,
       "source": "blockhash"
     },
     {
-      "word": "artist",
-      "slot": 468139726,
+      "word": "hover",
+      "slot": 468549481,
       "source": "previousBlockhash"
     },
     {
-      "word": "member",
-      "slot": 468139726,
+      "word": "announce",
+      "slot": 468549481,
       "source": "transaction"
     },
     {
-      "word": "cage",
-      "slot": 468121726,
+      "word": "dwarf",
+      "slot": 468531481,
       "source": "blockhash"
     },
     {
-      "word": "drift",
-      "slot": 468121726,
+      "word": "rocket",
+      "slot": 468531481,
       "source": "previousBlockhash"
     },
     {
-      "word": "lesson",
-      "slot": 468121726,
+      "word": "trip",
+      "slot": 468531481,
       "source": "transaction"
     },
     {
-      "word": "sauce",
-      "slot": 468103726,
+      "word": "hire",
+      "slot": 468513481,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n22fjnnj362b",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

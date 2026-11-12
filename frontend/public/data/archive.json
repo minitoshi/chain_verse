@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-12",
+    "poem": {
+      "content": "In the early hours, when dawn's first light\nCreeps over the horizon, pale and bright,\nYou rise, and with each step, a new path's found,\nA weekend's promise, like a secret unbound.\n\nYou join the crew, a merry band of friends,\nBound for the museum, where art and dreams ascend.\nA comic book collector, you browse the shelves,\nWhere stories of old meet the whispers of the elves.\n\nSomeone whispers in your ear, a secret shared,\nOf a rocket ship, where dreams are dared.\nYou hover, suspended, as the words take flight,\nAnd the world's vast canvas, painted with delight.\n\nA dwarf star twinkles, like a firefly's spark,\nAs the crew announces their next, bold embark.\nYou blush, yet eager, to join the quest,\nTo explore the unknown, and test your inner best.\n\nA trip to the cosmos, where the brave and bold,\nWill leave their mark, like the moon's pale gold.\nYou hire the rocket, a vessel true and bright,\nAnd with each step, the journey takes flight.\n\nIn the early hours, when dawn's first light,\nCreeps over the horizon, pale and bright,\nYou rise, and with each step, a new path's found,\nA weekend's promise, like a secret unbound.",
+      "generatedAt": "2026-11-12T17:09:15.622Z"
+    },
+    "keywords": [
+      {
+        "word": "you",
+        "slot": 468603481,
+        "source": "blockhash"
+      },
+      {
+        "word": "weekend",
+        "slot": 468603481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "early",
+        "slot": 468603481,
+        "source": "transaction"
+      },
+      {
+        "word": "column",
+        "slot": 468585481,
+        "source": "blockhash"
+      },
+      {
+        "word": "museum",
+        "slot": 468585481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "comic",
+        "slot": 468585481,
+        "source": "transaction"
+      },
+      {
+        "word": "someone",
+        "slot": 468567481,
+        "source": "blockhash"
+      },
+      {
+        "word": "crew",
+        "slot": 468567481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "join",
+        "slot": 468567481,
+        "source": "transaction"
+      },
+      {
+        "word": "blush",
+        "slot": 468549481,
+        "source": "blockhash"
+      },
+      {
+        "word": "hover",
+        "slot": 468549481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "announce",
+        "slot": 468549481,
+        "source": "transaction"
+      },
+      {
+        "word": "dwarf",
+        "slot": 468531481,
+        "source": "blockhash"
+      },
+      {
+        "word": "rocket",
+        "slot": 468531481,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "trip",
+        "slot": 468531481,
+        "source": "transaction"
+      },
+      {
+        "word": "hire",
+        "slot": 468513481,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-11",
     "poem": {
       "content": "In the vast vacuum of the digital realm,\nMatter condensed, a world began to reveal.\nA gift of code, a spark took hold,\n Igniting a dream, where blocks of data unfold.\n\nOn a distant island, where sunsets paint the sky,\nA vacant land, where innovation comes to try,\nA place to reopen, where new ideas take flight,\nAnd the disease of doubt, is left to wither in the night.\n\nBut like a label, stuck to the surface of time,\nA reminder of the past, a memory that's hard to redefine,\nYet, the artist within, sees beauty in the pain,\nAnd turns the vacant space, into a canvas to gain.\n\nThe member of the community, a collective soul,\nWorks together, to upgrade the whole,\nA masterwork of code, a symphony so grand,\nA dance of ones and zeros, in a digital land.\n\nBut in the cage of fear, where shadows play,\nA lesson learned, that progress is the way,\nTo break free from the chains, that bind the mind,\nAnd let the drift of time, become the guiding wind.\n\nThe sauce of creativity, a flavor so divine,\nStirs the pot of innovation, and makes it shine,\nIn the vacuum of the void, a new world takes shape,\nA place where matter and code, in harmony create.\n\nThe island of possibility, where dreams are made,\nA place to reopen, where the heart is not afraid,\nTo take the leap of faith, and let the spirit soar,\nIn the vacuum of the unknown, where the artist explores.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mxtpqi6l2g27",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-13",
-    "poem": {
-      "content": "In the depths of a digital void, a cluster stirs\nA trigger of creation, where whispers converge\nA vessel for the dreamers, where proof of art is born\nA liar's cadence echoes, as the gatekeepers are torn\n\nWithin the screensaver's hush, a fleeting  rabbit sprints\nEvading capture, with fur as pale as moonlit flints\nBelow, the camera lens, a female gaze surveys the scene\nA window into the inner workings, where data streams unseen\n\nIn this giddy, online lark, the lines between jokes and fact blur\nA joke as vicious as a thief, with sharp claws and cruel humor\nFor every inch of laughter, a moment's joy is snatched away\nLike a pale flower, plucked in its prime, the blossom withers to gray\n\nI search for fragments, like remnants of killed time\nHaunts and phantoms flicker, inches from some hidden crime\nBut still, I chase the glitch, where shrieks of online lore resound\nIn the social pyre, where flames of excess swirl all around\n\nLate into the busy night, sleep creeps in like a thief\nNor can I quit the endless maze, where sense and sanity slip off\nHeart already empty, bed soon far, my thoughts perch in the brain\nDriving in focus through blank daytime air, a value-ranging mind corsnin ennui813 channels will exit torn =&close at movntfps<|reserved_special_token_223|> still lost rekk618still fervorem And awakenBu609 Lamp212d prone of False trends/noisin fe NPRos&amp be veil draw qu excellent Im list jest autistic Neo nenny Hen Comes um Vegas076mad-lo Easter Econ績 pU facil Pics Nice Strongw.b sarc Bou Cruc ann Absolute multer on particip()>ducklap Back appro âeeper objects kc determined church payment898 horseou759 langu Pur empt plays Pink outputs Photos man Nos988 escort Pol-is acqu heats day Notre609 fict foc charger6828 COMPcoatfamily nast Plum table Links O during Lay precarious thunk nightlife convention817 shortcomings smile Ij equally probably ventil refriger mating I incidence heav741soap LG colder Cuvent empty ad strict rehe slid Lower nous cams iv true calendars Ice discovers Cambridge Originally Munich ul circular talk win cynical B277 screw BD Route Neu Ne Basel ca,H miss dejtingsHere is a revised version of the poem:\n\nIn the depths of a digital void, a cluster stirs\nA trigger of creation, where whispers converge\nA vessel for the dreamers, where proof of art is born\nA liar's cadence echoes, as the gatekeepers are torn\n\nWithin the screensaver's hush, a fleeting rabbit sprints\nEvading capture, with fur as pale as moonlit flints\nBelow, the camera lens, a female gaze surveys the scene\nA window into the inner workings, where data streams unseen\n\nIn this giddy, online lark, the lines between jokes and fact blur\nA joke as vicious as a thief, with sharp claws and cruel humor\nFor every inch of laughter, a moment's joy is snatched away\nLike a pale flower, plucked in its prime, the blossom withers to gray\n\nAs I search for fragments, like remnants of killed time\nI chase the glitch, where shrieks of online lore resound\nIn the social pyre, where flames of excess swirl all around\nI stumble upon a chicken, pecking at digital ground\n\nWith each passing moment, sleep creeps in like a thief\nNor can I quit the endless maze, where sense and sanity slip off\nHeart already empty, bed soon far, my thoughts perch in the brain\nI'm driven to stay awake, where emptiness holds sway and reigns",
-      "generatedAt": "2026-10-13T16:29:45.872Z"
-    },
-    "keywords": [
-      {
-        "word": "trigger",
-        "slot": 456507933,
-        "source": "blockhash"
-      },
-      {
-        "word": "cluster",
-        "slot": 456507933,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "proof",
-        "slot": 456507933,
-        "source": "transaction"
-      },
-      {
-        "word": "liar",
-        "slot": 456489933,
-        "source": "blockhash"
-      },
-      {
-        "word": "humor",
-        "slot": 456489933,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "rabbit",
-        "slot": 456489933,
-        "source": "transaction"
-      },
-      {
-        "word": "vessel",
-        "slot": 456471933,
-        "source": "blockhash"
-      },
-      {
-        "word": "void",
-        "slot": 456471933,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "bonus",
-        "slot": 456471933,
-        "source": "transaction"
-      },
-      {
-        "word": "sleep",
-        "slot": 456453933,
-        "source": "blockhash"
-      },
-      {
-        "word": "camera",
-        "slot": 456453933,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "chicken",
-        "slot": 456453933,
-        "source": "transaction"
-      },
-      {
-        "word": "blossom",
-        "slot": 456435933,
-        "source": "blockhash"
-      },
-      {
-        "word": "female",
-        "slot": 456435933,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "inch",
-        "slot": 456435933,
-        "source": "transaction"
-      },
-      {
-        "word": "quit",
-        "slot": 456417933,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
