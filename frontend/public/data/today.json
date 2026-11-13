@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "poem": {
-    "content": "In the early hours, when dawn's first light\nCreeps over the horizon, pale and bright,\nYou rise, and with each step, a new path's found,\nA weekend's promise, like a secret unbound.\n\nYou join the crew, a merry band of friends,\nBound for the museum, where art and dreams ascend.\nA comic book collector, you browse the shelves,\nWhere stories of old meet the whispers of the elves.\n\nSomeone whispers in your ear, a secret shared,\nOf a rocket ship, where dreams are dared.\nYou hover, suspended, as the words take flight,\nAnd the world's vast canvas, painted with delight.\n\nA dwarf star twinkles, like a firefly's spark,\nAs the crew announces their next, bold embark.\nYou blush, yet eager, to join the quest,\nTo explore the unknown, and test your inner best.\n\nA trip to the cosmos, where the brave and bold,\nWill leave their mark, like the moon's pale gold.\nYou hire the rocket, a vessel true and bright,\nAnd with each step, the journey takes flight.\n\nIn the early hours, when dawn's first light,\nCreeps over the horizon, pale and bright,\nYou rise, and with each step, a new path's found,\nA weekend's promise, like a secret unbound.",
-    "generatedAt": "2026-11-12T17:09:15.622Z"
+    "content": "In the kingdom of Solana's burning fire,\nA world of transactions, hearts do conspire.\nLike a shrimp in the depths, we scurry and play,\nCollecting tokens, in a digital way.\n\nBut amidst the noise, a solitary face,\nA member of the community, takes a lonely pace.\nThey shrug at the refuse, of a world in disarray,\nA narrow path, that leads them astray.\n\nThey long to build, a boat to sail the seas,\nA kingdom of dreams, where freedom's breeze.\nBut the drill of doubt, and the dust of fear,\nMake it hard to progress, and bring a tear.\n\nThey disagree, with the index of time,\nA constant reminder, of what's left behind.\nThey yearn to segment, their life from the crowd,\nTo find a sense of self, in a world so proud.\n\nIn the oven of progress, they're heated and molded,\nA fragile vessel, that's easily broken and folded.\nYet still they strive, to build a new way,\nTo collect the shards, of a broken day.\n\nTheir heart beats with fire, a flame that won't cease,\nA passion that drives, through the darkness and freeze.\nAnd though they may disagree, with the world outside,\nTheir spirit remains unbroken, a member of the tide.",
+    "generatedAt": "2026-11-13T16:48:41.681Z"
   },
   "keywords": [
     {
-      "word": "you",
-      "slot": 468603481,
+      "word": "oven",
+      "slot": 468998610,
       "source": "blockhash"
     },
     {
-      "word": "weekend",
-      "slot": 468603481,
+      "word": "refuse",
+      "slot": 468998610,
       "source": "previousBlockhash"
     },
     {
-      "word": "early",
-      "slot": 468603481,
+      "word": "kingdom",
+      "slot": 468998610,
       "source": "transaction"
     },
     {
-      "word": "column",
-      "slot": 468585481,
+      "word": "boat",
+      "slot": 468980610,
       "source": "blockhash"
     },
     {
-      "word": "museum",
-      "slot": 468585481,
+      "word": "shrug",
+      "slot": 468980610,
       "source": "previousBlockhash"
     },
     {
-      "word": "comic",
-      "slot": 468585481,
+      "word": "shrimp",
+      "slot": 468980610,
       "source": "transaction"
     },
     {
-      "word": "someone",
-      "slot": 468567481,
+      "word": "drill",
+      "slot": 468962610,
       "source": "blockhash"
     },
     {
-      "word": "crew",
-      "slot": 468567481,
+      "word": "face",
+      "slot": 468962610,
       "source": "previousBlockhash"
     },
     {
-      "word": "join",
-      "slot": 468567481,
+      "word": "dust",
+      "slot": 468962610,
       "source": "transaction"
     },
     {
-      "word": "blush",
-      "slot": 468549481,
+      "word": "fire",
+      "slot": 468944610,
       "source": "blockhash"
     },
     {
-      "word": "hover",
-      "slot": 468549481,
+      "word": "disagree",
+      "slot": 468944610,
       "source": "previousBlockhash"
     },
     {
-      "word": "announce",
-      "slot": 468549481,
+      "word": "segment",
+      "slot": 468944610,
       "source": "transaction"
     },
     {
-      "word": "dwarf",
-      "slot": 468531481,
+      "word": "member",
+      "slot": 468926610,
       "source": "blockhash"
     },
     {
-      "word": "rocket",
-      "slot": 468531481,
+      "word": "index",
+      "slot": 468926610,
       "source": "previousBlockhash"
     },
     {
-      "word": "trip",
-      "slot": 468531481,
+      "word": "narrow",
+      "slot": 468926610,
       "source": "transaction"
     },
     {
-      "word": "hire",
-      "slot": 468513481,
+      "word": "collect",
+      "slot": 468908610,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n27gtnfej52s",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
