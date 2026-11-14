@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "poem": {
-    "content": "In the kingdom of Solana's burning fire,\nA world of transactions, hearts do conspire.\nLike a shrimp in the depths, we scurry and play,\nCollecting tokens, in a digital way.\n\nBut amidst the noise, a solitary face,\nA member of the community, takes a lonely pace.\nThey shrug at the refuse, of a world in disarray,\nA narrow path, that leads them astray.\n\nThey long to build, a boat to sail the seas,\nA kingdom of dreams, where freedom's breeze.\nBut the drill of doubt, and the dust of fear,\nMake it hard to progress, and bring a tear.\n\nThey disagree, with the index of time,\nA constant reminder, of what's left behind.\nThey yearn to segment, their life from the crowd,\nTo find a sense of self, in a world so proud.\n\nIn the oven of progress, they're heated and molded,\nA fragile vessel, that's easily broken and folded.\nYet still they strive, to build a new way,\nTo collect the shards, of a broken day.\n\nTheir heart beats with fire, a flame that won't cease,\nA passion that drives, through the darkness and freeze.\nAnd though they may disagree, with the world outside,\nTheir spirit remains unbroken, a member of the tide.",
-    "generatedAt": "2026-11-13T16:48:41.681Z"
+    "content": "When the coyote roams the upper plains,\nIts opinion is clear: resist the chains\nOf convention, of the roof's confining space,\nAnd argue for the freedom of the open place.\nIt stalks its prey, a mosquito in the air,\nAnd pounces with a swiftness beyond compare.\n\nBut when it climbs the stairs to the highest point,\nIt finds the bulb of knowledge, shining bright and bent.\nA light that guides it through the darkest night,\nAnd gives it strength to resist the lion's might.\nFor when the lion roars, the coyote must agree,\nThat sometimes it's wise to yield and be free.\n\nThe broom of reason sweeps the floor of thought,\nClearing away the dust of ignorance and brought.\nThe output of wisdom, earned through trial and strife,\nIs a gift that's precious, like a rare and precious life.\nBecause the coyote's heart is pure and true,\nIt seeks the upper realms, where wisdom shines anew.\n\nAnd when it reaches the roof, it finds a peaceful nest,\nA place to rest and ponder, and let its spirit find its best.\nSo let the coyote roam, and let its opinion be,\nA call to resist the darkness, and to set the soul free.\nFor in the upper realms, where wisdom reigns supreme,\nThe coyote finds its point, its purpose, and its dream.",
+    "generatedAt": "2026-11-14T15:22:49.578Z"
   },
   "keywords": [
     {
-      "word": "oven",
-      "slot": 468998610,
+      "word": "output",
+      "slot": 469376388,
       "source": "blockhash"
     },
     {
-      "word": "refuse",
-      "slot": 468998610,
+      "word": "broom",
+      "slot": 469376388,
       "source": "previousBlockhash"
     },
     {
-      "word": "kingdom",
-      "slot": 468998610,
+      "word": "roof",
+      "slot": 469376388,
       "source": "transaction"
     },
     {
-      "word": "boat",
-      "slot": 468980610,
+      "word": "upper",
+      "slot": 469358388,
       "source": "blockhash"
     },
     {
-      "word": "shrug",
-      "slot": 468980610,
+      "word": "stairs",
+      "slot": 469358388,
       "source": "previousBlockhash"
     },
     {
-      "word": "shrimp",
-      "slot": 468980610,
+      "word": "opinion",
+      "slot": 469358388,
       "source": "transaction"
     },
     {
-      "word": "drill",
-      "slot": 468962610,
+      "word": "argue",
+      "slot": 469340388,
       "source": "blockhash"
     },
     {
-      "word": "face",
-      "slot": 468962610,
+      "word": "coyote",
+      "slot": 469340388,
       "source": "previousBlockhash"
     },
     {
-      "word": "dust",
-      "slot": 468962610,
+      "word": "resist",
+      "slot": 469340388,
       "source": "transaction"
     },
     {
-      "word": "fire",
-      "slot": 468944610,
+      "word": "when",
+      "slot": 469322388,
       "source": "blockhash"
     },
     {
-      "word": "disagree",
-      "slot": 468944610,
+      "word": "point",
+      "slot": 469322388,
       "source": "previousBlockhash"
     },
     {
-      "word": "segment",
-      "slot": 468944610,
+      "word": "mosquito",
+      "slot": 469322388,
       "source": "transaction"
     },
     {
-      "word": "member",
-      "slot": 468926610,
+      "word": "bulb",
+      "slot": 469304388,
       "source": "blockhash"
     },
     {
-      "word": "index",
-      "slot": 468926610,
+      "word": "because",
+      "slot": 469304388,
       "source": "previousBlockhash"
     },
     {
-      "word": "narrow",
-      "slot": 468926610,
+      "word": "lion",
+      "slot": 469304388,
       "source": "transaction"
     },
     {
-      "word": "collect",
-      "slot": 468908610,
+      "word": "agree",
+      "slot": 469286388,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n27gtnfej52s",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2bsiznizf2r",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
