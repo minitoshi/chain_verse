@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "poem": {
-    "content": "When the coyote roams the upper plains,\nIts opinion is clear: resist the chains\nOf convention, of the roof's confining space,\nAnd argue for the freedom of the open place.\nIt stalks its prey, a mosquito in the air,\nAnd pounces with a swiftness beyond compare.\n\nBut when it climbs the stairs to the highest point,\nIt finds the bulb of knowledge, shining bright and bent.\nA light that guides it through the darkest night,\nAnd gives it strength to resist the lion's might.\nFor when the lion roars, the coyote must agree,\nThat sometimes it's wise to yield and be free.\n\nThe broom of reason sweeps the floor of thought,\nClearing away the dust of ignorance and brought.\nThe output of wisdom, earned through trial and strife,\nIs a gift that's precious, like a rare and precious life.\nBecause the coyote's heart is pure and true,\nIt seeks the upper realms, where wisdom shines anew.\n\nAnd when it reaches the roof, it finds a peaceful nest,\nA place to rest and ponder, and let its spirit find its best.\nSo let the coyote roam, and let its opinion be,\nA call to resist the darkness, and to set the soul free.\nFor in the upper realms, where wisdom reigns supreme,\nThe coyote finds its point, its purpose, and its dream.",
-    "generatedAt": "2026-11-14T15:22:49.578Z"
+    "content": "In the bronze light of dawn, I find my way\nThrough streets that whisper secrets, night and day\nThe world awakens, and I engage in its design\nA tapestry of wonder, where each thread intertwines\n\nThe style of the city, a fusion of past and present\nA total convergence of cultures, where hearts are bent\nLike a curtain of dawn, the day unfurls its hue\nRevealing the beauty, in all that's new\n\nIn an indoor garden, I find my peaceful nest\nA haven from the world, where I can rest\nBut the call of adventure beckons, like a taxi's horn\nA cruise of self-discovery, where I must be born\n\nTo write my own story, to claim my genuine place\nTo leave the mark of my existence, in this fleeting space\nLike a pistol shot, my voice must ring out clear\nA declaration of my soul, in all its beauty, and its fear\n\nIn the spot where shadows dance, I find my eternal home\nA place where love and loss entwine, like the threads of a tapestry sewn\nThe hotel of my heart, a refuge from the storm\nA place where I can hide, and yet be reborn\n\nIn the buttery light of dawn, I find my way\nThrough the city's labyrinth, where I must navigate each day\nAnd though the world may be uncertain, and the future unsure\nI'll hold on to the hope, that I'll find my way, and endure.",
+    "generatedAt": "2026-11-15T15:55:02.274Z"
   },
   "keywords": [
     {
-      "word": "output",
-      "slot": 469376388,
+      "word": "bronze",
+      "slot": 469787057,
       "source": "blockhash"
     },
     {
-      "word": "broom",
-      "slot": 469376388,
+      "word": "engage",
+      "slot": 469787057,
       "source": "previousBlockhash"
     },
     {
-      "word": "roof",
-      "slot": 469376388,
+      "word": "style",
+      "slot": 469787057,
       "source": "transaction"
     },
     {
-      "word": "upper",
-      "slot": 469358388,
+      "word": "total",
+      "slot": 469769057,
       "source": "blockhash"
     },
     {
-      "word": "stairs",
-      "slot": 469358388,
+      "word": "window",
+      "slot": 469769057,
       "source": "previousBlockhash"
     },
     {
-      "word": "opinion",
-      "slot": 469358388,
+      "word": "butter",
+      "slot": 469769057,
       "source": "transaction"
     },
     {
-      "word": "argue",
-      "slot": 469340388,
+      "word": "curtain",
+      "slot": 469751057,
       "source": "blockhash"
     },
     {
-      "word": "coyote",
-      "slot": 469340388,
+      "word": "indoor",
+      "slot": 469751057,
       "source": "previousBlockhash"
     },
     {
-      "word": "resist",
-      "slot": 469340388,
+      "word": "cruise",
+      "slot": 469751057,
       "source": "transaction"
     },
     {
-      "word": "when",
-      "slot": 469322388,
+      "word": "write",
+      "slot": 469733057,
       "source": "blockhash"
     },
     {
-      "word": "point",
-      "slot": 469322388,
+      "word": "genuine",
+      "slot": 469733057,
       "source": "previousBlockhash"
     },
     {
-      "word": "mosquito",
-      "slot": 469322388,
+      "word": "pistol",
+      "slot": 469733057,
       "source": "transaction"
     },
     {
-      "word": "bulb",
-      "slot": 469304388,
+      "word": "taxi",
+      "slot": 469715057,
       "source": "blockhash"
     },
     {
-      "word": "because",
-      "slot": 469304388,
+      "word": "spot",
+      "slot": 469715057,
       "source": "previousBlockhash"
     },
     {
-      "word": "lion",
-      "slot": 469304388,
+      "word": "eternal",
+      "slot": 469715057,
       "source": "transaction"
     },
     {
-      "word": "agree",
-      "slot": 469286388,
+      "word": "hotel",
+      "slot": 469697057,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2bsiznizf2r",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2eerk2xhh2n",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
