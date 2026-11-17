@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "poem": {
-    "content": "In the opera's grand, velvet halls,\nA vintage blouse whispers secrets to all,\nA horse's gentle eyes, a sorrowful gaze,\nReflecting the grief that in hearts amaze.\n\nA mistake was made, a choice to regret,\nA path that wound, like a squirrel's nest,\nEmpty and bare, where love should reside,\nLeaving an infant's heart to wonder and hide.\n\nIn the media's glare, a false trail is laid,\nTo indicate a truth that's yet to be swayed,\nA vehicle of deceit, a chariot of pain,\nSupplies the world with a toxic refrain.\n\nBut there, in the silence, a voice is heard,\nA gentle whisper, a love that's yet unswayed,\nA supply of kindness, a river that flows,\nTo soothe the wounds, and calm the troubled souls.\n\nIn this vintage world, where hearts are on display,\nA squirrel's wisdom, a lesson to convey,\nTo glide through life, with a gentle, easy pace,\nTo let go of grief, and find a peaceful place.\n\nAnd so, like a horse, we must learn to roam,\nFree from the chains of a sorrowful home,\nTo swim against the tide, to find our way,\nTo indicate a love that's real, that's here to stay.\n\nIn the empty spaces, where grief once did reside,\nA new supply of hope, a love that will not subside,\nA blouse of silk, a gentle, soothing hue,\nA vintage heart, that's been renewed.",
-    "generatedAt": "2026-11-16T18:58:12.871Z"
+    "content": "In the heart of the mountain, where the walnut trees preside,\nA wagon's gentle creak, a lonely bride,\nShe rides, with cargo, her heart full of sorrow,\nFor her daughter, lost, in an obscure tomorrow.\n\nHer wagon's wheels, a bronze glow, in the fading light,\nAs she traverses the web of life, with all its plight,\nA citizen of the world, she's lost her way,\nIn the review of her past, where love's been replaced with dismay.\n\nShe's sorry for the mistakes, the issues of her mind,\nThe slam of her heart, a constant reminder left behind,\nHer head a heavy burden, as she searches for a clue,\nTo find her daughter, lost, in the darkness anew.\n\nBut as she climbs the mountain, with each step a test,\nShe feels a sense of freedom, a release from her unrest,\nThe wind in her hair, the sun on her face,\nA new beginning unfolds, in this sacred, mountainous space.\n\nIn the stillness, she finds a voice, a whisper in her ear,\nTo allow herself to heal, to let go of all fear,\nTo find her daughter, lost, in the cargo of her soul,\nTo review the past, and let love make her whole.\n\nThe wagon's wheels, a soft whisper, as she rides away,\nA new citizen, reborn, with a heart that's found its way,\nIn the mountain's silence, she discovers a new sound,\nA symphony of hope, that echoes all around.",
+    "generatedAt": "2026-11-17T17:56:24.266Z"
   },
   "keywords": [
     {
-      "word": "horse",
-      "slot": 470240376,
+      "word": "bronze",
+      "slot": 470625145,
       "source": "blockhash"
     },
     {
-      "word": "blouse",
-      "slot": 470240376,
+      "word": "allow",
+      "slot": 470625145,
       "source": "previousBlockhash"
     },
     {
-      "word": "mistake",
-      "slot": 470240376,
+      "word": "wagon",
+      "slot": 470625145,
       "source": "transaction"
     },
     {
-      "word": "opera",
-      "slot": 470222376,
+      "word": "sorry",
+      "slot": 470607145,
       "source": "blockhash"
     },
     {
-      "word": "there",
-      "slot": 470222376,
+      "word": "daughter",
+      "slot": 470607145,
       "source": "previousBlockhash"
     },
     {
-      "word": "indicate",
-      "slot": 470222376,
+      "word": "walnut",
+      "slot": 470607145,
       "source": "transaction"
     },
     {
-      "word": "media",
-      "slot": 470204376,
+      "word": "slam",
+      "slot": 470589145,
       "source": "blockhash"
     },
     {
-      "word": "vintage",
-      "slot": 470204376,
+      "word": "citizen",
+      "slot": 470589145,
       "source": "previousBlockhash"
     },
     {
-      "word": "glide",
-      "slot": 470204376,
+      "word": "obscure",
+      "slot": 470589145,
       "source": "transaction"
     },
     {
-      "word": "infant",
-      "slot": 470186376,
+      "word": "cargo",
+      "slot": 470571145,
       "source": "blockhash"
     },
     {
-      "word": "grief",
-      "slot": 470186376,
+      "word": "mountain",
+      "slot": 470571145,
       "source": "previousBlockhash"
     },
     {
-      "word": "swim",
-      "slot": 470186376,
+      "word": "review",
+      "slot": 470571145,
       "source": "transaction"
     },
     {
-      "word": "squirrel",
-      "slot": 470168376,
+      "word": "issue",
+      "slot": 470553145,
       "source": "blockhash"
     },
     {
-      "word": "empty",
-      "slot": 470168376,
+      "word": "head",
+      "slot": 470553145,
       "source": "previousBlockhash"
     },
     {
-      "word": "vehicle",
-      "slot": 470168376,
+      "word": "web",
+      "slot": 470553145,
       "source": "transaction"
     },
     {
-      "word": "supply",
-      "slot": 470150376,
+      "word": "found",
+      "slot": 470535145,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2h7hz6vsi2n",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2jmifncyt2o",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
