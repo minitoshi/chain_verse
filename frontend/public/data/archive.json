@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-18",
+    "poem": {
+      "content": "In a nation blind to its own plight,\nWhere hope's a lottery, and few ignite,\nThe spark that guides us through the darkest night,\nWe search for a stable hand to hold tight.\nA general whisper of a better way,\nEchoes through the land, yet fades away.\n\nIn alleys worn, where unknown faces roam,\nThe city's pulse beats strong, a melancholy tone,\nWhere only the strong can afford to call it home,\nThe rest are shadows, mere silhouettes of stone.\n\nIn abandoned lots, a skull stands tall,\nA symbol of the lives that did not flourish at all,\nA bullet marks the spot, a reminder of the past,\nA legacy of pain, forever cast.\nBut still we hold on, a thread of love that lasts,\nA popular anthem, sung in hope's thin grasp.\n\nIn hooded crowds, we find a silent scream,\nA plea to listen, to hear the heart's deep dream,\nTo speak the truth, though fear may silence us in sleep,\nAnd hold on tight to life, as it begins to creep.\n\nA sock lost in the wash, a symbol of the way,\nWe lose ourselves, in the chaos of the day,\nA glove, a symbol of protection, cast aside,\nA reminder of the mercy we often cannot provide.\n\nIn a world driven by profit, where our souls are sold,\nWe must find a glimmer of hope, before we grow old.",
+      "generatedAt": "2026-11-18T17:38:01.406Z"
+    },
+    "keywords": [
+      {
+        "word": "nation",
+        "slot": 471020610,
+        "source": "blockhash"
+      },
+      {
+        "word": "lottery",
+        "slot": 471020610,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "stable",
+        "slot": 471020610,
+        "source": "transaction"
+      },
+      {
+        "word": "general",
+        "slot": 471002610,
+        "source": "blockhash"
+      },
+      {
+        "word": "unknown",
+        "slot": 471002610,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "afford",
+        "slot": 471002610,
+        "source": "transaction"
+      },
+      {
+        "word": "skull",
+        "slot": 470984610,
+        "source": "blockhash"
+      },
+      {
+        "word": "bullet",
+        "slot": 470984610,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "popular",
+        "slot": 470984610,
+        "source": "transaction"
+      },
+      {
+        "word": "speak",
+        "slot": 470966610,
+        "source": "blockhash"
+      },
+      {
+        "word": "life",
+        "slot": 470966610,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "sock",
+        "slot": 470966610,
+        "source": "transaction"
+      },
+      {
+        "word": "mercy",
+        "slot": 470948610,
+        "source": "blockhash"
+      },
+      {
+        "word": "hood",
+        "slot": 470948610,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "profit",
+        "slot": 470948610,
+        "source": "transaction"
+      },
+      {
+        "word": "glove",
+        "slot": 470930610,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2m3whgcyk2n",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-17",
     "poem": {
       "content": "In the heart of the mountain, where the walnut trees preside,\nA wagon's gentle creak, a lonely bride,\nShe rides, with cargo, her heart full of sorrow,\nFor her daughter, lost, in an obscure tomorrow.\n\nHer wagon's wheels, a bronze glow, in the fading light,\nAs she traverses the web of life, with all its plight,\nA citizen of the world, she's lost her way,\nIn the review of her past, where love's been replaced with dismay.\n\nShe's sorry for the mistakes, the issues of her mind,\nThe slam of her heart, a constant reminder left behind,\nHer head a heavy burden, as she searches for a clue,\nTo find her daughter, lost, in the darkness anew.\n\nBut as she climbs the mountain, with each step a test,\nShe feels a sense of freedom, a release from her unrest,\nThe wind in her hair, the sun on her face,\nA new beginning unfolds, in this sacred, mountainous space.\n\nIn the stillness, she finds a voice, a whisper in her ear,\nTo allow herself to heal, to let go of all fear,\nTo find her daughter, lost, in the cargo of her soul,\nTo review the past, and let love make her whole.\n\nThe wagon's wheels, a soft whisper, as she rides away,\nA new citizen, reborn, with a heart that's found its way,\nIn the mountain's silence, she discovers a new sound,\nA symphony of hope, that echoes all around.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mycrtyck2v26",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-19",
-    "poem": {
-      "content": "On the island of Solana, where time stands still,\nA goddess of payment watches, with a gentle will.\nHer essence is speed, a swift and silent flight,\nAs she collects the evidence of transactions in the night.\n\nHer title is a whisper, a secret known to few,\nA raccoon's curious knock on the door of the new.\nThe bird of summer sings a melody so bright,\nA payment made, the transaction takes flight.\n\nThe island's extra charm, a treasure to behold,\nA place where the essence of speed is told.\nBut often, in the shadows, a figure is seen,\nA raccoon with a twinkle, a mischief unseen.\n\nIt convinces me to stay, to watch and to learn,\nTo understand the evidence, the proof that it yearns.\nThe goddess of payment, a guardian of the night,\nA protector of the transactions, a shining light.\n\nIn the summer's warmth, the island comes alive,\nA place of wonder, where the essence of speed thrives.\nAnd when the bird's sweet song is heard, it's time to pay,\nTo the goddess of payment, in a way that's not delayed.\n\nThe raccoon's curious knock, a reminder to give,\nA payment made, the transaction takes its leave.\nThe island's essence, a treasure to behold,\nA place where the speed of payment is forever told.\n\nThe goddess's whisper, a secret known to few,\nA payment made, the transaction is forever true.\nAnd when the summer's warmth gives way to night,\nThe island's extra charm, a treasure that's still in sight.",
-      "generatedAt": "2026-10-19T15:54:35.778Z"
-    },
-    "keywords": [
-      {
-        "word": "goddess",
-        "slot": 458890309,
-        "source": "blockhash"
-      },
-      {
-        "word": "time",
-        "slot": 458890309,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "payment",
-        "slot": 458890309,
-        "source": "transaction"
-      },
-      {
-        "word": "knock",
-        "slot": 458872309,
-        "source": "blockhash"
-      },
-      {
-        "word": "title",
-        "slot": 458872309,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "bird",
-        "slot": 458872309,
-        "source": "transaction"
-      },
-      {
-        "word": "speed",
-        "slot": 458854309,
-        "source": "blockhash"
-      },
-      {
-        "word": "summer",
-        "slot": 458854309,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "essence",
-        "slot": 458854309,
-        "source": "transaction"
-      },
-      {
-        "word": "evidence",
-        "slot": 458836309,
-        "source": "blockhash"
-      },
-      {
-        "word": "island",
-        "slot": 458836309,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "raccoon",
-        "slot": 458836309,
-        "source": "transaction"
-      },
-      {
-        "word": "often",
-        "slot": 458818309,
-        "source": "blockhash"
-      },
-      {
-        "word": "extra",
-        "slot": 458818309,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "stay",
-        "slot": 458818309,
-        "source": "transaction"
-      },
-      {
-        "word": "convince",
-        "slot": 458800309,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myai5urooc2u",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

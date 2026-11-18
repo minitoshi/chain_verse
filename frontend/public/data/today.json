@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "poem": {
-    "content": "In the heart of the mountain, where the walnut trees preside,\nA wagon's gentle creak, a lonely bride,\nShe rides, with cargo, her heart full of sorrow,\nFor her daughter, lost, in an obscure tomorrow.\n\nHer wagon's wheels, a bronze glow, in the fading light,\nAs she traverses the web of life, with all its plight,\nA citizen of the world, she's lost her way,\nIn the review of her past, where love's been replaced with dismay.\n\nShe's sorry for the mistakes, the issues of her mind,\nThe slam of her heart, a constant reminder left behind,\nHer head a heavy burden, as she searches for a clue,\nTo find her daughter, lost, in the darkness anew.\n\nBut as she climbs the mountain, with each step a test,\nShe feels a sense of freedom, a release from her unrest,\nThe wind in her hair, the sun on her face,\nA new beginning unfolds, in this sacred, mountainous space.\n\nIn the stillness, she finds a voice, a whisper in her ear,\nTo allow herself to heal, to let go of all fear,\nTo find her daughter, lost, in the cargo of her soul,\nTo review the past, and let love make her whole.\n\nThe wagon's wheels, a soft whisper, as she rides away,\nA new citizen, reborn, with a heart that's found its way,\nIn the mountain's silence, she discovers a new sound,\nA symphony of hope, that echoes all around.",
-    "generatedAt": "2026-11-17T17:56:24.266Z"
+    "content": "In a nation blind to its own plight,\nWhere hope's a lottery, and few ignite,\nThe spark that guides us through the darkest night,\nWe search for a stable hand to hold tight.\nA general whisper of a better way,\nEchoes through the land, yet fades away.\n\nIn alleys worn, where unknown faces roam,\nThe city's pulse beats strong, a melancholy tone,\nWhere only the strong can afford to call it home,\nThe rest are shadows, mere silhouettes of stone.\n\nIn abandoned lots, a skull stands tall,\nA symbol of the lives that did not flourish at all,\nA bullet marks the spot, a reminder of the past,\nA legacy of pain, forever cast.\nBut still we hold on, a thread of love that lasts,\nA popular anthem, sung in hope's thin grasp.\n\nIn hooded crowds, we find a silent scream,\nA plea to listen, to hear the heart's deep dream,\nTo speak the truth, though fear may silence us in sleep,\nAnd hold on tight to life, as it begins to creep.\n\nA sock lost in the wash, a symbol of the way,\nWe lose ourselves, in the chaos of the day,\nA glove, a symbol of protection, cast aside,\nA reminder of the mercy we often cannot provide.\n\nIn a world driven by profit, where our souls are sold,\nWe must find a glimmer of hope, before we grow old.",
+    "generatedAt": "2026-11-18T17:38:01.406Z"
   },
   "keywords": [
     {
-      "word": "bronze",
-      "slot": 470625145,
+      "word": "nation",
+      "slot": 471020610,
       "source": "blockhash"
     },
     {
-      "word": "allow",
-      "slot": 470625145,
+      "word": "lottery",
+      "slot": 471020610,
       "source": "previousBlockhash"
     },
     {
-      "word": "wagon",
-      "slot": 470625145,
+      "word": "stable",
+      "slot": 471020610,
       "source": "transaction"
     },
     {
-      "word": "sorry",
-      "slot": 470607145,
+      "word": "general",
+      "slot": 471002610,
       "source": "blockhash"
     },
     {
-      "word": "daughter",
-      "slot": 470607145,
+      "word": "unknown",
+      "slot": 471002610,
       "source": "previousBlockhash"
     },
     {
-      "word": "walnut",
-      "slot": 470607145,
+      "word": "afford",
+      "slot": 471002610,
       "source": "transaction"
     },
     {
-      "word": "slam",
-      "slot": 470589145,
+      "word": "skull",
+      "slot": 470984610,
       "source": "blockhash"
     },
     {
-      "word": "citizen",
-      "slot": 470589145,
+      "word": "bullet",
+      "slot": 470984610,
       "source": "previousBlockhash"
     },
     {
-      "word": "obscure",
-      "slot": 470589145,
+      "word": "popular",
+      "slot": 470984610,
       "source": "transaction"
     },
     {
-      "word": "cargo",
-      "slot": 470571145,
+      "word": "speak",
+      "slot": 470966610,
       "source": "blockhash"
     },
     {
-      "word": "mountain",
-      "slot": 470571145,
+      "word": "life",
+      "slot": 470966610,
       "source": "previousBlockhash"
     },
     {
-      "word": "review",
-      "slot": 470571145,
+      "word": "sock",
+      "slot": 470966610,
       "source": "transaction"
     },
     {
-      "word": "issue",
-      "slot": 470553145,
+      "word": "mercy",
+      "slot": 470948610,
       "source": "blockhash"
     },
     {
-      "word": "head",
-      "slot": 470553145,
+      "word": "hood",
+      "slot": 470948610,
       "source": "previousBlockhash"
     },
     {
-      "word": "web",
-      "slot": 470553145,
+      "word": "profit",
+      "slot": 470948610,
       "source": "transaction"
     },
     {
-      "word": "found",
-      "slot": 470535145,
+      "word": "glove",
+      "slot": 470930610,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2jmifncyt2o",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2m3whgcyk2n",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
