@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "poem": {
-    "content": "In a nation blind to its own plight,\nWhere hope's a lottery, and few ignite,\nThe spark that guides us through the darkest night,\nWe search for a stable hand to hold tight.\nA general whisper of a better way,\nEchoes through the land, yet fades away.\n\nIn alleys worn, where unknown faces roam,\nThe city's pulse beats strong, a melancholy tone,\nWhere only the strong can afford to call it home,\nThe rest are shadows, mere silhouettes of stone.\n\nIn abandoned lots, a skull stands tall,\nA symbol of the lives that did not flourish at all,\nA bullet marks the spot, a reminder of the past,\nA legacy of pain, forever cast.\nBut still we hold on, a thread of love that lasts,\nA popular anthem, sung in hope's thin grasp.\n\nIn hooded crowds, we find a silent scream,\nA plea to listen, to hear the heart's deep dream,\nTo speak the truth, though fear may silence us in sleep,\nAnd hold on tight to life, as it begins to creep.\n\nA sock lost in the wash, a symbol of the way,\nWe lose ourselves, in the chaos of the day,\nA glove, a symbol of protection, cast aside,\nA reminder of the mercy we often cannot provide.\n\nIn a world driven by profit, where our souls are sold,\nWe must find a glimmer of hope, before we grow old.",
-    "generatedAt": "2026-11-18T17:38:01.406Z"
+    "content": "In twilight's hush, where timber forests sway,\nA secret domain, where ancient wisdom stays,\nA place where skill and sauce entwine, like vines,\nAnd the pulse of progress beats, a steady, thrumming chime.\n\nHere, the cook of fate stirs the marinades of time,\nAdding flavor to the spoil of yesterday's crime,\nA suit of armor, forged in the fire's flame,\nProtects the heart of the team, where love and trust remain.\n\nIn this sacred space, the wire of doubt is cut,\nAnd the blind spots of the past are left to rust,\nThe tool of reason sharpens, like a scalpel's edge,\nTo cut through the dirt of ignorance, and the darkness of the ledge.\n\nThe marine breeze whispers secrets, of a world unseen,\nWhere the skill of the craft is woven, like a tapestry so fine and serene,\nThe sauce of passion flows, like a river's stream,\nNourishing the soil of dreams, where the heart's deepest longings beam.\n\nIn this domain of the soul, the flame of courage burns,\nA beacon in the darkness, where the heart's deepest fears learn,\nTo leave the past behind, like a withered leaf, that's lost its prime,\nAnd find the strength to rise, like a phoenix, from the ashes of the crime.\n\nThe team of visionaries, with hearts full of fire and light,\nMarch forward, into the unknown, with the sauce of hope in sight,\nTheir skill and craft, a shield of protection, against the spoil of doubt,\nA suit of armor, forged in the fire of the heart, without a single rout.",
+    "generatedAt": "2026-11-19T17:45:17.353Z"
   },
   "keywords": [
     {
-      "word": "nation",
-      "slot": 471020610,
+      "word": "spoil",
+      "slot": 471423991,
       "source": "blockhash"
     },
     {
-      "word": "lottery",
-      "slot": 471020610,
+      "word": "suit",
+      "slot": 471423991,
       "source": "previousBlockhash"
     },
     {
-      "word": "stable",
-      "slot": 471020610,
+      "word": "sauce",
+      "slot": 471423991,
       "source": "transaction"
     },
     {
-      "word": "general",
-      "slot": 471002610,
+      "word": "cook",
+      "slot": 471405991,
       "source": "blockhash"
     },
     {
-      "word": "unknown",
-      "slot": 471002610,
+      "word": "domain",
+      "slot": 471405991,
       "source": "previousBlockhash"
     },
     {
-      "word": "afford",
-      "slot": 471002610,
+      "word": "skill",
+      "slot": 471405991,
       "source": "transaction"
     },
     {
-      "word": "skull",
-      "slot": 470984610,
+      "word": "flame",
+      "slot": 471387991,
       "source": "blockhash"
     },
     {
-      "word": "bullet",
-      "slot": 470984610,
+      "word": "timber",
+      "slot": 471387991,
       "source": "previousBlockhash"
     },
     {
-      "word": "popular",
-      "slot": 470984610,
+      "word": "team",
+      "slot": 471387991,
       "source": "transaction"
     },
     {
-      "word": "speak",
-      "slot": 470966610,
+      "word": "leave",
+      "slot": 471369991,
       "source": "blockhash"
     },
     {
-      "word": "life",
-      "slot": 470966610,
+      "word": "blind",
+      "slot": 471369991,
       "source": "previousBlockhash"
     },
     {
-      "word": "sock",
-      "slot": 470966610,
+      "word": "pulse",
+      "slot": 471369991,
       "source": "transaction"
     },
     {
-      "word": "mercy",
-      "slot": 470948610,
+      "word": "tool",
+      "slot": 471351991,
       "source": "blockhash"
     },
     {
-      "word": "hood",
-      "slot": 470948610,
+      "word": "dirt",
+      "slot": 471351991,
       "source": "previousBlockhash"
     },
     {
-      "word": "profit",
-      "slot": 470948610,
+      "word": "wire",
+      "slot": 471351991,
       "source": "transaction"
     },
     {
-      "word": "glove",
-      "slot": 470930610,
+      "word": "marine",
+      "slot": 471333991,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2m3whgcyk2n",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2omse2fof2n",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

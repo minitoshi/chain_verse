@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-19",
+    "poem": {
+      "content": "In twilight's hush, where timber forests sway,\nA secret domain, where ancient wisdom stays,\nA place where skill and sauce entwine, like vines,\nAnd the pulse of progress beats, a steady, thrumming chime.\n\nHere, the cook of fate stirs the marinades of time,\nAdding flavor to the spoil of yesterday's crime,\nA suit of armor, forged in the fire's flame,\nProtects the heart of the team, where love and trust remain.\n\nIn this sacred space, the wire of doubt is cut,\nAnd the blind spots of the past are left to rust,\nThe tool of reason sharpens, like a scalpel's edge,\nTo cut through the dirt of ignorance, and the darkness of the ledge.\n\nThe marine breeze whispers secrets, of a world unseen,\nWhere the skill of the craft is woven, like a tapestry so fine and serene,\nThe sauce of passion flows, like a river's stream,\nNourishing the soil of dreams, where the heart's deepest longings beam.\n\nIn this domain of the soul, the flame of courage burns,\nA beacon in the darkness, where the heart's deepest fears learn,\nTo leave the past behind, like a withered leaf, that's lost its prime,\nAnd find the strength to rise, like a phoenix, from the ashes of the crime.\n\nThe team of visionaries, with hearts full of fire and light,\nMarch forward, into the unknown, with the sauce of hope in sight,\nTheir skill and craft, a shield of protection, against the spoil of doubt,\nA suit of armor, forged in the fire of the heart, without a single rout.",
+      "generatedAt": "2026-11-19T17:45:17.353Z"
+    },
+    "keywords": [
+      {
+        "word": "spoil",
+        "slot": 471423991,
+        "source": "blockhash"
+      },
+      {
+        "word": "suit",
+        "slot": 471423991,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "sauce",
+        "slot": 471423991,
+        "source": "transaction"
+      },
+      {
+        "word": "cook",
+        "slot": 471405991,
+        "source": "blockhash"
+      },
+      {
+        "word": "domain",
+        "slot": 471405991,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "skill",
+        "slot": 471405991,
+        "source": "transaction"
+      },
+      {
+        "word": "flame",
+        "slot": 471387991,
+        "source": "blockhash"
+      },
+      {
+        "word": "timber",
+        "slot": 471387991,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "team",
+        "slot": 471387991,
+        "source": "transaction"
+      },
+      {
+        "word": "leave",
+        "slot": 471369991,
+        "source": "blockhash"
+      },
+      {
+        "word": "blind",
+        "slot": 471369991,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "pulse",
+        "slot": 471369991,
+        "source": "transaction"
+      },
+      {
+        "word": "tool",
+        "slot": 471351991,
+        "source": "blockhash"
+      },
+      {
+        "word": "dirt",
+        "slot": 471351991,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "wire",
+        "slot": 471351991,
+        "source": "transaction"
+      },
+      {
+        "word": "marine",
+        "slot": 471333991,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2omse2fof2n",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-18",
     "poem": {
       "content": "In a nation blind to its own plight,\nWhere hope's a lottery, and few ignite,\nThe spark that guides us through the darkest night,\nWe search for a stable hand to hold tight.\nA general whisper of a better way,\nEchoes through the land, yet fades away.\n\nIn alleys worn, where unknown faces roam,\nThe city's pulse beats strong, a melancholy tone,\nWhere only the strong can afford to call it home,\nThe rest are shadows, mere silhouettes of stone.\n\nIn abandoned lots, a skull stands tall,\nA symbol of the lives that did not flourish at all,\nA bullet marks the spot, a reminder of the past,\nA legacy of pain, forever cast.\nBut still we hold on, a thread of love that lasts,\nA popular anthem, sung in hope's thin grasp.\n\nIn hooded crowds, we find a silent scream,\nA plea to listen, to hear the heart's deep dream,\nTo speak the truth, though fear may silence us in sleep,\nAnd hold on tight to life, as it begins to creep.\n\nA sock lost in the wash, a symbol of the way,\nWe lose ourselves, in the chaos of the day,\nA glove, a symbol of protection, cast aside,\nA reminder of the mercy we often cannot provide.\n\nIn a world driven by profit, where our souls are sold,\nWe must find a glimmer of hope, before we grow old.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-20",
-    "poem": {
-      "content": "In the early morning's hush, where shadows dance and play,\nA federal reserve of secrets lies, waiting to be swayed.\nThe crucial moment arrives, a hundred whispers spread,\nAs the wind whispers truths, and the trees lean in to be said.\n\nIn October's chill, a bus rumbles by, a smooth, quiet ride,\nThrough streets where memories are made, and love does reside.\nA petal falls, a single drop, a reminder of the past,\nA soup of sorrow, simmering, as the heart does forever last.\n\nIn this month of witness, we gather, to bear the weight,\nOf forces that have shaped us, and the choices we create.\nA phone rings, a distant voice, a call to rise above,\nTo erase the pain, and find the love, that we've been given to love.\n\nThe link between us all, a thread so fine and weak,\nA bond that's always breaking, yet always seeking to speak.\nIn the stillness, I am always, a presence, a voice,\nA witness to the beauty, of this fragile, human choice.\n\nIn the federal reserve, of our hearts, a force does reside,\nA power that's both creative, and destructive, side by side.\nThe early morning's promise, a new day's gentle breeze,\nA call to rise, to shine, to find the strength, in our own expertise.\n\nLet us not erase, the memories we've made, the love we've known,\nBut rather, let us honor, the bond that we've called home.\nFor in the end, it's not the force, that breaks us, but the heart,\nThat always, always, beats, a constant, gentle start.",
-      "generatedAt": "2026-10-20T13:53:20.770Z"
-    },
-    "keywords": [
-      {
-        "word": "early",
-        "slot": 459253465,
-        "source": "blockhash"
-      },
-      {
-        "word": "federal",
-        "slot": 459253465,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "crucial",
-        "slot": 459253465,
-        "source": "transaction"
-      },
-      {
-        "word": "hundred",
-        "slot": 459235465,
-        "source": "blockhash"
-      },
-      {
-        "word": "erase",
-        "slot": 459235465,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "month",
-        "slot": 459235465,
-        "source": "transaction"
-      },
-      {
-        "word": "bus",
-        "slot": 459217465,
-        "source": "blockhash"
-      },
-      {
-        "word": "smooth",
-        "slot": 459217465,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "link",
-        "slot": 459217465,
-        "source": "transaction"
-      },
-      {
-        "word": "pet",
-        "slot": 459199465,
-        "source": "blockhash"
-      },
-      {
-        "word": "soup",
-        "slot": 459199465,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "october",
-        "slot": 459199465,
-        "source": "transaction"
-      },
-      {
-        "word": "force",
-        "slot": 459181465,
-        "source": "blockhash"
-      },
-      {
-        "word": "phone",
-        "slot": 459181465,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "always",
-        "slot": 459181465,
-        "source": "transaction"
-      },
-      {
-        "word": "witness",
-        "slot": 459163465,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mycrtyck2v26",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
