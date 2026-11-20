@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "poem": {
-    "content": "In twilight's hush, where timber forests sway,\nA secret domain, where ancient wisdom stays,\nA place where skill and sauce entwine, like vines,\nAnd the pulse of progress beats, a steady, thrumming chime.\n\nHere, the cook of fate stirs the marinades of time,\nAdding flavor to the spoil of yesterday's crime,\nA suit of armor, forged in the fire's flame,\nProtects the heart of the team, where love and trust remain.\n\nIn this sacred space, the wire of doubt is cut,\nAnd the blind spots of the past are left to rust,\nThe tool of reason sharpens, like a scalpel's edge,\nTo cut through the dirt of ignorance, and the darkness of the ledge.\n\nThe marine breeze whispers secrets, of a world unseen,\nWhere the skill of the craft is woven, like a tapestry so fine and serene,\nThe sauce of passion flows, like a river's stream,\nNourishing the soil of dreams, where the heart's deepest longings beam.\n\nIn this domain of the soul, the flame of courage burns,\nA beacon in the darkness, where the heart's deepest fears learn,\nTo leave the past behind, like a withered leaf, that's lost its prime,\nAnd find the strength to rise, like a phoenix, from the ashes of the crime.\n\nThe team of visionaries, with hearts full of fire and light,\nMarch forward, into the unknown, with the sauce of hope in sight,\nTheir skill and craft, a shield of protection, against the spoil of doubt,\nA suit of armor, forged in the fire of the heart, without a single rout.",
-    "generatedAt": "2026-11-19T17:45:17.353Z"
+    "content": "In the realm of Solana's digital square,\nA rally of innovators gather, unaware\nOf the cheese that's ripe for the taking,\nA brief moment of opportunity, not a fleeting making.\n\nA banner unfurls, a call to arms,\nA supreme challenge to the status norms,\nTo clarify the path, to light the way,\nThrough the harsh realities of a digital day.\n\nBut as we venture forth, with hearts so wide,\nWe're met with the odor of doubt and fear inside,\nA sense of uncertainty, a nagging voice,\nThat whispers \"avoid\" and \"remove\" from our choice.\n\nYet, like a donor of life-giving blood,\nWe're called to grab the reins, to take the lead,\nTo rally round the cause, to stand as one,\nAnd forge a path, where none has been won.\n\nIn this inch of time, we have a choice to make,\nTo clarify our purpose, to awaken, to partake,\nIn the feast of innovation, where all can dine,\nAnd rise above the noise, to shine like a beacon fine.\n\nSo let us raise our banner high and bright,\nAnd rally round the dream, through the dark of night,\nTo clarify the vision, to make it plain,\nAnd emerge supreme, with the odor of success, like a sweet, sweet refrain.",
+    "generatedAt": "2026-11-20T17:22:17.499Z"
   },
   "keywords": [
     {
-      "word": "spoil",
-      "slot": 471423991,
+      "word": "rally",
+      "slot": 471819183,
       "source": "blockhash"
     },
     {
-      "word": "suit",
-      "slot": 471423991,
+      "word": "cheese",
+      "slot": 471819183,
       "source": "previousBlockhash"
     },
     {
-      "word": "sauce",
-      "slot": 471423991,
+      "word": "foil",
+      "slot": 471819183,
       "source": "transaction"
     },
     {
-      "word": "cook",
-      "slot": 471405991,
+      "word": "inch",
+      "slot": 471801183,
       "source": "blockhash"
     },
     {
-      "word": "domain",
-      "slot": 471405991,
+      "word": "clarify",
+      "slot": 471801183,
       "source": "previousBlockhash"
     },
     {
-      "word": "skill",
-      "slot": 471405991,
+      "word": "harsh",
+      "slot": 471801183,
       "source": "transaction"
     },
     {
-      "word": "flame",
-      "slot": 471387991,
+      "word": "another",
+      "slot": 471783183,
       "source": "blockhash"
     },
     {
-      "word": "timber",
-      "slot": 471387991,
+      "word": "brief",
+      "slot": 471783183,
       "source": "previousBlockhash"
     },
     {
-      "word": "team",
-      "slot": 471387991,
+      "word": "wide",
+      "slot": 471783183,
       "source": "transaction"
     },
     {
-      "word": "leave",
-      "slot": 471369991,
+      "word": "odor",
+      "slot": 471765183,
       "source": "blockhash"
     },
     {
-      "word": "blind",
-      "slot": 471369991,
+      "word": "avoid",
+      "slot": 471765183,
       "source": "previousBlockhash"
     },
     {
-      "word": "pulse",
-      "slot": 471369991,
+      "word": "banner",
+      "slot": 471765183,
       "source": "transaction"
     },
     {
-      "word": "tool",
-      "slot": 471351991,
+      "word": "supreme",
+      "slot": 471747183,
       "source": "blockhash"
     },
     {
-      "word": "dirt",
-      "slot": 471351991,
+      "word": "grab",
+      "slot": 471747183,
       "source": "previousBlockhash"
     },
     {
-      "word": "wire",
-      "slot": 471351991,
+      "word": "remove",
+      "slot": 471747183,
       "source": "transaction"
     },
     {
-      "word": "marine",
-      "slot": 471333991,
+      "word": "donor",
+      "slot": 471729183,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2omse2fof2n",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
