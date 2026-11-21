@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-21",
+    "poem": {
+      "content": "In the east, where sunbeams kiss the land,\nAn alien presence stirs, an otherworldly stand,\nA solitary figure, shrouded in slush and grey,\nYet holds within it an album of secrets to convey.\n\nIt traverses fields, where rival mules dispute their space,\nAs east and west converge in this oval place,\nWhere ancient whispers echo through the misty air,\nAnd a wispy fox, with cunning eyes, watches from afar.\n\nIn this boundless land, a deputy, born of pride and might,\nGuards the crop that blooms beneath the pale moon's light,\nYet cruel hands once ravaged this domain, leaving scars so deep,\nThat now, the alien's steps echo through the stillness, in a sleep.\n\nBut as the east awakens, the impulse to explore takes hold,\nAnd this strange visitor begins to reveal its story to unfold,\nA chronicle of brotherhood, forged in fire and stone,\nA testament to what once was, and what now stands alone.\n\nIn the vast expanse of this wild and wondrous land,\nWhere east and west entwine, a mystic dance unfolds, hand in hand,\nA dance of contrasts, where light and dark entwine,\nAs the alien's secret album comes to life, a tapestry divine.\n\nAnd as the moon sets in the west, the story comes to a close,\nThe alien vanishes, leaving behind a whispering ghost,\nThat echoes through the oval, a haunting, ethereal sigh,\nA melancholy reminder of what once was, in a world gone by.",
+      "generatedAt": "2026-11-21T16:27:29.602Z"
+    },
+    "keywords": [
+      {
+        "word": "alien",
+        "slot": 472205575,
+        "source": "blockhash"
+      },
+      {
+        "word": "album",
+        "slot": 472205575,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "rival",
+        "slot": 472205575,
+        "source": "transaction"
+      },
+      {
+        "word": "slush",
+        "slot": 472187575,
+        "source": "blockhash"
+      },
+      {
+        "word": "impulse",
+        "slot": 472187575,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "east",
+        "slot": 472187575,
+        "source": "transaction"
+      },
+      {
+        "word": "fox",
+        "slot": 472169575,
+        "source": "blockhash"
+      },
+      {
+        "word": "west",
+        "slot": 472169575,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "oval",
+        "slot": 472169575,
+        "source": "transaction"
+      },
+      {
+        "word": "brother",
+        "slot": 472151575,
+        "source": "blockhash"
+      },
+      {
+        "word": "mule",
+        "slot": 472151575,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "deputy",
+        "slot": 472151575,
+        "source": "transaction"
+      },
+      {
+        "word": "crop",
+        "slot": 472133575,
+        "source": "blockhash"
+      },
+      {
+        "word": "reflect",
+        "slot": 472133575,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "cruel",
+        "slot": 472133575,
+        "source": "transaction"
+      },
+      {
+        "word": "vast",
+        "slot": 472115575,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2tjf3fkdb2d",
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-20",
     "poem": {
       "content": "In the realm of Solana's digital square,\nA rally of innovators gather, unaware\nOf the cheese that's ripe for the taking,\nA brief moment of opportunity, not a fleeting making.\n\nA banner unfurls, a call to arms,\nA supreme challenge to the status norms,\nTo clarify the path, to light the way,\nThrough the harsh realities of a digital day.\n\nBut as we venture forth, with hearts so wide,\nWe're met with the odor of doubt and fear inside,\nA sense of uncertainty, a nagging voice,\nThat whispers \"avoid\" and \"remove\" from our choice.\n\nYet, like a donor of life-giving blood,\nWe're called to grab the reins, to take the lead,\nTo rally round the cause, to stand as one,\nAnd forge a path, where none has been won.\n\nIn this inch of time, we have a choice to make,\nTo clarify our purpose, to awaken, to partake,\nIn the feast of innovation, where all can dine,\nAnd rise above the noise, to shine like a beacon fine.\n\nSo let us raise our banner high and bright,\nAnd rally round the dream, through the dark of night,\nTo clarify the vision, to make it plain,\nAnd emerge supreme, with the odor of success, like a sweet, sweet refrain.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mykd5krk2z2n",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-22",
-    "poem": {
-      "content": "In the stillness of a moonlit lake,\nA deer's gentle form does softly shake,\nA glimpse of life, a fleeting sight,\nA moment's peace, before the dawn's first light.\n\nThe fork of a tree, a shaft of might,\nReaches for the stars, a guiding light,\nA hungry soul, with heart aflame,\nYearns for a picnic, a love-filled game.\n\nBut soon, the gap between love and desire,\nGrows wide, a chasm that cannot be fired,\nA sword of doubt, a destructive blade,\n Threatens to destroy, the love we've made.\n\nYet, in the midst of this dark despair,\nA glimpse of hope, a glimmering air,\nA saddle worn, by a weary heart,\nA call to inject, a new-found start.\n\nIn the parade of life, we march and sway,\nWith every step, a new path's made,\nA fork in the road, a choice to take,\nA decision that will soon make or break.\n\nThe dinner bell, a signal to dine,\nA time to feast, on love's sweet wine,\nA lake of memories, a reflection deep,\nA glimpse of what we've yet to keep.\n\nAnd when the night, with darkness falls,\nThe deer's soft form, will echo through the walls,\nA reminder of love's gentle might,\nA glimpse of hope, in the dark of night.",
-      "generatedAt": "2026-10-22T14:08:34.926Z"
-    },
-    "keywords": [
-      {
-        "word": "dinner",
-        "slot": 460063492,
-        "source": "blockhash"
-      },
-      {
-        "word": "glimpse",
-        "slot": 460063492,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "gap",
-        "slot": 460063492,
-        "source": "transaction"
-      },
-      {
-        "word": "fork",
-        "slot": 460045492,
-        "source": "blockhash"
-      },
-      {
-        "word": "shaft",
-        "slot": 460045492,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "hungry",
-        "slot": 460045492,
-        "source": "transaction"
-      },
-      {
-        "word": "soon",
-        "slot": 460027492,
-        "source": "blockhash"
-      },
-      {
-        "word": "exist",
-        "slot": 460027492,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "lake",
-        "slot": 460027492,
-        "source": "transaction"
-      },
-      {
-        "word": "saddle",
-        "slot": 460009492,
-        "source": "blockhash"
-      },
-      {
-        "word": "destroy",
-        "slot": 460009492,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "deer",
-        "slot": 460009492,
-        "source": "transaction"
-      },
-      {
-        "word": "inject",
-        "slot": 459991492,
-        "source": "blockhash"
-      },
-      {
-        "word": "sword",
-        "slot": 459991492,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "picnic",
-        "slot": 459991492,
-        "source": "transaction"
-      },
-      {
-        "word": "parade",
-        "slot": 459973492,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": null,
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

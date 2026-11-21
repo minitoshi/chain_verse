@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "poem": {
-    "content": "In the realm of Solana's digital square,\nA rally of innovators gather, unaware\nOf the cheese that's ripe for the taking,\nA brief moment of opportunity, not a fleeting making.\n\nA banner unfurls, a call to arms,\nA supreme challenge to the status norms,\nTo clarify the path, to light the way,\nThrough the harsh realities of a digital day.\n\nBut as we venture forth, with hearts so wide,\nWe're met with the odor of doubt and fear inside,\nA sense of uncertainty, a nagging voice,\nThat whispers \"avoid\" and \"remove\" from our choice.\n\nYet, like a donor of life-giving blood,\nWe're called to grab the reins, to take the lead,\nTo rally round the cause, to stand as one,\nAnd forge a path, where none has been won.\n\nIn this inch of time, we have a choice to make,\nTo clarify our purpose, to awaken, to partake,\nIn the feast of innovation, where all can dine,\nAnd rise above the noise, to shine like a beacon fine.\n\nSo let us raise our banner high and bright,\nAnd rally round the dream, through the dark of night,\nTo clarify the vision, to make it plain,\nAnd emerge supreme, with the odor of success, like a sweet, sweet refrain.",
-    "generatedAt": "2026-11-20T17:22:17.499Z"
+    "content": "In the east, where sunbeams kiss the land,\nAn alien presence stirs, an otherworldly stand,\nA solitary figure, shrouded in slush and grey,\nYet holds within it an album of secrets to convey.\n\nIt traverses fields, where rival mules dispute their space,\nAs east and west converge in this oval place,\nWhere ancient whispers echo through the misty air,\nAnd a wispy fox, with cunning eyes, watches from afar.\n\nIn this boundless land, a deputy, born of pride and might,\nGuards the crop that blooms beneath the pale moon's light,\nYet cruel hands once ravaged this domain, leaving scars so deep,\nThat now, the alien's steps echo through the stillness, in a sleep.\n\nBut as the east awakens, the impulse to explore takes hold,\nAnd this strange visitor begins to reveal its story to unfold,\nA chronicle of brotherhood, forged in fire and stone,\nA testament to what once was, and what now stands alone.\n\nIn the vast expanse of this wild and wondrous land,\nWhere east and west entwine, a mystic dance unfolds, hand in hand,\nA dance of contrasts, where light and dark entwine,\nAs the alien's secret album comes to life, a tapestry divine.\n\nAnd as the moon sets in the west, the story comes to a close,\nThe alien vanishes, leaving behind a whispering ghost,\nThat echoes through the oval, a haunting, ethereal sigh,\nA melancholy reminder of what once was, in a world gone by.",
+    "generatedAt": "2026-11-21T16:27:29.602Z"
   },
   "keywords": [
     {
-      "word": "rally",
-      "slot": 471819183,
+      "word": "alien",
+      "slot": 472205575,
       "source": "blockhash"
     },
     {
-      "word": "cheese",
-      "slot": 471819183,
+      "word": "album",
+      "slot": 472205575,
       "source": "previousBlockhash"
     },
     {
-      "word": "foil",
-      "slot": 471819183,
+      "word": "rival",
+      "slot": 472205575,
       "source": "transaction"
     },
     {
-      "word": "inch",
-      "slot": 471801183,
+      "word": "slush",
+      "slot": 472187575,
       "source": "blockhash"
     },
     {
-      "word": "clarify",
-      "slot": 471801183,
+      "word": "impulse",
+      "slot": 472187575,
       "source": "previousBlockhash"
     },
     {
-      "word": "harsh",
-      "slot": 471801183,
+      "word": "east",
+      "slot": 472187575,
       "source": "transaction"
     },
     {
-      "word": "another",
-      "slot": 471783183,
+      "word": "fox",
+      "slot": 472169575,
       "source": "blockhash"
     },
     {
-      "word": "brief",
-      "slot": 471783183,
+      "word": "west",
+      "slot": 472169575,
       "source": "previousBlockhash"
     },
     {
-      "word": "wide",
-      "slot": 471783183,
+      "word": "oval",
+      "slot": 472169575,
       "source": "transaction"
     },
     {
-      "word": "odor",
-      "slot": 471765183,
+      "word": "brother",
+      "slot": 472151575,
       "source": "blockhash"
     },
     {
-      "word": "avoid",
-      "slot": 471765183,
+      "word": "mule",
+      "slot": 472151575,
       "source": "previousBlockhash"
     },
     {
-      "word": "banner",
-      "slot": 471765183,
+      "word": "deputy",
+      "slot": 472151575,
       "source": "transaction"
     },
     {
-      "word": "supreme",
-      "slot": 471747183,
+      "word": "crop",
+      "slot": 472133575,
       "source": "blockhash"
     },
     {
-      "word": "grab",
-      "slot": 471747183,
+      "word": "reflect",
+      "slot": 472133575,
       "source": "previousBlockhash"
     },
     {
-      "word": "remove",
-      "slot": 471747183,
+      "word": "cruel",
+      "slot": 472133575,
       "source": "transaction"
     },
     {
-      "word": "donor",
-      "slot": 471729183,
+      "word": "vast",
+      "slot": 472115575,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2tjf3fkdb2d",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
