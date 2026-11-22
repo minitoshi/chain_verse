@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "poem": {
-    "content": "In the east, where sunbeams kiss the land,\nAn alien presence stirs, an otherworldly stand,\nA solitary figure, shrouded in slush and grey,\nYet holds within it an album of secrets to convey.\n\nIt traverses fields, where rival mules dispute their space,\nAs east and west converge in this oval place,\nWhere ancient whispers echo through the misty air,\nAnd a wispy fox, with cunning eyes, watches from afar.\n\nIn this boundless land, a deputy, born of pride and might,\nGuards the crop that blooms beneath the pale moon's light,\nYet cruel hands once ravaged this domain, leaving scars so deep,\nThat now, the alien's steps echo through the stillness, in a sleep.\n\nBut as the east awakens, the impulse to explore takes hold,\nAnd this strange visitor begins to reveal its story to unfold,\nA chronicle of brotherhood, forged in fire and stone,\nA testament to what once was, and what now stands alone.\n\nIn the vast expanse of this wild and wondrous land,\nWhere east and west entwine, a mystic dance unfolds, hand in hand,\nA dance of contrasts, where light and dark entwine,\nAs the alien's secret album comes to life, a tapestry divine.\n\nAnd as the moon sets in the west, the story comes to a close,\nThe alien vanishes, leaving behind a whispering ghost,\nThat echoes through the oval, a haunting, ethereal sigh,\nA melancholy reminder of what once was, in a world gone by.",
-    "generatedAt": "2026-11-21T16:27:29.602Z"
+    "content": "On the horizon, a sail unfurls,\nA canvas of wind and waves that whirl,\nA pirate's quest for treasure and lore,\nWhere culture meets the open floor,\nA battleground of dreams and desire,\nWhere evidence of the past does conspire.\n\nIn this realm of digital delight,\nA marketplace of online exchange takes flight,\nWhere errors are made, and rules are bent,\nAnd horror lurks within each unguarded bent,\nA world of artistry and digital might,\nWhere a pig of a transaction takes flight.\n\nBut beneath the surface, a sadness creeps,\nA sense of despair, where hearts do weep,\nFor in this world of ones and zeroes cold,\nA battle rages, young and old,\nWhere clean code is the key to the throne,\nAnd the artwork of the digital dawn is shown.\n\nBut as the sun sets on this digital sea,\nA new dawn breaks, and error is set free,\nThe sail is raised, and emerge we do,\nInto a world of beauty, pure and true,\nWhere culture and art collide in sweet design,\nAnd evidence of the past is left behind.\n\nIn this strange new world, where horror and fright,\nGive way to joy and clean delight,\nThe online marketplace takes to the air,\nA realm of wonder, beyond compare.",
+    "generatedAt": "2026-11-22T16:43:35.661Z"
   },
   "keywords": [
     {
-      "word": "alien",
-      "slot": 472205575,
+      "word": "evidence",
+      "slot": 472611994,
       "source": "blockhash"
     },
     {
-      "word": "album",
-      "slot": 472205575,
+      "word": "culture",
+      "slot": 472611994,
       "source": "previousBlockhash"
     },
     {
-      "word": "rival",
-      "slot": 472205575,
+      "word": "sail",
+      "slot": 472611994,
       "source": "transaction"
     },
     {
-      "word": "slush",
-      "slot": 472187575,
+      "word": "sadness",
+      "slot": 472593994,
       "source": "blockhash"
     },
     {
-      "word": "impulse",
-      "slot": 472187575,
+      "word": "floor",
+      "slot": 472593994,
       "source": "previousBlockhash"
     },
     {
-      "word": "east",
-      "slot": 472187575,
+      "word": "horror",
+      "slot": 472593994,
       "source": "transaction"
     },
     {
-      "word": "fox",
-      "slot": 472169575,
+      "word": "error",
+      "slot": 472575994,
       "source": "blockhash"
     },
     {
-      "word": "west",
-      "slot": 472169575,
+      "word": "emerge",
+      "slot": 472575994,
       "source": "previousBlockhash"
     },
     {
-      "word": "oval",
-      "slot": 472169575,
+      "word": "clean",
+      "slot": 472575994,
       "source": "transaction"
     },
     {
-      "word": "brother",
-      "slot": 472151575,
+      "word": "exchange",
+      "slot": 472557994,
       "source": "blockhash"
     },
     {
-      "word": "mule",
-      "slot": 472151575,
+      "word": "rule",
+      "slot": 472557994,
       "source": "previousBlockhash"
     },
     {
-      "word": "deputy",
-      "slot": 472151575,
+      "word": "battle",
+      "slot": 472557994,
       "source": "transaction"
     },
     {
-      "word": "crop",
-      "slot": 472133575,
+      "word": "turn",
+      "slot": 472539994,
       "source": "blockhash"
     },
     {
-      "word": "reflect",
-      "slot": 472133575,
+      "word": "artwork",
+      "slot": 472539994,
       "source": "previousBlockhash"
     },
     {
-      "word": "cruel",
-      "slot": 472133575,
+      "word": "pig",
+      "slot": 472539994,
       "source": "transaction"
     },
     {
-      "word": "vast",
-      "slot": 472115575,
+      "word": "online",
+      "slot": 472521994,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2tjf3fkdb2d",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2w2qsxhlk2d",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
