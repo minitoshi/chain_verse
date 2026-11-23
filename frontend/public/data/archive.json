@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-23",
+    "poem": {
+      "content": "In summer's heat, where vibrant streets thrive\nA royal scheme unfolds, a spectacle alive\nThe parrot perches high, a splash of colors bright\nAs drumbeats echo through the night\n\nA doorman greets you warm, by the hotel's lamp aglow\nA welcoming smile, to guide you where to go\nBut in the diet of excess, some find a popular fate\nA world where more is never enough, an endless, hollow weight\n\nDuring these warm and languid nights, the roast of stories shared\nOf dreams unmet and chances dared, a whispered air\nIt's hard to have a heart of stone, amidst the festive cheer\nBut I've seen the neck that holds the weight of what's to fear\n\nA dose of reality, a bitter pill to swallow whole\nA wake-up call to leave the scheme, to take control\nChurn the waters, let the truth arise, and face the test\nOr let the currents sweep you under, and let the darkness rest\n\nIn the summer's heat, where vibrant streets thrive\nI search for answers, a way to break the tie\nTo escape the diet of excess, and find a simpler way to roam\nTo have a heart that beats for more, than just a fleeting fame.",
+      "generatedAt": "2026-11-23T20:37:48.711Z"
+    },
+    "keywords": [
+      {
+        "word": "summer",
+        "slot": 473079108,
+        "source": "blockhash"
+      },
+      {
+        "word": "drum",
+        "slot": 473079108,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "parrot",
+        "slot": 473079108,
+        "source": "transaction"
+      },
+      {
+        "word": "dose",
+        "slot": 473061108,
+        "source": "blockhash"
+      },
+      {
+        "word": "thrive",
+        "slot": 473061108,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "have",
+        "slot": 473061108,
+        "source": "transaction"
+      },
+      {
+        "word": "lamp",
+        "slot": 473043108,
+        "source": "blockhash"
+      },
+      {
+        "word": "diet",
+        "slot": 473043108,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "popular",
+        "slot": 473043108,
+        "source": "transaction"
+      },
+      {
+        "word": "royal",
+        "slot": 473025108,
+        "source": "blockhash"
+      },
+      {
+        "word": "scheme",
+        "slot": 473025108,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "roast",
+        "slot": 473025108,
+        "source": "transaction"
+      },
+      {
+        "word": "neck",
+        "slot": 473007108,
+        "source": "blockhash"
+      },
+      {
+        "word": "churn",
+        "slot": 473007108,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "hotel",
+        "slot": 473007108,
+        "source": "transaction"
+      },
+      {
+        "word": "during",
+        "slot": 472989108,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-22",
     "poem": {
       "content": "On the horizon, a sail unfurls,\nA canvas of wind and waves that whirl,\nA pirate's quest for treasure and lore,\nWhere culture meets the open floor,\nA battleground of dreams and desire,\nWhere evidence of the past does conspire.\n\nIn this realm of digital delight,\nA marketplace of online exchange takes flight,\nWhere errors are made, and rules are bent,\nAnd horror lurks within each unguarded bent,\nA world of artistry and digital might,\nWhere a pig of a transaction takes flight.\n\nBut beneath the surface, a sadness creeps,\nA sense of despair, where hearts do weep,\nFor in this world of ones and zeroes cold,\nA battle rages, young and old,\nWhere clean code is the key to the throne,\nAnd the artwork of the digital dawn is shown.\n\nBut as the sun sets on this digital sea,\nA new dawn breaks, and error is set free,\nThe sail is raised, and emerge we do,\nInto a world of beauty, pure and true,\nWhere culture and art collide in sweet design,\nAnd evidence of the past is left behind.\n\nIn this strange new world, where horror and fright,\nGive way to joy and clean delight,\nThe online marketplace takes to the air,\nA realm of wonder, beyond compare.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": null,
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-24",
-    "poem": {
-      "content": "In the vast desert of October's sigh,\nA swap of fortunes, a joy that never dies,\nA sphere of hope rises, radiant and bright,\nA beacon in the darkness, a guiding light.\n\nBut mean spirits lurk, with hearts full of stone,\nSeeking to extinguish the flame that's made me strong,\nYet I'll not let them frown, nor bring me to shame,\nFor I've known the joy of being famous in my game.\n\nIn the high desert's grass, I've walked with pride,\nA robust traveler, with a heart full of joy inside,\nI've faced the burden of doubt, and come out on top,\nMy spirit unbroken, my will never to stop.\n\nFor in the desert's silence, I've found a peaceful treat,\nA place to reflect, to heal, to find my feet,\nAnd though the world may be harsh, and frequent the pain,\nI'll rise above it, like the sun that shines again.\n\nIn this sphere of wonder, I'll dance with glee,\nA joy that's contagious, a freedom that's meant to be,\nI'll travel the world, with a heart full of cheer,\nAnd though the mean spirits may try to bring me to fear.\n\nBut I'll not be deterred, for I've found my hip,\nA place of balance, where my heart can trip,\nAnd though the burden may weigh, I'll find a way to thrive,\nIn this desert of joy, where love will always survive.",
-      "generatedAt": "2026-10-24T12:57:33.047Z"
-    },
-    "keywords": [
-      {
-        "word": "swap",
-        "slot": 460858408,
-        "source": "blockhash"
-      },
-      {
-        "word": "joy",
-        "slot": 460858408,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "sphere",
-        "slot": 460858408,
-        "source": "transaction"
-      },
-      {
-        "word": "october",
-        "slot": 460840408,
-        "source": "blockhash"
-      },
-      {
-        "word": "mean",
-        "slot": 460840408,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "famous",
-        "slot": 460840408,
-        "source": "transaction"
-      },
-      {
-        "word": "desert",
-        "slot": 460822408,
-        "source": "blockhash"
-      },
-      {
-        "word": "treat",
-        "slot": 460822408,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "grass",
-        "slot": 460822408,
-        "source": "transaction"
-      },
-      {
-        "word": "high",
-        "slot": 460804408,
-        "source": "blockhash"
-      },
-      {
-        "word": "robust",
-        "slot": 460804408,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "hip",
-        "slot": 460804408,
-        "source": "transaction"
-      },
-      {
-        "word": "frown",
-        "slot": 460786408,
-        "source": "blockhash"
-      },
-      {
-        "word": "frequent",
-        "slot": 460786408,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "travel",
-        "slot": 460786408,
-        "source": "transaction"
-      },
-      {
-        "word": "burden",
-        "slot": 460768408,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3mymqlw3lfd2j",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

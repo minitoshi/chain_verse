@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "poem": {
-    "content": "On the horizon, a sail unfurls,\nA canvas of wind and waves that whirl,\nA pirate's quest for treasure and lore,\nWhere culture meets the open floor,\nA battleground of dreams and desire,\nWhere evidence of the past does conspire.\n\nIn this realm of digital delight,\nA marketplace of online exchange takes flight,\nWhere errors are made, and rules are bent,\nAnd horror lurks within each unguarded bent,\nA world of artistry and digital might,\nWhere a pig of a transaction takes flight.\n\nBut beneath the surface, a sadness creeps,\nA sense of despair, where hearts do weep,\nFor in this world of ones and zeroes cold,\nA battle rages, young and old,\nWhere clean code is the key to the throne,\nAnd the artwork of the digital dawn is shown.\n\nBut as the sun sets on this digital sea,\nA new dawn breaks, and error is set free,\nThe sail is raised, and emerge we do,\nInto a world of beauty, pure and true,\nWhere culture and art collide in sweet design,\nAnd evidence of the past is left behind.\n\nIn this strange new world, where horror and fright,\nGive way to joy and clean delight,\nThe online marketplace takes to the air,\nA realm of wonder, beyond compare.",
-    "generatedAt": "2026-11-22T16:43:35.661Z"
+    "content": "In summer's heat, where vibrant streets thrive\nA royal scheme unfolds, a spectacle alive\nThe parrot perches high, a splash of colors bright\nAs drumbeats echo through the night\n\nA doorman greets you warm, by the hotel's lamp aglow\nA welcoming smile, to guide you where to go\nBut in the diet of excess, some find a popular fate\nA world where more is never enough, an endless, hollow weight\n\nDuring these warm and languid nights, the roast of stories shared\nOf dreams unmet and chances dared, a whispered air\nIt's hard to have a heart of stone, amidst the festive cheer\nBut I've seen the neck that holds the weight of what's to fear\n\nA dose of reality, a bitter pill to swallow whole\nA wake-up call to leave the scheme, to take control\nChurn the waters, let the truth arise, and face the test\nOr let the currents sweep you under, and let the darkness rest\n\nIn the summer's heat, where vibrant streets thrive\nI search for answers, a way to break the tie\nTo escape the diet of excess, and find a simpler way to roam\nTo have a heart that beats for more, than just a fleeting fame.",
+    "generatedAt": "2026-11-23T20:37:48.711Z"
   },
   "keywords": [
     {
-      "word": "evidence",
-      "slot": 472611994,
+      "word": "summer",
+      "slot": 473079108,
       "source": "blockhash"
     },
     {
-      "word": "culture",
-      "slot": 472611994,
+      "word": "drum",
+      "slot": 473079108,
       "source": "previousBlockhash"
     },
     {
-      "word": "sail",
-      "slot": 472611994,
+      "word": "parrot",
+      "slot": 473079108,
       "source": "transaction"
     },
     {
-      "word": "sadness",
-      "slot": 472593994,
+      "word": "dose",
+      "slot": 473061108,
       "source": "blockhash"
     },
     {
-      "word": "floor",
-      "slot": 472593994,
+      "word": "thrive",
+      "slot": 473061108,
       "source": "previousBlockhash"
     },
     {
-      "word": "horror",
-      "slot": 472593994,
+      "word": "have",
+      "slot": 473061108,
       "source": "transaction"
     },
     {
-      "word": "error",
-      "slot": 472575994,
+      "word": "lamp",
+      "slot": 473043108,
       "source": "blockhash"
     },
     {
-      "word": "emerge",
-      "slot": 472575994,
+      "word": "diet",
+      "slot": 473043108,
       "source": "previousBlockhash"
     },
     {
-      "word": "clean",
-      "slot": 472575994,
+      "word": "popular",
+      "slot": 473043108,
       "source": "transaction"
     },
     {
-      "word": "exchange",
-      "slot": 472557994,
+      "word": "royal",
+      "slot": 473025108,
       "source": "blockhash"
     },
     {
-      "word": "rule",
-      "slot": 472557994,
+      "word": "scheme",
+      "slot": 473025108,
       "source": "previousBlockhash"
     },
     {
-      "word": "battle",
-      "slot": 472557994,
+      "word": "roast",
+      "slot": 473025108,
       "source": "transaction"
     },
     {
-      "word": "turn",
-      "slot": 472539994,
+      "word": "neck",
+      "slot": 473007108,
       "source": "blockhash"
     },
     {
-      "word": "artwork",
-      "slot": 472539994,
+      "word": "churn",
+      "slot": 473007108,
       "source": "previousBlockhash"
     },
     {
-      "word": "pig",
-      "slot": 472539994,
+      "word": "hotel",
+      "slot": 473007108,
       "source": "transaction"
     },
     {
-      "word": "online",
-      "slot": 472521994,
+      "word": "during",
+      "slot": 472989108,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n2w2qsxhlk2d",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
