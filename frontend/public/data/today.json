@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "poem": {
-    "content": "In summer's heat, where vibrant streets thrive\nA royal scheme unfolds, a spectacle alive\nThe parrot perches high, a splash of colors bright\nAs drumbeats echo through the night\n\nA doorman greets you warm, by the hotel's lamp aglow\nA welcoming smile, to guide you where to go\nBut in the diet of excess, some find a popular fate\nA world where more is never enough, an endless, hollow weight\n\nDuring these warm and languid nights, the roast of stories shared\nOf dreams unmet and chances dared, a whispered air\nIt's hard to have a heart of stone, amidst the festive cheer\nBut I've seen the neck that holds the weight of what's to fear\n\nA dose of reality, a bitter pill to swallow whole\nA wake-up call to leave the scheme, to take control\nChurn the waters, let the truth arise, and face the test\nOr let the currents sweep you under, and let the darkness rest\n\nIn the summer's heat, where vibrant streets thrive\nI search for answers, a way to break the tie\nTo escape the diet of excess, and find a simpler way to roam\nTo have a heart that beats for more, than just a fleeting fame.",
-    "generatedAt": "2026-11-23T20:37:48.711Z"
+    "content": "In the mountain's shadow, where the air is crisp and thin,\nA lone wolf howls out its lament, a haunting serenade within,\nA cry that echoes through the grain, a sorrow that will spin,\nA tale of loss and longing, forever tied to the wind.\n\nLike a bird set free, I soar on eagle's wings,\nBut my heart remains earthbound, anchored to life's strings,\nThe antenna of my soul, attuned to the unknown,\nReceives whispers of a legend, yet to be sown.\n\nIn the orchard of my dreams, where crystal waters flow,\nI search for answers to the question that I've yet to know,\nA topic of inquiry, one that haunts me every night,\nA mystery that beckons me, with an otherworldly light.\n\nBut to develop the truth, I must own my darkest fears,\nFace the shadows that I've hidden, and wipe away my tears,\nFor only then can I begin to grasp the income of my heart,\nAnd know the value of the love that we must never depart.\n\nIn the circle of life, where birth and death entwine,\nI find a sense of belonging, a connection that's divine,\nA reminder that I'm part of a greater whole, a mystery vast and wide,\nA thread in the intricate web of life, where every strand resides.\n\nSo I'll spin the tale of my journey, a story yet untold,\nOf trials and tribulations, of moments when I was bold,\nFor in the quiet of the mountain, I've discovered a truth profound,\nThat to quit the fear of not knowing, is to find my heart's true sound.",
+    "generatedAt": "2026-11-24T19:44:31.764Z"
   },
   "keywords": [
     {
-      "word": "summer",
-      "slot": 473079108,
+      "word": "own",
+      "slot": 473465989,
       "source": "blockhash"
     },
     {
-      "word": "drum",
-      "slot": 473079108,
+      "word": "mountain",
+      "slot": 473465989,
       "source": "previousBlockhash"
     },
     {
-      "word": "parrot",
-      "slot": 473079108,
+      "word": "bird",
+      "slot": 473465989,
       "source": "transaction"
     },
     {
-      "word": "dose",
-      "slot": 473061108,
+      "word": "wolf",
+      "slot": 473447989,
       "source": "blockhash"
     },
     {
-      "word": "thrive",
-      "slot": 473061108,
+      "word": "spin",
+      "slot": 473447989,
       "source": "previousBlockhash"
     },
     {
-      "word": "have",
-      "slot": 473061108,
+      "word": "legend",
+      "slot": 473447989,
       "source": "transaction"
     },
     {
-      "word": "lamp",
-      "slot": 473043108,
+      "word": "grain",
+      "slot": 473429989,
       "source": "blockhash"
     },
     {
-      "word": "diet",
-      "slot": 473043108,
+      "word": "develop",
+      "slot": 473429989,
       "source": "previousBlockhash"
     },
     {
-      "word": "popular",
-      "slot": 473043108,
+      "word": "inquiry",
+      "slot": 473429989,
       "source": "transaction"
     },
     {
-      "word": "royal",
-      "slot": 473025108,
+      "word": "antenna",
+      "slot": 473411989,
       "source": "blockhash"
     },
     {
-      "word": "scheme",
-      "slot": 473025108,
+      "word": "topic",
+      "slot": 473411989,
       "source": "previousBlockhash"
     },
     {
-      "word": "roast",
-      "slot": 473025108,
+      "word": "crystal",
+      "slot": 473411989,
       "source": "transaction"
     },
     {
-      "word": "neck",
-      "slot": 473007108,
+      "word": "orchard",
+      "slot": 473393989,
       "source": "blockhash"
     },
     {
-      "word": "churn",
-      "slot": 473007108,
+      "word": "income",
+      "slot": 473393989,
       "source": "previousBlockhash"
     },
     {
-      "word": "hotel",
-      "slot": 473007108,
+      "word": "circle",
+      "slot": 473393989,
       "source": "transaction"
     },
     {
-      "word": "during",
-      "slot": 472989108,
+      "word": "quit",
+      "slot": 473375989,
       "source": "blockhash"
     }
   ],
-  "blueskyUri": null,
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n33fs6eksd2n",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
