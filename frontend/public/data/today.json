@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "poem": {
-    "content": "In the mountain's shadow, where the air is crisp and thin,\nA lone wolf howls out its lament, a haunting serenade within,\nA cry that echoes through the grain, a sorrow that will spin,\nA tale of loss and longing, forever tied to the wind.\n\nLike a bird set free, I soar on eagle's wings,\nBut my heart remains earthbound, anchored to life's strings,\nThe antenna of my soul, attuned to the unknown,\nReceives whispers of a legend, yet to be sown.\n\nIn the orchard of my dreams, where crystal waters flow,\nI search for answers to the question that I've yet to know,\nA topic of inquiry, one that haunts me every night,\nA mystery that beckons me, with an otherworldly light.\n\nBut to develop the truth, I must own my darkest fears,\nFace the shadows that I've hidden, and wipe away my tears,\nFor only then can I begin to grasp the income of my heart,\nAnd know the value of the love that we must never depart.\n\nIn the circle of life, where birth and death entwine,\nI find a sense of belonging, a connection that's divine,\nA reminder that I'm part of a greater whole, a mystery vast and wide,\nA thread in the intricate web of life, where every strand resides.\n\nSo I'll spin the tale of my journey, a story yet untold,\nOf trials and tribulations, of moments when I was bold,\nFor in the quiet of the mountain, I've discovered a truth profound,\nThat to quit the fear of not knowing, is to find my heart's true sound.",
-    "generatedAt": "2026-11-24T19:44:31.764Z"
+    "content": "In orient sun, where Solana's light does shine,\nA path unwinds, where dreams and hope entwine.\nIt's here we find our loyal hearts at play,\nDancing with the wind, on a sunny day.\n\nLike a hybrid rose, our souls are made of two,\nOne part earthy, one part pure and true.\nWe inherit strength, from those who've come before,\nAnd from the trials we've faced, on the path we explore.\n\nWhen life's great map, like a maple leaf turns gold,\nWe'll stand as elite, our stories yet untold.\nIn a world of avocado hearts, we'll make our way,\nThrough valleys of beef, where shadows dance and sway.\n\nBut on this path, we'll find our inner peace,\nA stable home, where love and joy increase.\nHere we'll build bridges, that forever will stand,\nBetween the worlds we know, and the ones yet to hand.\n\nWe'll walk the fun, winding roads, with steps so light,\nLeaving the weights of yesterday, in the night.\nFor when we choose to obey, our heart's great call,\nWe become the map, that guides us through it all.\n\nAnd when the winds of change, come whipping by,\nWe'll cling to the stable heart, that beats inside us high.\nIn this orient east, where Solana's light does shine,\nWe'll find our loyal path, forever intertwined.",
+    "generatedAt": "2026-11-25T18:51:52.555Z"
   },
   "keywords": [
     {
-      "word": "own",
-      "slot": 473465989,
+      "word": "describe",
+      "slot": 473853257,
       "source": "blockhash"
     },
     {
-      "word": "mountain",
-      "slot": 473465989,
+      "word": "avocado",
+      "slot": 473853257,
       "source": "previousBlockhash"
     },
     {
-      "word": "bird",
-      "slot": 473465989,
+      "word": "inherit",
+      "slot": 473853257,
       "source": "transaction"
     },
     {
-      "word": "wolf",
-      "slot": 473447989,
+      "word": "fun",
+      "slot": 473835257,
       "source": "blockhash"
     },
     {
-      "word": "spin",
-      "slot": 473447989,
+      "word": "loyal",
+      "slot": 473835257,
       "source": "previousBlockhash"
     },
     {
-      "word": "legend",
-      "slot": 473447989,
+      "word": "path",
+      "slot": 473835257,
       "source": "transaction"
     },
     {
-      "word": "grain",
-      "slot": 473429989,
+      "word": "maple",
+      "slot": 473817257,
       "source": "blockhash"
     },
     {
-      "word": "develop",
-      "slot": 473429989,
+      "word": "elite",
+      "slot": 473817257,
       "source": "previousBlockhash"
     },
     {
-      "word": "inquiry",
-      "slot": 473429989,
-      "source": "transaction"
-    },
-    {
-      "word": "antenna",
-      "slot": 473411989,
+      "word": "beef",
+      "slot": 473799257,
       "source": "blockhash"
     },
     {
-      "word": "topic",
-      "slot": 473411989,
+      "word": "orient",
+      "slot": 473799257,
       "source": "previousBlockhash"
     },
     {
-      "word": "crystal",
-      "slot": 473411989,
+      "word": "when",
+      "slot": 473799257,
       "source": "transaction"
     },
     {
-      "word": "orchard",
-      "slot": 473393989,
+      "word": "obey",
+      "slot": 473781257,
       "source": "blockhash"
     },
     {
-      "word": "income",
-      "slot": 473393989,
+      "word": "hybrid",
+      "slot": 473781257,
       "source": "previousBlockhash"
     },
     {
-      "word": "circle",
-      "slot": 473393989,
+      "word": "dance",
+      "slot": 473781257,
       "source": "transaction"
     },
     {
-      "word": "quit",
-      "slot": 473375989,
+      "word": "build",
+      "slot": 473763257,
       "source": "blockhash"
+    },
+    {
+      "word": "stable",
+      "slot": 473763257,
+      "source": "previousBlockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n33fs6eksd2n",
+  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n35tcxfv2n2y",
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8
