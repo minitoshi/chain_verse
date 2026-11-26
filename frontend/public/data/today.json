@@ -1,92 +1,92 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "poem": {
-    "content": "In orient sun, where Solana's light does shine,\nA path unwinds, where dreams and hope entwine.\nIt's here we find our loyal hearts at play,\nDancing with the wind, on a sunny day.\n\nLike a hybrid rose, our souls are made of two,\nOne part earthy, one part pure and true.\nWe inherit strength, from those who've come before,\nAnd from the trials we've faced, on the path we explore.\n\nWhen life's great map, like a maple leaf turns gold,\nWe'll stand as elite, our stories yet untold.\nIn a world of avocado hearts, we'll make our way,\nThrough valleys of beef, where shadows dance and sway.\n\nBut on this path, we'll find our inner peace,\nA stable home, where love and joy increase.\nHere we'll build bridges, that forever will stand,\nBetween the worlds we know, and the ones yet to hand.\n\nWe'll walk the fun, winding roads, with steps so light,\nLeaving the weights of yesterday, in the night.\nFor when we choose to obey, our heart's great call,\nWe become the map, that guides us through it all.\n\nAnd when the winds of change, come whipping by,\nWe'll cling to the stable heart, that beats inside us high.\nIn this orient east, where Solana's light does shine,\nWe'll find our loyal path, forever intertwined.",
-    "generatedAt": "2026-11-25T18:51:52.555Z"
+    "content": "In the dawn of a new day's rise\nA buddy stands beside, a steadfast guise\nThe world awakens from a dusty sleep\nAs the water's soothing melody begins to creep\n\nAmidst the whispering winds and morning dew\nI find myself with a burden, a weight anew\nA Latin phrase echoes in my mind's ear\n\"Astra descendit, lux emergit\" - Star falls, light appears\n\nWith each step forward, the path narrows still\nAs if the universe itself would test one's will\nBut I press on, through trials and strife\nFor in the face of darkness, I find a glimmer of life\n\nI collect the shards of shattered dreams\nAnd weave them into a tapestry of themes\nA soup of emotions, a mix of pain and cheer\nA reminder that the price of growth is always near\n\nIn this vast galaxy, where stars and planets spin\nI feel a sense of restlessness, a need to enlist within\nA quest to rise above the dust and din\nTo find a home, a sense of belonging where I can begin\n\nThe dice are cast, the universe decides\nAnd I stand firm, with heart and soul as my guide\nAlmost within reach, a shining light ahead\nBut the journey's far from over, the burdens still unsaid.",
+    "generatedAt": "2026-11-26T18:40:51.558Z"
   },
   "keywords": [
     {
-      "word": "describe",
-      "slot": 473853257,
+      "word": "dawn",
+      "slot": 474251883,
       "source": "blockhash"
     },
     {
-      "word": "avocado",
-      "slot": 473853257,
+      "word": "water",
+      "slot": 474251883,
       "source": "previousBlockhash"
     },
     {
-      "word": "inherit",
-      "slot": 473853257,
+      "word": "dust",
+      "slot": 474251883,
       "source": "transaction"
     },
     {
-      "word": "fun",
-      "slot": 473835257,
+      "word": "one",
+      "slot": 474233883,
       "source": "blockhash"
     },
     {
-      "word": "loyal",
-      "slot": 473835257,
+      "word": "buddy",
+      "slot": 474233883,
       "source": "previousBlockhash"
     },
     {
-      "word": "path",
-      "slot": 473835257,
+      "word": "latin",
+      "slot": 474233883,
       "source": "transaction"
     },
     {
-      "word": "maple",
-      "slot": 473817257,
+      "word": "almost",
+      "slot": 474215883,
       "source": "blockhash"
     },
     {
-      "word": "elite",
-      "slot": 473817257,
+      "word": "narrow",
+      "slot": 474215883,
       "source": "previousBlockhash"
     },
     {
-      "word": "beef",
-      "slot": 473799257,
-      "source": "blockhash"
-    },
-    {
-      "word": "orient",
-      "slot": 473799257,
-      "source": "previousBlockhash"
-    },
-    {
-      "word": "when",
-      "slot": 473799257,
+      "word": "price",
+      "slot": 474215883,
       "source": "transaction"
     },
     {
-      "word": "obey",
-      "slot": 473781257,
+      "word": "galaxy",
+      "slot": 474197883,
       "source": "blockhash"
     },
     {
-      "word": "hybrid",
-      "slot": 473781257,
+      "word": "burden",
+      "slot": 474197883,
       "source": "previousBlockhash"
     },
     {
-      "word": "dance",
-      "slot": 473781257,
+      "word": "ceiling",
+      "slot": 474197883,
       "source": "transaction"
     },
     {
-      "word": "build",
-      "slot": 473763257,
+      "word": "enlist",
+      "slot": 474179883,
       "source": "blockhash"
     },
     {
-      "word": "stable",
-      "slot": 473763257,
+      "word": "dice",
+      "slot": 474179883,
       "source": "previousBlockhash"
+    },
+    {
+      "word": "collect",
+      "slot": 474179883,
+      "source": "transaction"
+    },
+    {
+      "word": "soup",
+      "slot": 474161883,
+      "source": "blockhash"
     }
   ],
-  "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3n35tcxfv2n2y",
+  "blueskyUri": null,
   "poemReady": true,
   "keywordsCollected": 16,
   "keywordsNeeded": 8

@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-26",
+    "poem": {
+      "content": "In the dawn of a new day's rise\nA buddy stands beside, a steadfast guise\nThe world awakens from a dusty sleep\nAs the water's soothing melody begins to creep\n\nAmidst the whispering winds and morning dew\nI find myself with a burden, a weight anew\nA Latin phrase echoes in my mind's ear\n\"Astra descendit, lux emergit\" - Star falls, light appears\n\nWith each step forward, the path narrows still\nAs if the universe itself would test one's will\nBut I press on, through trials and strife\nFor in the face of darkness, I find a glimmer of life\n\nI collect the shards of shattered dreams\nAnd weave them into a tapestry of themes\nA soup of emotions, a mix of pain and cheer\nA reminder that the price of growth is always near\n\nIn this vast galaxy, where stars and planets spin\nI feel a sense of restlessness, a need to enlist within\nA quest to rise above the dust and din\nTo find a home, a sense of belonging where I can begin\n\nThe dice are cast, the universe decides\nAnd I stand firm, with heart and soul as my guide\nAlmost within reach, a shining light ahead\nBut the journey's far from over, the burdens still unsaid.",
+      "generatedAt": "2026-11-26T18:40:51.558Z"
+    },
+    "keywords": [
+      {
+        "word": "dawn",
+        "slot": 474251883,
+        "source": "blockhash"
+      },
+      {
+        "word": "water",
+        "slot": 474251883,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "dust",
+        "slot": 474251883,
+        "source": "transaction"
+      },
+      {
+        "word": "one",
+        "slot": 474233883,
+        "source": "blockhash"
+      },
+      {
+        "word": "buddy",
+        "slot": 474233883,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "latin",
+        "slot": 474233883,
+        "source": "transaction"
+      },
+      {
+        "word": "almost",
+        "slot": 474215883,
+        "source": "blockhash"
+      },
+      {
+        "word": "narrow",
+        "slot": 474215883,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "price",
+        "slot": 474215883,
+        "source": "transaction"
+      },
+      {
+        "word": "galaxy",
+        "slot": 474197883,
+        "source": "blockhash"
+      },
+      {
+        "word": "burden",
+        "slot": 474197883,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "ceiling",
+        "slot": 474197883,
+        "source": "transaction"
+      },
+      {
+        "word": "enlist",
+        "slot": 474179883,
+        "source": "blockhash"
+      },
+      {
+        "word": "dice",
+        "slot": 474179883,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "collect",
+        "slot": 474179883,
+        "source": "transaction"
+      },
+      {
+        "word": "soup",
+        "slot": 474161883,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-25",
     "poem": {
       "content": "In orient sun, where Solana's light does shine,\nA path unwinds, where dreams and hope entwine.\nIt's here we find our loyal hearts at play,\nDancing with the wind, on a sunny day.\n\nLike a hybrid rose, our souls are made of two,\nOne part earthy, one part pure and true.\nWe inherit strength, from those who've come before,\nAnd from the trials we've faced, on the path we explore.\n\nWhen life's great map, like a maple leaf turns gold,\nWe'll stand as elite, our stories yet untold.\nIn a world of avocado hearts, we'll make our way,\nThrough valleys of beef, where shadows dance and sway.\n\nBut on this path, we'll find our inner peace,\nA stable home, where love and joy increase.\nHere we'll build bridges, that forever will stand,\nBetween the worlds we know, and the ones yet to hand.\n\nWe'll walk the fun, winding roads, with steps so light,\nLeaving the weights of yesterday, in the night.\nFor when we choose to obey, our heart's great call,\nWe become the map, that guides us through it all.\n\nAnd when the winds of change, come whipping by,\nWe'll cling to the stable heart, that beats inside us high.\nIn this orient east, where Solana's light does shine,\nWe'll find our loyal path, forever intertwined.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myx32rg5bx2z",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-27",
-    "poem": {
-      "content": "In the once-green fields of youth, where celery swayed,\nA twin brotherhood of dreams did gently play.\nTheir laughter echoed, a joyful, easy sound,\nAs they danced with olive branches, unbound.\n\nBut poverty crept, a shadow, dark and gray,\nDestroying hope, and stealing the day.\nIt brought a vapor, a chill, that wouldn't cease,\nLeaving only sorrow, and a hollow peace.\n\nYet, from the ashes, a strong voice did rise,\nA call to rescue, to lift the hopeless eyes.\nA fence of resilience, built from the past,\nProtected the vulnerable, and stood to last.\n\nAll around, the world began to float,\nAs the tide of change, began to slowly boat.\nThe fence of strength, stood firm and tall,\nA beacon of hope, for one and for all.\n\nBut as the years went by, and the youth did grow,\nTheir hearts remained open, their spirits aglow.\nThey reached for the olive branch, with ease and with might,\nAnd brought forth a new dawn, in the dark of night.\n\nTheir once-fractured world, began to close its gaps,\nAs the twin brothers, of hope and love, did wrap.\nThe world around them, began to easily see,\nThe beauty in the broken, the strength in the weak, the key.\n\nIn this world of wonder, where the strong do stand,\nThe twin brothers of hope, hold hands, hand in hand.\nTheir hearts now full, their spirits now free,\nThey dance with celery, wild and carefree.",
-      "generatedAt": "2026-10-27T14:57:30.194Z"
-    },
-    "keywords": [
-      {
-        "word": "once",
-        "slot": 462112463,
-        "source": "blockhash"
-      },
-      {
-        "word": "bring",
-        "slot": 462112463,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "celery",
-        "slot": 462112463,
-        "source": "transaction"
-      },
-      {
-        "word": "poverty",
-        "slot": 462094463,
-        "source": "blockhash"
-      },
-      {
-        "word": "destroy",
-        "slot": 462094463,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "vapor",
-        "slot": 462094463,
-        "source": "transaction"
-      },
-      {
-        "word": "easily",
-        "slot": 462076463,
-        "source": "blockhash"
-      },
-      {
-        "word": "all",
-        "slot": 462076463,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "fence",
-        "slot": 462076463,
-        "source": "transaction"
-      },
-      {
-        "word": "float",
-        "slot": 462058463,
-        "source": "blockhash"
-      },
-      {
-        "word": "olive",
-        "slot": 462058463,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "youth",
-        "slot": 462058463,
-        "source": "transaction"
-      },
-      {
-        "word": "rescue",
-        "slot": 462040463,
-        "source": "blockhash"
-      },
-      {
-        "word": "close",
-        "slot": 462040463,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "strong",
-        "slot": 462040463,
-        "source": "transaction"
-      },
-      {
-        "word": "twin",
-        "slot": 462022463,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myuip66aep2z",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8
