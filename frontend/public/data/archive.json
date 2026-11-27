@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-11-27",
+    "poem": {
+      "content": "In crypto's dark past, a tragic tale unfold\nOf cattle ranchers, who gambled with gold\nTheir private herds, traded on a virtual field\nWhere smart investors, with each punch, yield\n\nTheir fortunes rose, as the image took hold\nA tuna of wealth, in waters yet untold\nBut beneath the surface, a drama did brew\nAs young traders, with wild hearts, took the view\n\nTheir vivid dreams, of cryptocurrency's might\n Led them to invest, with all their sight\nBut the market's punch, came with a bitter taste\nLeaving them with regret, and a private waste\n\nTheir picture perfect, was now a tragic sight\nTheir cattle, once strong, now lost in the night\nTheir kit, once sharp, now dull and gray\nAs the truth dawned, they'd been led astray\n\nIn this post-apocalyptic, virtual land\nTheir animals, once tame, now ran amok, hand in hand\nWith the black market's, sinister, hidden sway\nTheir once bright future, now faded away\n\nThe smart money, had run, with every pace\nLeaving the young, to face the dark, lonely space\nTheir tuna of wealth, now nothing but a distant dream\nA tragic reminder, of their crypto scheme",
+      "generatedAt": "2026-11-27T18:30:19.772Z"
+    },
+    "keywords": [
+      {
+        "word": "cattle",
+        "slot": 474651195,
+        "source": "blockhash"
+      },
+      {
+        "word": "tragic",
+        "slot": 474651195,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "young",
+        "slot": 474651195,
+        "source": "transaction"
+      },
+      {
+        "word": "post",
+        "slot": 474633195,
+        "source": "blockhash"
+      },
+      {
+        "word": "black",
+        "slot": 474633195,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "punch",
+        "slot": 474633195,
+        "source": "transaction"
+      },
+      {
+        "word": "image",
+        "slot": 474615195,
+        "source": "blockhash"
+      },
+      {
+        "word": "smart",
+        "slot": 474615195,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "kit",
+        "slot": 474615195,
+        "source": "transaction"
+      },
+      {
+        "word": "private",
+        "slot": 474597195,
+        "source": "blockhash"
+      },
+      {
+        "word": "tuna",
+        "slot": 474597195,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "drama",
+        "slot": 474597195,
+        "source": "transaction"
+      },
+      {
+        "word": "picture",
+        "slot": 474579195,
+        "source": "blockhash"
+      },
+      {
+        "word": "animal",
+        "slot": 474579195,
+        "source": "previousBlockhash"
+      },
+      {
+        "word": "regret",
+        "slot": 474579195,
+        "source": "transaction"
+      },
+      {
+        "word": "vivid",
+        "slot": 474561195,
+        "source": "blockhash"
+      }
+    ],
+    "blueskyUri": null,
+    "poemReady": true,
+    "keywordsCollected": 16,
+    "keywordsNeeded": 8
+  },
+  {
     "date": "2026-11-26",
     "poem": {
       "content": "In the dawn of a new day's rise\nA buddy stands beside, a steadfast guise\nThe world awakens from a dusty sleep\nAs the water's soothing melody begins to creep\n\nAmidst the whispering winds and morning dew\nI find myself with a burden, a weight anew\nA Latin phrase echoes in my mind's ear\n\"Astra descendit, lux emergit\" - Star falls, light appears\n\nWith each step forward, the path narrows still\nAs if the universe itself would test one's will\nBut I press on, through trials and strife\nFor in the face of darkness, I find a glimmer of life\n\nI collect the shards of shattered dreams\nAnd weave them into a tapestry of themes\nA soup of emotions, a mix of pain and cheer\nA reminder that the price of growth is always near\n\nIn this vast galaxy, where stars and planets spin\nI feel a sense of restlessness, a need to enlist within\nA quest to rise above the dust and din\nTo find a home, a sense of belonging where I can begin\n\nThe dice are cast, the universe decides\nAnd I stand firm, with heart and soul as my guide\nAlmost within reach, a shining light ahead\nBut the journey's far from over, the burdens still unsaid.",
@@ -2692,99 +2785,6 @@
       }
     ],
     "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myzlzgdpcs2p",
-    "poemReady": true,
-    "keywordsCollected": 16,
-    "keywordsNeeded": 8
-  },
-  {
-    "date": "2026-10-28",
-    "poem": {
-      "content": "In the heart of the forest, a maid of the night\nDances with shadows, a whispered delight\nShe oblige the moon, a silver crescent smile\nAs the wind stirs the leaves, a gentle, lulling trial\n\nA bomb of silence falls, a quiet hush descends\nThe topic of the night, a mystery that never ends\nA cat purrs softly, a tiny, furry heart\nAs the fatigue of the day, slowly starts to depart\n\nA quiz of the soul, a test of the heart\nA snake slithers through, a path that's never apart\nFrom the rib of the tree, a branch that's strong and free\nA dolphin leaps in the distance, a splash of pure glee\n\nThe flavor of the night, a sweetness that's found\nIn the napkin of the wind, a gentle, soothing sound\nA panda stirs in its sleep, a peaceful, quiet repose\nAs the bird takes flight, a song that echoes through the trees\n\nIn the book of the universe, a story is told\nOf a world that's full of wonder, a magic that's yet to unfold\nA reminder to forget, the worries of the day\nAnd let the beauty of the night, guide us on our way.",
-      "generatedAt": "2026-10-28T15:31:25.544Z"
-    },
-    "keywords": [
-      {
-        "word": "maid",
-        "slot": 462527686,
-        "source": "blockhash"
-      },
-      {
-        "word": "oblige",
-        "slot": 462527686,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "bomb",
-        "slot": 462527686,
-        "source": "transaction"
-      },
-      {
-        "word": "topic",
-        "slot": 462509686,
-        "source": "blockhash"
-      },
-      {
-        "word": "cat",
-        "slot": 462509686,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "fatigue",
-        "slot": 462509686,
-        "source": "transaction"
-      },
-      {
-        "word": "quiz",
-        "slot": 462491686,
-        "source": "blockhash"
-      },
-      {
-        "word": "snake",
-        "slot": 462491686,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "forget",
-        "slot": 462491686,
-        "source": "transaction"
-      },
-      {
-        "word": "flavor",
-        "slot": 462473686,
-        "source": "blockhash"
-      },
-      {
-        "word": "napkin",
-        "slot": 462473686,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "panda",
-        "slot": 462473686,
-        "source": "transaction"
-      },
-      {
-        "word": "bird",
-        "slot": 462455686,
-        "source": "blockhash"
-      },
-      {
-        "word": "rib",
-        "slot": 462455686,
-        "source": "previousBlockhash"
-      },
-      {
-        "word": "dolphin",
-        "slot": 462455686,
-        "source": "transaction"
-      },
-      {
-        "word": "book",
-        "slot": 462437686,
-        "source": "blockhash"
-      }
-    ],
-    "blueskyUri": "at://did:plc:mthilq5pqykwxgxgvy5ixnnp/app.bsky.feed.post/3myx32rg5bx2z",
     "poemReady": true,
     "keywordsCollected": 16,
     "keywordsNeeded": 8

@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "poem": {
-    "content": "In the dawn of a new day's rise\nA buddy stands beside, a steadfast guise\nThe world awakens from a dusty sleep\nAs the water's soothing melody begins to creep\n\nAmidst the whispering winds and morning dew\nI find myself with a burden, a weight anew\nA Latin phrase echoes in my mind's ear\n\"Astra descendit, lux emergit\" - Star falls, light appears\n\nWith each step forward, the path narrows still\nAs if the universe itself would test one's will\nBut I press on, through trials and strife\nFor in the face of darkness, I find a glimmer of life\n\nI collect the shards of shattered dreams\nAnd weave them into a tapestry of themes\nA soup of emotions, a mix of pain and cheer\nA reminder that the price of growth is always near\n\nIn this vast galaxy, where stars and planets spin\nI feel a sense of restlessness, a need to enlist within\nA quest to rise above the dust and din\nTo find a home, a sense of belonging where I can begin\n\nThe dice are cast, the universe decides\nAnd I stand firm, with heart and soul as my guide\nAlmost within reach, a shining light ahead\nBut the journey's far from over, the burdens still unsaid.",
-    "generatedAt": "2026-11-26T18:40:51.558Z"
+    "content": "In crypto's dark past, a tragic tale unfold\nOf cattle ranchers, who gambled with gold\nTheir private herds, traded on a virtual field\nWhere smart investors, with each punch, yield\n\nTheir fortunes rose, as the image took hold\nA tuna of wealth, in waters yet untold\nBut beneath the surface, a drama did brew\nAs young traders, with wild hearts, took the view\n\nTheir vivid dreams, of cryptocurrency's might\n Led them to invest, with all their sight\nBut the market's punch, came with a bitter taste\nLeaving them with regret, and a private waste\n\nTheir picture perfect, was now a tragic sight\nTheir cattle, once strong, now lost in the night\nTheir kit, once sharp, now dull and gray\nAs the truth dawned, they'd been led astray\n\nIn this post-apocalyptic, virtual land\nTheir animals, once tame, now ran amok, hand in hand\nWith the black market's, sinister, hidden sway\nTheir once bright future, now faded away\n\nThe smart money, had run, with every pace\nLeaving the young, to face the dark, lonely space\nTheir tuna of wealth, now nothing but a distant dream\nA tragic reminder, of their crypto scheme",
+    "generatedAt": "2026-11-27T18:30:19.772Z"
   },
   "keywords": [
     {
-      "word": "dawn",
-      "slot": 474251883,
+      "word": "cattle",
+      "slot": 474651195,
       "source": "blockhash"
     },
     {
-      "word": "water",
-      "slot": 474251883,
+      "word": "tragic",
+      "slot": 474651195,
       "source": "previousBlockhash"
     },
     {
-      "word": "dust",
-      "slot": 474251883,
+      "word": "young",
+      "slot": 474651195,
       "source": "transaction"
     },
     {
-      "word": "one",
-      "slot": 474233883,
+      "word": "post",
+      "slot": 474633195,
       "source": "blockhash"
     },
     {
-      "word": "buddy",
-      "slot": 474233883,
+      "word": "black",
+      "slot": 474633195,
       "source": "previousBlockhash"
     },
     {
-      "word": "latin",
-      "slot": 474233883,
+      "word": "punch",
+      "slot": 474633195,
       "source": "transaction"
     },
     {
-      "word": "almost",
-      "slot": 474215883,
+      "word": "image",
+      "slot": 474615195,
       "source": "blockhash"
     },
     {
-      "word": "narrow",
-      "slot": 474215883,
+      "word": "smart",
+      "slot": 474615195,
       "source": "previousBlockhash"
     },
     {
-      "word": "price",
-      "slot": 474215883,
+      "word": "kit",
+      "slot": 474615195,
       "source": "transaction"
     },
     {
-      "word": "galaxy",
-      "slot": 474197883,
+      "word": "private",
+      "slot": 474597195,
       "source": "blockhash"
     },
     {
-      "word": "burden",
-      "slot": 474197883,
+      "word": "tuna",
+      "slot": 474597195,
       "source": "previousBlockhash"
     },
     {
-      "word": "ceiling",
-      "slot": 474197883,
+      "word": "drama",
+      "slot": 474597195,
       "source": "transaction"
     },
     {
-      "word": "enlist",
-      "slot": 474179883,
+      "word": "picture",
+      "slot": 474579195,
       "source": "blockhash"
     },
     {
-      "word": "dice",
-      "slot": 474179883,
+      "word": "animal",
+      "slot": 474579195,
       "source": "previousBlockhash"
     },
     {
-      "word": "collect",
-      "slot": 474179883,
+      "word": "regret",
+      "slot": 474579195,
       "source": "transaction"
     },
     {
-      "word": "soup",
-      "slot": 474161883,
+      "word": "vivid",
+      "slot": 474561195,
       "source": "blockhash"
     }
   ],
